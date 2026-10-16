@@ -63,10 +63,10 @@ class ArchiveRequestHandler(BaseHTTPRequestHandler):
             self.send_file(WEB_DIR / "index.html")
             return
 
-        if path.startswith("/media/"):
+        if path.startswith("/media/") or path.startswith("/data/"):
             rel = path.lstrip("/")
             target = (ROOT_DIR / rel).resolve()
-            if MEDIA_DIR.resolve() in target.parents:
+            if MEDIA_DIR.resolve() in target.parents or (ROOT_DIR / "data").resolve() in target.parents:
                 self.send_file(target)
                 return
             self.send_error(403, "Forbidden")
