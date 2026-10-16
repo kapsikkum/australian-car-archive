@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <title>Australian Automotive Archive — Makes, Models, Engines, Badges & Manuals</title>
   <style>
     :root {
@@ -18,59 +18,92 @@
       --accent-blue: #3b82f6;
       --accent-red: #ef4444;
     }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.5;
+      overflow-x: hidden;
     }
     header {
       background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
       border-bottom: 1px solid var(--border);
-      padding: 1rem 1.75rem;
+      padding: 0.9rem 1.5rem;
       position: sticky;
       top: 0;
-      z-index: 50;
+      z-index: 60;
     }
     .header-top {
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
       align-items: center;
-      gap: 1rem;
+      gap: 0.75rem;
+    }
+    .brand-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      gap: 0.75rem;
+    }
+    @media (min-width: 901px) {
+      .brand-row { width: auto; }
     }
     .brand-title {
       display: flex;
       align-items: center;
-      gap: 0.75rem;
+      gap: 0.65rem;
       cursor: pointer;
     }
     .brand-badge {
       background: var(--accent);
       color: #000;
       font-weight: 800;
-      padding: 0.3rem 0.65rem;
+      padding: 0.28rem 0.6rem;
       border-radius: 6px;
-      font-size: 0.85rem;
+      font-size: 0.8rem;
       letter-spacing: 0.05em;
+      white-space: nowrap;
     }
     .brand-title h1 {
-      font-size: 1.25rem;
+      font-size: 1.2rem;
       font-weight: 700;
+      line-height: 1.2;
+    }
+    .mobile-drawer-btn {
+      display: none;
+      background: var(--bg-card);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      padding: 0.45rem 0.75rem;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 0.85rem;
+      cursor: pointer;
+      white-space: nowrap;
     }
     .stats-bar {
       display: flex;
-      flex-wrap: wrap;
-      gap: 0.65rem;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      gap: 0.5rem;
+      padding-bottom: 0.2rem;
+      max-width: 100%;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
     }
+    .stats-bar::-webkit-scrollbar { display: none; }
     .stat-pill {
       background: rgba(255,255,255,0.05);
       border: 1px solid var(--border);
-      padding: 0.3rem 0.7rem;
+      padding: 0.25rem 0.65rem;
       border-radius: 999px;
-      font-size: 0.8rem;
+      font-size: 0.76rem;
       color: var(--text-muted);
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .stat-pill strong {
       color: var(--accent);
@@ -80,20 +113,31 @@
     .nav-controls {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.75rem;
-      margin-top: 0.9rem;
+      gap: 0.6rem;
+      margin-top: 0.75rem;
       align-items: center;
     }
+    .nav-buttons-group {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      max-width: 100%;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+    .nav-buttons-group::-webkit-scrollbar { display: none; }
     .nav-btn {
       background: var(--bg-card);
       color: var(--text);
       border: 1px solid var(--border);
-      padding: 0.5rem 1rem;
+      padding: 0.5rem 0.9rem;
       border-radius: 8px;
       cursor: pointer;
       font-weight: 600;
-      font-size: 0.88rem;
+      font-size: 0.85rem;
       transition: all 0.15s;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .nav-btn:hover, .nav-btn.active {
       background: var(--accent);
@@ -102,7 +146,7 @@
     }
     .search-box {
       flex: 1;
-      min-width: 260px;
+      min-width: 240px;
       display: flex;
       gap: 0.5rem;
     }
@@ -111,9 +155,9 @@
       background: var(--bg);
       border: 1px solid var(--border);
       color: var(--text);
-      padding: 0.55rem 0.9rem;
+      padding: 0.55rem 0.85rem;
       border-radius: 8px;
-      font-size: 0.9rem;
+      font-size: 16px; /* Prevents iOS auto-zoom on focus */
     }
     .search-box input:focus {
       outline: none;
@@ -124,9 +168,6 @@
       grid-template-columns: 290px 1fr;
       min-height: calc(100vh - 115px);
     }
-    @media (max-width: 960px) {
-      .layout { grid-template-columns: 1fr; }
-    }
     aside {
       background: var(--bg-panel);
       border-right: 1px solid var(--border);
@@ -135,6 +176,25 @@
       max-height: calc(100vh - 115px);
       position: sticky;
       top: 115px;
+      z-index: 70;
+    }
+    .drawer-header {
+      display: none;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .drawer-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: 65;
+    }
+    .drawer-backdrop.open {
+      display: block;
     }
     .sidebar-filter {
       margin-bottom: 0.75rem;
@@ -146,18 +206,18 @@
       background: var(--bg-card);
       border: 1px solid var(--border);
       color: var(--text);
-      padding: 0.45rem 0.65rem;
+      padding: 0.5rem 0.65rem;
       border-radius: 6px;
-      font-size: 0.85rem;
+      font-size: 16px;
     }
     .make-item {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0.5rem 0.65rem;
+      padding: 0.55rem 0.65rem;
       border-radius: 6px;
       cursor: pointer;
-      font-size: 0.88rem;
+      font-size: 0.9rem;
       margin-bottom: 0.2rem;
       border: 1px solid transparent;
     }
@@ -176,11 +236,12 @@
       align-items: center;
     }
     .tag {
-      font-size: 0.7rem;
-      padding: 0.12rem 0.45rem;
+      font-size: 0.72rem;
+      padding: 0.15rem 0.48rem;
       border-radius: 4px;
       background: rgba(255,255,255,0.08);
       color: var(--text-muted);
+      display: inline-block;
     }
     .tag.au {
       background: rgba(16, 185, 129, 0.18);
@@ -195,6 +256,7 @@
     main {
       padding: 1.5rem 2rem;
       overflow-x: hidden;
+      min-width: 0;
     }
     .section-header {
       margin-bottom: 1.25rem;
@@ -202,13 +264,14 @@
       padding-bottom: 0.85rem;
     }
     .section-header h2 {
-      font-size: 1.6rem;
+      font-size: 1.5rem;
       margin-bottom: 0.35rem;
+      line-height: 1.25;
     }
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-      gap: 1.15rem;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 285px), 1fr));
+      gap: 1rem;
     }
     .card {
       background: var(--bg-card);
@@ -226,31 +289,33 @@
     }
     .card-img {
       width: 100%;
-      height: 185px;
+      height: 180px;
       object-fit: cover;
       background: #090d14;
       border-bottom: 1px solid var(--border);
     }
     .card-img-placeholder {
       width: 100%;
-      height: 140px;
+      height: 135px;
       display: flex;
       align-items: center;
       justify-content: center;
+      text-align: center;
+      padding: 0.5rem;
       background: linear-gradient(135deg, #111827, #1f2937);
       color: var(--text-muted);
       font-size: 0.85rem;
       border-bottom: 1px solid var(--border);
     }
     .card-body {
-      padding: 1rem;
+      padding: 0.95rem;
       flex: 1;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
     }
     .card-title {
-      font-size: 1.08rem;
+      font-size: 1.05rem;
       font-weight: 700;
       margin-bottom: 0.25rem;
       display: flex;
@@ -276,24 +341,24 @@
     .card-footer {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.4rem;
+      gap: 0.35rem;
       border-top: 1px solid rgba(255,255,255,0.06);
-      padding-top: 0.65rem;
+      padding-top: 0.6rem;
     }
     .history-box {
       background: var(--bg-card);
       border: 1px solid var(--border);
       border-radius: 10px;
-      padding: 1.25rem;
-      margin-bottom: 1.5rem;
-      font-size: 0.92rem;
+      padding: 1.1rem;
+      margin-bottom: 1.25rem;
+      font-size: 0.9rem;
       color: #cbd5e1;
       white-space: pre-line;
     }
     .gallery-strip {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-      gap: 0.9rem;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr));
+      gap: 0.85rem;
       margin-bottom: 1.5rem;
     }
     .gallery-card {
@@ -304,27 +369,27 @@
     }
     .gallery-card img {
       width: 100%;
-      height: 155px;
+      height: 150px;
       object-fit: cover;
       display: block;
       cursor: zoom-in;
     }
     .gallery-caption {
-      padding: 0.55rem 0.7rem;
+      padding: 0.55rem 0.65rem;
       font-size: 0.76rem;
       color: var(--text-muted);
     }
     .manual-list {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 0.85rem;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+      gap: 0.75rem;
       margin-bottom: 1.5rem;
     }
     .manual-item {
       background: rgba(16, 185, 129, 0.08);
       border: 1px solid rgba(16, 185, 129, 0.35);
       border-radius: 8px;
-      padding: 0.85rem 1rem;
+      padding: 0.8rem 0.9rem;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -336,21 +401,22 @@
       text-decoration: none;
       font-weight: 700;
       font-size: 0.8rem;
-      padding: 0.45rem 0.8rem;
+      padding: 0.5rem 0.85rem;
       border-radius: 6px;
       white-space: nowrap;
+      flex-shrink: 0;
     }
     .gen-block {
       background: var(--bg-card);
       border: 1px solid var(--border);
       border-radius: 10px;
-      padding: 1.25rem;
-      margin-bottom: 1.25rem;
+      padding: 1.1rem;
+      margin-bottom: 1.15rem;
     }
     .gen-title {
       display: flex;
       justify-content: space-between;
-      align-items: center;
+      align-items: flex-start;
       flex-wrap: wrap;
       gap: 0.5rem;
       border-bottom: 1px solid var(--border);
@@ -358,14 +424,19 @@
       margin-bottom: 0.85rem;
     }
     .gen-title h3 {
-      font-size: 1.2rem;
+      font-size: 1.15rem;
       color: var(--accent);
+    }
+    .table-wrap {
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin-top: 0.5rem;
+      margin-bottom: 0.9rem;
     }
     table {
       width: 100%;
       border-collapse: collapse;
-      margin-top: 0.6rem;
-      margin-bottom: 1rem;
       font-size: 0.83rem;
     }
     th, td {
@@ -377,6 +448,7 @@
       background: rgba(255,255,255,0.04);
       color: var(--text-muted);
       font-weight: 600;
+      white-space: nowrap;
     }
     .sub-heading {
       font-size: 0.95rem;
@@ -388,44 +460,187 @@
     .modal {
       position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.88);
+      background: rgba(0,0,0,0.9);
       display: none;
       align-items: center;
       justify-content: center;
       z-index: 200;
-      padding: 2rem;
+      padding: 1rem;
     }
     .modal.open { display: flex; }
     .modal img {
-      max-width: 92vw;
-      max-height: 85vh;
+      max-width: 96vw;
+      max-height: 86vh;
       border-radius: 8px;
       border: 2px solid var(--border);
+    }
+    .mobile-bottom-bar {
+      display: none;
+    }
+
+    /* Phone & Tablet Responsive Rules */
+    @media (max-width: 900px) {
+      header {
+        padding: 0.7rem 0.9rem;
+      }
+      .brand-title h1 {
+        font-size: 0.98rem;
+      }
+      .mobile-drawer-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+      }
+      .layout {
+        grid-template-columns: 1fr;
+      }
+      aside {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: min(86vw, 320px);
+        max-height: 100vh;
+        transform: translateX(-105%);
+        transition: transform 0.22s ease-out;
+        box-shadow: 6px 0 24px rgba(0,0,0,0.6);
+      }
+      aside.open {
+        transform: translateX(0);
+      }
+      .drawer-header {
+        display: flex;
+      }
+      main {
+        padding: 1rem 0.9rem 5rem 0.9rem;
+      }
+      .search-box {
+        width: 100%;
+        min-width: 100%;
+      }
+      .nav-buttons-group {
+        width: 100%;
+      }
+      .mobile-bottom-bar {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(15, 22, 35, 0.96);
+        backdrop-filter: blur(10px);
+        border-top: 1px solid var(--border);
+        padding: 0.45rem 0.6rem;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 55;
+      }
+      .mobile-bottom-bar button {
+        background: transparent;
+        border: none;
+        color: var(--text);
+        font-size: 0.76rem;
+        font-weight: 600;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.15rem;
+        padding: 0.3rem 0.5rem;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+      .mobile-bottom-bar button.highlight {
+        color: var(--accent);
+      }
+    }
+
+    /* Stacked Mobile Cards for Tables on Phones */
+    @media (max-width: 640px) {
+      .gallery-strip {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.6rem;
+      }
+      .gallery-card img {
+        height: 120px;
+      }
+      .section-header h2 {
+        font-size: 1.25rem;
+      }
+      .gen-block {
+        padding: 0.85rem;
+      }
+      table.responsive-table thead {
+        display: none;
+      }
+      table.responsive-table,
+      table.responsive-table tbody,
+      table.responsive-table tr,
+      table.responsive-table td {
+        display: block;
+        width: 100%;
+      }
+      table.responsive-table tr {
+        background: rgba(255,255,255,0.03);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 0.6rem 0.75rem;
+        margin-bottom: 0.65rem;
+      }
+      table.responsive-table td {
+        border-bottom: 1px solid rgba(255,255,255,0.05);
+        padding: 0.35rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 0.75rem;
+        text-align: right;
+      }
+      table.responsive-table td:last-child {
+        border-bottom: none;
+      }
+      table.responsive-table td::before {
+        content: attr(data-label);
+        font-weight: 600;
+        color: var(--text-muted);
+        text-align: left;
+        flex-shrink: 0;
+      }
     }
   </style>
 </head>
 <body>
   <header>
     <div class="header-top">
-      <div class="brand-title" onclick="showFeaturedModels()">
-        <span class="brand-badge">AUS ARCHIVE</span>
-        <h1>Australian Automotive Database & Manual Repository</h1>
+      <div class="brand-row">
+        <div class="brand-title" onclick="showFeaturedModels()">
+          <span class="brand-badge">AUS ARCHIVE</span>
+          <h1>Australian Car Database & Manuals</h1>
+        </div>
+        <button class="mobile-drawer-btn" onclick="toggleMobileDrawer()">☰ 100 Makes</button>
       </div>
       <div class="stats-bar" id="stats-bar">Loading archive metrics...</div>
     </div>
     <div class="nav-controls">
-      <button class="nav-btn active" id="btn-featured" onclick="showFeaturedModels()">Deep-Dive Dossiers</button>
-      <button class="nav-btn" id="btn-all-makes" onclick="showAllMakesGrid()">All 100 Makes</button>
-      <button class="nav-btn" id="btn-engines" onclick="showEnginesExplorer()">Australian Engine Explorer</button>
-      <button class="nav-btn" id="btn-random" onclick="showRandomCar('deep')" style="border-color: var(--accent); color: var(--accent);">🎲 Random Car</button>
+      <div class="nav-buttons-group">
+        <button class="nav-btn active" id="btn-featured" onclick="showFeaturedModels()">Deep-Dive Dossiers</button>
+        <button class="nav-btn" id="btn-all-makes" onclick="showAllMakesGrid()">All 100 Makes</button>
+        <button class="nav-btn" id="btn-engines" onclick="showEnginesExplorer()">Engine Explorer</button>
+        <button class="nav-btn" id="btn-random" onclick="showRandomCar('deep')" style="border-color: var(--accent); color: var(--accent);">🎲 Random Car</button>
+      </div>
       <div class="search-box">
-        <input type="text" id="global-search" placeholder="Search makes, models, series (e.g. VF, BA, N80), engines (Barra, LS3, RB30, Hemi), badges (XU-1, XR6, GXL)..." oninput="debounceSearch(this.value)" />
+        <input type="text" id="global-search" placeholder="Search makes, models, series (VF, BA), engines (Barra, LS3), badges (XU-1, XR6)..." oninput="debounceSearch(this.value)" />
       </div>
     </div>
   </header>
 
+  <div class="drawer-backdrop" id="drawer-backdrop" onclick="closeMobileDrawer()"></div>
+
   <div class="layout">
-    <aside>
+    <aside id="sidebar-drawer">
+      <div class="drawer-header">
+        <strong style="color: var(--accent);">Browse 100 Australian Makes</strong>
+        <button class="nav-btn" onclick="closeMobileDrawer()" style="padding: 0.25rem 0.6rem;">✕ Close</button>
+      </div>
       <div class="sidebar-filter">
         <input type="text" id="make-filter" placeholder="Filter makes..." oninput="renderSidebarMakes()" />
         <select id="make-scope" onchange="renderSidebarMakes()">
@@ -443,39 +658,95 @@
     </main>
   </div>
 
+  <nav class="mobile-bottom-bar">
+    <button onclick="showFeaturedModels()">
+      <span>🚗</span>
+      <span>Dossiers</span>
+    </button>
+    <button onclick="toggleMobileDrawer()">
+      <span>☰</span>
+      <span>100 Makes</span>
+    </button>
+    <button class="highlight" onclick="showRandomCar('deep')">
+      <span>🎲</span>
+      <span>Random Car</span>
+    </button>
+    <button onclick="showEnginesExplorer()">
+      <span>⚙️</span>
+      <span>Engines</span>
+    </button>
+    <button onclick="focusSearch()">
+      <span>🔍</span>
+      <span>Search</span>
+    </button>
+  </nav>
+
   <div class="modal" id="img-modal" onclick="this.classList.remove('open')">
     <img id="modal-img" src="" alt="Preview" />
   </div>
 
   <script>
+    let archiveInit = null;
     let allMakes = [];
+    let makeCache = {};
     let currentMakeSlug = null;
     let searchTimer = null;
 
+    function toggleMobileDrawer() {
+      document.getElementById('sidebar-drawer').classList.toggle('open');
+      document.getElementById('drawer-backdrop').classList.toggle('open');
+    }
+
+    function closeMobileDrawer() {
+      document.getElementById('sidebar-drawer').classList.remove('open');
+      document.getElementById('drawer-backdrop').classList.remove('open');
+    }
+
+    function focusSearch() {
+      closeMobileDrawer();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      const input = document.getElementById('global-search');
+      if (input) input.focus();
+    }
+
     async function init() {
-      await Promise.all([loadStats(), loadMakes()]);
+      const res = await fetch('data/init.json');
+      archiveInit = await res.json();
+      allMakes = archiveInit.makes || [];
+      renderStats(archiveInit.stats);
+      renderSidebarMakes();
+
+      if (window.location.hash && window.location.hash.length > 1) {
+        const parts = window.location.hash.slice(1).split('/');
+        if (parts.length === 2) {
+          await loadModelView(parts[0], parts[1]);
+          return;
+        } else if (parts.length === 1 && parts[0]) {
+          await loadMakeView(parts[0]);
+          return;
+        }
+      }
       showFeaturedModels();
     }
 
-    async function loadStats() {
-      const res = await fetch('/api/stats');
-      const s = await res.json();
+    function renderStats(s) {
       document.getElementById('stats-bar').innerHTML = `
-        <span class="stat-pill"><strong>${s.makes}</strong>Makes (${s.local_makes} AU Builders)</span>
-        <span class="stat-pill"><strong>${s.models}</strong>Models (${s.local_models} Built in AU)</span>
-        <span class="stat-pill"><strong>${s.generations}</strong>Series / Generations</span>
+        <span class="stat-pill"><strong>${s.makes}</strong>Makes (${s.local_makes} AU)</span>
+        <span class="stat-pill"><strong>${s.models}</strong>Models (${s.local_models} AU)</span>
+        <span class="stat-pill"><strong>${s.generations}</strong>Series</span>
         <span class="stat-pill"><strong>${s.engines}</strong>Engines</span>
         <span class="stat-pill"><strong>${s.badges}</strong>Badges</span>
-        <span class="stat-pill"><strong>${s.configurations}</strong>Configs</span>
-        <span class="stat-pill"><strong>${s.pictures}</strong>Local Photos</span>
+        <span class="stat-pill"><strong>${s.pictures}</strong>Photos</span>
         <span class="stat-pill"><strong>${s.manuals}</strong>PDF Manuals</span>
       `;
     }
 
-    async function loadMakes() {
-      const res = await fetch('/api/makes');
-      allMakes = await res.json();
-      renderSidebarMakes();
+    async function getMakeData(makeSlug) {
+      if (makeCache[makeSlug]) return makeCache[makeSlug];
+      const res = await fetch(`data/makes/${makeSlug}.json`);
+      const data = await res.json();
+      makeCache[makeSlug] = data;
+      return data;
     }
 
     function renderSidebarMakes() {
@@ -511,18 +782,18 @@
     }
 
     async function showFeaturedModels() {
+      closeMobileDrawer();
       currentMakeSlug = null;
+      window.history.replaceState(null, '', window.location.pathname);
       renderSidebarMakes();
       setActiveNav('btn-featured');
       const main = document.getElementById('main-content');
-      main.innerHTML = '<p>Loading deep-dive Australian vehicle dossiers...</p>';
-      const res = await fetch('/api/models/featured');
-      const models = await res.json();
+      const models = archiveInit.featured_models || [];
 
       main.innerHTML = `
         <div class="section-header">
           <h2>Deep-Dive Australian Vehicle Dossiers (${models.length} Models)</h2>
-          <p style="color: var(--text-muted); font-size: 0.9rem;">
+          <p style="color: var(--text-muted); font-size: 0.88rem;">
             Complete Australian specification records with series codes, engine specs, local badges/trims, factory configurations, local photos, and downloadable PDF technical manuals.
           </p>
         </div>
@@ -530,17 +801,20 @@
           ${models.map(m => renderModelCard(m.make_slug, m, m.make_name)).join('')}
         </div>
       `;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function showAllMakesGrid() {
+      closeMobileDrawer();
       currentMakeSlug = null;
+      window.history.replaceState(null, '', window.location.pathname);
       renderSidebarMakes();
       setActiveNav('btn-all-makes');
       const main = document.getElementById('main-content');
       main.innerHTML = `
         <div class="section-header">
           <h2>All Car Makes Sold in Australia (${allMakes.length} Makes)</h2>
-          <p style="color: var(--text-muted); font-size: 0.9rem;">Select any make to inspect its Australian history, assembly plants, and complete model & generation catalog.</p>
+          <p style="color: var(--text-muted); font-size: 0.88rem;">Tap any make to inspect its Australian history, assembly plants, and complete model & generation catalog.</p>
         </div>
         <div class="grid">
           ${allMakes.map(m => `
@@ -549,7 +823,7 @@
                 <div>
                   <div class="card-title">
                     <span>${m.name}</span>
-                    ${m.local_manufacturer ? '<span class="tag au">AU Manufacturer / Assembler</span>' : ''}
+                    ${m.local_manufacturer ? '<span class="tag au">AU Builder</span>' : ''}
                   </div>
                   <div class="card-sub">${m.country_of_origin || ''} • AU Years: ${m.years_active_au_start || '?'}-${m.years_active_au_end || '?'}</div>
                   <div class="card-desc">${m.overview || ''}</div>
@@ -565,11 +839,12 @@
           `).join('')}
         </div>
       `;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function renderModelCard(makeSlug, m, makeName = '') {
       const imgHtml = m.hero_image
-        ? `<img class="card-img" src="/${m.hero_image}" alt="${m.name}" loading="lazy" />`
+        ? `<img class="card-img" src="${m.hero_image}" alt="${m.name}" loading="lazy" />`
         : `<div class="card-img-placeholder">${makeName || makeSlug.toUpperCase()} ${m.name}</div>`;
       return `
         <div class="card" onclick="loadModelView('${makeSlug}', '${m.model_slug}')">
@@ -587,7 +862,7 @@
               <span class="tag"><strong>${m.generation_count || 0}</strong> Series</span>
               ${m.engine_count ? `<span class="tag deep"><strong>${m.engine_count}</strong> Engines</span>` : ''}
               ${m.badge_count ? `<span class="tag"><strong>${m.badge_count}</strong> Badges</span>` : ''}
-              ${m.manual_count ? `<span class="tag au"><strong>${m.manual_count}</strong> PDF Manuals</span>` : ''}
+              ${m.manual_count ? `<span class="tag au"><strong>${m.manual_count}</strong> PDFs</span>` : ''}
             </div>
           </div>
         </div>
@@ -595,24 +870,25 @@
     }
 
     async function loadMakeView(makeSlug) {
+      closeMobileDrawer();
       currentMakeSlug = makeSlug;
+      window.location.hash = makeSlug;
       renderSidebarMakes();
       setActiveNav('');
       const main = document.getElementById('main-content');
       main.innerHTML = `<p>Loading ${makeSlug}...</p>`;
-      const res = await fetch(`/api/makes/${makeSlug}`);
-      const mk = await res.json();
+      const mk = await getMakeData(makeSlug);
 
       main.innerHTML = `
         <div class="section-header">
           <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
             <h2>${mk.name} (${mk.country_of_origin || 'Global'})</h2>
-            <div>
-              ${mk.local_manufacturer ? '<span class="tag au" style="font-size:0.85rem; padding:0.3rem 0.7rem;">Manufactured / Assembled in Australia</span>' : ''}
-              <span class="tag" style="font-size:0.85rem; padding:0.3rem 0.7rem;">AU Market: ${mk.years_active_au_start || '?'} – ${mk.years_active_au_end || '?'}</span>
+            <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
+              ${mk.local_manufacturer ? '<span class="tag au" style="font-size:0.8rem; padding:0.25rem 0.6rem;">Manufactured / Assembled in AU</span>' : ''}
+              <span class="tag" style="font-size:0.8rem; padding:0.25rem 0.6rem;">AU Market: ${mk.years_active_au_start || '?'} – ${mk.years_active_au_end || '?'}</span>
             </div>
           </div>
-          <p style="color: var(--text-muted); margin-top: 0.4rem;">${mk.overview || ''}</p>
+          <p style="color: var(--text-muted); margin-top: 0.4rem; font-size:0.9rem;">${mk.overview || ''}</p>
         </div>
         ${mk.australian_history ? `
           <div class="history-box">
@@ -629,34 +905,40 @@
     }
 
     async function loadModelView(makeSlug, modelSlug) {
+      closeMobileDrawer();
       currentMakeSlug = makeSlug;
+      window.location.hash = `${makeSlug}/${modelSlug}`;
       renderSidebarMakes();
       setActiveNav('');
       const main = document.getElementById('main-content');
       main.innerHTML = `<p>Loading ${makeSlug}/${modelSlug}...</p>`;
-      const res = await fetch(`/api/makes/${makeSlug}/models/${modelSlug}`);
-      const mod = await res.json();
+      const mk = await getMakeData(makeSlug);
+      const mod = (mk.models_detail || {})[modelSlug];
+      if (!mod) {
+        main.innerHTML = `<p>Model not found: ${makeSlug}/${modelSlug}</p>`;
+        return;
+      }
 
       const localPics = (mod.pictures || []).filter(p => p.local_path);
       const manuals = mod.manuals || [];
 
       main.innerHTML = `
-        <div style="margin-bottom: 1rem; display: flex; gap: 0.6rem; flex-wrap: wrap;">
-          <button class="nav-btn" onclick="loadMakeView('${makeSlug}')">← Back to ${makeSlug.toUpperCase()}</button>
-          <button class="nav-btn" onclick="showRandomCar('deep')" style="border-color: var(--accent); color: var(--accent);">🎲 Another Random Deep-Dive Car</button>
-          <button class="nav-btn" onclick="showRandomCar('all')">🎲 Random From All 441 Models</button>
+        <div style="margin-bottom: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <button class="nav-btn" onclick="loadMakeView('${makeSlug}')">← ${mk.name}</button>
+          <button class="nav-btn" onclick="showRandomCar('deep')" style="border-color: var(--accent); color: var(--accent);">🎲 Next Random Car</button>
+          <button class="nav-btn" onclick="showRandomCar('all')">🎲 Random (All ${archiveInit.all_models.length})</button>
         </div>
         <div class="section-header">
           <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
-            <h2>${makeSlug.toUpperCase()} — ${mod.name}</h2>
-            <div>
-              ${mod.locally_built ? '<span class="tag au" style="font-size:0.85rem; padding:0.3rem 0.7rem;">Built in Australia</span>' : ''}
-              <span class="tag" style="font-size:0.85rem; padding:0.3rem 0.7rem;">${mod.vehicle_type || ''} (${mod.years_sold_au_start || '?'}–${mod.years_sold_au_end || '?'})</span>
+            <h2>${mk.name} — ${mod.name}</h2>
+            <div style="display:flex; gap:0.4rem; flex-wrap:wrap;">
+              ${mod.locally_built ? '<span class="tag au" style="font-size:0.8rem; padding:0.25rem 0.6rem;">Built in Australia</span>' : ''}
+              <span class="tag" style="font-size:0.8rem; padding:0.25rem 0.6rem;">${mod.vehicle_type || ''} (${mod.years_sold_au_start || '?'}–${mod.years_sold_au_end || '?'})</span>
             </div>
           </div>
-          <p style="margin-top: 0.5rem; color: #cbd5e1;">${mod.overview || ''}</p>
-          ${mod.australian_market_notes ? `<p style="margin-top: 0.5rem; color: var(--accent); font-size: 0.9rem;"><strong>Australian Market Notes:</strong> ${mod.australian_market_notes}</p>` : ''}
-          ${mod.assembly_plants_au ? `<p style="margin-top: 0.35rem; color: var(--text-muted); font-size: 0.85rem;"><strong>Assembly Plants (AU):</strong> ${mod.assembly_plants_au}</p>` : ''}
+          <p style="margin-top: 0.5rem; color: #cbd5e1; font-size:0.92rem;">${mod.overview || ''}</p>
+          ${mod.australian_market_notes ? `<p style="margin-top: 0.5rem; color: var(--accent); font-size: 0.88rem;"><strong>Australian Market Notes:</strong> ${mod.australian_market_notes}</p>` : ''}
+          ${mod.assembly_plants_au ? `<p style="margin-top: 0.35rem; color: var(--text-muted); font-size: 0.84rem;"><strong>Assembly Plants (AU):</strong> ${mod.assembly_plants_au}</p>` : ''}
         </div>
 
         ${manuals.length > 0 ? `
@@ -665,13 +947,13 @@
             ${manuals.map(man => `
               <div class="manual-item">
                 <div>
-                  <div style="font-weight: 700; font-size: 0.9rem;">${man.title}</div>
-                  <div style="font-size: 0.76rem; color: var(--text-muted);">
+                  <div style="font-weight: 700; font-size: 0.88rem;">${man.title}</div>
+                  <div style="font-size: 0.75rem; color: var(--text-muted);">
                     Type: ${man.manual_type || 'Manual'} ${man.file_size_bytes ? `• ${(man.file_size_bytes / 1024).toFixed(1)} KB` : ''}
                   </div>
                 </div>
                 ${man.local_path
-                  ? `<a class="manual-btn" href="/${man.local_path}" target="_blank">Open PDF</a>`
+                  ? `<a class="manual-btn" href="${man.local_path}" target="_blank">Open PDF</a>`
                   : `<a class="manual-btn" href="${man.source_url}" target="_blank" style="background:var(--accent-blue);color:#fff;">External Link</a>`
                 }
               </div>
@@ -680,14 +962,14 @@
         ` : ''}
 
         ${localPics.length > 0 ? `
-          <h3 style="margin-bottom: 0.75rem;">Local Photo Archive (${localPics.length} Photos on Disk)</h3>
+          <h3 style="margin-bottom: 0.75rem;">Local Photo Archive (${localPics.length} Photos)</h3>
           <div class="gallery-strip">
             ${localPics.map(p => `
               <div class="gallery-card">
-                <img src="/${p.local_path}" alt="${p.caption || mod.name}" onclick="openModal('/${p.local_path}')" />
+                <img src="${p.local_path}" alt="${p.caption || mod.name}" onclick="openModal('${p.local_path}')" loading="lazy" />
                 <div class="gallery-caption">
-                  <strong>${p.series_code || 'Hero'}</strong>: ${(p.caption || '').slice(0, 95)}
-                  <div style="margin-top:0.2rem; font-size:0.7rem; opacity:0.75;">${p.license_or_credit || ''}</div>
+                  <strong>${p.series_code || 'Hero'}</strong>: ${(p.caption || '').slice(0, 85)}
+                  <div style="margin-top:0.2rem; font-size:0.68rem; opacity:0.75;">${p.license_or_credit || ''}</div>
                 </div>
               </div>
             `).join('')}
@@ -699,105 +981,110 @@
           <div class="gen-block">
             <div class="gen-title">
               <h3>Series ${g.series_code} ${g.generation_name ? `— ${g.generation_name}` : ''}</h3>
-              <div>
+              <div style="display:flex; flex-wrap:wrap; gap:0.35rem;">
                 <span class="tag">${g.years_start || '?'}–${g.years_end || '?'}</span>
                 ${g.ancap_rating ? `<span class="tag au">ANCAP: ${g.ancap_rating}</span>` : ''}
                 ${(g.body_styles || []).map(bs => `<span class="tag">${bs}</span>`).join(' ')}
               </div>
             </div>
-            <p style="font-size: 0.9rem; color: #cbd5e1; margin-bottom: 0.75rem;">${g.summary || ''}</p>
+            <p style="font-size: 0.88rem; color: #cbd5e1; margin-bottom: 0.75rem;">${g.summary || ''}</p>
 
             ${(g.engines || []).length > 0 ? `
               <div class="sub-heading">Engines Offered in Australia (${g.engines.length})</div>
-              <table>
-                <thead>
-                  <tr>
-                    <th>Engine Code</th>
-                    <th>Name / Description</th>
-                    <th>Displacement</th>
-                    <th>Cyl / Config</th>
-                    <th>Aspiration</th>
-                    <th>Fuel</th>
-                    <th>Power (kW)</th>
-                    <th>Torque (Nm)</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  ${g.engines.map(e => `
+              <div class="table-wrap">
+                <table class="responsive-table">
+                  <thead>
                     <tr>
-                      <td><strong>${e.engine_code || '-'}</strong></td>
-                      <td>${e.name || '-'} ${e.notes ? `<div style="font-size:0.75rem;color:var(--text-muted);">${e.notes}</div>` : ''}</td>
-                      <td>${e.displacement_litres ? e.displacement_litres + 'L' : ''} ${e.displacement_cc ? `(${e.displacement_cc}cc)` : ''}</td>
-                      <td>${e.cylinders || ''} ${e.configuration || ''}</td>
-                      <td>${e.aspiration || ''}</td>
-                      <td>${e.fuel_type || ''}</td>
-                      <td style="color:var(--accent); font-weight:700;">${e.power_kw ? e.power_kw + ' kW' : '-'}</td>
-                      <td style="color:#34d399; font-weight:700;">${e.torque_nm ? e.torque_nm + ' Nm' : '-'}</td>
+                      <th>Engine Code</th>
+                      <th>Name / Description</th>
+                      <th>Displacement</th>
+                      <th>Cyl / Config</th>
+                      <th>Aspiration</th>
+                      <th>Fuel</th>
+                      <th>Power (kW)</th>
+                      <th>Torque (Nm)</th>
                     </tr>
-                  `).join('')}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    ${g.engines.map(e => `
+                      <tr>
+                        <td data-label="Engine Code"><strong>${e.engine_code || '-'}</strong></td>
+                        <td data-label="Description"><div>${e.name || '-'} ${e.notes ? `<div style="font-size:0.74rem;color:var(--text-muted);">${e.notes}</div>` : ''}</div></td>
+                        <td data-label="Displacement">${e.displacement_litres ? e.displacement_litres + 'L' : ''} ${e.displacement_cc ? `(${e.displacement_cc}cc)` : '-'}</td>
+                        <td data-label="Cyl / Config">${e.cylinders || ''} ${e.configuration || '-'}</td>
+                        <td data-label="Aspiration">${e.aspiration || '-'}</td>
+                        <td data-label="Fuel">${e.fuel_type || '-'}</td>
+                        <td data-label="Power" style="color:var(--accent); font-weight:700;">${e.power_kw ? e.power_kw + ' kW' : '-'}</td>
+                        <td data-label="Torque" style="color:#34d399; font-weight:700;">${e.torque_nm ? e.torque_nm + ' Nm' : '-'}</td>
+                      </tr>
+                    `).join('')}
+                  </tbody>
+                </table>
+              </div>
             ` : ''}
 
             ${(g.badges || []).length > 0 ? `
               <div class="sub-heading">Australian Badges & Trims (${g.badges.length})</div>
-              <table>
-                <thead>
-                  <tr>
-                    <th>Badge / Trim</th>
-                    <th>Drivetrain</th>
-                    <th>Transmissions</th>
-                    <th>New Price (AUD)</th>
-                    <th>Fuel (L/100km)</th>
-                    <th>Weight (kg)</th>
-                    <th>Standard Features / Notes</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  ${g.badges.map(b => `
+              <div class="table-wrap">
+                <table class="responsive-table">
+                  <thead>
                     <tr>
-                      <td><strong>${b.badge_name}</strong></td>
-                      <td>${b.drivetrain || '-'}</td>
-                      <td>${(b.transmissions || []).join(', ') || '-'}</td>
-                      <td>${b.msrp_aud_min ? '$' + Number(b.msrp_aud_min).toLocaleString() : '-'} ${b.msrp_aud_max && b.msrp_aud_max !== b.msrp_aud_min ? '– $' + Number(b.msrp_aud_max).toLocaleString() : ''}</td>
-                      <td>${b.fuel_consumption_l_100km || '-'}</td>
-                      <td>${b.kerb_weight_kg || '-'}</td>
-                      <td style="font-size:0.78rem; color:var(--text-muted);">
-                        ${(b.standard_features || []).slice(0, 6).join(', ')}
-                        ${b.notes ? `<div>${b.notes}</div>` : ''}
-                      </td>
+                      <th>Badge / Trim</th>
+                      <th>Drivetrain</th>
+                      <th>Transmissions</th>
+                      <th>New Price (AUD)</th>
+                      <th>Fuel (L/100km)</th>
+                      <th>Weight (kg)</th>
+                      <th>Features / Notes</th>
                     </tr>
-                  `).join('')}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    ${g.badges.map(b => `
+                      <tr>
+                        <td data-label="Badge / Trim"><strong>${b.badge_name}</strong></td>
+                        <td data-label="Drivetrain">${b.drivetrain || '-'}</td>
+                        <td data-label="Transmissions">${(b.transmissions || []).join(', ') || '-'}</td>
+                        <td data-label="Price (AUD)">${b.msrp_aud_min ? '$' + Number(b.msrp_aud_min).toLocaleString() : '-'} ${b.msrp_aud_max && b.msrp_aud_max !== b.msrp_aud_min ? '– $' + Number(b.msrp_aud_max).toLocaleString() : ''}</td>
+                        <td data-label="Fuel (L/100km)">${b.fuel_consumption_l_100km || '-'}</td>
+                        <td data-label="Weight (kg)">${b.kerb_weight_kg || '-'}</td>
+                        <td data-label="Features" style="font-size:0.78rem; color:var(--text-muted);">
+                          <div>${(b.standard_features || []).slice(0, 6).join(', ')} ${b.notes ? `<div>${b.notes}</div>` : ''}</div>
+                        </td>
+                      </tr>
+                    `).join('')}
+                  </tbody>
+                </table>
+              </div>
             ` : ''}
 
             ${(g.configurations || []).length > 0 ? `
               <div class="sub-heading">Factory Configurations (${g.configurations.length})</div>
-              <table>
-                <thead>
-                  <tr>
-                    <th>Badge</th>
-                    <th>Body Style</th>
-                    <th>Engine Code</th>
-                    <th>Transmission</th>
-                    <th>Drivetrain</th>
-                    <th>Output</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  ${g.configurations.map(c => `
+              <div class="table-wrap">
+                <table class="responsive-table">
+                  <thead>
                     <tr>
-                      <td><strong>${c.badge_name || '-'}</strong></td>
-                      <td>${c.body_style || '-'}</td>
-                      <td>${c.engine_code || '-'}</td>
-                      <td>${c.transmission || '-'}</td>
-                      <td>${c.drivetrain || '-'}</td>
-                      <td>${c.power_kw ? c.power_kw + ' kW' : ''} ${c.torque_nm ? '/ ' + c.torque_nm + ' Nm' : ''}</td>
+                      <th>Badge</th>
+                      <th>Body Style</th>
+                      <th>Engine Code</th>
+                      <th>Transmission</th>
+                      <th>Drivetrain</th>
+                      <th>Output</th>
                     </tr>
-                  `).join('')}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    ${g.configurations.map(c => `
+                      <tr>
+                        <td data-label="Badge"><strong>${c.badge_name || '-'}</strong></td>
+                        <td data-label="Body Style">${c.body_style || '-'}</td>
+                        <td data-label="Engine Code">${c.engine_code || '-'}</td>
+                        <td data-label="Transmission">${c.transmission || '-'}</td>
+                        <td data-label="Drivetrain">${c.drivetrain || '-'}</td>
+                        <td data-label="Output">${c.power_kw ? c.power_kw + ' kW' : '-'} ${c.torque_nm ? '/ ' + c.torque_nm + ' Nm' : ''}</td>
+                      </tr>
+                    `).join('')}
+                  </tbody>
+                </table>
+              </div>
             ` : ''}
           </div>
         `).join('')}
@@ -805,66 +1092,125 @@
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    async function showEnginesExplorer(query = '') {
+    function showEnginesExplorer(query = '') {
+      closeMobileDrawer();
       currentMakeSlug = null;
       renderSidebarMakes();
       setActiveNav('btn-engines');
       const main = document.getElementById('main-content');
-      const res = await fetch('/api/engines?q=' + encodeURIComponent(query));
-      const engines = await res.json();
+      const q = query.toLowerCase().trim();
+      const allEng = archiveInit.engines || [];
+      const engines = q
+        ? allEng.filter(e =>
+            (e.engine_code || '').toLowerCase().includes(q) ||
+            (e.name || '').toLowerCase().includes(q) ||
+            (e.make_slug || '').toLowerCase().includes(q) ||
+            (e.model_slug || '').toLowerCase().includes(q) ||
+            (e.notes || '').toLowerCase().includes(q)
+          ).slice(0, 200)
+        : allEng.slice(0, 200);
 
       main.innerHTML = `
         <div class="section-header">
-          <h2>Australian Engine Explorer (Top ${engines.length} Matches by Power kW)</h2>
+          <h2>Australian Engine Explorer (${engines.length} Shown by Power kW)</h2>
           <div style="margin-top: 0.65rem; max-width: 450px;">
             <input type="text" value="${query}" placeholder="Filter engines (e.g. Barra, LS3, RB30, Hemi, 1VD, V8, Turbo)..."
-              style="width:100%; background:var(--bg-card); border:1px solid var(--border); color:var(--text); padding:0.5rem 0.8rem; border-radius:6px;"
-              onkeydown="if(event.key==='Enter') showEnginesExplorer(this.value)" />
+              style="width:100%; background:var(--bg-card); border:1px solid var(--border); color:var(--text); padding:0.55rem 0.85rem; border-radius:6px; font-size:16px;"
+              oninput="showEnginesExplorer(this.value)" />
           </div>
         </div>
         <div class="gen-block">
-          <table>
-            <thead>
-              <tr>
-                <th>Vehicle</th>
-                <th>Series</th>
-                <th>Engine Code</th>
-                <th>Description</th>
-                <th>Specs</th>
-                <th>Power</th>
-                <th>Torque</th>
-              </tr>
-            </thead>
-            <tbody>
-              ${engines.map(e => `
-                <tr style="cursor:pointer;" onclick="loadModelView('${e.make_slug}', '${e.model_slug}')">
-                  <td><strong>${e.make_slug.toUpperCase()} ${e.model_slug.toUpperCase()}</strong></td>
-                  <td><span class="tag">${e.series_code}</span></td>
-                  <td><strong style="color:#93c5fd;">${e.engine_code || '-'}</strong></td>
-                  <td>${e.name || '-'}</td>
-                  <td>${e.displacement_litres || '?'}L ${e.configuration || ''}${e.cylinders || ''} (${e.aspiration || ''})</td>
-                  <td style="color:var(--accent); font-weight:700;">${e.power_kw ? e.power_kw + ' kW' : '-'}</td>
-                  <td style="color:#34d399; font-weight:700;">${e.torque_nm ? e.torque_nm + ' Nm' : '-'}</td>
+          <div class="table-wrap">
+            <table class="responsive-table">
+              <thead>
+                <tr>
+                  <th>Vehicle</th>
+                  <th>Series</th>
+                  <th>Engine Code</th>
+                  <th>Description</th>
+                  <th>Specs</th>
+                  <th>Power</th>
+                  <th>Torque</th>
                 </tr>
-              `).join('')}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                ${engines.map(e => `
+                  <tr style="cursor:pointer;" onclick="loadModelView('${e.make_slug}', '${e.model_slug}')">
+                    <td data-label="Vehicle"><strong>${e.make_slug.toUpperCase()} ${e.model_slug.toUpperCase()}</strong></td>
+                    <td data-label="Series"><span class="tag">${e.series_code}</span></td>
+                    <td data-label="Engine Code"><strong style="color:#93c5fd;">${e.engine_code || '-'}</strong></td>
+                    <td data-label="Description">${e.name || '-'}</td>
+                    <td data-label="Specs">${e.displacement_litres || '?'}L ${e.configuration || ''}${e.cylinders || ''} (${e.aspiration || ''})</td>
+                    <td data-label="Power" style="color:var(--accent); font-weight:700;">${e.power_kw ? e.power_kw + ' kW' : '-'}</td>
+                    <td data-label="Torque" style="color:#34d399; font-weight:700;">${e.torque_nm ? e.torque_nm + ' Nm' : '-'}</td>
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>
         </div>
       `;
     }
 
     function debounceSearch(val) {
       clearTimeout(searchTimer);
-      searchTimer = setTimeout(() => runGlobalSearch(val), 220);
+      searchTimer = setTimeout(() => runGlobalSearch(val), 180);
     }
 
-    async function runGlobalSearch(q) {
+    function runGlobalSearch(q) {
       if (!q || q.trim().length < 2) {
         showFeaturedModels();
         return;
       }
-      const res = await fetch('/api/search?q=' + encodeURIComponent(q.trim()));
-      const items = await res.json();
+      const ql = q.toLowerCase().trim();
+      const items = [];
+
+      for (const m of (archiveInit.all_models || [])) {
+        if (
+          (m.name || '').toLowerCase().includes(ql) ||
+          (m.make_name || '').toLowerCase().includes(ql) ||
+          (m.overview || '').toLowerCase().includes(ql)
+        ) {
+          items.push({
+            type: 'model',
+            make_slug: m.make_slug,
+            model_slug: m.model_slug,
+            title: `${m.make_name} ${m.name}`,
+            subtitle: `${m.vehicle_type || ''} (${m.years_sold_au_start || '?'}-${m.years_sold_au_end || '?'})`,
+            snippet: (m.overview || '').slice(0, 180),
+          });
+          if (items.length >= 40) break;
+        }
+      }
+
+      for (const b of (archiveInit.badges || [])) {
+        if ((b.badge_name || '').toLowerCase().includes(ql) || (b.notes || '').toLowerCase().includes(ql)) {
+          items.push({
+            type: 'badge',
+            make_slug: b.make_slug,
+            model_slug: b.model_slug,
+            title: `${b.make_slug.toUpperCase()} ${b.model_slug.toUpperCase()} — ${b.badge_name} (${b.series_code})`,
+            subtitle: `${b.drivetrain || ''} | AUD $${b.msrp_aud_min || '?'}`,
+            snippet: b.notes || '',
+          });
+          if (items.length >= 70) break;
+        }
+      }
+
+      for (const e of (archiveInit.engines || [])) {
+        if ((e.engine_code || '').toLowerCase().includes(ql) || (e.name || '').toLowerCase().includes(ql) || (e.notes || '').toLowerCase().includes(ql)) {
+          items.push({
+            type: 'engine',
+            make_slug: e.make_slug,
+            model_slug: e.model_slug,
+            title: `${e.engine_code} — ${e.name || ''} (${e.make_slug.toUpperCase()} ${e.model_slug.toUpperCase()} ${e.series_code})`,
+            subtitle: `${e.power_kw || '?'} kW / ${e.torque_nm || '?'} Nm | ${e.fuel_type || ''}`,
+            snippet: e.notes || '',
+          });
+          if (items.length >= 100) break;
+        }
+      }
+
       const main = document.getElementById('main-content');
       main.innerHTML = `
         <div class="section-header">
@@ -890,11 +1236,11 @@
     }
 
     async function showRandomCar(scope = 'deep') {
-      const res = await fetch('/api/models/random?scope=' + encodeURIComponent(scope));
-      const picked = await res.json();
-      if (picked && picked.make_slug && picked.model_slug) {
-        await loadModelView(picked.make_slug, picked.model_slug);
-      }
+      closeMobileDrawer();
+      const pool = scope === 'all' ? (archiveInit.all_models || []) : (archiveInit.featured_models || []);
+      if (!pool.length) return;
+      const picked = pool[Math.floor(Math.random() * pool.length)];
+      await loadModelView(picked.make_slug, picked.model_slug);
     }
 
     function openModal(src) {
