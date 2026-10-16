@@ -1,0 +1,271 @@
+{
+  "make_slug": "chrysler-valiant",
+  "model_slug": "charger",
+  "name": "Chrysler Valiant Charger",
+  "vehicle_type": "Coupe",
+  "segment": "Sports Coupe / Muscle Car",
+  "years_sold_au": {
+    "start": 1971,
+    "end": 1978
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Tonsley Park, South Australia"
+  ],
+  "overview": "The Chrysler Valiant Charger is one of the most charismatic muscle cars in Australian history. Launched in August 1971 with the memorable 'Hey Charger!' television advertising campaign, the Charger was built on a shortened 105-inch wheelbase with stunning fastback proportions, winning the 1971 Wheels Car of the Year award. Immortalized by the legendary Bathurst homologation specials—the E38 (280 bhp) and the triple-Weber E49 'Six Pack' (302 bhp)—the Charger was the fastest-accelerating Australian production car for over a decade, holding the standing quarter-mile record at 14.4 seconds.",
+  "australian_market_notes": "Engineered under John Ellis by chopping 6 inches out of the VH sedan wheelbase and styling an aerodynamic fastback tail, the Charger captured 50% of all Australian sports coupe sales in its first year. The racing program was developed in secret with Italian carburettor masters Weber: the E49 engine featured three twin-choke Weber 45 DCOE carburettors, a high-lift camshaft, tuned exhaust headers, and a heavy-duty Borg-Warner 4-speed manual gearbox. Production continued through VJ, VK, and CL series, concluding with the colorful 1977-78 Charger Drifter.",
+  "manuals": [
+    {
+      "title": "Chrysler Valiant Chrysler Valiant Charger Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1971,
+      "language": "en",
+      "source_url": "local://catalog/makes/chrysler-valiant/models/charger/model.json",
+      "local_path": "media/manuals/chrysler-valiant/charger/chrysler-valiant_charger_au_technical_manual.pdf",
+      "file_size_bytes": 4677,
+      "sha256": "b29f293a7ccf9b2b8019e7b5edc04602c126635a261a4522de4a197e2ff5eeed",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "PQ2298\nI've been trying to get a photo of this for ages, but it's down a driveway on a very busy arterial route and I was finally able to get a snap yesterday! Sadly it's in pretty poor condition now...\n\nInterestingly, this one was imported",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1972_Chrysler_Valiant_Charger_770_%288333076428%29.jpg/1280px-1972_Chrysler_Valiant_Charger_770_%288333076428%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/chrysler-valiant/charger/chrysler-valiant_charger_hero_1_1972_Chrysler_Valiant_Charger_770_8333076428_.jpg",
+      "file_size_bytes": 356501,
+      "sha256": "69676ec49b04b3d740890a49b1d2ace85f551779f60538f0187242246ffa1a1e"
+    },
+    {
+      "category": "exterior",
+      "caption": "Chryslers on the Murray 2015",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Chrysler_Valiant_VH_Charger_%2816727476540%29.jpg/1280px-Chrysler_Valiant_VH_Charger_%2816727476540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/chrysler-valiant/charger/chrysler-valiant_charger_hero_2_Chrysler_Valiant_VH_Charger_16727476540_.jpg",
+      "file_size_bytes": 182313,
+      "sha256": "f1abac2efe113f772df5b11e8965f37bc7bb7e5f4087067f9bc6cc81834e0894"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "VH",
+      "generation_name": "VH Charger Series",
+      "years": {
+        "start": 1971,
+        "end": 1973
+      },
+      "body_styles": [
+        "2-door sports coupe"
+      ],
+      "platform": "Chrysler Australia short-wheelbase chassis",
+      "ancap_rating": null,
+      "summary": "1971 Wheels Car of the Year winner; 'Hey Charger!' advertising icon; Charger XL, 770, R/T (E37, E38 280 bhp), and the ultimate E49 Six Pack (302 bhp, 3x Weber, 4-speed manual).",
+      "engines": [
+        {
+          "engine_code": "Hemi-265-E38",
+          "name": "Chrysler Hemi-6 265ci 'Six Pack' (E38 R/T)",
+          "displacement_cc": 4342,
+          "displacement_litres": 4.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (100 Octane)",
+          "power_kw": 209.0,
+          "power_rpm": "5000",
+          "torque_nm": 420.0,
+          "torque_rpm": "3700",
+          "compression_ratio": "9.7:1",
+          "valvetrain": "OHV 12V with High-Lift Cam",
+          "notes": "Triple twin-choke Weber 45 DCOE carburettors; 280 bhp; 3-speed manual."
+        },
+        {
+          "engine_code": "Hemi-265-E49",
+          "name": "Chrysler Hemi-6 265ci 'Six Pack' (E49 R/T)",
+          "displacement_cc": 4342,
+          "displacement_litres": 4.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (100 Octane)",
+          "power_kw": 225.0,
+          "power_rpm": "5600",
+          "torque_nm": 441.0,
+          "torque_rpm": "4100",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "OHV 12V Competition Cam and Valve Springs",
+          "notes": "Triple twin-choke Weber 45 DCOE; 302 bhp; Borg-Warner 4-speed manual; fastest accelerating Australian production car for over a decade."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Charger R/T (E49)",
+          "years": {
+            "start": 1972,
+            "end": 1973
+          },
+          "body_styles": [
+            "2-door sports coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed close-ratio manual (Borg-Warner)"
+          ],
+          "msrp_aud_min": 3975,
+          "msrp_aud_max": 4500,
+          "fuel_consumption_l_100km": 16.0,
+          "kerb_weight_kg": 1365,
+          "standard_features": [
+            "302 bhp Hemi-6 engine",
+            "Triple Weber carburettors",
+            "35-gallon long-range fuel tank option",
+            "Alloy sports wheels",
+            "R/T side body decals and blackouts"
+          ],
+          "notes": "Only 149 units produced; standing quarter-mile in 14.4 seconds."
+        },
+        {
+          "badge_name": "Charger 770",
+          "years": {
+            "start": 1971,
+            "end": 1973
+          },
+          "body_styles": [
+            "2-door sports coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Torqueflite 3-speed auto",
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 3395,
+          "msrp_aud_max": 4200,
+          "fuel_consumption_l_100km": 14.0,
+          "kerb_weight_kg": 1380,
+          "standard_features": [
+            "265 Hemi or 318 V8",
+            "High-back bucket seats",
+            "Woodgrain dash",
+            "Alloy wheels"
+          ],
+          "notes": "Luxury grand tourer variant."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Charger R/T (E49)",
+          "body_style": "2-door sports coupe",
+          "engine_code": "Hemi-265-E49",
+          "transmission": "4-speed close-ratio manual (Borg-Warner)",
+          "drivetrain": "RWD",
+          "msrp_aud": 4250,
+          "power_kw": 225.0,
+          "torque_nm": 441.0,
+          "fuel_l_100km": 16.0,
+          "towing_braked_kg": 1200,
+          "notes": "0-100 km/h in 6.1s; 0-400m in 14.4s; Bathurst legend."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VH",
+          "category": "exterior",
+          "caption": "Chrysler Valiant VH Charger E38 Geoghegan",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Chrysler_Valiant_VH_Charger_E38_Geoghegan_%2815199784906%29.jpg/1280px-Chrysler_Valiant_VH_Charger_E38_Geoghegan_%2815199784906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/chrysler-valiant/charger/chrysler-valiant_charger_VH_1_Chrysler_Valiant_VH_Charger_E38_Geoghegan_15199784906_.jpg",
+          "file_size_bytes": 187555,
+          "sha256": "d30ef2bb5835a5a6fdfed6c85eee936057c4a2cbee26d774ea41bc425ce61243"
+        }
+      ]
+    },
+    {
+      "series_code": "CL",
+      "generation_name": "CL Charger Series",
+      "years": {
+        "start": 1976,
+        "end": 1978
+      },
+      "body_styles": [
+        "2-door sports coupe"
+      ],
+      "platform": "Chrysler Australia chassis",
+      "ancap_rating": null,
+      "summary": "Final Charger generation. 770 luxury sports and the iconic Drifter pack with bold side striping, roof-mounted spoiler, and 4.3L Hemi 4-speed manual.",
+      "engines": [
+        {
+          "engine_code": "Hemi-265-CL",
+          "name": "Chrysler Hemi-6 4.3L (265ci) 4-Barrel",
+          "displacement_cc": 4342,
+          "displacement_litres": 4.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 151.0,
+          "power_rpm": "4800",
+          "torque_nm": 355.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Carter 4-barrel option on E48 engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Charger Drifter",
+          "years": {
+            "start": 1977,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door sports coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Borg-Warner)"
+          ],
+          "msrp_aud_min": 6890,
+          "msrp_aud_max": 7650,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "Bold rainbow Drifter side graphics",
+            "W56 sports wheels in body colour",
+            "Sports steering wheel",
+            "Radial Tuned Suspension",
+            "265 Hemi or 318 V8"
+          ],
+          "notes": "Final edition cult classic."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Charger Drifter",
+          "body_style": "2-door sports coupe",
+          "engine_code": "Hemi-265-CL",
+          "transmission": "4-speed manual (Borg-Warner)",
+          "drivetrain": "RWD",
+          "msrp_aud": 7150,
+          "power_kw": 151.0,
+          "torque_nm": 355.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 1300,
+          "notes": "The last Aussie Charger."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "CL",
+          "category": "exterior",
+          "caption": "Amarante Red\nBuilt from Nov 1976-Nov 1978\nEngines; 245 hemi or 318 V8\nXL or 770",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chrysler_CL_Charger_770_%283%29.jpg/1280px-Chrysler_CL_Charger_770_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/chrysler-valiant/charger/chrysler-valiant_charger_CL_1_Chrysler_CL_Charger_770_3_.jpg",
+          "file_size_bytes": 516483,
+          "sha256": "e35bcb6e13a7909cd971e1841546eca9321f69cb5b8befdde3fe5ac308af275d"
+        }
+      ]
+    }
+  ]
+}

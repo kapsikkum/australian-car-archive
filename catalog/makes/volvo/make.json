@@ -1,0 +1,148 @@
+{
+  "make_slug": "volvo",
+  "name": "Volvo",
+  "country_of_origin": "Sweden",
+  "years_active_au": {
+    "start": 1960,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Renowned worldwide for safety innovation and in Australia for local assembly of the 140/240 series, Bathurst-winning touring cars, and rapid transition to electrified SUVs.",
+  "australian_history": "Volvo began selling in Australia in the 1960s and established Volvo Australia Pty Ltd in 1970. Between 1970 and 1989, Volvo passenger cars—including the 144, 164, 240, and 264—were assembled in Australia, first at Motor Producers Limited (Clayton, VIC) and later at Volvo's dedicated assembly plant in Wacol, Brisbane (QLD). The robust 240 series became an indelible part of Australian family life. Volvo also etched its name into Australian motorsport folklore: Robbie Francevic won the 1986 Australian Touring Car Championship in an Australian-developed Volvo 240 Turbo ('The Flying Brick'), and Jim Richards and Rickard Rydell famously won the 1998 AMP Bathurst 1000 in an S40 Super Tourer. Today, Volvo Car Australia is headquartered in Sydney and is leading the brand's global charge toward full electrification with the XC40/EX40, EX30, and XC90.",
+  "models_catalog": [
+    {
+      "model_slug": "240-260",
+      "name": "240 / 260 Series",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Family Car",
+      "years_sold_au": {
+        "start": 1974,
+        "end": "1993"
+      },
+      "locally_built": true,
+      "overview": "Indestructible Swedish family icon assembled locally in Melbourne and Brisbane, celebrated for world-class crashworthiness and 1986 ATCC victory.",
+      "generations": [
+        {
+          "series_code": "240-Series",
+          "generation_name": "Volvo 240 / 260",
+          "years": {
+            "start": 1974,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe"
+          ],
+          "summary": "B21/B23/B230 redblock four-cylinder and PRV B27/B28 V6; 242 GT, GL, GLE, and Group A Turbo."
+        }
+      ]
+    },
+    {
+      "model_slug": "xc90",
+      "name": "XC90",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Landmark 7-seat luxury family SUV, establishing benchmark rollover safety and elegant Scandinavian luxury.",
+      "generations": [
+        {
+          "series_code": "P28",
+          "generation_name": "XC90 First Generation",
+          "years": {
+            "start": 2003,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.5T, D5 turbo diesel, 3.2 i6, and Yamaha-engineered 4.4L V8 (232kW)."
+        },
+        {
+          "series_code": "SPA",
+          "generation_name": "XC90 Second Generation",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "SPA modular platform, Thor's Hammer LED headlights, D5, T6, and T8 Recharge Twin Engine PHEV."
+        }
+      ]
+    },
+    {
+      "model_slug": "xc60",
+      "name": "XC60",
+      "vehicle_type": "SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Volvo's global and Australian top-seller, introducing City Safety autonomous emergency braking to the Australian market.",
+      "generations": [
+        {
+          "series_code": "Y20-SPA",
+          "generation_name": "XC60 1st & 2nd Gen",
+          "years": {
+            "start": 2009,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "First gen pioneered City Safety; second gen SPA platform brought B5 mild-hybrid and T8 PHEV."
+        }
+      ]
+    },
+    {
+      "model_slug": "240-850",
+      "name": "240 & 850 Series",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Medium / Large Executive Car",
+      "years_sold_au": {
+        "start": 1975,
+        "end": 1997
+      },
+      "locally_built": true,
+      "overview": "The twin legends that transformed Volvo's reputation in Australia. The 240 Series was assembled locally at Clayton, Victoria, setting world safety standards and winning the 1986 Australian Touring Car Championship as the 'Flying Brick'. Its successor, the 850 Series, introduced front-wheel drive transverse 5-cylinder performance, celebrated by the limited-edition 850 T-5R and the 850 Super Tourers raced by Peter Brock and Jim Richards.",
+      "generations": [
+        {
+          "series_code": "240 Series",
+          "generation_name": "Volvo 240 Series (242 / 244 / 245)",
+          "years": {
+            "start": 1975,
+            "end": 1993
+          },
+          "body_styles": [
+            "2-door sedan (242)",
+            "4-door sedan (244)",
+            "5-door wagon (245)"
+          ],
+          "summary": "Clayton-assembled Swedish icon renowned for legendary longevity and steel safety cage. Featured B21/B23/B230 'redblock' engines, 242 GT sports coupe, and the Group A 240 Turbo that conquered Australian touring car racing."
+        },
+        {
+          "series_code": "850 Series",
+          "generation_name": "Volvo 850 Series (GLT / T-5 / T-5R / R)",
+          "years": {
+            "start": 1992,
+            "end": 1997
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "Revolutionary front-wheel drive transverse 5-cylinder chassis featuring Side Impact Protection System (SIPS), Delta-link rear suspension, 850 GLT, 850 Turbo / T-5, the iconic Cream Yellow 850 T-5R, and the 184kW 850 R. Campaigned by Peter Brock in the Australian Super Touring Championship and Bathurst 1000."
+        }
+      ]
+    }
+  ]
+}

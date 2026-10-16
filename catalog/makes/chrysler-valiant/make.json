@@ -1,0 +1,505 @@
+{
+  "make_slug": "chrysler-valiant",
+  "name": "Chrysler / Valiant Australia",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1951,
+    "end": 2021
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Chrysler Australia Ltd was established in June 1951 following Chrysler Corporation's acquisition of Adelaide coachbuilder Richards Industries. Operating from its monumental manufacturing complex at Tonsley Park and engine foundry at Lonsdale in South Australia, Chrysler was the third of the 'Big Three' Australian domestic automakers alongside Holden and Ford. In January 1962, Chrysler launched the revolutionary Valiant (R-Series), whose 145 hp Slant-6 engine instantly out-accelerated and outperformed every rival on Australian roads. In 1970, Chrysler Australia's local engineering team created the iconic HEMI-6 engine, featuring hemispherical combustion chambers and producing massive torque. The following year, Chrysler introduced the VH Valiant Charger—backed by the unforgettable 'Hey Charger!' advertising campaign—whose triple-Weber E49 'Six Pack' became the fastest-accelerating Australian production car for over a decade. Facing financial distress in the late 1970s, Chrysler Australia sold its operations to Mitsubishi Motors Corporation in 1980, creating Mitsubishi Motors Australia Limited (MMAL). The Chrysler brand was later re-introduced as an American import arm (300C, PT Cruiser, Voyager) before departing Australia in 2021.",
+  "australian_history": "Chrysler's Australian heritage began in the 1920s through T.J. Richards & Sons, an Adelaide coachbuilder constructing bodies for Dodge, DeSoto, and Plymouth chassis. In June 1951, Chrysler Corporation acquired Richards Industries to establish Chrysler Australia Ltd, based initially at Mile End and Keswick. In 1957, Chrysler introduced the Chrysler Royal (AP1, AP2, AP3), an Australian-unique evolution of 1953-54 Plymouth architecture featuring flamboyant tail fins and push-button automatic transmissions.\n\nIn January 1962, Chrysler dramatically altered the Australian automotive landscape by assembling 1,008 units of the American compact Plymouth Valiant as the 'R-Series'. Powered by a 225 cubic-inch (3.7-litre) 'Slant-6' engine producing 145 bhp, it completely outclassed the 75 bhp Holden EK and 85 bhp Ford Falcon, selling out within days. In 1963, Chrysler opened its sprawling, billion-dollar Tonsley Park plant in suburban Adelaide and introduced the first fully manufactured Australian Valiant, the AP5 (Australian Production 5), followed by the AP6 which introduced the 273ci V8—the first V8 offered in an Australian family car.\n\nUnder chief engineer David Giles, Chrysler Australia invested $22 million developing an all-new six-cylinder engine tailored for Australian conditions. Debuting in the 1970 VG series, the HEMI-6 (available in 215ci, 245ci, and 265ci displacements) eliminated the pushrod angles of conventional OHV engines and incorporated hemispherical combustion chambers, yielding immense volumetric efficiency. In August 1971, Chrysler launched the VH series—the first Valiant designed and styled completely in Australia—headlined by the short-wheelbase Valiant Charger coupe. Engineered by John Ellis, the Charger won the 1971 Wheels Car of the Year and spawned the homologation specials E38 (280 bhp) and the legendary E49 (302 bhp, triple twin-choke Weber 45 DCOE carburettors, 4-speed Borg-Warner manual). The E49 Charger held the Australian production car quarter-mile record (14.4 seconds) for over a decade.\n\nIn the mid-1970s, Chrysler introduced the Centura (KB/KC), grafting the Australian Hemi-6 into the French Simca 180 bodyshell. However, high development costs, the 1973 oil crisis, and parent Chrysler Corporation's financial crisis forced restructuring. In 1979-1980, Mitsubishi Corporation acquired Chrysler Australia's Tonsley Park and Lonsdale facilities, transitioning production to the Chrysler Sigma and Colt before renaming the company Mitsubishi Motors Australia Limited (MMAL) in October 1980. The last Australian Valiant—a silver CM Regal sedan—rolled off the Tonsley Park line on 28 August 1981. In 1994, Chrysler returned to Australia as an importer under Chrysler/DaimlerChrysler/FCA, enjoying major success with the Chrysler 300C large sedan, PT Cruiser, Crossfire, and Grand Voyager before retiring the brand in Australia in November 2021.",
+  "models_catalog": [
+    {
+      "model_slug": "chrysler-royal",
+      "name": "Chrysler Royal",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large / Luxury",
+      "years_sold_au": {
+        "start": 1957,
+        "end": 1963
+      },
+      "locally_built": true,
+      "overview": "Locally developed luxury flagship combining 1954 Plymouth body pressings with sweeping tail fins, dual headlamps, and push-button automatic transmission across AP1, AP2, and AP3 series.",
+      "generations": [
+        {
+          "series_code": "AP1-AP3",
+          "generation_name": "Royal AP1, AP2, AP3 Series",
+          "years": {
+            "start": 1957,
+            "end": 1963
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon (Plainsman)",
+            "Coupe utility (Wayfarer)"
+          ],
+          "summary": "230ci/250ci side-valve inline-six and 313ci Canadian polyspheric V8; push-button PowerFlite/TorqueFlite automatic."
+        }
+      ]
+    },
+    {
+      "model_slug": "dodge-phoenix",
+      "name": "Dodge Phoenix",
+      "vehicle_type": "Sedan / Hardtop",
+      "segment": "Upper Luxury",
+      "years_sold_au": {
+        "start": 1960,
+        "end": 1972
+      },
+      "locally_built": true,
+      "overview": "Full-size American cruiser assembled in Adelaide from Canadian CKD kits with factory RHD dashboards, serving as Chrysler Australia's prestige competitor to the Ford Galaxie and Chevrolet Impala.",
+      "generations": [
+        {
+          "series_code": "PD4-DH",
+          "generation_name": "Dodge Phoenix Series",
+          "years": {
+            "start": 1960,
+            "end": 1972
+          },
+          "body_styles": [
+            "4-door sedan",
+            "4-door hardtop"
+          ],
+          "summary": "318ci and 383ci V8 engines, Torqueflite automatic, opulent American luxury proportions."
+        }
+      ]
+    },
+    {
+      "model_slug": "valiant",
+      "name": "Chrysler Valiant",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1962,
+        "end": 1981
+      },
+      "locally_built": true,
+      "overview": "The great challenger of the Australian family car market. Spanning R, S, AP5, AP6, VC, VE, VF, VG, VH, VJ, VK, CL, and CM series, powered by the mighty Slant-6 and Australian-engineered Hemi-6.",
+      "generations": [
+        {
+          "series_code": "R-S",
+          "generation_name": "R and S Series",
+          "years": {
+            "start": 1962,
+            "end": 1963
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Introduced the 225ci (3.7L) Slant-6 with 145 hp, setting new Australian performance benchmarks."
+        },
+        {
+          "series_code": "AP5-AP6",
+          "generation_name": "AP5 & AP6 Series",
+          "years": {
+            "start": 1963,
+            "end": 1966
+          },
+          "body_styles": [
+            "Sedan",
+            "Safari Wagon"
+          ],
+          "summary": "First completely Australian-manufactured Valiant at Tonsley Park; AP6 introduced first V8 in an Australian family car (273ci V8)."
+        },
+        {
+          "series_code": "VC-VE",
+          "generation_name": "VC & VE Series",
+          "years": {
+            "start": 1966,
+            "end": 1969
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Crisp modern lines; VC won 1966 Wheels Car of the Year; VE introduced the luxury VIP nameplate."
+        },
+        {
+          "series_code": "VF-VG",
+          "generation_name": "VF & VG Series",
+          "years": {
+            "start": 1969,
+            "end": 1971
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Hardtop Coupe"
+          ],
+          "summary": "VF introduced the 2-door Hardtop and Regal 770; VG debuted the revolutionary Australian-engineered HEMI-6 (215 and 245ci)."
+        },
+        {
+          "series_code": "VH-VJ",
+          "generation_name": "VH & VJ Series",
+          "years": {
+            "start": 1971,
+            "end": 1975
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "All-Australian wide-body design; Hemi 215, 245, 265, and 318/340 V8s; Ranger, Regal, and Regal 770."
+        },
+        {
+          "series_code": "VK-CM",
+          "generation_name": "VK, CL & CM Series",
+          "years": {
+            "start": 1975,
+            "end": 1981
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "CL restyled front; CM introduced Electronic Lean Burn (ELB) computer-controlled spark advance on Hemi 4.0L and 4.3L sixes with exceptional fuel economy."
+        }
+      ]
+    },
+    {
+      "model_slug": "charger",
+      "name": "Chrysler Valiant Charger",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Coupe / Muscle Car",
+      "years_sold_au": {
+        "start": 1971,
+        "end": 1978
+      },
+      "locally_built": true,
+      "overview": "One of Australia's most charismatic muscle cars. Built on a shortened 105-inch wheelbase with sensational fastback styling, winning 1971 Wheels Car of the Year and immortalized by the 302 bhp E49 Six Pack.",
+      "generations": [
+        {
+          "series_code": "VH",
+          "generation_name": "VH Charger Series",
+          "years": {
+            "start": 1971,
+            "end": 1973
+          },
+          "body_styles": [
+            "2-door sports coupe"
+          ],
+          "summary": "1971 Wheels COTY winner; 'Hey Charger!' phenomenon; E37, E38 (280 bhp) and Bathurst homologation E49 (302 bhp, 3x Weber, 4-speed manual)."
+        },
+        {
+          "series_code": "VJ-VK",
+          "generation_name": "VJ & VK Charger Series",
+          "years": {
+            "start": 1973,
+            "end": 1976
+          },
+          "body_styles": [
+            "2-door sports coupe"
+          ],
+          "summary": "Round headlamps, Sportsman special edition, E48 4-speed 265 Hemi, and 318 V8."
+        },
+        {
+          "series_code": "CL",
+          "generation_name": "CL Charger Series",
+          "years": {
+            "start": 1976,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door sports coupe"
+          ],
+          "summary": "Final Charger generation; 770 trim and bold Drifter pack with side stripes and roof rack; 265 Hemi and 318 V8."
+        }
+      ]
+    },
+    {
+      "model_slug": "valiant-utility",
+      "name": "Chrysler Valiant Utility",
+      "vehicle_type": "Coupe Utility",
+      "segment": "Commercial",
+      "years_sold_au": {
+        "start": 1965,
+        "end": 1979
+      },
+      "locally_built": true,
+      "overview": "Chrysler Australia's rugged coupe utility (Wayfarer and Valiant Utility) matching Holden and Falcon utes with superior Slant-6 and Hemi-6 hauling power.",
+      "generations": [
+        {
+          "series_code": "AP5-CL-Ute",
+          "generation_name": "Valiant Utility (AP5 to CL)",
+          "years": {
+            "start": 1965,
+            "end": 1979
+          },
+          "body_styles": [
+            "2-door coupe utility"
+          ],
+          "summary": "Spanned 14 years with Slant-6, Hemi-6 (245/265), and 318 V8 engines; famous Dodge Utility and CL Drifter Ute packs."
+        }
+      ]
+    },
+    {
+      "model_slug": "centura",
+      "name": "Chrysler Centura",
+      "vehicle_type": "Sedan",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 1975,
+        "end": 1978
+      },
+      "locally_built": true,
+      "overview": "Mid-size sedan mating French Chrysler-Simca 180 bodies with Australia's massive 3.5L (215) and 4.0L (245) Hemi-6 engines, creating an accidental muscle car.",
+      "generations": [
+        {
+          "series_code": "KB-KC",
+          "generation_name": "Centura KB & KC Series",
+          "years": {
+            "start": 1975,
+            "end": 1978
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Simca 2.0L 4-cylinder and Australian 3.5L/4.0L Hemi-6 engines; GL and sporty GLX trims."
+        }
+      ]
+    },
+    {
+      "model_slug": "galant",
+      "name": "Chrysler Galant",
+      "vehicle_type": "Sedan / Coupe / Wagon",
+      "segment": "Compact",
+      "years_sold_au": {
+        "start": 1971,
+        "end": 1977
+      },
+      "locally_built": true,
+      "overview": "First collaboration between Chrysler Australia and Mitsubishi Motors, assembled at Tonsley Park with Saturn and Astron 4-cylinder engines.",
+      "generations": [
+        {
+          "series_code": "GA-GD",
+          "generation_name": "Galant GA, GB, GC, GD Series",
+          "years": {
+            "start": 1971,
+            "end": 1977
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door hardtop coupe",
+            "5-door wagon"
+          ],
+          "summary": "1.3L, 1.4L, and 1.6L Saturn engines, followed by 2.0L Astron; high build quality and rallying success."
+        }
+      ]
+    },
+    {
+      "model_slug": "sigma",
+      "name": "Chrysler Sigma",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 1977,
+        "end": 1980
+      },
+      "locally_built": true,
+      "overview": "Sensational sales hit engineered by Chrysler Australia and Mitsubishi, featuring the silky smooth counterbalanced 'Silent Shaft' Astron engine.",
+      "generations": [
+        {
+          "series_code": "GE-GH",
+          "generation_name": "Chrysler Sigma (GE, GH)",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "1.6L Saturn and 1.85L/2.0L/2.6L Astron engines; SE and Peter Brown special editions; paved the way for MMAL."
+        }
+      ]
+    },
+    {
+      "model_slug": "scorpion",
+      "name": "Chrysler Scorpion",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Coupe",
+      "years_sold_au": {
+        "start": 1978,
+        "end": 1980
+      },
+      "locally_built": false,
+      "overview": "Stylish 2-door pillarless sports coupe based on the Mitsubishi Sapporo, offering luxury grand-touring features.",
+      "generations": [
+        {
+          "series_code": "GE-GH",
+          "generation_name": "Chrysler Scorpion (GE, GH)",
+          "years": {
+            "start": 1978,
+            "end": 1980
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "2.0L and 2.6L Astron engines with balance shafts, 5-speed manual or 3-speed auto, 4-wheel disc brakes."
+        }
+      ]
+    },
+    {
+      "model_slug": "chrysler-300c",
+      "name": "Chrysler 300C",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large / Luxury",
+      "years_sold_au": {
+        "start": 2005,
+        "end": 2021
+      },
+      "locally_built": false,
+      "overview": "Brawny American rear-wheel-drive luxury sedan with gangsta proportions, packing 5.7L Hemi V8 and 6.4L SRT-8 performance.",
+      "generations": [
+        {
+          "series_code": "LX-LD",
+          "generation_name": "Chrysler 300C (LX & LD)",
+          "years": {
+            "start": 2005,
+            "end": 2021
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring wagon"
+          ],
+          "summary": "3.5L/3.6L Pentastar V6, 3.0L CRD diesel, 5.7L Hemi V8, and 350kW 6.4L Hemi V8 SRT; final rear-drive V8 rival to Falcon and Commodore."
+        }
+      ]
+    },
+    {
+      "model_slug": "pt-cruiser",
+      "name": "Chrysler PT Cruiser",
+      "vehicle_type": "Hatchback",
+      "segment": "Retro Compact",
+      "years_sold_au": {
+        "start": 2000,
+        "end": 2010
+      },
+      "locally_built": false,
+      "overview": "Retro-styled multi-purpose hatchback inspired by 1930s American hot rods, featuring versatile seating and cabriolet option.",
+      "generations": [
+        {
+          "series_code": "PT",
+          "generation_name": "PT Cruiser Series",
+          "years": {
+            "start": 2000,
+            "end": 2010
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "2-door cabriolet"
+          ],
+          "summary": "2.0L and 2.4L petrol engines, 2.4L Turbo GT (164kW), 25-way interior seat combinations."
+        }
+      ]
+    },
+    {
+      "model_slug": "crossfire",
+      "name": "Chrysler Crossfire",
+      "vehicle_type": "Coupe / Roadster",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2008
+      },
+      "locally_built": false,
+      "overview": "Striking German-built sports car manufactured by Karmann in Osnabruck, sharing 80% of its components with the Mercedes-Benz SLK (R170).",
+      "generations": [
+        {
+          "series_code": "ZH",
+          "generation_name": "Crossfire ZH Series",
+          "years": {
+            "start": 2003,
+            "end": 2008
+          },
+          "body_styles": [
+            "2-door coupe",
+            "2-door roadster"
+          ],
+          "summary": "Mercedes 3.2L 18-valve V6 (160kW) and supercharged SRT-6 (246kW), speed-sensitive deployable rear spoiler."
+        }
+      ]
+    },
+    {
+      "model_slug": "voyager",
+      "name": "Chrysler Voyager / Grand Voyager",
+      "vehicle_type": "People Mover",
+      "segment": "Large MPV",
+      "years_sold_au": {
+        "start": 1997,
+        "end": 2014
+      },
+      "locally_built": false,
+      "overview": "The pioneer of the modern minivan, offering Stow 'n Go fold-into-the-floor seating and power sliding doors across GS, RG, and RT generations.",
+      "generations": [
+        {
+          "series_code": "GS-RT",
+          "generation_name": "Voyager GS, RG, RT Series",
+          "years": {
+            "start": 1997,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door people mover"
+          ],
+          "summary": "3.3L and 3.8L V6 petrol, 2.8L CRD turbo-diesel, Stow 'n Go seating system."
+        }
+      ]
+    },
+    {
+      "model_slug": "sebring",
+      "name": "Chrysler Sebring",
+      "vehicle_type": "Sedan / Cabriolet",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 2007,
+        "end": 2010
+      },
+      "locally_built": false,
+      "overview": "American mid-size car offered in four-door sedan and two-door cabriolet featuring a three-piece folding steel hardtop.",
+      "generations": [
+        {
+          "series_code": "JS",
+          "generation_name": "Sebring JS Series",
+          "years": {
+            "start": 2007,
+            "end": 2010
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door cabriolet"
+          ],
+          "summary": "2.4L World Gas Engine and 2.7L V6 petrol; retractable hardtop cabriolet."
+        }
+      ]
+    },
+    {
+      "model_slug": "neon",
+      "name": "Chrysler Neon",
+      "vehicle_type": "Sedan",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 1996,
+        "end": 2002
+      },
+      "locally_built": false,
+      "overview": "Cab-forward American compact car with perky performance from its standard 2.0L 16-valve engine.",
+      "generations": [
+        {
+          "series_code": "PL",
+          "generation_name": "Neon PL Series",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "2.0L SOHC (98kW) and DOHC (112kW) engines, frameless door glass, SE and LE trims."
+        }
+      ]
+    }
+  ]
+}

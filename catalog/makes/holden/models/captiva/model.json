@@ -1,0 +1,268 @@
+{
+  "make_slug": "holden",
+  "model_slug": "captiva",
+  "name": "Holden Captiva",
+  "vehicle_type": "Mid-size SUV (5-seater & 7-seater)",
+  "segment": "Medium / Large SUV",
+  "years_sold_au": {
+    "start": 2006,
+    "end": 2018
+  },
+  "locally_built": false,
+  "assembly_plants_au": [
+    "Imported (Bupyeong and Gunsan, South Korea - GM Daewoo / GM Korea)"
+  ],
+  "overview": "The Holden Captiva was Holden's core mid-size family SUV between 2006 and 2018, competing in Australia's exploding SUV segment against the Ford Territory and Toyota Kluger. Built on GM's global Theta platform, the range uniquely comprised two distinct body styles: the 5-seater Captiva 5 (Opel Antara twin) and the 7-seater Captiva 7 (Chevrolet Captiva). Over 150,000 Captivas found homes in Australian driveways thanks to keen pricing, standard three-row seating, AWD capability, and Australian-built Alloytec 3.2L and 3.0L SIDI V6 engines alongside 2.0L and 2.2L common-rail turbo diesels. Series II arrived in 2011 with refreshed styling, before the model was replaced by the Equinox and Acadia.",
+  "australian_market_notes": "The Captiva played a vital role in Holden's transition from traditional rear-drive station wagons to modern crossover SUVs. The early V6 models featured the 3.2-litre version of Holden's Australian-manufactured Alloytec V6, cast at Port Melbourne and shipped to Korea for vehicle assembly. The Captiva was renowned for offering 7-seat packaging at a sub-$40k price point.",
+  "manuals": [
+    {
+      "title": "Holden Holden Captiva Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2006,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/captiva/model.json",
+      "local_path": "media/manuals/holden/captiva/holden_captiva_au_technical_manual.pdf",
+      "file_size_bytes": 4697,
+      "sha256": "398322f1bd81455f81a063a78d12560c9241ebe577a2e1da161447315f70f43e",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2007 Holden Captiva (CG MY08) LX AWD wagon. Photographed at the 2007 Australian International Motor Show, Sydney, New South Wales, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2007_Holden_Captiva_%28CG_MY08%29_LX_AWD_wagon_%282007-10-12%29.jpg/1280px-2007_Holden_Captiva_%28CG_MY08%29_LX_AWD_wagon_%282007-10-12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/holden/captiva/holden_captiva_hero_1_2007_Holden_Captiva_CG_MY08_LX_AWD_wagon_2007-10-12_.jpg",
+      "file_size_bytes": 250909,
+      "sha256": "9f2b7c20435cc14d9d00e5d27a41a3af126f5db12092e63d8f5d3c72fb6d3882"
+    },
+    {
+      "category": "exterior",
+      "caption": "2008 Holden Captiva (CG MY09) CX AWD wagon. Photographed at McGrath Sutherland Holden, Kirrawee, New South Wales, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2008_Holden_Captiva_%28CG_MY09%29_CX_AWD_wagon_%282008-12-23%29.jpg/1280px-2008_Holden_Captiva_%28CG_MY09%29_CX_AWD_wagon_%282008-12-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/holden/captiva/holden_captiva_hero_2_2008_Holden_Captiva_CG_MY09_CX_AWD_wagon_2008-12-23_.jpg",
+      "file_size_bytes": 258515,
+      "sha256": "b7c5ada3356b13fe6f6381b16e0e869d6499577e13ed41b475977de362e35988"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "CG-Series-I",
+      "generation_name": "CG Captiva Series I",
+      "years": {
+        "start": 2006,
+        "end": 2011
+      },
+      "body_styles": [
+        "5-door SUV (5-seat)",
+        "5-door SUV (7-seat)"
+      ],
+      "platform": "GM Theta platform",
+      "ancap_rating": 4,
+      "summary": "Launch of Captiva 7 and sporty Captiva MaXX/5. Powered by Australian-built Alloytec 3.2L V6 and 2.0L VCDi common-rail turbo-diesel with on-demand AWD.",
+      "engines": [
+        {
+          "engine_code": "Alloytec-3.2-V6",
+          "name": "Holden Alloytec 3.2L DOHC 24V V6",
+          "displacement_cc": 3195,
+          "displacement_litres": 3.2,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 169.0,
+          "power_rpm": "6600",
+          "torque_nm": 297.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 24V",
+          "notes": "Manufactured at Holden's Port Melbourne engine plant."
+        },
+        {
+          "engine_code": "VCDi-2.0-Diesel-CG",
+          "name": "Holden 2.0L VCDi Common-Rail Turbo Diesel Inline-4",
+          "displacement_cc": 1991,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 110.0,
+          "power_rpm": "4000",
+          "torque_nm": 320.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "17.5:1",
+          "valvetrain": "SOHC 16V",
+          "notes": "Common-rail direct injection turbo diesel."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CX (7-seater)",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "7-seat SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic with Active Select"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 42990,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1820,
+          "standard_features": [
+            "7-passenger fold-flat seating",
+            "Active on-demand all-wheel drive",
+            "Electronic stability control with rollover mitigation",
+            "17-inch alloy wheels",
+            "Rear park assist"
+          ],
+          "notes": "High-volume 7-seat family specification."
+        },
+        {
+          "badge_name": "LX (7-seater)",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "7-seat SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic with Active Select"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 45990,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1850,
+          "standard_features": [
+            "Leather seat trim with electric driver's seat",
+            "18-inch alloy wheels",
+            "Automatic climate control",
+            "Curtain airbags and side steps",
+            "Front fog lamps and roof rails"
+          ],
+          "notes": "Luxury flagship 7-seater."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CX (7-seater)",
+          "body_style": "7-seat SUV",
+          "engine_code": "Alloytec-3.2-V6",
+          "transmission": "5-speed automatic with Active Select",
+          "drivetrain": "AWD",
+          "msrp_aud": 38990,
+          "power_kw": 169.0,
+          "torque_nm": 297.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 2000,
+          "notes": "Port Melbourne Alloytec V6 7-seater."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "CG-Series-II",
+      "generation_name": "CG Captiva Series II",
+      "years": {
+        "start": 2011,
+        "end": 2018
+      },
+      "body_styles": [
+        "5-door SUV (5-seat)",
+        "5-door SUV (7-seat)"
+      ],
+      "platform": "GM Theta platform",
+      "ancap_rating": 5,
+      "summary": "Series II redesign. 5-star ANCAP safety, direct-injection 3.0L SIDI V6, 2.2L 400 Nm turbo diesel, and 6-speed automatic transmissions.",
+      "engines": [
+        {
+          "engine_code": "SIDI-3.0-V6-LF1",
+          "name": "Holden SIDI 3.0L Direct-Injection V6",
+          "displacement_cc": 2997,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 190.0,
+          "power_rpm": "6900",
+          "torque_nm": 288.0,
+          "torque_rpm": "5800",
+          "compression_ratio": "11.7:1",
+          "valvetrain": "DOHC 24V SIDI VVT",
+          "notes": "Direct injection High Feature V6."
+        },
+        {
+          "engine_code": "CDTi-2.2-Diesel",
+          "name": "Holden 2.2L CDTi Common-Rail Turbo Diesel Inline-4",
+          "displacement_cc": 2231,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 135.0,
+          "power_rpm": "3800",
+          "torque_nm": 400.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "16.3:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Variable geometry turbo with 400 Nm of torque."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LTZ (7-seater)",
+          "years": {
+            "start": 2011,
+            "end": 2018
+          },
+          "body_styles": [
+            "7-seat SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed automatic with Active Select"
+          ],
+          "msrp_aud_min": 43490,
+          "msrp_aud_max": 45490,
+          "fuel_consumption_l_100km": 10.1,
+          "kerb_weight_kg": 1920,
+          "standard_features": [
+            "19-inch alloy wheels",
+            "Leather appointed trim with heated front seats",
+            "Rear view camera and 7-inch touchscreen navigation",
+            "Hill start assist and descent control",
+            "Blind spot alert and rear cross traffic alert (later models)"
+          ],
+          "notes": "Top-spec 7-seat flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "LTZ (7-seater)",
+          "body_style": "7-seat SUV",
+          "engine_code": "CDTi-2.2-Diesel",
+          "transmission": "6-speed automatic with Active Select",
+          "drivetrain": "AWD",
+          "msrp_aud": 44490,
+          "power_kw": 135.0,
+          "torque_nm": 400.0,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 2000,
+          "notes": "400 Nm diesel 7-seater."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

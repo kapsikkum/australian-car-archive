@@ -1,0 +1,700 @@
+{
+  "make_slug": "holden",
+  "model_slug": "kingswood",
+  "name": "Holden Kingswood / Belmont / Premier",
+  "vehicle_type": "Sedan / Wagon / Utility / Panel Van / Cab Chassis",
+  "segment": "Full-size",
+  "years_sold_au": {
+    "start": 1968,
+    "end": 1985
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Dandenong, Victoria",
+    "Elizabeth, South Australia",
+    "Pagewood, New South Wales",
+    "Acacia Ridge, Queensland",
+    "Mosman Park, Western Australia"
+  ],
+  "overview": "The Holden Kingswood was Australia's definitive full-size family car and commercial workhorse from 1968 to 1985. Replacing the HR series with the all-new HK, the Kingswood moniker became an indelible piece of Australian cultural lexicon—celebrated in television ('Kingswood Country'), song, and outback folklore. Encompassing the budget Belmont, mainstream Kingswood, luxury Premier, sporty Monaro-derived options, surf-culture Sandman van/ute, and heavy-duty One Tonner cab-chassis, over 1.5 million examples were produced across HK, HT, HG, HQ, HJ, HX, HZ, and WB series.",
+  "australian_market_notes": "Introduced in 1968, the HK series brought the first V8s to Holden (imported Chevrolet 307ci V8) alongside new safety features like dual-circuit brakes and an energy-absorbing steering column. The 1969 HT introduced Holden's very own locally cast and machined V8s: the 253ci and 308ci Red V8s. The 1971 HQ was the single most successful automotive platform in Australian history, with 485,650 units built on an all-new full-perimeter front subframe chassis with coil springs on all four wheels. In 1977, the HZ series standardized Radial Tuned Suspension (RTS), giving the full-size car world-class European ride and cornering grip. The platform survived as the WB commercial range until 1985.",
+  "manuals": [
+    {
+      "title": "Holden Holden Kingswood / Belmont / Premier Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1968,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/kingswood/model.json",
+      "local_path": "media/manuals/holden/kingswood/holden_kingswood_au_technical_manual.pdf",
+      "file_size_bytes": 8412,
+      "sha256": "8e593da84567e99dd61c48f583c6729401b530db7a1b1f059a4d79823d088f0a",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Kashmir White. \nThe HT Holden was built from May 1969-July 1970, a new plastic grille, new taillights, wider back window, the long rectangular speedo was replaced by round gauges.\nThe US 307 V8 was dropped in favour of the new Australian ma",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1969_Holden_HT_Belmont_Utility_-_37188239270.jpg/1280px-1969_Holden_HT_Belmont_Utility_-_37188239270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Cars Down Under)",
+      "local_path": "media/pictures/holden/kingswood/holden_kingswood_hero_1_1969_Holden_HT_Belmont_Utility_-_37188239270.jpg",
+      "file_size_bytes": 350042,
+      "sha256": "fef8c1b11058a505f48ab433baa8e8988d9bddbca5ec91cf025f8afc36b151ac"
+    },
+    {
+      "category": "exterior",
+      "caption": "Built from July 1970-July 1971. \nThe 2nd facelift on the HK; the HT the 1st, and now the HG, it got a revised grille again and the Powerglide transmission dropped for the Australian made Trimatic. All V8 cars got disc brakes.\nEngines; 161 a",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1970_Holden_HG_Kingswood_Sedan_%2816265418563%29.jpg/1280px-1970_Holden_HG_Kingswood_Sedan_%2816265418563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/holden/kingswood/holden_kingswood_hero_2_1970_Holden_HG_Kingswood_Sedan_16265418563_.jpg",
+      "file_size_bytes": 410015,
+      "sha256": "23bed8e4e586b08f54db50a93476fc915cc7381c499ea895b3233a99cd160896"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "HK",
+      "generation_name": "HK Series",
+      "years": {
+        "start": 1968,
+        "end": 1969
+      },
+      "body_styles": [
+        "Sedan",
+        "Station Wagon",
+        "Utility",
+        "Panel Van"
+      ],
+      "platform": "GM-H full-size unibody",
+      "ancap_rating": null,
+      "summary": "Introduced the Belmont, Kingswood, and Premier nameplates, wider track, collapsible steering column, and Chevrolet 307 V8 option.",
+      "engines": [
+        {
+          "engine_code": "Red-161",
+          "name": "Holden Red 161 Inline-6",
+          "displacement_cc": 2638,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85.0,
+          "power_rpm": "4400",
+          "torque_nm": 213.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Standard engine on Belmont."
+        },
+        {
+          "engine_code": "Red-186",
+          "name": "Holden Red 186 Inline-6",
+          "displacement_cc": 3048,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 94.0,
+          "power_rpm": "4400",
+          "torque_nm": 245.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Standard engine on Kingswood and Premier."
+        },
+        {
+          "engine_code": "Chevy-307-V8",
+          "name": "Chevrolet 307ci Small-Block V8",
+          "displacement_cc": 5035,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 157.0,
+          "power_rpm": "4600",
+          "torque_nm": 407.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Imported from Canada/USA with 2-barrel Rochester carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Kingswood",
+          "years": {
+            "start": 1968,
+            "end": 1969
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Wagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "4-speed manual floor",
+            "Powerglide 2-speed auto"
+          ],
+          "msrp_aud_min": 2398,
+          "msrp_aud_max": 3150,
+          "fuel_consumption_l_100km": 13.0,
+          "kerb_weight_kg": 1300,
+          "standard_features": [
+            "186 Red six standard",
+            "Bench front seat",
+            "Dual brake circuit",
+            "Padded dashboard"
+          ],
+          "notes": "Immediate marketplace leader."
+        },
+        {
+          "badge_name": "Premier",
+          "years": {
+            "start": 1968,
+            "end": 1969
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Powerglide 2-speed auto",
+            "3-speed manual"
+          ],
+          "msrp_aud_min": 2880,
+          "msrp_aud_max": 3600,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Quad round headlamps",
+            "Reclining bucket seats",
+            "Heater/demister standard",
+            "Woodgrain dash"
+          ],
+          "notes": "Luxury executive cruiser."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kingswood",
+          "body_style": "Sedan",
+          "engine_code": "Red-186",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 2498,
+          "power_kw": 94.0,
+          "torque_nm": 245.0,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 1200,
+          "notes": "Quintessential Aussie family car."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HK",
+          "category": "exterior",
+          "caption": "Built from Jan 1968-May 1969. \nThe all new HK was larger and heavier than the HR and model names were changed and extra models added. The Standard and Special were replaced by the Belmont and Kingswood, the Premier stayed, but now got 4 hea",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/1968_Holden_HK_Kingswood_Sedan_%2816210552363%29.jpg/1280px-1968_Holden_HK_Kingswood_Sedan_%2816210552363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/kingswood/holden_kingswood_HK_1_1968_Holden_HK_Kingswood_Sedan_16210552363_.jpg",
+          "file_size_bytes": 355248,
+          "sha256": "7fad5e2eeb0722911fe2bcc236f7249cf0ca0adc46ef949512c955e4303b5082"
+        }
+      ]
+    },
+    {
+      "series_code": "HQ",
+      "generation_name": "HQ Series",
+      "years": {
+        "start": 1971,
+        "end": 1974
+      },
+      "body_styles": [
+        "Sedan",
+        "Wagon",
+        "Utility",
+        "Panel Van",
+        "Cab Chassis (One Tonner)"
+      ],
+      "platform": "GM-H HQ full perimeter chassis",
+      "ancap_rating": null,
+      "summary": "The greatest-selling Holden series ever (485,650 units). All-new styling with integrated perimeter chassis, coil springs all round, flow-through ventilation, and debut of the rugged One Tonner cab-chassis.",
+      "engines": [
+        {
+          "engine_code": "Red-173",
+          "name": "Holden Red 173 (2.85L) Inline-6",
+          "displacement_cc": 2834,
+          "displacement_litres": 2.85,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 88.0,
+          "power_rpm": "4400",
+          "torque_nm": 228.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Standard in Belmont and Kingswood."
+        },
+        {
+          "engine_code": "Red-202",
+          "name": "Holden Red 202 (3.3L) Inline-6",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 101.0,
+          "power_rpm": "4400",
+          "torque_nm": 263.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Australia's most prolific six-cylinder engine."
+        },
+        {
+          "engine_code": "Holden-253-V8-HQ",
+          "name": "Holden 253ci (4.2L) Red V8",
+          "displacement_cc": 4146,
+          "displacement_litres": 4.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 138.0,
+          "power_rpm": "4400",
+          "torque_nm": 355.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Holden in-house designed V8 cast at Fishermans Bend."
+        },
+        {
+          "engine_code": "Holden-308-V8-HQ",
+          "name": "Holden 308ci (5.0L) Red V8",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 179.0,
+          "power_rpm": "4800",
+          "torque_nm": 427.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "4-barrel Rochester Quadrajet carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Kingswood",
+          "years": {
+            "start": 1971,
+            "end": 1974
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Wagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed column manual",
+            "4-speed floor manual",
+            "Tri-Matic 3-speed automatic"
+          ],
+          "msrp_aud_min": 2865,
+          "msrp_aud_max": 3650,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1350,
+          "standard_features": [
+            "Coil spring suspension all round",
+            "Flow-through ventilation",
+            "Front bench seat",
+            "Recessed door handles"
+          ],
+          "notes": "The backbone of Australian motoring in the 1970s."
+        },
+        {
+          "badge_name": "Sandman",
+          "years": {
+            "start": 1974,
+            "end": 1974
+          },
+          "body_styles": [
+            "Panel Van",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor shift",
+            "Tri-Matic auto"
+          ],
+          "msrp_aud_min": 3520,
+          "msrp_aud_max": 4200,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "GTS sports steering wheel",
+            "GTS dashboard instrumentation",
+            "Monaro bucket seats",
+            "Side striping and Sandman decals"
+          ],
+          "notes": "Icon of Australian 1970s surf culture."
+        },
+        {
+          "badge_name": "One Tonner",
+          "years": {
+            "start": 1971,
+            "end": 1974
+          },
+          "body_styles": [
+            "Cab Chassis"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual",
+            "4-speed manual",
+            "Tri-Matic auto"
+          ],
+          "msrp_aud_min": 2650,
+          "msrp_aud_max": 3400,
+          "fuel_consumption_l_100km": 14.0,
+          "kerb_weight_kg": 1420,
+          "standard_features": [
+            "Heavy-duty full perimeter box frame",
+            "Salisbury heavy-duty leaf-sprung rear axle",
+            "1-tonne payload capacity"
+          ],
+          "notes": "Indestructible Australian commercial cab-chassis."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kingswood",
+          "body_style": "Sedan",
+          "engine_code": "Red-202",
+          "transmission": "Tri-Matic 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 3120,
+          "power_kw": 101.0,
+          "torque_nm": 263.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1350,
+          "notes": "Most common combination on Australian roads."
+        },
+        {
+          "badge_name": "Sandman",
+          "body_style": "Panel Van",
+          "engine_code": "Holden-308-V8-HQ",
+          "transmission": "4-speed floor manual",
+          "drivetrain": "RWD",
+          "msrp_aud": 4150,
+          "power_kw": 179.0,
+          "torque_nm": 427.0,
+          "fuel_l_100km": 16.5,
+          "towing_braked_kg": 1500,
+          "notes": "Legendary surf van with V8 power."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HQ",
+          "category": "exterior",
+          "caption": "Dublin Green. \nBuilt from July 1971-Oct 1974. \nThe HQ was a new design from ground up; new body, chassis, suspension and engines enlarged. The Brougham was dropped and the new Statesman introduced \nThe base model was the Belmont, available ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/1972_Holden_HQ_Kingswood_Sedan_%2816678154817%29.jpg/1280px-1972_Holden_HQ_Kingswood_Sedan_%2816678154817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/kingswood/holden_kingswood_HQ_1_1972_Holden_HQ_Kingswood_Sedan_16678154817_.jpg",
+          "file_size_bytes": 453759,
+          "sha256": "b422f0f35f9a4e3adeda573028265fe757e0510a4bafb1fcf32359519fd0f9c7"
+        }
+      ]
+    },
+    {
+      "series_code": "HZ",
+      "generation_name": "HZ Series",
+      "years": {
+        "start": 1977,
+        "end": 1980
+      },
+      "body_styles": [
+        "Sedan",
+        "Wagon",
+        "Utility",
+        "Panel Van",
+        "One Tonner"
+      ],
+      "platform": "GM-H HQ platform (RTS updated)",
+      "ancap_rating": null,
+      "summary": "Standardization of Radial Tuned Suspension (RTS) with four-wheel disc brakes standard on Premier and GTS. Transformed full-size handling to world-class standards.",
+      "engines": [
+        {
+          "engine_code": "Red-202-HZ",
+          "name": "Holden Red 202 (3.3L) Inline-6",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 81.0,
+          "power_rpm": "4000",
+          "torque_nm": 251.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "ADR 27A emission compliant."
+        },
+        {
+          "engine_code": "Holden-253-V8-HZ",
+          "name": "Holden 4.2L (253ci) V8",
+          "displacement_cc": 4146,
+          "displacement_litres": 4.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 120.0,
+          "power_rpm": "4500",
+          "torque_nm": 325.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester Dual-jet carburettor."
+        },
+        {
+          "engine_code": "Holden-308-V8-HZ",
+          "name": "Holden 5.0L (308ci) V8",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 161.0,
+          "power_rpm": "4800",
+          "torque_nm": 400.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Standard in GTS; 4-barrel Quadrajet."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Kingswood SL",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed column manual",
+            "4-speed floor manual",
+            "Tri-Matic auto"
+          ],
+          "msrp_aud_min": 6120,
+          "msrp_aud_max": 7450,
+          "fuel_consumption_l_100km": 13.8,
+          "kerb_weight_kg": 1395,
+          "standard_features": [
+            "Radial Tuned Suspension",
+            "Cloth insert seats",
+            "Rear stabilizer bar",
+            "Heated rear glass"
+          ],
+          "notes": "Upmarket Kingswood trim with superb road holding."
+        },
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 1977,
+            "end": 1979
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (M21)",
+            "Turbo Hydra-Matic 400"
+          ],
+          "msrp_aud_min": 8500,
+          "msrp_aud_max": 9900,
+          "fuel_consumption_l_100km": 15.5,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "Standard 4-wheel disc brakes",
+            "5.0L V8 standard",
+            "Front and rear spoilers",
+            "GTS sports wheels",
+            "GTS sports dash"
+          ],
+          "notes": "Sports sedan flagship following discontinuation of the 2-door Monaro."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kingswood SL",
+          "body_style": "Sedan",
+          "engine_code": "Holden-253-V8-HZ",
+          "transmission": "Tri-Matic auto",
+          "drivetrain": "RWD",
+          "msrp_aud": 6850,
+          "power_kw": 120.0,
+          "torque_nm": 325.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 1500,
+          "notes": "Popular V8 family cruiser."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HZ",
+          "category": "exterior",
+          "caption": "Sage. \nThe HZ Holden was built from October 1977-April 1980. \nThe final facelift on the old HQ body was the HZ, only minor cosmetic updates, it got the egg crate grille and thicker side protection strips. The main addition was the new Radia",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1979_Holden_HZ_Kingswood_SL_Sedan_%2825624996494%29.jpg/1280px-1979_Holden_HZ_Kingswood_SL_Sedan_%2825624996494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/kingswood/holden_kingswood_HZ_1_1979_Holden_HZ_Kingswood_SL_Sedan_25624996494_.jpg",
+          "file_size_bytes": 398347,
+          "sha256": "3ff23e5411ec634bd93cee4c8a067970b13fe6bf085479545fa8f1a907b1b94d"
+        }
+      ]
+    },
+    {
+      "series_code": "WB",
+      "generation_name": "WB Series (Commercials)",
+      "years": {
+        "start": 1980,
+        "end": 1985
+      },
+      "body_styles": [
+        "Utility",
+        "Kingswood Panel Van",
+        "One Tonner Cab Chassis"
+      ],
+      "platform": "GM-H HQ commercial platform",
+      "ancap_rating": null,
+      "summary": "Commercial evolution of the Kingswood platform with modern square front grille and rectangular headlights, Blue 202 and Blue 253/308 engines, built alongside the WB Statesman until 1985.",
+      "engines": [
+        {
+          "engine_code": "Blue-202-WB",
+          "name": "Holden Blue 3.3L (202ci) Inline-6",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 83.0,
+          "power_rpm": "4000",
+          "torque_nm": 231.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V 12-port head",
+          "notes": "12-port cylinder head with separate intake and exhaust runners."
+        },
+        {
+          "engine_code": "Blue-253-V8-WB",
+          "name": "Holden Blue 4.2L (253ci) V8",
+          "displacement_cc": 4146,
+          "displacement_litres": 4.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 115.0,
+          "power_rpm": "4400",
+          "torque_nm": 312.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel Quadrajet carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Kingswood Utility",
+          "years": {
+            "start": 1980,
+            "end": 1985
+          },
+          "body_styles": [
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual",
+            "4-speed manual",
+            "Tri-Matic auto"
+          ],
+          "msrp_aud_min": 7890,
+          "msrp_aud_max": 9600,
+          "fuel_consumption_l_100km": 13.0,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Radial Tuned Suspension",
+            "Bench or bucket seats",
+            "Full steel load bed"
+          ],
+          "notes": "Final appearance of the Kingswood badge in Australia."
+        },
+        {
+          "badge_name": "One Tonner",
+          "years": {
+            "start": 1980,
+            "end": 1985
+          },
+          "body_styles": [
+            "Cab Chassis"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "Tri-Matic auto"
+          ],
+          "msrp_aud_min": 7600,
+          "msrp_aud_max": 9400,
+          "fuel_consumption_l_100km": 14.0,
+          "kerb_weight_kg": 1430,
+          "standard_features": [
+            "Box-section ladder chassis",
+            "Heavy-duty leaf rear suspension",
+            "1,000 kg load rating"
+          ],
+          "notes": "Legendary tradie and farmer favorite."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kingswood Utility",
+          "body_style": "Utility",
+          "engine_code": "Blue-202-WB",
+          "transmission": "Tri-Matic auto",
+          "drivetrain": "RWD",
+          "msrp_aud": 8450,
+          "power_kw": 83.0,
+          "torque_nm": 231.0,
+          "fuel_l_100km": 13.0,
+          "towing_braked_kg": 1500,
+          "notes": "Final Australian Kingswood ute."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

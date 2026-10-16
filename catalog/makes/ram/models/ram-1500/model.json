@@ -1,0 +1,350 @@
+{
+  "make_slug": "ram",
+  "model_slug": "ram-1500",
+  "name": "RAM 1500",
+  "vehicle_type": "Full-size Pickup Truck",
+  "segment": "Full-size American Ute",
+  "years_sold_au": {
+    "start": 2018,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Walkinshaw Automotive Group, Clayton, Victoria (2018-Present)"
+  ],
+  "overview": "The full-size pickup that rewrote the Australian light commercial market. Re-engineered and remanufactured from left-hand drive to right-hand drive by Walkinshaw Automotive in Clayton, Victoria. Delivers 4.5-tonne towing, legendary 5.7L HEMI V8 rumble, expansive crew-cab luxury, and the 523kW supercharged TRX halo.",
+  "australian_market_notes": "Launched in 2018 by RAM Trucks Australia / American Special Vehicles. Over 25,000 trucks remanufactured at Clayton, Victoria under full Australian Design Rule (ADR) compliance. Walkinshaw designed over 400 bespoke RHD components including the instrument panel, HVAC unit, steering gear, and wiring looms. Conquered the heavy towing market for large caravans, horse floats, and offshore fishing boats.",
+  "manuals": [
+    {
+      "title": "Ram RAM 1500 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2018,
+      "language": "en",
+      "source_url": "local://catalog/makes/ram/models/ram-1500/model.json",
+      "local_path": "media/manuals/ram/ram-1500/ram_ram-1500_au_technical_manual.pdf",
+      "file_size_bytes": 4369,
+      "sha256": "751d8a9ce0cc92ae4586c856febda2c17fc7723f8cabff7f91c1a17c2e636e2f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Dodge 2008 Ram 1500 User manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzz-id-1354435",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ram/ram-1500/ram_ram-1500_manual_Dodge_2008_Ram_1500_User_manual.html",
+      "file_size_bytes": 216511,
+      "sha256": "765fa50d6e6fed1da8c65474e915f8b0e43c690c27c7873e38fb34bbaa7f04bb"
+    },
+    {
+      "title": "Dodge 2004 Ram 1500 user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-550381",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ram/ram-1500/ram_ram-1500_manual_Dodge_2004_Ram_1500_user_manual.html",
+      "file_size_bytes": 209032,
+      "sha256": "9034438c2800cf3001c1c8fb7c26d615647418ebb390974d29a53bff1a281136"
+    },
+    {
+      "title": "Dodge 2008 Ram 1500 user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-550491",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ram/ram-1500/ram_ram-1500_manual_Dodge_2008_Ram_1500_user_manual.html",
+      "file_size_bytes": 208747,
+      "sha256": "8561c9e5dc7d2627fa2e34492a69d7f6034faa04432c7db00b6ed43a96efd4db"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "American Car Show, Castle Hill, NSW 2015",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Dodge_Ram_1500_%2815687505043%29.jpg/1280px-Dodge_Ram_1500_%2815687505043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/ram/ram-1500/ram_ram-1500_hero_1_Dodge_Ram_1500_15687505043_.jpg",
+      "file_size_bytes": 160966,
+      "sha256": "3d4f840d7fbe4800d0562fd29f56836ae98964bb71ebeee170c841ac885f6d11"
+    },
+    {
+      "category": "exterior",
+      "caption": "American Car Show, Castle Hill, NSW 2015",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Dodge_Ram_1500_%2816120013200%29.jpg/1280px-Dodge_Ram_1500_%2816120013200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/ram/ram-1500/ram_ram-1500_hero_2_Dodge_Ram_1500_16120013200_.jpg",
+      "file_size_bytes": 249978,
+      "sha256": "b4ea87cbf99a5cd814dd77e9f1520108a934fcdeef9bc8a0342bf2b650617c03"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "DS",
+      "generation_name": "RAM 1500 DS (Classic)",
+      "years": {
+        "start": 2018,
+        "end": "2023"
+      },
+      "body_styles": [
+        "Quad Cab",
+        "Crew Cab"
+      ],
+      "platform": "FCA DS platform",
+      "ancap_rating": "Unrated (Exempt >3.5t GVM option / ADR Compliant)",
+      "summary": "Remanufactured at Clayton VIC. 5.7L HEMI V8 with 8-speed automatic, coil-sprung rear suspension, 4.5-tonne towing, Express and Warlock trims.",
+      "engines": [
+        {
+          "engine_code": "EZH HEMI 5.7L",
+          "name": "5.7L HEMI V8 with VVT and MDS",
+          "displacement_cc": 5654,
+          "displacement_litres": 5.7,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 291,
+          "power_rpm": "5600",
+          "torque_nm": 556,
+          "torque_rpm": "3950",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "OHV 16-valve, Multi-Displacement System (cylinder deactivation)",
+          "notes": "Classic pushrod American V8 with deep exhaust burble."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Express Crew Cab",
+          "years": {
+            "start": 2018,
+            "end": "2023"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "TorqueFlite 8-speed automatic"
+          ],
+          "msrp_aud_min": 89950,
+          "msrp_aud_max": 99950,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 2620,
+          "standard_features": [
+            "4500kg braked towing capacity",
+            "5.7L HEMI V8 (291kW)",
+            "Part-time 4WD transfer case",
+            "20-inch black alloy wheels",
+            "Heavy-duty towbar with trailer brake controller",
+            "Tub liner"
+          ],
+          "notes": "The foundation of Australia's full-size truck boom."
+        },
+        {
+          "badge_name": "Warlock",
+          "years": {
+            "start": 2020,
+            "end": "2023"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "TorqueFlite 8-speed automatic"
+          ],
+          "msrp_aud_min": 104450,
+          "msrp_aud_max": 109950,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 2650,
+          "standard_features": [
+            "Ram Rebel aggressive front grille",
+            "Heavy-duty powder-coated front/rear bumpers",
+            "1-inch suspension lift",
+            "Black 20-inch semi-gloss alloys",
+            "RamBox cargo lockable storage compartments in tub walls"
+          ],
+          "notes": "Aggressive street/off-road appearance package."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Express Crew Cab",
+          "body_style": "Crew Cab",
+          "engine_code": "EZH HEMI 5.7L",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2018,
+          "years_end": "2023",
+          "msrp_aud": 89950,
+          "power_kw": 291,
+          "torque_nm": 556,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 4500,
+          "notes": "Clayton VIC remanufactured full-size pickup with 4.5-tonne towing."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "DS",
+          "category": "exterior",
+          "caption": "Ram 1500 (DS) at the 7th US car meeting in Leimershof",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Leimershof_7._US-Car-Treffen_Ram_1500_%28DS%29-20230909-RM-162244.jpg/1280px-Leimershof_7._US-Car-Treffen_Ram_1500_%28DS%29-20230909-RM-162244.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ermell)",
+          "local_path": "media/pictures/ram/ram-1500/ram_ram-1500_DS_1_Leimershof_7._US-Car-Treffen_Ram_1500_DS_-20230909-RM-162244.jpg",
+          "file_size_bytes": 239232,
+          "sha256": "8290e6c4676786e49ebc5494886e13539228496e8221d07fdef297f5f4d5e122"
+        }
+      ]
+    },
+    {
+      "series_code": "DT",
+      "generation_name": "RAM 1500 DT (Next-Gen & TRX)",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Crew Cab"
+      ],
+      "platform": "Stellantis DT platform",
+      "ancap_rating": "ADR Compliant",
+      "summary": "Redesigned high-strength steel chassis, eTorque mild-hybrid HEMI V8, 12-inch portrait Uconnect display, active air suspension, and the monumental 523kW 6.2L Supercharged Hellcat TRX.",
+      "engines": [
+        {
+          "engine_code": "EZH eTorque",
+          "name": "5.7L HEMI V8 eTorque Mild-Hybrid",
+          "displacement_cc": 5654,
+          "displacement_litres": 5.7,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated Mild-Hybrid",
+          "fuel_type": "Petrol",
+          "power_kw": 291,
+          "power_rpm": "5600",
+          "torque_nm": 556,
+          "torque_rpm": "3950",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "OHV 16-valve, 48V motor-generator",
+          "notes": "Belt-alternator starter provides supplemental torque and seamless stop-start."
+        },
+        {
+          "engine_code": "Hellcat 6.2L Supercharged",
+          "name": "6.2L Supercharged HEMI V8 (TRX)",
+          "displacement_cc": 6166,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol",
+          "power_kw": 523,
+          "power_rpm": "6100",
+          "torque_nm": 882,
+          "torque_rpm": "4800",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 16-valve, 2.38L twin-screw supercharger",
+          "notes": "702 horsepower apex predator; 0-100 km/h in 4.5 seconds on dirt or bitumen."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Limited Crew Cab",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "TorqueFlite 8-speed automatic"
+          ],
+          "msrp_aud_min": 142950,
+          "msrp_aud_max": 156950,
+          "fuel_consumption_l_100km": 12.2,
+          "kerb_weight_kg": 2660,
+          "standard_features": [
+            "Four-corner Active-Level air suspension",
+            "12.0-inch Uconnect touchscreen",
+            "19-speaker Harman Kardon sound",
+            "Premium Natura Plus leather",
+            "Power-deployable side steps",
+            "Twin-pane panoramic sunroof",
+            "RamBox cargo system"
+          ],
+          "notes": "Ultra-luxury full-size truck."
+        },
+        {
+          "badge_name": "TRX",
+          "years": {
+            "start": 2022,
+            "end": "2024"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "TorqueFlite 8HP95 8-speed automatic"
+          ],
+          "msrp_aud_min": 209950,
+          "msrp_aud_max": 224950,
+          "fuel_consumption_l_100km": 19.6,
+          "kerb_weight_kg": 3050,
+          "standard_features": [
+            "523kW 6.2L Supercharged V8",
+            "Bilstein Black Hawk e2 adaptive performance shocks",
+            "Dana 60 solid rear axle with electronic locker",
+            "35-inch Goodyear Wrangler Territory tyres",
+            "Bespoke widebody (8 inches wider)",
+            "Launch Control with jump detection"
+          ],
+          "notes": "The most powerful factory production pickup truck ever sold in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Limited Crew Cab",
+          "body_style": "Crew Cab",
+          "engine_code": "EZH eTorque",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 142950,
+          "power_kw": 291,
+          "torque_nm": 556,
+          "fuel_l_100km": 12.2,
+          "towing_braked_kg": 4500,
+          "notes": "DT air suspension luxury pickup."
+        },
+        {
+          "badge_name": "TRX",
+          "body_style": "Crew Cab",
+          "engine_code": "Hellcat 6.2L Supercharged",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2022,
+          "years_end": "2024",
+          "msrp_aud": 209950,
+          "power_kw": 523,
+          "torque_nm": 882,
+          "fuel_l_100km": 19.6,
+          "towing_braked_kg": 3500,
+          "notes": "523kW Supercharged Hellcat V8 truck."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "DT",
+          "category": "exterior",
+          "caption": "Ram 1500 (DT) at the 7th US car meeting in Leimershof",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Leimershof_7._US-Car-Treffen_Ram_1500_%28DT%29-20230909-RM-170332.jpg/1280px-Leimershof_7._US-Car-Treffen_Ram_1500_%28DT%29-20230909-RM-170332.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ermell)",
+          "local_path": "media/pictures/ram/ram-1500/ram_ram-1500_DT_1_Leimershof_7._US-Car-Treffen_Ram_1500_DT_-20230909-RM-170332.jpg",
+          "file_size_bytes": 218785,
+          "sha256": "eb4deca1cb2f2a43b12a60d9de3e72d0a09e7d861c0f7d16d554849b3443cada"
+        }
+      ]
+    }
+  ]
+}

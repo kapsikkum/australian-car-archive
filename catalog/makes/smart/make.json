@@ -1,0 +1,68 @@
+{
+  "make_slug": "smart",
+  "name": "Smart",
+  "country_of_origin": "Germany",
+  "years_active_au": {
+    "start": 2003,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Daimler's micro-car pioneer, introduced to Australia in 2003 with the City-Coupé, Fortwo, and Roadster, and reborn in 2024 as an all-electric premium compact SUV brand.",
+  "australian_history": "Smart was launched in Australia in 2003 by DaimlerChrysler Australia with the revolutionary rear-engine City-Coupé (later renamed Fortwo), followed by the cheeky Smart Roadster and 4-seat Forfour. Its ultra-compact 2.5-metre length allowed perpendicular parking in urban Australian metropolises. While acclaimed for design and novelty, low sales and automated-manual transmission criticisms led to its withdrawal from Australia in 2015. In 2024, Smart returned to the Australian market under the joint venture between Mercedes-Benz and Geely, distributed by LSH Auto, as a purveyor of premium electric SUVs including the Smart #1 and Smart #3.",
+  "models_catalog": [
+    {
+      "model_slug": "fortwo",
+      "name": "Fortwo / City-Coupé",
+      "vehicle_type": "Micro Car",
+      "segment": "City Car",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "2015"
+      },
+      "locally_built": false,
+      "overview": "The two-seat city car built around the rigid Tridion safety cell with interchangeable plastic body panels.",
+      "generations": [
+        {
+          "series_code": "W450-W451",
+          "generation_name": "Fortwo 1st & 2nd Gen",
+          "years": {
+            "start": 2003,
+            "end": 2015
+          },
+          "body_styles": [
+            "2-door coupe",
+            "2-door cabriolet"
+          ],
+          "summary": "Powered by 698cc turbo and 1.0L 3-cylinder engines with automated manual gearboxes."
+        }
+      ]
+    },
+    {
+      "model_slug": "smart-1",
+      "name": "#1",
+      "vehicle_type": "SUV",
+      "segment": "Compact Electric SUV",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Smart's comeback electric crossover in Australia, offering 66kWh battery, 200kW rear-wheel drive, and 315kW dual-motor Brabus flagship.",
+      "generations": [
+        {
+          "series_code": "HX11",
+          "generation_name": "Smart #1",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "SEA architecture, Pro+, Premium, and Brabus performance AWD."
+        }
+      ]
+    }
+  ]
+}

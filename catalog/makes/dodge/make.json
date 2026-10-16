@@ -1,0 +1,69 @@
+{
+  "make_slug": "dodge",
+  "name": "Dodge",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 1930,
+    "end": "2016"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Historic American marque manufactured in Adelaide by Chrysler Australia (including the iconic Dodge Phoenix), and reintroduced in the 2000s with the Caliber, Nitro, and Journey.",
+  "australian_history": "Chrysler Australia assembled Dodge cars and commercial trucks for decades in South Australia at Mile End and Tonsley Park. The most famous Australian Dodge was the Dodge Phoenix, assembled in Adelaide from 1960 to 1972 from Plymouth fury/Dodge CKD packs with right-hand drive dashboards and high local content. Modern Dodge returned to Australia in 2006 under DaimlerChrysler, selling the Caliber hatchback, Nitro SUV, Avenger sedan, and Journey family crossover. The Dodge Journey was a steady family seller until Chrysler withdrew the brand from Australia in 2016 to focus on Jeep.",
+  "models_catalog": [
+    {
+      "model_slug": "phoenix",
+      "name": "Phoenix",
+      "vehicle_type": "Sedan / Hardtop",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1960,
+        "end": "1972"
+      },
+      "locally_built": true,
+      "overview": "Assembled at Chrysler Australia's Tonsley Park plant in South Australia, offering full-size luxury, V8 power, and flamboyant American styling.",
+      "generations": [
+        {
+          "series_code": "PD-PF",
+          "generation_name": "Dodge Phoenix",
+          "years": {
+            "start": 1960,
+            "end": "1972"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door hardtop",
+            "4-door hardtop"
+          ],
+          "summary": "Slant-six 225, 318 V8, 383 Big Block V8, Torqueflite automatic, and unique RHD instrument panel."
+        }
+      ]
+    },
+    {
+      "model_slug": "journey",
+      "name": "Journey",
+      "vehicle_type": "Crossover / People Mover",
+      "segment": "Large 7-seat Crossover",
+      "years_sold_au": {
+        "start": 2008,
+        "end": "2016"
+      },
+      "locally_built": false,
+      "overview": "Popular family 7-seater crossover featuring flexible Tilt 'n Slide seating and Pentastar V6 engine.",
+      "generations": [
+        {
+          "series_code": "JC49",
+          "generation_name": "Dodge Journey",
+          "years": {
+            "start": 2008,
+            "end": "2016"
+          },
+          "body_styles": [
+            "5-door 7-seat crossover"
+          ],
+          "summary": "2.7L V6 and 2.0 CRD diesel, later upgraded to 206kW 3.6L Pentastar V6 and 8.4-inch Uconnect touchscreen."
+        }
+      ]
+    }
+  ]
+}

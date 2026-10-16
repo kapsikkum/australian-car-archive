@@ -1,0 +1,301 @@
+{
+  "make_slug": "mazda",
+  "model_slug": "bt-50",
+  "name": "BT-50",
+  "vehicle_type": "Ute / Cab Chassis",
+  "segment": "Light Commercial",
+  "years_sold_au": {
+    "start": 2006,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mazda BT-50 has been an Australian tradie, touring, and towing mainstay across three generations, moving from a Ford Ranger twin with 3.2L 5-cylinder power to an Isuzu D-Max platform with the 3.0L 4JJ3 turbo-diesel.",
+  "australian_market_notes": "Replacing the Bravo in 2006, the BT-50 carved out a unique market position in Australia by offering Zoom-Zoom design and car-like ergonomics alongside 3.5-tonne towing and rugged 4WD capability. The UP/UR generation featured the unique 5-cylinder diesel, while the TF generation brought Australian-exclusive flagship editions like the Thunder.",
+  "manuals": [
+    {
+      "title": "Mazda BT-50 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2006,
+      "language": "en",
+      "source_url": "local://catalog/makes/mazda/models/bt-50/model.json",
+      "local_path": "media/manuals/mazda/bt-50/mazda_bt-50_au_technical_manual.pdf",
+      "file_size_bytes": 3777,
+      "sha256": "18e3a827e47f00660e12f20e04fe4415f260f6c2914bd0b3bcf516ddbde28f8e",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Brochure: Mazda Mk.2 BT-50 (May 2014)",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzz-id-1016055",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/bt-50/mazda_bt-50_manual_Brochure_Mazda_Mk.2_BT-50_May_2014.html",
+      "file_size_bytes": 215179,
+      "sha256": "4bfc2711e5f0a95499416e8c1326fc932d4e735b6e7434a36f3e2d17bd46296e"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2014 Mazda BT-50 2.2L 4x2 photographed in Las Piñas City, Metro Manila, PH.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2014_Mazda_BT-50_2.2L_4x2%2C_08-07-2023.jpg/1280px-2014_Mazda_BT-50_2.2L_4x2%2C_08-07-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Ethan Llamas)",
+      "local_path": "media/pictures/mazda/bt-50/mazda_bt-50_hero_1_2014_Mazda_BT-50_2.2L_4x2_08-07-2023.jpg",
+      "file_size_bytes": 296436,
+      "sha256": "793693ffe207eff26e05036d827fc95fd85a6d01284f069c9cfe572336b8148c"
+    },
+    {
+      "category": "exterior",
+      "caption": "2023 Mazda BT-50 3.0 Standard 4x2 in Concrete Gray, photographed in Mazda Alabang, Filinvest City, Muntinlupa, Metro Manila, PH.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2023_Mazda_BT-50_3.0_Standard_4x2_in_Concrete_Gray%2C_06-23-2024.jpg/1280px-2023_Mazda_BT-50_3.0_Standard_4x2_in_Concrete_Gray%2C_06-23-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Ethan Llamas)",
+      "local_path": "media/pictures/mazda/bt-50/mazda_bt-50_hero_2_2023_Mazda_BT-50_3.0_Standard_4x2_in_Concrete_Gray_06-23-2024.jpg",
+      "file_size_bytes": 409438,
+      "sha256": "eaad997c5d6dd848f89a91350802845bf61f0d091b6f5ae90296a81e6d9bb671"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "UP/UR",
+      "generation_name": "BT-50 2nd Generation",
+      "years": {
+        "start": 2011,
+        "end": "2020"
+      },
+      "body_styles": [
+        "Single Cab",
+        "Freestyle Cab",
+        "Dual Cab"
+      ],
+      "platform": "Ford T6 / Mazda UP",
+      "ancap_rating": "5 Stars",
+      "summary": "Co-developed on the Ford T6 platform with the PX Ranger, famous for its muscular 3.2L 5-cylinder turbo-diesel generating 147kW and 470Nm.",
+      "engines": [
+        {
+          "engine_code": "MZ-CD 3.2",
+          "name": "Mazda MZ-CD 3.2L 5-Cylinder Diesel",
+          "displacement_cc": 3198,
+          "displacement_litres": 3.2,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 147.0,
+          "power_rpm": "3000",
+          "torque_nm": 470.0,
+          "torque_rpm": "1750-2500",
+          "compression_ratio": "15.7:1",
+          "valvetrain": "DOHC 20-valve",
+          "notes": "Renowned for deep 5-cylinder torque and heavy 3,500kg towing capability."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XTR",
+          "years": {
+            "start": 2011,
+            "end": "2020"
+          },
+          "body_styles": [
+            "Freestyle Cab",
+            "Dual Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 48890,
+          "msrp_aud_max": 54990,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 2080,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Dual-zone climate control",
+            "Satellite navigation",
+            "Side steps",
+            "Fog lights",
+            "Locking rear differential"
+          ],
+          "notes": "Sweet-spot family touring specification."
+        },
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2011,
+            "end": "2020"
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 53990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 2110,
+          "standard_features": [
+            "Leather seats",
+            "Tub liner",
+            "Auto headlights/wipers",
+            "Chrome sports bar",
+            "Reverse camera"
+          ],
+          "notes": "Top-tier luxury dual cab."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XTR",
+          "body_style": "Dual Cab",
+          "engine_code": "MZ-CD 3.2",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2011,
+          "years_end": "2020",
+          "msrp_aud": 51990,
+          "power_kw": 147.0,
+          "torque_nm": 470.0,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 3500,
+          "notes": "3.2L 5-cylinder Dual Cab 4WD."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "UP/UR",
+          "category": "exterior",
+          "caption": "Blue Reflex Mica Mazda BT-50 UP 3.2L 4x4",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Mazda_BT-50_UP_3.2L_4x4_Blue_Reflex_Mica.jpg/1280px-Mazda_BT-50_UP_3.2L_4x4_Blue_Reflex_Mica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ethan Llamas)",
+          "local_path": "media/pictures/mazda/bt-50/mazda_bt-50_UP_UR_1_Mazda_BT-50_UP_3.2L_4x4_Blue_Reflex_Mica.jpg",
+          "file_size_bytes": 291633,
+          "sha256": "10f0259d51b2a3335732af23882efbc11d30ed0da2b77feeabd7f039cf70e7d5"
+        }
+      ]
+    },
+    {
+      "series_code": "TF",
+      "generation_name": "BT-50 3rd Generation",
+      "years": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Single Cab",
+        "Freestyle Cab",
+        "Dual Cab"
+      ],
+      "platform": "Isuzu RG",
+      "ancap_rating": "5 Stars",
+      "summary": "Built in partnership with Isuzu on the D-Max architecture, combining KODO design with the bulletproof 3.0L 4JJ3-TCX turbo-diesel and advanced driver safety.",
+      "engines": [
+        {
+          "engine_code": "4JJ3-TCX",
+          "name": "Isuzu/Mazda 3.0L Turbo-Diesel",
+          "displacement_cc": 2999,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 140.0,
+          "power_rpm": "3600",
+          "torque_nm": 450.0,
+          "torque_rpm": "1600-2600",
+          "compression_ratio": "16.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Cast-iron block 3.0L commercial truck-derived diesel renowned for reliability."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 56990,
+          "msrp_aud_max": 62500,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 2035,
+          "standard_features": [
+            "Brown leather upholstery",
+            "Heated front seats",
+            "Remote engine start",
+            "9-inch infotainment with wireless Apple CarPlay",
+            "Adaptive cruise control with lane keep",
+            "Rear diff lock"
+          ],
+          "notes": "High-spec touring ute."
+        },
+        {
+          "badge_name": "Thunder",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 65990,
+          "msrp_aud_max": 73410,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 2160,
+          "standard_features": [
+            "Steel single-hoop bullbar with integrated lightbar",
+            "Electric roller tonneau cover",
+            "Black 18-inch alloy wheels",
+            "Flared wheel arches",
+            "Thunder side steps and sports bar"
+          ],
+          "notes": "Australian-exclusive factory accessorized flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Thunder",
+          "body_style": "Dual Cab",
+          "engine_code": "4JJ3-TCX",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 69990,
+          "power_kw": 140.0,
+          "torque_nm": 450.0,
+          "fuel_l_100km": 8.0,
+          "towing_braked_kg": 3500,
+          "notes": "TF BT-50 Thunder 4x4 Dual Cab."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "TF",
+          "category": "exterior",
+          "caption": "Sailing Blue Metallic Mazda BT-50 TF FL 3.0L 4x2 at Mazda Alabang",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mazda_BT-50_TF_FL_3.0L_4x2_Sailing_Blue_Metallic.jpg/1280px-Mazda_BT-50_TF_FL_3.0L_4x2_Sailing_Blue_Metallic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ethan Llamas)",
+          "local_path": "media/pictures/mazda/bt-50/mazda_bt-50_TF_1_Mazda_BT-50_TF_FL_3.0L_4x2_Sailing_Blue_Metallic.jpg",
+          "file_size_bytes": 330878,
+          "sha256": "d28a355e1e60674515ab02ce45a4917105bb5e02a5e5208220005b80dafba2ff"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "make_slug": "citroen",
+  "name": "Citroën",
+  "country_of_origin": "France",
+  "years_active_au": {
+    "start": 1923,
+    "end": 2024
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "The avant-garde French innovator that gave Australia local assembly of the ID19/DS19, hydraulic magic-carpet ride comfort, and historic rally victories.",
+  "australian_history": "Citroën had an extraordinary history in Australia spanning over a century. In 1925, an 11CV Citroën became the first car to drive completely around the perimeter of Australia (Nevill Westwood and Greg Davies). In the 1960s, Citroën cars—specifically the ID19 and DS19—were assembled locally in Heidelberg and Clayton, Victoria by Pressed Metal Corporation and Motor Producers Ltd. The hydropneumatic suspension proved peerless on rough Australian outback roads, leading a Citroën DS21 to outright victory in the 1970 Ampol Round Australia Trial. Imported by Ateco and later Inchcape, Citroën offered the CX, BX, Xantia, C5, and C4 Cactus. In August 2024, after 101 continuous years of sales, distributor Inchcape announced Citroën would withdraw from new car sales in Australia.",
+  "models_catalog": [
+    {
+      "model_slug": "ds-id",
+      "name": "DS / ID",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Executive Car",
+      "years_sold_au": {
+        "start": 1956,
+        "end": "1975"
+      },
+      "locally_built": true,
+      "overview": "The Goddess of automotive design, assembled in Victoria and celebrated for conquering the brutal Ampol Trial with hydropneumatic suspension.",
+      "generations": [
+        {
+          "series_code": "DS-Series",
+          "generation_name": "Citroën DS & ID",
+          "years": {
+            "start": 1956,
+            "end": 1975
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Safari wagon"
+          ],
+          "summary": "Assembled in Melbourne in ID19 guise; directional swiveling headlamps on DS21/DS23, high-pressure hydraulics."
+        }
+      ]
+    },
+    {
+      "model_slug": "c5-c5x",
+      "name": "C5 / C5 X",
+      "vehicle_type": "Sedan / Wagon / Crossover",
+      "segment": "Medium / Large Car",
+      "years_sold_au": {
+        "start": 2001,
+        "end": "2024"
+      },
+      "locally_built": false,
+      "overview": "Flagship French cruiser featuring Hydractive III+ suspension and culminating in the innovative C5 X crossover fastback.",
+      "generations": [
+        {
+          "series_code": "X40-X7-E43",
+          "generation_name": "C5 Generations",
+          "years": {
+            "start": 2001,
+            "end": 2024
+          },
+          "body_styles": [
+            "Liftback",
+            "Sedan",
+            "Tourer wagon",
+            "Crossover fastback"
+          ],
+          "summary": "Hydractive III suspension; HDi twin-turbo diesels; ending with the high-riding C5 X 1.6 PureTech turbo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "make_slug": "fiat",
+  "name": "Fiat",
+  "country_of_origin": "Italy",
+  "years_active_au": {
+    "start": 1901,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Italian automotive giant that assembled 500, 600, 1100, 1500, and 124 models in Sydney and Melbourne, and thrives today with the iconic modern 500 and Ducato van.",
+  "australian_history": "Fiat has an extensive Australian footprint dating to the early 1900s. From 1957 through the 1970s, Fiat passenger cars—including the 500 'Bambino', 600, 1100, 1500, 124 sedan, and 125—were assembled locally under contract by Pressed Metal Corporation in Sydney and Motor Producers Ltd in Clayton, Melbourne. Fiats were praised for rev-happy twin-cam engines, 5-speed gearboxes, and four-wheel disc brakes. Distribution later moved through LNC Industries, Ateco Automotive, and Stellantis Australia. The retro 500 (Cinquecento) launched in 2008 and became a runaway urban success, alongside fiery Abarth 595/695 derivatives and the Ducato commercial van.",
+  "models_catalog": [
+    {
+      "model_slug": "500-cinquecento",
+      "name": "500 / Bambino",
+      "vehicle_type": "Hatchback / Convertible",
+      "segment": "City Car",
+      "years_sold_au": {
+        "start": 1957,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Beloved Italian design icon, assembled locally as the classic Bambino and reborn as the chic modern 500, Abarth, and electric 500e.",
+      "generations": [
+        {
+          "series_code": "Nuova-500",
+          "generation_name": "Fiat Nuova 500 (Bambino)",
+          "years": {
+            "start": 1957,
+            "end": 1975
+          },
+          "body_styles": [
+            "2-door saloon",
+            "Convertible"
+          ],
+          "summary": "Locally assembled air-cooled rear-engine 479cc-594cc twin; affectionately named the Bambino."
+        },
+        {
+          "series_code": "Typ 312",
+          "generation_name": "Fiat 500 Modern",
+          "years": {
+            "start": 2008,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatch",
+            "Cabriolet"
+          ],
+          "summary": "1.2L, 1.4L 16V, TwinAir 2-cylinder turbo, Abarth 595/695 (up to 132kW), and 500e EV."
+        }
+      ]
+    },
+    {
+      "model_slug": "ducato",
+      "name": "Ducato",
+      "vehicle_type": "Van / Cab-Chassis",
+      "segment": "Large Commercial Van / Motorhome",
+      "years_sold_au": {
+        "start": 2002,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The dominant base vehicle for the Australian motorhome and RV industry, featuring front-wheel drive and torquey MultiJet turbo-diesels.",
+      "generations": [
+        {
+          "series_code": "Typ 244-250",
+          "generation_name": "Ducato Generations",
+          "years": {
+            "start": 2002,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Medium/Long/Extra-long van",
+            "Cab-chassis"
+          ],
+          "summary": "2.3L and 3.0L MultiJet turbo diesels with 9-speed torque-converter automatic."
+        }
+      ]
+    },
+    {
+      "model_slug": "500-abarth",
+      "name": "500 & Abarth 595/695",
+      "vehicle_type": "Microcar / Hot Hatchback / Cabriolet",
+      "segment": "Micro Car / Performance Hatchback",
+      "years_sold_au": {
+        "start": 1957,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The Italian style icon that charmed Australia. From the original rear-engined 500 'Bambino' that motorized post-war migrants and Australian urbanites, to the retro-chic 2008 rebirth (Typ 312) and the scorpion-badged Abarth 595 and 695 hot hatches with screaming Record Monza exhausts and Brembo brakes.",
+      "generations": [
+        {
+          "series_code": "Nuova 500",
+          "generation_name": "Fiat 500 'Bambino' Nuova",
+          "years": {
+            "start": 1957,
+            "end": 1975
+          },
+          "body_styles": [
+            "2-door micro-saloon with fabric sunroof"
+          ],
+          "summary": "Dante Giacosa's microcar masterpiece. Rear-mounted air-cooled 2-cylinder engine (479cc, 499cc, 594cc), suicide doors on early D models, and full-length folding canvas roof. Immensely popular in Australia as the Bambino."
+        },
+        {
+          "series_code": "Typ 312 Fiat 500",
+          "generation_name": "Fiat 500 Modern Generation (Typ 312)",
+          "years": {
+            "start": 2008,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "2-door cabriolet (500C)"
+          ],
+          "summary": "Modern retro design icon. Pop, Lounge, Dolcevita; 1.2L 8V, 1.4L 16V FIRE, innovative 0.9L TwinAir 2-cylinder turbo (63kW), and 1.0L GSE Mild Hybrid."
+        },
+        {
+          "series_code": "Typ 312 Abarth",
+          "generation_name": "Abarth 500, 595 & 695",
+          "years": {
+            "start": 2009,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "2-door cabriolet (595C)"
+          ],
+          "summary": "Scorpion-badged pocket rocket. Powered by the 1.4L T-Jet turbocharged engine producing up to 132kW/140kW in the 595/695 Competizione and Biposto, equipped with Record Monza quad exhaust, Koni FSD dampers, and Brembo brakes."
+        }
+      ]
+    }
+  ]
+}

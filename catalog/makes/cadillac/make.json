@@ -1,0 +1,41 @@
+{
+  "make_slug": "cadillac",
+  "name": "Cadillac",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 2024,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "General Motors' flagship luxury brand, officially entering Australia in 2024 as an all-electric prestige brand led by the Lyriq SUV.",
+  "australian_history": "Cadillac originally planned to launch in Australia in late 2008 with the CTS sedan under GM Holden. Dozens of ADR-compliant right-hand drive cars were shipped to Melbourne and dealer agreements were signed, but the 2008 Global Financial Crisis and GM's subsequent chapter 11 restructuring forced an abrupt cancellation. In late 2023, GM announced that Cadillac would officially launch in Australia in 2024 as an all-electric luxury brand. Operating direct-to-consumer Cadillac Experience Centres in Sydney, Melbourne, and Brisbane, the brand debuted with the Lyriq mid-size luxury EV SUV built on GM's Ultium platform in factory right-hand drive.",
+  "models_catalog": [
+    {
+      "model_slug": "lyriq",
+      "name": "Lyriq",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury Electric SUV",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Cadillac's debut electric SUV in Australia, featuring 102kWh Ultium battery, 373kW dual-motor AWD, and a 33-inch curved LED 9K display.",
+      "generations": [
+        {
+          "series_code": "Lyriq-Gen1",
+          "generation_name": "Lyriq",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Luxury and Sport trims, 373kW / 610Nm dual motors, 530km range, 19-speaker AKG audio, and illuminated black crystal shield grille."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "make_slug": "mitsubishi",
+  "model_slug": "triton",
+  "name": "Triton",
+  "vehicle_type": "Ute / Cab Chassis",
+  "segment": "Light Commercial",
+  "years_sold_au": {
+    "start": 1979,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mitsubishi Triton has been one of Australia's favourite dual-cab utes for over four decades, offering tough ladder-chassis capability, advanced Super Select II 4WD, and exceptional value for trades and families.",
+  "australian_market_notes": "First sold as the L200 in 1979, the Triton badge was established in 1986. The fourth-generation ML introduced the distinctive curved 'J-line' cabin, while the MQ and MR brought the lightweight 2.4L 4N15 MIVEC aluminium turbo-diesel and full-time 4WD on sealed surfaces via Super Select II. In 2024, the all-new MV Triton arrived with bi-turbo diesel power and 3500kg towing.",
+  "manuals": [
+    {
+      "title": "Mitsubishi Triton Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1979,
+      "language": "en",
+      "source_url": "local://catalog/makes/mitsubishi/models/triton/model.json",
+      "local_path": "media/manuals/mitsubishi/triton/mitsubishi_triton_au_technical_manual.pdf",
+      "file_size_bytes": 5124,
+      "sha256": "71c35c09960f9e418509e5f03a318a9229696529b5de8126a9dd0d2e96fb2e7f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "My two Matchbox Chevy utes stopped chasing each other with screaming V8s for a short time so I could take this photo. I received the '70 El Camino in a five-pack along with a tow truck, a Mitsubishi L200 (or Triton, if you live in Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Green_Chevy_Utes_%286075293225%29.jpg/1280px-The_Green_Chevy_Utes_%286075293225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/mitsubishi/triton/mitsubishi_triton_hero_1_The_Green_Chevy_Utes_6075293225_.jpg",
+      "file_size_bytes": 358073,
+      "sha256": "fbb65f1b6f2ea0b404db3cde035d1d81763cd43054ef1bbd0512ad79253b9924"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "ML/MN",
+      "generation_name": "Triton 4th Generation",
+      "years": {
+        "start": 2006,
+        "end": "2015"
+      },
+      "body_styles": [
+        "Single Cab",
+        "Club Cab",
+        "Double Cab"
+      ],
+      "platform": "Mitsubishi ML",
+      "ancap_rating": "4 Stars",
+      "summary": "Pioneered the aerodynamic curved 'J-line' cabin design, creating best-in-class second-row legroom and offering 3.2L 4M41 and 2.5L 4D56 common-rail diesel power.",
+      "engines": [
+        {
+          "engine_code": "4M41",
+          "name": "Mitsubishi 3.2L Di-D Diesel",
+          "displacement_cc": 3200,
+          "displacement_litres": 3.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 118.0,
+          "power_rpm": "3800",
+          "torque_nm": 347.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "17.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Truck-like 3.2L common-rail diesel fitted to ML models (2006-2009)."
+        },
+        {
+          "engine_code": "4D56-HP",
+          "name": "Mitsubishi 2.5L High-Power Di-D",
+          "displacement_cc": 2477,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 131.0,
+          "power_rpm": "4000",
+          "torque_nm": 400.0,
+          "torque_rpm": "2000-2850",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Variable-geometry turbo engine fitted to MN models (2009-2015)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GLX-R",
+          "years": {
+            "start": 2006,
+            "end": "2015"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto",
+            "5-speed auto"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 51990,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1945,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Super Select 4WD",
+            "Power-sliding rear windscreen",
+            "Sports bar",
+            "Side steps",
+            "Cruise control"
+          ],
+          "notes": "Australia's top-selling family spec."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GLX-R",
+          "body_style": "Double Cab",
+          "engine_code": "4M41",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 2006,
+          "years_end": "2009",
+          "msrp_aud": 46990,
+          "power_kw": 118.0,
+          "torque_nm": 347.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 2500,
+          "notes": "ML GLX-R 3.2L."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "MQ/MR",
+      "generation_name": "Triton 5th Generation",
+      "years": {
+        "start": 2015,
+        "end": "2023"
+      },
+      "body_styles": [
+        "Single Cab",
+        "Club Cab",
+        "Double Cab"
+      ],
+      "platform": "Mitsubishi MQ",
+      "ancap_rating": "5 Stars",
+      "summary": "Featured the all-aluminium 2.4L 4N15 MIVEC turbo-diesel, dramatic Dynamic Shield styling on MR facelift, Super Select II 4WD, and 3,100kg towing.",
+      "engines": [
+        {
+          "engine_code": "4N15",
+          "name": "Mitsubishi 2.4L MIVEC Turbo-Diesel",
+          "displacement_cc": 2442,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 133.0,
+          "power_rpm": "3500",
+          "torque_nm": 430.0,
+          "torque_rpm": "2500",
+          "compression_ratio": "15.5:1",
+          "valvetrain": "DOHC 16-valve MIVEC",
+          "notes": "Lightweight aluminium cylinder block with variable valve timing on intake."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GLS",
+          "years": {
+            "start": 2015,
+            "end": "2023"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "5-speed auto",
+            "6-speed auto"
+          ],
+          "msrp_aud_min": 44490,
+          "msrp_aud_max": 51490,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1950,
+          "standard_features": [
+            "Super Select II 4WD with center diff lock (safe on tarmac)",
+            "18-inch alloy wheels",
+            "Rear diff lock",
+            "LED headlights",
+            "Dual-zone climate control",
+            "Apple CarPlay/Android Auto"
+          ],
+          "notes": "Benchmark value-for-money dual-cab 4WD."
+        },
+        {
+          "badge_name": "GSR",
+          "years": {
+            "start": 2020,
+            "end": "2023"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 53490,
+          "msrp_aud_max": 56990,
+          "fuel_consumption_l_100km": 8.6,
+          "kerb_weight_kg": 1990,
+          "standard_features": [
+            "Black 18-inch alloy wheels",
+            "Black grille, mirrors, and roof",
+            "Leather-appointed heated front seats",
+            "360-degree multi-around monitor",
+            "Rear differential lock"
+          ],
+          "notes": "Sporting aesthetic flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GLS",
+          "body_style": "Double Cab",
+          "engine_code": "4N15",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2019,
+          "years_end": "2023",
+          "msrp_aud": 49490,
+          "power_kw": 133.0,
+          "torque_nm": 430.0,
+          "fuel_l_100km": 8.6,
+          "towing_braked_kg": 3100,
+          "notes": "MR Triton GLS dual-cab."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "MV",
+      "generation_name": "Triton 6th Generation",
+      "years": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Double Cab",
+        "Club Cab"
+      ],
+      "platform": "Mitsubishi MV",
+      "ancap_rating": "5 Stars",
+      "summary": "All-new heavy-duty platform with wider body dimensions, 3,500kg braked towing, and the 2.4L 4N16 bi-turbo diesel delivering 150kW and 470Nm.",
+      "engines": [
+        {
+          "engine_code": "4N16",
+          "name": "Mitsubishi 2.4L Bi-Turbo Diesel",
+          "displacement_cc": 2442,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Bi-Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 150.0,
+          "power_rpm": "3500",
+          "torque_nm": 470.0,
+          "torque_rpm": "1500-2750",
+          "compression_ratio": "15.2:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Twin-turbo setup providing broad low-end response and 150kW peak power."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GLS",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 59090,
+          "msrp_aud_max": 61990,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 2050,
+          "standard_features": [
+            "Super Select II 4WD",
+            "9-inch infotainment with wireless Apple CarPlay",
+            "Dual-zone climate control",
+            "18-inch black alloys",
+            "3500kg towing capacity"
+          ],
+          "notes": "The sweet spot of the MV generation."
+        },
+        {
+          "badge_name": "GSR",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 63840,
+          "msrp_aud_max": 65500,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 2075,
+          "standard_features": [
+            "Black exterior accents and sports bar",
+            "Leather accented seats with orange contrast stitching",
+            "Wireless phone charging",
+            "Roof rails",
+            "Multi-around view monitor"
+          ],
+          "notes": "Flagship grade."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GSR",
+          "body_style": "Double Cab",
+          "engine_code": "4N16",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 63840,
+          "power_kw": 150.0,
+          "torque_nm": 470.0,
+          "fuel_l_100km": 7.7,
+          "towing_braked_kg": 3500,
+          "notes": "MV Triton GSR Bi-Turbo."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

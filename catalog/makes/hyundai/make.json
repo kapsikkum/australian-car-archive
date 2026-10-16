@@ -1,0 +1,312 @@
+{
+  "make_slug": "hyundai",
+  "name": "Hyundai",
+  "country_of_origin": "South Korea",
+  "years_active_au": {
+    "start": 1986,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "From Alan Bond's initial budget import of the Excel in 1986 to a permanent top-3 market contender renowned for Australian-tuned dynamics, Tucson, Santa Fe, and the i30 N hot hatch.",
+  "australian_history": "Hyundai's entry into Australia is one of the most colourful chapters in local automotive history. In late 1985, Western Australian entrepreneur Alan Bond's Bond Motor Corporation unveiled the front-wheel-drive Hyundai Excel at the Perth Motor Show, officially beginning sales in February 1986. Priced aggressively with standard equipment that undercut Japanese rivals, the Excel quickly expanded nationally.\n\nIn the 1990s, under Hyundai Automotive Distributors Australia (HADA), the second and third-generation Excel (X2 and X3) became a sales phenomenon. The 1994-2000 X3 Excel, offered for years at $13,990 driveaway with free air-conditioning, became Australia's best-selling car outright in individual monthly sales runs and the default first car for a generation of Australians (later forming the basis for the national Excel Cup circuit racing series).\n\nIn 2003, Hyundai Motor Company Australia (HMCA) was formed as a direct factory subsidiary. A turning point arrived in 2007 with the launch of the first-generation i30 hatchback. Designed in Germany with a sophisticated multi-link rear suspension, the i30 won the 2007 Wheels Car of the Year award and marked Hyundai's transition from a cheap alternative to a class benchmark.\n\nIn 2011, HMCA pioneered an in-house Australian suspension and steering tuning program led by chassis engineer Graeme Gambold. Every Hyundai sold in Australia was tested over thousands of kilometres of coarse-chip bitumen, corrugated gravel, and off-camber country roads, custom-valving dampers and matching spring rates for Australia's unique topography. In 2017, Hyundai launched the high-performance N division in Australia with the i30 N, developed under former BMW M engineering chief Albert Biermann. Today, Hyundai stands as a technology leader with the Ioniq 5 and 6 electric vehicles, Palisade, Santa Fe, Tucson, and Kona.",
+  "models_catalog": [
+    {
+      "model_slug": "excel",
+      "name": "Excel",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light / Small Car",
+      "years_sold_au": {
+        "start": 1986,
+        "end": "2000"
+      },
+      "locally_built": false,
+      "overview": "The car that launched Hyundai in Australia, a runaway sales record-breaker and affordable motoring legend.",
+      "generations": [
+        {
+          "series_code": "X1",
+          "generation_name": "Excel 1st Gen",
+          "years": {
+            "start": 1986,
+            "end": 1989
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch"
+          ],
+          "summary": "1.5L Mitsubishi-derived Orion engine, 5-speed manual, Alan Bond Perth launch."
+        },
+        {
+          "series_code": "X2",
+          "generation_name": "Excel 2nd Gen",
+          "years": {
+            "start": 1990,
+            "end": 1994
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.5L multi-point EFI, rounded aerodynamic styling; GL, GLS, Sprint."
+        },
+        {
+          "series_code": "X3",
+          "generation_name": "Excel 3rd Gen",
+          "years": {
+            "start": 1994,
+            "end": 2000
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch",
+            "Sedan"
+          ],
+          "summary": "1.5L Alpha DOHC engine, $13,990 driveaway pioneer, Australia's top-selling small car; GX, Sprint, GLX."
+        }
+      ]
+    },
+    {
+      "model_slug": "getz",
+      "name": "Getz",
+      "vehicle_type": "Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 2002,
+        "end": "2011"
+      },
+      "locally_built": false,
+      "overview": "Immensely popular European-styled budget city hatch, succeeding the Excel as Australia's value champion.",
+      "generations": [
+        {
+          "series_code": "TB",
+          "generation_name": "Getz",
+          "years": {
+            "start": 2002,
+            "end": 2011
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch"
+          ],
+          "summary": "1.3L, 1.4L, 1.5L, and 1.6L Alpha engines, exceptional interior packaging; XL, GL, S, SX."
+        }
+      ]
+    },
+    {
+      "model_slug": "i30",
+      "name": "i30",
+      "vehicle_type": "Hatchback / Sedan / Fastback",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 2007,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The car that transformed Hyundai's reputation in Australia, winner of Wheels COTY 2007 and home to the acclaimed i30 N hot hatch.",
+      "generations": [
+        {
+          "series_code": "FD",
+          "generation_name": "i30 1st Gen",
+          "years": {
+            "start": 2007,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "cw Wagon"
+          ],
+          "summary": "2.0L Beta II petrol and 1.6L CRDi turbo-diesel, multi-link rear suspension; Wheels COTY 2007."
+        },
+        {
+          "series_code": "GD",
+          "generation_name": "i30 2nd Gen",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "Tourer Wagon"
+          ],
+          "summary": "Fluidic Sculpture design, 1.8L Nu and 2.0L GDi petrol, 1.6L CRDi; Australian suspension tune."
+        },
+        {
+          "series_code": "PD",
+          "generation_name": "i30 3rd Gen",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "Fastback",
+            "Sedan (CN7)"
+          ],
+          "summary": "2.0L petrol, 1.6L Turbo N Line (150kW), and Albert Biermann-engineered i30 N 2.0L Turbo (206kW/392Nm)."
+        }
+      ]
+    },
+    {
+      "model_slug": "tucson",
+      "name": "Tucson / ix35",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2004,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "High-volume family SUV that spearheaded Hyundai's SUV growth in Australia across four generations.",
+      "generations": [
+        {
+          "series_code": "JM",
+          "generation_name": "Tucson 1st Gen",
+          "years": {
+            "start": 2004,
+            "end": 2010
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L 4-cylinder and 2.7L Delta V6 petrol, 4WD lock system; City and Elite."
+        },
+        {
+          "series_code": "LM",
+          "generation_name": "ix35 2nd Gen",
+          "years": {
+            "start": 2010,
+            "end": 2015
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Badged ix35 in Australia, 2.0L/2.4L Theta II and 2.0L R-Series turbo-diesel (135kW/392Nm); Active, Elite, Highlander."
+        },
+        {
+          "series_code": "TL",
+          "generation_name": "Tucson 3rd Gen",
+          "years": {
+            "start": 2015,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Reverted to Tucson badge, 2.0L GDi, 1.6L Turbo (7-speed DCT), 2.0L diesel; local suspension tuning."
+        },
+        {
+          "series_code": "NX4",
+          "generation_name": "Tucson 4th Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Parametric Jewel design, 2.0L petrol, 1.6L Turbo AWD, 2.0L Diesel, and 1.6L Turbo Hybrid (HEV)."
+        }
+      ]
+    },
+    {
+      "model_slug": "santa-fe",
+      "name": "Santa Fe",
+      "vehicle_type": "SUV",
+      "segment": "Large SUV",
+      "years_sold_au": {
+        "start": 2000,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Long-running 7-seat family touring SUV, celebrated for punchy R-Series turbo-diesel torque and towing capability.",
+      "generations": [
+        {
+          "series_code": "SM",
+          "generation_name": "Santa Fe 1st Gen",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.7L Delta V6 and 3.5L Sigma V6, full-time AWD, wide muscular body."
+        },
+        {
+          "series_code": "CM",
+          "generation_name": "Santa Fe 2nd Gen",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV (7 seats)"
+          ],
+          "summary": "Introduced 7-passenger capability, 2.2L CRDi diesel and 3.3L/3.5L Lambda V6 petrol."
+        },
+        {
+          "series_code": "DM",
+          "generation_name": "Santa Fe 3rd Gen",
+          "years": {
+            "start": 2012,
+            "end": 2018
+          },
+          "body_styles": [
+            "5-door SUV (7 seats)"
+          ],
+          "summary": "Storm Edge design, 2.2L R-series diesel (147kW/440Nm), local Australian chassis tune."
+        },
+        {
+          "series_code": "TM",
+          "generation_name": "Santa Fe 4th Gen",
+          "years": {
+            "start": 2018,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door SUV (7 seats)"
+          ],
+          "summary": "3.5L V6 FWD, 2.2L Diesel AWD, and 1.6L Turbo Hybrid AWD; HTRAC AWD."
+        },
+        {
+          "series_code": "MX5",
+          "generation_name": "Santa Fe 5th Gen",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV (7 seats)"
+          ],
+          "summary": "Bold geometric retro-futuristic boxy styling, 1.6L Turbo Hybrid and 2.5L Turbo petrol."
+        }
+      ]
+    },
+    {
+      "model_slug": "ioniq-5",
+      "name": "Ioniq 5",
+      "vehicle_type": "Electric Crossover",
+      "segment": "Medium EV",
+      "years_sold_au": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Retro-futuristic EV on the 800V E-GMP platform, featuring ultra-fast charging and the 478kW Ioniq 5 N performance hero.",
+      "generations": [
+        {
+          "series_code": "NE",
+          "generation_name": "Ioniq 5 1st Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door EV Crossover"
+          ],
+          "summary": "58kWh/72.6kWh/77.4kWh/84kWh batteries, 800V architecture (10-80% in 18 min); Ioniq 5 N 478kW AWD."
+        }
+      ]
+    }
+  ]
+}

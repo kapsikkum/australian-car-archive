@@ -1,0 +1,350 @@
+{
+  "make_slug": "fpv",
+  "model_slug": "gt-f6",
+  "name": "FPV GT & F6",
+  "vehicle_type": "Sedan",
+  "segment": "High-Performance Muscle Car",
+  "years_sold_au": {
+    "start": 2003,
+    "end": 2014
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Campbellfield, Victoria"
+  ],
+  "overview": "The FPV GT and F6 were Ford Performance Vehicles' crowning high-performance icons. Developed in Campbellfield, Victoria by Ford Australia and Prodrive, this duo formed the greatest domestic performance confrontation in Australian history against HSV. The GT revived Ford's iconic muscle heritage with the quad-cam 32-valve Boss 290 and Boss 315 V8s, before adopting the supercharged 5.0L 'Miami' V8 and culminating in the 2014 GT-F 351 (delivering over 400kW on overboost). Concurrently, the F6 Typhoon transformed Australian performance perceptions with its devastating turbocharged Barra 4.0-litre straight-six, producing up to 565Nm of flat-line torque and supercar acceleration.",
+  "australian_market_notes": "The BA GT launched in March 2003 with the Boss 290—an engine created specifically for Australia by marrying an American 5.4L cast-iron block with quad-cam 32-valve heads from the Mustang Cobra R. In October 2004, FPV shocked the Australian market with the F6 Typhoon, packing an enormous front-mount intercooler and 270kW/550Nm of Barra Turbo grunt that out-torqued contemporary V8s. In 2010, FPV engineered the 'Miami' supercharged 5.0L V8 in Melbourne at a cost of $40 million, featuring an Australian Harrop supercharger with inverted manifold and twin water-to-air intercoolers. The FPV journey signed off in 2014 with 500 numbered GT-F 351 sedans.",
+  "manuals": [
+    {
+      "title": "Fpv FPV GT & F6 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2003,
+      "language": "en",
+      "source_url": "local://catalog/makes/fpv/models/gt-f6/model.json",
+      "local_path": "media/manuals/fpv/gt-f6/fpv_gt-f6_au_technical_manual.pdf",
+      "file_size_bytes": 5725,
+      "sha256": "8138504a7d66170601a985d578675e9fcc5f00cecfd5296416f53fe533342bc8",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2007 FPV GT-P (BF) in Octane Orange. \nThe BF Falcon was built from Oct 2005- Feb 2008.\nVisually the BF was only a minor facelift on the BA, but it was a more refined car, quieter and smoother. \nFPV. (Ford Performance Vehicles), a separate c",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2007_FPV_BF_GT-P_Sedan_%2830090957506%29.jpg/1280px-2007_FPV_BF_GT-P_Sedan_%2830090957506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/fpv/gt-f6/fpv_gt-f6_hero_1_2007_FPV_BF_GT-P_Sedan_30090957506_.jpg",
+      "file_size_bytes": 342437,
+      "sha256": "e3c112ad64b7ee8eba6e57dde81f4a51e4ca1f422265f8f55a09e0a01180169e"
+    },
+    {
+      "category": "exterior",
+      "caption": "The BF Falcon was built from Oct 2005- Feb 2008.\nVisually the BF was only a minor facelift on the BA, but it was a more refined car, quieter and smoother. \nFPV. (Ford Performance Vehicles), a separate company to Ford, operating from 2003-20",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2007_Ford_BF_FPV_F6_Sedan_%2819291648883%29.jpg/1280px-2007_Ford_BF_FPV_F6_Sedan_%2819291648883%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/fpv/gt-f6/fpv_gt-f6_hero_2_2007_Ford_BF_FPV_F6_Sedan_19291648883_.jpg",
+      "file_size_bytes": 441204,
+      "sha256": "3840cae7858060efd595b8646eee77bec9c6ae2a8e5ae20499e620b5cf6c049c"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "BA-BF",
+      "generation_name": "BA & BF Series (Boss 290 & F6 Typhoon)",
+      "years": {
+        "start": 2003,
+        "end": 2008
+      },
+      "body_styles": [
+        "4-door performance sedan"
+      ],
+      "platform": "Ford EA169 modified by FPV",
+      "ancap_rating": "4 Stars",
+      "summary": "Inaugural FPV generation. Boss 290 5.4L quad-cam 32V V8 (290kW/520Nm), Tremec T56 manual and ZF 6-speed auto; introduction of the legendary F6 Typhoon (270kW/550Nm).",
+      "engines": [
+        {
+          "engine_code": "Boss-290",
+          "name": "Boss 290 5.4L DOHC 32V Modular V8",
+          "displacement_cc": 5408,
+          "displacement_litres": 5.4,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 290.0,
+          "power_rpm": "5500",
+          "torque_nm": 520.0,
+          "torque_rpm": "4500",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 32V Quad-Cam",
+          "notes": "Hand-assembled in Campbellfield; high-flow Cobra R cylinder heads."
+        },
+        {
+          "engine_code": "Barra-270T-F6",
+          "name": "Barra 270T 4.0L DOHC Turbo Inline-6 (F6)",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 270.0,
+          "power_rpm": "5250",
+          "torque_nm": 550.0,
+          "torque_rpm": "2000-4250",
+          "compression_ratio": "8.7:1",
+          "valvetrain": "DOHC 24V DIVCT Garrett GT3582R Turbo",
+          "notes": "Class-leading 550Nm torque; 0-100 km/h in 5.4s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT / GT-P",
+          "years": {
+            "start": 2003,
+            "end": 2008
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed/6-speed manual (Tremec T56)",
+            "4-speed auto / ZF 6-speed auto"
+          ],
+          "msrp_aud_min": 59810,
+          "msrp_aud_max": 71990,
+          "fuel_consumption_l_100km": 15.0,
+          "kerb_weight_kg": 1825,
+          "standard_features": [
+            "Boss 290 V8",
+            "Brembo brakes (4-piston front on GT; 6-piston on GT-P)",
+            "19-inch alloy wheels",
+            "FPV sports seats",
+            "FPV sports steering wheel",
+            "Historic 1970s GT side stripes"
+          ],
+          "notes": "Revived the legendary Ford Falcon GT."
+        },
+        {
+          "badge_name": "F6 Typhoon",
+          "years": {
+            "start": 2004,
+            "end": 2008
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (T56)",
+            "ZF 6-speed automatic"
+          ],
+          "msrp_aud_min": 58990,
+          "msrp_aud_max": 65990,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 1780,
+          "standard_features": [
+            "270kW Barra Turbo six",
+            "Massive front-mount intercooler",
+            "AP Racing / Brembo brakes",
+            "F6 sports instrumentation with turbo boost gauge",
+            "18-inch/19-inch alloys"
+          ],
+          "notes": "Australia's six-cylinder muscle king."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "F6 Typhoon",
+          "body_style": "4-door sedan",
+          "engine_code": "Barra-270T-F6",
+          "transmission": "ZF 6-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 61990,
+          "power_kw": 270.0,
+          "torque_nm": 550.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 2300,
+          "notes": "Devastating real-world acceleration."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "BA-BF",
+          "category": "exterior",
+          "caption": "2007 FPV GT-P (BF) in Octane Orange. \nThe BF Falcon was built from Oct 2005- Feb 2008.\nVisually the BF was only a minor facelift on the BA, but it was a more refined car, quieter and smoother. \nFPV. (Ford Performance Vehicles), a separate c",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2007_FPV_BF_GT-P_Sedan_%2830090957506%29.jpg/1280px-2007_FPV_BF_GT-P_Sedan_%2830090957506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/fpv/gt-f6/fpv_gt-f6_BA-BF_1_2007_FPV_BF_GT-P_Sedan_30090957506_.jpg",
+          "file_size_bytes": 342437,
+          "sha256": "e3c112ad64b7ee8eba6e57dde81f4a51e4ca1f422265f8f55a09e0a01180169e"
+        }
+      ]
+    },
+    {
+      "series_code": "FG-II",
+      "generation_name": "FG Series II & GT-F 351 (Supercharged Miami V8 & F6 310)",
+      "years": {
+        "start": 2010,
+        "end": 2014
+      },
+      "body_styles": [
+        "4-door performance sedan"
+      ],
+      "platform": "Ford Orion platform modified by FPV",
+      "ancap_rating": "5 Stars",
+      "summary": "Peak of FPV engineering. Australian-developed 5.0L Supercharged 'Miami' V8 (335kW in GT; 351kW / 400kW+ overboost in GT-F 351), alongside the F6 310 (310kW/565Nm) with Garrett GT3576R turbo.",
+      "engines": [
+        {
+          "engine_code": "Miami-Supercharged-335",
+          "name": "Miami 5.0L Supercharged 32V V8 (GT & GT-P)",
+          "displacement_cc": 4951,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 335.0,
+          "power_rpm": "5750",
+          "torque_nm": 570.0,
+          "torque_rpm": "2200-5500",
+          "compression_ratio": "9.25:1",
+          "valvetrain": "DOHC 32V with Harrop HTV 1900 Supercharger",
+          "notes": "All-aluminium block, twin high-efficiency water-to-air intercoolers."
+        },
+        {
+          "engine_code": "Miami-GT-F-351",
+          "name": "Miami 5.0L Supercharged 32V V8 (GT-F 351)",
+          "displacement_cc": 4951,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 351.0,
+          "power_rpm": "6000",
+          "torque_nm": 570.0,
+          "torque_rpm": "2500-5500",
+          "compression_ratio": "9.25:1",
+          "valvetrain": "DOHC 32V Supercharged",
+          "notes": "351kW paying homage to the 351 Cleveland; delivers over 400kW and 650Nm on overboost; 0-100 km/h in 4.5 seconds."
+        },
+        {
+          "engine_code": "Barra-310T-F6",
+          "name": "Barra 310T 4.0L DOHC 24V Turbo Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 310.0,
+          "power_rpm": "5500",
+          "torque_nm": 565.0,
+          "torque_rpm": "1950-5200",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 24V Garrett GT3576R Turbocharger",
+          "notes": "Massive 565Nm flat torque plateau; 0-100 km/h in 4.9s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT-F 351",
+          "years": {
+            "start": 2014,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (Tremec TR-6060)",
+            "ZF 6-speed automatic"
+          ],
+          "msrp_aud_min": 77990,
+          "msrp_aud_max": 82000,
+          "fuel_consumption_l_100km": 13.6,
+          "kerb_weight_kg": 1827,
+          "standard_features": [
+            "351kW Miami Supercharged V8",
+            "Overboost to 400kW+",
+            "Brembo 6-piston front brakes",
+            "Staggered 9-inch rear alloy wheels with 275 tyres",
+            "Historic black matte stripes",
+            "Numbered build badge"
+          ],
+          "notes": "Final FPV Falcon GT; 500 numbered units for Australia; sold out in hours."
+        },
+        {
+          "badge_name": "F6",
+          "years": {
+            "start": 2008,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (TR-6060)",
+            "ZF 6-speed automatic (6HP26)"
+          ],
+          "msrp_aud_min": 64890,
+          "msrp_aud_max": 68990,
+          "fuel_consumption_l_100km": 12.1,
+          "kerb_weight_kg": 1805,
+          "standard_features": [
+            "310kW Barra Turbo six",
+            "Brembo brakes",
+            "Launch control",
+            "Graphite accents",
+            "Dual-zone climate control"
+          ],
+          "notes": "The fastest accelerating Australian six-cylinder sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GT-F 351",
+          "body_style": "4-door performance sedan",
+          "engine_code": "Miami-GT-F-351",
+          "transmission": "ZF 6-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 77990,
+          "power_kw": 351.0,
+          "torque_nm": 570.0,
+          "fuel_l_100km": 13.6,
+          "towing_braked_kg": 2300,
+          "notes": "400kW+ overboost; the ultimate Falcon GT."
+        },
+        {
+          "badge_name": "F6",
+          "body_style": "4-door sedan",
+          "engine_code": "Barra-310T-F6",
+          "transmission": "ZF 6-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 66890,
+          "power_kw": 310.0,
+          "torque_nm": 565.0,
+          "fuel_l_100km": 12.1,
+          "towing_braked_kg": 2300,
+          "notes": "565Nm of turbocharged torque."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FG-II",
+          "category": "exterior",
+          "caption": "Nitro. \nThe FG Falcon was built from Feb 2008 to Dec 2014. \nThe FG was a completely new car, this 7th generation Falcon was the safest Falcon ever made. \nFord Performance Vehicles (FPV) produced the performance models for Ford Australia, th",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2008_Ford_FG_Falcon_GT-P_Sedan_%2831028832050%29.jpg/1280px-2008_Ford_FG_Falcon_GT-P_Sedan_%2831028832050%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/fpv/gt-f6/fpv_gt-f6_FG-II_1_2008_Ford_FG_Falcon_GT-P_Sedan_31028832050_.jpg",
+          "file_size_bytes": 403858,
+          "sha256": "dd9449168350755b25b38cf14248207a7fe2157e8f436acc491baf945e5b867a"
+        }
+      ]
+    }
+  ]
+}

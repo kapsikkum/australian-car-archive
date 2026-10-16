@@ -1,0 +1,93 @@
+{
+  "make_slug": "lightburn",
+  "name": "Lightburn",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1963,
+    "end": 1966
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Lightburn & Co. was an Adelaide-based manufacturing firm founded by Harold Lightburn, famed across Australia for building concrete mixers, washing machines, and fiberglass powerboats. In 1963, Lightburn made an ambitious leap into automobile manufacturing with the Zeta, a fiberglass-bodied microcar produced in Camden Park, South Australia. Powered by an air-cooled British Villiers 324cc 2-stroke motorcycle engine driving the front wheels, the Zeta featured a motorcycle-style sequential gearbox and no reverse gear—the driver stopped the engine and restarted it running backwards. Lightburn also produced the attractive Zeta Sports roadster and a commercial Zeta Utility before production ceased in 1966 after approximately 400 vehicles.",
+  "australian_history": "Harold Lightburn had built an industrial empire in South Australia producing cement mixers, industrial jacks, and washing machines. Convinced that the suburban Australian family needed an affordable, corrosion-proof second car, Lightburn invested in tooling to build a fiberglass-bodied microcar at Camden Park, Adelaide.\n\nLaunched in 1963, the Zeta Sedan sold for 598 pounds, undercutting the BMC Mini. Its body was molded from reinforced polyester fiberglass, impervious to rust. The drivetrain was a 324cc Villiers 2-stroke twin-cylinder engine producing just 12 kW (16.5 bhp), mounted to an unsynchronized 4-speed sequential dog clutch transaxle. Remarkably, the car lacked an exterior boot lid—luggage had to be loaded through the front doors over the rear bench seat. Backing up required shutting down the engine and using a dual-contact ignition key to start the Villiers twin in reverse rotation.\n\nIn 1964, Lightburn revealed the Zeta Sports, an attractive fiberglass roadster styled after the British Frisky Sprint, featuring bumperless sports styling, Michelin X tyres, and an upgraded 498cc Sachs twin-cylinder engine with a 4-speed gearbox with real reverse. Lightburn also developed the Zeta Utility for light commercial duties. However, Australians preferred larger second-hand Holdens or modern Minis, and the Zeta's high interior noise and quirky mechanicals restricted sales. Production ended in 1966 with only ~363 sedans and utilities and 28 Zeta Sports ever built.",
+  "models_catalog": [
+    {
+      "model_slug": "zeta-sedan",
+      "name": "Lightburn Zeta Sedan",
+      "vehicle_type": "Microcar",
+      "segment": "Micro / City Car",
+      "years_sold_au": {
+        "start": 1963,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "Fiberglass-bodied Australian microcar powered by a front-mounted 324cc Villiers two-stroke twin with reversible ignition starter.",
+      "generations": [
+        {
+          "series_code": "Zeta-Sedan",
+          "generation_name": "Zeta Sedan",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "summary": "Villiers 324cc 2-stroke twin (12kW/16.5 hp), front-wheel drive, independent rubber suspension, rust-proof fiberglass body."
+        }
+      ]
+    },
+    {
+      "model_slug": "zeta-sports",
+      "name": "Lightburn Zeta Sports",
+      "vehicle_type": "Roadster",
+      "segment": "Micro Sports",
+      "years_sold_au": {
+        "start": 1964,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "Rare and charming fiberglass roadster with FMR/Sachs 498cc twin-cylinder engine and Frisky-inspired body lines; only 28 produced.",
+      "generations": [
+        {
+          "series_code": "Zeta-Sports",
+          "generation_name": "Zeta Sports Roadster",
+          "years": {
+            "start": 1964,
+            "end": 1965
+          },
+          "body_styles": [
+            "2-door open roadster"
+          ],
+          "summary": "Fichtel & Sachs 498cc 2-stroke twin (15.5kW/21 hp), 4-speed manual with true reverse, 125 km/h top speed."
+        }
+      ]
+    },
+    {
+      "model_slug": "zeta-utility",
+      "name": "Lightburn Zeta Utility",
+      "vehicle_type": "Micro Utility",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1964,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "Open-tray micro utility variant of the Zeta built for local councils and light delivery duties.",
+      "generations": [
+        {
+          "series_code": "Zeta-Ute",
+          "generation_name": "Zeta Utility",
+          "years": {
+            "start": 1964,
+            "end": 1965
+          },
+          "body_styles": [
+            "2-door micro utility"
+          ],
+          "summary": "324cc Villiers engine, open rear load bed, minimal curb weight, highly economical commercial runner."
+        }
+      ]
+    }
+  ]
+}

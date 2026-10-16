@@ -1,0 +1,1413 @@
+{
+  "make_slug": "holden",
+  "model_slug": "commodore",
+  "name": "Holden Commodore",
+  "vehicle_type": "Sedan / Wagon / Utility",
+  "segment": "Large",
+  "years_sold_au": {
+    "start": 1978,
+    "end": 2020
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Elizabeth, South Australia",
+    "Dandenong, Victoria",
+    "Pagewood, New South Wales",
+    "Acacia Ridge, Queensland"
+  ],
+  "overview": "The Holden Commodore was Australia's definitive full-size passenger car, holding the crown as the nation's best-selling car for 15 consecutive years (1996-2010). Spanning 16 distinct series codes across five generations from the original 1978 VB to the billion-dollar Australian-engineered VE/VF Zeta platform and the imported European ZB, the Commodore was the family hauler, police highway patrol interceptor, commercial utility, and Mount Panorama Bathurst racing champion for over four decades.",
+  "australian_market_notes": "First conceived in response to the 1973 oil crisis as a smaller, more fuel-efficient alternative to the full-size Kingswood, Holden heavily re-engineered the German Opel Rekord/Senator body with 35% heavier structural reinforcement, MacPherson strut front suspension, four-trailing-arm rear suspension, and Holden's own Red, Blue, and Black sixes and V8s. In 1986, the VL adopted the high-revving Nissan RB30 3.0L straight-six and legendary Turbo option. The 1988 VN introduced a widened body tailored specifically to Australian shoulder-room expectations and the rugged Buick-sourced 3.8L V6. The 2006 VE marked a monumental $1.03 billion investment creating the global GM Zeta rear-wheel-drive platform in Melbourne and Adelaide. The final Australian-built Commodore—a Red Hot VF II SS-V Redline sedan—rolled off the Elizabeth line on 20 October 2017.",
+  "manuals": [
+    {
+      "title": "Holden Holden Commodore Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1978,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/commodore/model.json",
+      "local_path": "media/manuals/holden/commodore/holden_commodore_au_technical_manual.pdf",
+      "file_size_bytes": 14697,
+      "sha256": "2b0dff2ee3f371e46c8607471507eab9cc382ab46c30c03689e71ee601df3d8f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Holden Commodore Car Brochure (2018)",
+      "year": 2017,
+      "source_url": "https://archive.org/details/holden-commodore-car-brochure-2018",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/commodore/holden_commodore_manual_Holden_Commodore_Car_Brochure_2018.html",
+      "file_size_bytes": 215235,
+      "sha256": "b9fb0d31945986a760b94d41363ccb23ea8f493dcdb1134ec6d00d81a2c41070"
+    },
+    {
+      "title": "Holden Commodore VE 2006-2013 Factory Workshop Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/holden-commodore-ve-2007-2009-factory-workshop-manual-compressed",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/commodore/holden_commodore_manual_Holden_Commodore_VE_2006-2013_Factory_Workshop_Manual.html",
+      "file_size_bytes": 211864,
+      "sha256": "995be460ccd1b38315d445ca9728249e18dcdb3c661cb1366e74fbc40308659d"
+    },
+    {
+      "title": "Holden Commodore VFII Car Brochure (2015)",
+      "year": 2015,
+      "source_url": "https://archive.org/details/holden-commodore-vfii-car-brochure",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/commodore/holden_commodore_manual_Holden_Commodore_VFII_Car_Brochure_2015.html",
+      "file_size_bytes": 217194,
+      "sha256": "366d93e75a95da8a065d24a283668796334af19441a3e022a84d77606b418e9b"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2018 Holden Commodore (ZB MY18) LT sedan. Photographed in Fremantle, Western Australia, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2018_Holden_Commodore_%28ZB_MY18%29_LT_sedan_%282018-08-06%29_01.jpg/1280px-2018_Holden_Commodore_%28ZB_MY18%29_LT_sedan_%282018-08-06%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+      "local_path": "media/pictures/holden/commodore/holden_commodore_hero_1_2018_Holden_Commodore_ZB_MY18_LT_sedan_2018-08-06_01.jpg",
+      "file_size_bytes": 189918,
+      "sha256": "621710581238a580954c179af1aa77fe9143ca562bb3ca602cb93e4f4e948482"
+    },
+    {
+      "category": "exterior",
+      "caption": "The Triple Eight / Red Bull Holden ZB Commodore is a 2022 V8 Supercar driven by Broc Feeney and owned by Peter Xiberras, presented at the 2025 Adelaide Grand Final on 30 November. It became known as Holden's last Australian touring car race",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Holden_Commodore_%28ZB%29_of_Broc_Feeney_at_the_2025_Adelaide_Grand_Final.jpg/1280px-Holden_Commodore_%28ZB%29_of_Broc_Feeney_at_the_2025_Adelaide_Grand_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Yu Chu Chin)",
+      "local_path": "media/pictures/holden/commodore/holden_commodore_hero_2_Holden_Commodore_ZB_of_Broc_Feeney_at_the_2025_Adelaide_Grand_Final.jpg",
+      "file_size_bytes": 263886,
+      "sha256": "f25cfdb60a581b04196b08084f2b934e7b78ef5822d9771be086d3df740a7886"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "VB",
+      "generation_name": "VB Commodore",
+      "years": {
+        "start": 1978,
+        "end": 1980
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "GM V-body (modified Opel Rekord/Senator)",
+      "ancap_rating": null,
+      "summary": "First Commodore series, launching in October 1978. Won Wheels Car of the Year 1978 for its European dynamics, RTS handling, and packaging efficiency.",
+      "engines": [
+        {
+          "engine_code": "Red-2850",
+          "name": "Holden Red 2.85L Inline-6",
+          "displacement_cc": 2848,
+          "displacement_litres": 2.85,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 64.0,
+          "power_rpm": "4000",
+          "torque_nm": 198.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Single-barrel Bendix-Stromberg carburettor."
+        },
+        {
+          "engine_code": "Red-3300",
+          "name": "Holden Red 3.3L (202ci) Inline-6",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 71.0,
+          "power_rpm": "4000",
+          "torque_nm": 232.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Twin-barrel Stromberg carburettor option."
+        },
+        {
+          "engine_code": "Red-4.2-V8",
+          "name": "Holden Red 4.2L (253ci) V8",
+          "displacement_cc": 4146,
+          "displacement_litres": 4.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 87.0,
+          "power_rpm": "4000",
+          "torque_nm": 271.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Two-barrel Bendix-Stromberg WW carburettor."
+        },
+        {
+          "engine_code": "Red-5.0-V8",
+          "name": "Holden Red 5.0L (308ci) V8",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 114.0,
+          "power_rpm": "4000",
+          "torque_nm": 352.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Commodore Base",
+          "years": {
+            "start": 1978,
+            "end": 1980
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "Tri-Matic 3-speed automatic"
+          ],
+          "msrp_aud_min": 6513,
+          "msrp_aud_max": 7950,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1215,
+          "standard_features": [
+            "Radial Tuned Suspension",
+            "Vinyl upholstery",
+            "Front disc brakes"
+          ],
+          "notes": "Fleet and family entry specification."
+        },
+        {
+          "badge_name": "Commodore SL",
+          "years": {
+            "start": 1978,
+            "end": 1980
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "Tri-Matic 3-speed automatic"
+          ],
+          "msrp_aud_min": 7250,
+          "msrp_aud_max": 8800,
+          "fuel_consumption_l_100km": 12.0,
+          "kerb_weight_kg": 1240,
+          "standard_features": [
+            "Cloth trim",
+            "Push-button radio",
+            "Intermittent wipers",
+            "Tinted band windscreen"
+          ],
+          "notes": "Most popular mainstream private trim."
+        },
+        {
+          "badge_name": "Commodore SL/E",
+          "years": {
+            "start": 1978,
+            "end": 1980
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Tri-Matic 3-speed automatic",
+            "TH350 3-speed automatic"
+          ],
+          "msrp_aud_min": 10513,
+          "msrp_aud_max": 12200,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1330,
+          "standard_features": [
+            "4.2L V8 standard",
+            "4-wheel disc brakes",
+            "15-inch cast alloy wheels",
+            "Velour interior",
+            "Burr walnut trim",
+            "Headlight wipers"
+          ],
+          "notes": "Prestige flagship competitor to European luxury sedans."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Commodore SL",
+          "body_style": "Sedan",
+          "engine_code": "Red-3300",
+          "transmission": "Tri-Matic 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 7850,
+          "power_kw": 71.0,
+          "torque_nm": 232.0,
+          "fuel_l_100km": 12.0,
+          "towing_braked_kg": 1200,
+          "notes": "Classic Australian family spec."
+        },
+        {
+          "badge_name": "Commodore SL/E",
+          "body_style": "Sedan",
+          "engine_code": "Red-5.0-V8",
+          "transmission": "TH350 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 11450,
+          "power_kw": 114.0,
+          "torque_nm": 352.0,
+          "fuel_l_100km": 14.8,
+          "towing_braked_kg": 1500,
+          "notes": "Top-tier V8 grand tourer."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VB",
+          "category": "exterior",
+          "caption": "The VB Commodore was built from October 1978-March 1980\nThe VB was the first of 37 years of Commodores, the Australian built VB was a complete new car, it replaced the HZ Holden, now a smaller car because of the global oil crisis, so more f",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/1979_Holden_VB_Commodore_Sedan_%2822623854399%29.jpg/1280px-1979_Holden_VB_Commodore_Sedan_%2822623854399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_VB_1_1979_Holden_VB_Commodore_Sedan_22623854399_.jpg",
+          "file_size_bytes": 306837,
+          "sha256": "9deb4cdbc6f9271fa86308b51cec92750db4d1789c9bd7bab5241ef64d5d5f28"
+        }
+      ]
+    },
+    {
+      "series_code": "VL",
+      "generation_name": "VL Commodore",
+      "years": {
+        "start": 1986,
+        "end": 1988
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "GM V-body",
+      "ancap_rating": null,
+      "summary": "Introduced the legendary imported Nissan RB30E 3.0L SOHC inline-six and Garrett water-cooled turbocharged RB30ET, alongside semi-concealed pop-up headlights on Calais and integrated boot spoiler.",
+      "engines": [
+        {
+          "engine_code": "Nissan-RB30E",
+          "name": "Nissan RB30E 3.0L SOHC Inline-6",
+          "displacement_cc": 2962,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 114.0,
+          "power_rpm": "5200",
+          "torque_nm": 247.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 12V",
+          "notes": "Electronic multipoint fuel injection (Nissan ECCS)."
+        },
+        {
+          "engine_code": "Nissan-RB30ET",
+          "name": "Nissan RB30ET 3.0L SOHC Turbo Inline-6",
+          "displacement_cc": 2962,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 150.0,
+          "power_rpm": "5600",
+          "torque_nm": 296.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "7.8:1",
+          "valvetrain": "SOHC 12V",
+          "notes": "Garrett T3 water-cooled turbocharger; 0-100 km/h in 7.4 seconds."
+        },
+        {
+          "engine_code": "Black-5.0-V8-VL",
+          "name": "Holden Black 5.0L (304ci) V8",
+          "displacement_cc": 4987,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 122.0,
+          "power_rpm": "4400",
+          "torque_nm": 323.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel carburettor adapted for unleaded petrol."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Commodore Executive",
+          "years": {
+            "start": 1986,
+            "end": 1988
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (MF5)",
+            "4-speed automatic (Jatco 4N71B)"
+          ],
+          "msrp_aud_min": 14950,
+          "msrp_aud_max": 18200,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1285,
+          "standard_features": [
+            "Power steering",
+            "Tilt steering column",
+            "AM/FM radio cassette",
+            "Cloth upholstery"
+          ],
+          "notes": "Fleet bestseller across corporate Australia."
+        },
+        {
+          "badge_name": "Commodore Turbo",
+          "years": {
+            "start": 1986,
+            "end": 1988
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (MF5)",
+            "4-speed automatic (Jatco 4N71B)"
+          ],
+          "msrp_aud_min": 18900,
+          "msrp_aud_max": 23500,
+          "fuel_consumption_l_100km": 11.0,
+          "kerb_weight_kg": 1335,
+          "standard_features": [
+            "Turbocharged RB30ET engine",
+            "Heavy-duty V8 disc brakes",
+            "FE2 sports suspension",
+            "LSD optional"
+          ],
+          "notes": "Iconic Australian high-performance street and highway patrol vehicle."
+        },
+        {
+          "badge_name": "Calais",
+          "years": {
+            "start": 1986,
+            "end": 1988
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 22600,
+          "msrp_aud_max": 27800,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Semi-concealed retractable headlight covers",
+            "Electronic digital dash option",
+            "Velour seats",
+            "Cruise control",
+            "Power windows"
+          ],
+          "notes": "Flagship luxury grand tourer."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Commodore Executive",
+          "body_style": "Sedan",
+          "engine_code": "Nissan-RB30E",
+          "transmission": "4-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 16450,
+          "power_kw": 114.0,
+          "torque_nm": 247.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1250,
+          "notes": "Australia's top-selling specification."
+        },
+        {
+          "badge_name": "Commodore Turbo",
+          "body_style": "Sedan",
+          "engine_code": "Nissan-RB30ET",
+          "transmission": "5-speed manual (MF5)",
+          "drivetrain": "RWD",
+          "msrp_aud": 19500,
+          "power_kw": 150.0,
+          "torque_nm": 296.0,
+          "fuel_l_100km": 11.0,
+          "towing_braked_kg": 1250,
+          "notes": "Cult performance icon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VL",
+          "category": "exterior",
+          "caption": "Holden VL Commodore Sedan 1987 Currumbin RSL Currumbin",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Holden_VL_Commodore_Sedan_1987_Currumbin_RSL_Currumbin_L1060341.jpg/1280px-Holden_VL_Commodore_Sedan_1987_Currumbin_RSL_Currumbin_L1060341.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (John Robert McPherson)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_VL_1_Holden_VL_Commodore_Sedan_1987_Currumbin_RSL_Currumbin_L1060341.jpg",
+          "file_size_bytes": 454882,
+          "sha256": "f332d9467fffe41501b42e0284d80f28fce6a46db4838a379895b02e2adf76e6"
+        }
+      ]
+    },
+    {
+      "series_code": "VN",
+      "generation_name": "VN Commodore",
+      "years": {
+        "start": 1988,
+        "end": 1991
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door utility (VG)"
+      ],
+      "platform": "GM V-body (widened)",
+      "ancap_rating": null,
+      "summary": "Major ground-up widening on modified Opel Omega architecture, introducing the Buick 3800 3.8L V6 and Holden 5.0L EFI V8, and resurrecting the Holden Ute as the VG in 1990. Won 1988 Wheels COTY.",
+      "engines": [
+        {
+          "engine_code": "Buick-3800-LN3",
+          "name": "Buick 3800 3.8L V6 (LN3)",
+          "displacement_cc": 3791,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 125.0,
+          "power_rpm": "4800",
+          "torque_nm": 292.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Sequential multi-port fuel injection, cast-iron block and heads, balance shaft."
+        },
+        {
+          "engine_code": "Holden-5000i-V8",
+          "name": "Holden 5.0L (304ci) EFI V8",
+          "displacement_cc": 4987,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 165.0,
+          "power_rpm": "4400",
+          "torque_nm": 385.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.4:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Holden-designed EFI manifold with Delco electronic management."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Executive",
+          "years": {
+            "start": 1988,
+            "end": 1991
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (T5)",
+            "4-speed automatic (TH700-R4)"
+          ],
+          "msrp_aud_min": 20014,
+          "msrp_aud_max": 24500,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1310,
+          "standard_features": [
+            "Power steering",
+            "Four-wheel disc brakes",
+            "AM/FM stereo"
+          ],
+          "notes": "Massive sales volume into government and private fleets."
+        },
+        {
+          "badge_name": "SS",
+          "years": {
+            "start": 1989,
+            "end": 1991
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (T5)",
+            "4-speed automatic (TH700)"
+          ],
+          "msrp_aud_min": 27500,
+          "msrp_aud_max": 31200,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "5.0L EFI V8 standard",
+            "FE2 sports suspension",
+            "LSD",
+            "Front fog lights",
+            "Rear wing spoiler",
+            "Sports velour seats"
+          ],
+          "notes": "Resurrected the factory SS muscle badge with 165kW."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Executive",
+          "body_style": "Sedan",
+          "engine_code": "Buick-3800-LN3",
+          "transmission": "4-speed automatic (TH700-R4)",
+          "drivetrain": "RWD",
+          "msrp_aud": 21500,
+          "power_kw": 125.0,
+          "torque_nm": 292.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1250,
+          "notes": "High-volume workhorse."
+        },
+        {
+          "badge_name": "SS",
+          "body_style": "Sedan",
+          "engine_code": "Holden-5000i-V8",
+          "transmission": "5-speed manual (T5)",
+          "drivetrain": "RWD",
+          "msrp_aud": 28900,
+          "power_kw": 165.0,
+          "torque_nm": 385.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 1500,
+          "notes": "0-100 km/h in 6.9 seconds."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VN",
+          "category": "exterior",
+          "caption": "Holden VN Commodore Sedan Gympie Rd Carseldine",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Holden_VN_Commodore_Sedan_Gympie_Rd_Carseldine_L1080561.jpg/1280px-Holden_VN_Commodore_Sedan_Gympie_Rd_Carseldine_L1080561.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (John Robert McPherson)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_VN_1_Holden_VN_Commodore_Sedan_Gympie_Rd_Carseldine_L1080561.jpg",
+          "file_size_bytes": 320197,
+          "sha256": "71fafe215016bac036748e593c0356c19306ad498fb2ad4c811d524efa2c9ae7"
+        }
+      ]
+    },
+    {
+      "series_code": "VT",
+      "generation_name": "VT Commodore",
+      "years": {
+        "start": 1997,
+        "end": 2000
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "GM V-body (widened VT architecture)",
+      "ancap_rating": "3 Stars",
+      "summary": "Round aero styling that became Australia's all-time record-selling car series (303,895 units). Standard independent rear suspension (IRS), traction control, and in Series II (1999) debuted the imported all-alloy Gen III LS1 5.7L Chevrolet V8.",
+      "engines": [
+        {
+          "engine_code": "Ecotec-3800",
+          "name": "Holden Ecotec 3.8L V6",
+          "displacement_cc": 3791,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 147.0,
+          "power_rpm": "5200",
+          "torque_nm": 304.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Refined cross-bolted main bearings, lightweight pistons."
+        },
+        {
+          "engine_code": "Supercharged-Ecotec-L67",
+          "name": "Supercharged Ecotec 3.8L V6 (L67)",
+          "displacement_cc": 3791,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 171.0,
+          "power_rpm": "5200",
+          "torque_nm": 375.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Eaton M90 roots-type supercharger."
+        },
+        {
+          "engine_code": "Holden-5.0L-VT-I",
+          "name": "Holden 5.0L EFI V8 (VT Series I)",
+          "displacement_cc": 4987,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 179.0,
+          "power_rpm": "4600",
+          "torque_nm": 400.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Final production iteration of the Australian-designed Holden V8."
+        },
+        {
+          "engine_code": "Gen-III-LS1",
+          "name": "Chevrolet Gen III LS1 5.7L V8 (VT Series II)",
+          "displacement_cc": 5665,
+          "displacement_litres": 5.7,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 220.0,
+          "power_rpm": "5000",
+          "torque_nm": 446.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.1:1",
+          "valvetrain": "OHV 16V",
+          "notes": "All-aluminium block and heads, cross-bolted 6-bolt mains."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Executive",
+          "years": {
+            "start": 1997,
+            "end": 2000
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (Getrag 260)",
+            "4-speed automatic (4L60-E)"
+          ],
+          "msrp_aud_min": 29760,
+          "msrp_aud_max": 34800,
+          "fuel_consumption_l_100km": 10.0,
+          "kerb_weight_kg": 1490,
+          "standard_features": [
+            "Driver airbag",
+            "ABS (optional on early Series I, standard later)",
+            "IRS independent rear suspension",
+            "Trip computer",
+            "Power mirrors"
+          ],
+          "notes": "Bestselling individual passenger vehicle in Australian history."
+        },
+        {
+          "badge_name": "Acclaim",
+          "years": {
+            "start": 1997,
+            "end": 2000
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic (4L60-E)"
+          ],
+          "msrp_aud_min": 33900,
+          "msrp_aud_max": 38500,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1515,
+          "standard_features": [
+            "Dual front airbags",
+            "Standard ABS",
+            "Standard Traction Control",
+            "Cruise control"
+          ],
+          "notes": "Dedicated family safety trim."
+        },
+        {
+          "badge_name": "SS",
+          "years": {
+            "start": 1997,
+            "end": 2000
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed/6-speed manual (T56)",
+            "4-speed automatic (4L60-E)"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 44800,
+          "fuel_consumption_l_100km": 13.0,
+          "kerb_weight_kg": 1570,
+          "standard_features": [
+            "5.0L V8 (VT I) / 5.7L LS1 V8 (VT II)",
+            "FE2 suspension",
+            "17-inch alloy wheels",
+            "Sports body kit",
+            "Sports bucket seats"
+          ],
+          "notes": "VT II SS with LS1 revolutionized performance value."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Executive",
+          "body_style": "Sedan",
+          "engine_code": "Ecotec-3800",
+          "transmission": "4-speed automatic (4L60-E)",
+          "drivetrain": "RWD",
+          "msrp_aud": 30500,
+          "power_kw": 147.0,
+          "torque_nm": 304.0,
+          "fuel_l_100km": 10.0,
+          "towing_braked_kg": 1600,
+          "notes": "Fleet and family staple."
+        },
+        {
+          "badge_name": "SS",
+          "body_style": "Sedan",
+          "engine_code": "Gen-III-LS1",
+          "transmission": "6-speed manual (T56)",
+          "drivetrain": "RWD",
+          "msrp_aud": 42500,
+          "power_kw": 220.0,
+          "torque_nm": 446.0,
+          "fuel_l_100km": 13.0,
+          "towing_braked_kg": 1600,
+          "notes": "0-100 km/h in 6.3s."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VT",
+          "category": "exterior",
+          "caption": "The Holden Racing Team VT Commodore is a 1999 V8 Supercar driven by Craig Lowndes and owned by Peter Xiberras, presented at the 2025 Adelaide Grand Final on 30 November. it is the winner with Craig Lowndes in the inaugural 1999 Adelaide 500",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Holden_Commodore_%28VT%29_of_Craig_Lowndes_at_the_2025_Adelaide_Grand_Final.jpg/1280px-Holden_Commodore_%28VT%29_of_Craig_Lowndes_at_the_2025_Adelaide_Grand_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Yu Chu Chin)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_VT_1_Holden_Commodore_VT_of_Craig_Lowndes_at_the_2025_Adelaide_Grand_Final.jpg",
+          "file_size_bytes": 282816,
+          "sha256": "9ac816c8cd799d5cbe93fdd1293d93b0a34506ea57194cdf810ce086dc8ed5e1"
+        }
+      ]
+    },
+    {
+      "series_code": "VE",
+      "generation_name": "VE Commodore (Series I & II)",
+      "years": {
+        "start": 2006,
+        "end": 2013
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door Sportwagon",
+        "2-door utility"
+      ],
+      "platform": "GM Zeta platform",
+      "ancap_rating": "5 Stars",
+      "summary": "Billion-dollar clean-sheet Australian engineering masterpiece. Ground-up rear-wheel-drive Zeta architecture with 50:50 weight distribution, near-zero front overhang, 5-star ANCAP rating, and exported to the US as the Pontiac G8.",
+      "engines": [
+        {
+          "engine_code": "Alloytec-3.6",
+          "name": "Alloytec 3.6L DOHC 24V V6",
+          "displacement_cc": 3564,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 180.0,
+          "power_rpm": "6000",
+          "torque_nm": 330.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24V Variable Cam Phasing",
+          "notes": "Manufactured at GM Holden Engine Operations in Fishermans Bend, Victoria."
+        },
+        {
+          "engine_code": "SIDI-3.6-LLT",
+          "name": "SIDI 3.6L Direct Injection V6 (LLT / LFX)",
+          "displacement_cc": 3564,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 210.0,
+          "power_rpm": "6400",
+          "torque_nm": 350.0,
+          "torque_rpm": "2900",
+          "compression_ratio": "11.3:1",
+          "valvetrain": "DOHC 24V Direct Injection",
+          "notes": "High-output direct-injection V6 introduced in late 2009; 9.8 L/100km."
+        },
+        {
+          "engine_code": "Gen-IV-L98-6.0",
+          "name": "Chevrolet Gen IV L98 6.0L V8",
+          "displacement_cc": 5967,
+          "displacement_litres": 6.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 270.0,
+          "power_rpm": "5700",
+          "torque_nm": 530.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.4:1",
+          "valvetrain": "OHV 16V",
+          "notes": "High-flow L92-style cylinder heads; 0-100 km/h in 5.3s."
+        },
+        {
+          "engine_code": "Gen-IV-L77-6.0",
+          "name": "Chevrolet Gen IV L77 6.0L V8 (Flex-Fuel / AFM)",
+          "displacement_cc": 5967,
+          "displacement_litres": 6.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol / E85 Ethanol",
+          "power_kw": 270.0,
+          "power_rpm": "5700",
+          "torque_nm": 530.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.4:1",
+          "valvetrain": "OHV 16V with Active Fuel Management",
+          "notes": "Cylinder deactivation (AFM) on automatics running on 4 cylinders at cruise; E85 flex-fuel capable."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Omega",
+          "years": {
+            "start": 2006,
+            "end": 2013
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed auto (4L60-E)",
+            "6-speed auto (6L45)"
+          ],
+          "msrp_aud_min": 34490,
+          "msrp_aud_max": 41500,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 1690,
+          "standard_features": [
+            "Electronic Stability Program (ESP)",
+            "Curtain airbags",
+            "16-inch wheels",
+            "Cruise control",
+            "Multi-function steering wheel"
+          ],
+          "notes": "Achieved 5-star ANCAP safety rating in 2008."
+        },
+        {
+          "badge_name": "SV6",
+          "years": {
+            "start": 2006,
+            "end": 2013
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (Aisin AY6)",
+            "5-speed/6-speed auto"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 45500,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1715,
+          "standard_features": [
+            "210kW High Output V6",
+            "FE2 sports suspension",
+            "18-inch alloys",
+            "Sports bodykit",
+            "Twin exhaust"
+          ],
+          "notes": "Massive youth appeal and highway cruiser."
+        },
+        {
+          "badge_name": "SS / SS V",
+          "years": {
+            "start": 2006,
+            "end": 2013
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (Tremec T56 / TR-6060)",
+            "6-speed automatic (6L80-E)"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 56000,
+          "fuel_consumption_l_100km": 13.9,
+          "kerb_weight_kg": 1785,
+          "standard_features": [
+            "6.0L V8 270kW",
+            "Quad exhaust outlets",
+            "19-inch alloys (SS V)",
+            "Leather seats",
+            "Colour multi-function display",
+            "Brembo front brakes (Redline)"
+          ],
+          "notes": "Iconic Australian V8 sports sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SV6",
+          "body_style": "Sedan",
+          "engine_code": "SIDI-3.6-LLT",
+          "transmission": "6-speed automatic (6L45)",
+          "drivetrain": "RWD",
+          "msrp_aud": 42790,
+          "power_kw": 210.0,
+          "torque_nm": 350.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 2100,
+          "notes": "Direct injection efficiency."
+        },
+        {
+          "badge_name": "SS V Redline",
+          "body_style": "Sedan",
+          "engine_code": "Gen-IV-L77-6.0",
+          "transmission": "6-speed manual (TR-6060)",
+          "drivetrain": "RWD",
+          "msrp_aud": 55490,
+          "power_kw": 270.0,
+          "torque_nm": 530.0,
+          "fuel_l_100km": 13.6,
+          "towing_braked_kg": 2100,
+          "notes": "FE3 track-tuned suspension and Brembo brakes."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VE",
+          "category": "exterior",
+          "caption": "2006 Holden VE Commodore Omega sedan, photographed in New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2006_Holden_Commodore_%28VE_MY07%29_Omega_sedan_%282006-08-17%29.jpg/1280px-2006_Holden_Commodore_%28VE_MY07%29_Omega_sedan_%282006-08-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (R Walker from Seven Hills, New South Wales, Australia)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_VE_1_2006_Holden_Commodore_VE_MY07_Omega_sedan_2006-08-17_.jpg",
+          "file_size_bytes": 372510,
+          "sha256": "77128bf98abc12d10cefe4ddb2aabee8ec18ae0b647b83eead350b0ae1830c30"
+        }
+      ]
+    },
+    {
+      "series_code": "VF",
+      "generation_name": "VF Commodore (Series I & II)",
+      "years": {
+        "start": 2013,
+        "end": 2017
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door Sportwagon",
+        "2-door utility"
+      ],
+      "platform": "GM Zeta platform (lightened)",
+      "ancap_rating": "5 Stars",
+      "summary": "The ultimate Australian-engineered automobile. Lightweight aluminium bonnet and bootlid, Head-Up Display, automatic parking assist, and in 2015 Series II introduced the thunderous Corvette 6.2L LS3 V8 (304kW/570Nm). The final car built at Elizabeth SA on 20 October 2017.",
+      "engines": [
+        {
+          "engine_code": "SIDI-3.0-LFW",
+          "name": "SIDI 3.0L DOHC Direct-Injection V6 (LFW)",
+          "displacement_cc": 2997,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 185.0,
+          "power_rpm": "6700",
+          "torque_nm": 290.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "11.7:1",
+          "valvetrain": "DOHC 24V Direct Injection",
+          "notes": "Fitted to Evoke trim; 8.3 L/100km fuel economy."
+        },
+        {
+          "engine_code": "SIDI-3.6-LFX",
+          "name": "SIDI 3.6L High-Output Direct-Injection V6 (LFX)",
+          "displacement_cc": 3564,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 210.0,
+          "power_rpm": "6700",
+          "torque_nm": 350.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "DOHC 24V Integrated Exhaust Manifold",
+          "notes": "Integrated cylinder head exhaust manifolds, lightweight composite intake."
+        },
+        {
+          "engine_code": "Gen-IV-L77-6.0-VF",
+          "name": "Chevrolet 6.0L L77 V8 (VF Series I)",
+          "displacement_cc": 5967,
+          "displacement_litres": 6.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol / E85",
+          "power_kw": 270.0,
+          "power_rpm": "5600",
+          "torque_nm": 530.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.4:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Fitted to VF Series I SS and SS V models."
+        },
+        {
+          "engine_code": "Gen-IV-LS3-6.2",
+          "name": "Chevrolet Gen IV LS3 6.2L V8 (VF Series II)",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Premium 98 RON)",
+          "power_kw": 304.0,
+          "power_rpm": "6000",
+          "torque_nm": 570.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.7:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Corvette-derived LS3 V8 with mechanical sound enhancer; 0-100 km/h in 4.9 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Evoke",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed automatic (6L45)"
+          ],
+          "msrp_aud_min": 34990,
+          "msrp_aud_max": 39500,
+          "fuel_consumption_l_100km": 8.3,
+          "kerb_weight_kg": 1622,
+          "standard_features": [
+            "Auto Park Assist (parallel & 90-degree)",
+            "MyLink 8-inch touchscreen",
+            "Electric park brake",
+            "Alloy wheels"
+          ],
+          "notes": "Replaced Omega with unprecedented technology standard."
+        },
+        {
+          "badge_name": "SV6",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 35990,
+          "msrp_aud_max": 42000,
+          "fuel_consumption_l_100km": 9.0,
+          "kerb_weight_kg": 1680,
+          "standard_features": [
+            "210kW 3.6L V6",
+            "Blind Spot Alert",
+            "Reverse Traffic Alert",
+            "18-inch alloys",
+            "LED daytime lamps"
+          ],
+          "notes": "Australia's favorite sport sedan."
+        },
+        {
+          "badge_name": "SS V Redline",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (TR-6060)",
+            "6-speed automatic (6L80-E with paddle shifters)"
+          ],
+          "msrp_aud_min": 51490,
+          "msrp_aud_max": 59500,
+          "fuel_consumption_l_100km": 12.6,
+          "kerb_weight_kg": 1793,
+          "standard_features": [
+            "304kW LS3 6.2L V8",
+            "Brembo 4-piston brakes front and rear",
+            "FE3 track suspension",
+            "Colour Head-Up Display",
+            "Forward Collision Alert",
+            "19-inch forged alloys with staggered width"
+          ],
+          "notes": "The pinnacle of Australian muscle car manufacturing."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SS V Redline",
+          "body_style": "Sedan",
+          "engine_code": "Gen-IV-LS3-6.2",
+          "transmission": "6-speed manual (Tremec TR-6060)",
+          "drivetrain": "RWD",
+          "msrp_aud": 54490,
+          "power_kw": 304.0,
+          "torque_nm": 570.0,
+          "fuel_l_100km": 12.6,
+          "towing_braked_kg": 2100,
+          "notes": "0-100 km/h in 4.9s; final Australian-made V8."
+        },
+        {
+          "badge_name": "SV6",
+          "body_style": "Sportwagon",
+          "engine_code": "SIDI-3.6-LFX",
+          "transmission": "6-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 38990,
+          "power_kw": 210.0,
+          "torque_nm": 350.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 2100,
+          "notes": "Family sporting wagon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VF",
+          "category": "exterior",
+          "caption": "The Holden Racing Team VF Commodore 'WRO20' is a 2014 V8 Supercar driven by James Courtney and owned by Jack Perkins / Perkins Engineering, presented at the 2025 Adelaide Grand Final on 30 November. It became known as the Holden Racing Team",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/James_Courtney%27s_Holden_Racing_Team_VF_Commodore_%27WRO20%27_at_the_2025_Adelaide_Grand_Final.jpg/1280px-James_Courtney%27s_Holden_Racing_Team_VF_Commodore_%27WRO20%27_at_the_2025_Adelaide_Grand_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Yu Chu Chin)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_VF_1_James_Courtney_s_Holden_Racing_Team_VF_Commodore_WRO20_at_the_2025_Adelaide_Grand_Final.jpg",
+          "file_size_bytes": 305839,
+          "sha256": "bc768f315c442fd25c26f4d904efbd840e7878360d607af1be368b99b7b92f99"
+        }
+      ]
+    },
+    {
+      "series_code": "ZB",
+      "generation_name": "ZB Commodore",
+      "years": {
+        "start": 2018,
+        "end": 2020
+      },
+      "body_styles": [
+        "5-door liftback",
+        "Sportwagon",
+        "Tourer high-ride crossover"
+      ],
+      "platform": "GM E2XX platform (Opel Insignia)",
+      "ancap_rating": "5 Stars",
+      "summary": "Imported from Opel in Ruesselsheim, Germany. Front-wheel-drive and Twinster all-wheel-drive with 2.0L Turbo petrol, 2.0L Turbo Diesel, and 235kW 3.6L LGX V6 mated to a 9-speed automatic.",
+      "engines": [
+        {
+          "engine_code": "GM-LTG-2.0T",
+          "name": "GM Ecotec 2.0L Turbo Inline-4 (LTG)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 191.0,
+          "power_rpm": "5500",
+          "torque_nm": 350.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16V Twin-scroll Turbo",
+          "notes": "Standard engine in LT, RS, and Calais."
+        },
+        {
+          "engine_code": "GM-LGX-3.6-V6",
+          "name": "GM 3.6L V6 (LGX)",
+          "displacement_cc": 3649,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 235.0,
+          "power_rpm": "6800",
+          "torque_nm": 381.0,
+          "torque_rpm": "5200",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "DOHC 24V Direct Injection with Cylinder Deactivation",
+          "notes": "Matched exclusively with adaptive Twinster AWD and 9-speed auto; VXR flagship."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LT",
+          "years": {
+            "start": 2018,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door liftback",
+            "Sportwagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "9-speed automatic"
+          ],
+          "msrp_aud_min": 33690,
+          "msrp_aud_max": 38000,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1530,
+          "standard_features": [
+            "Autonomous Emergency Braking",
+            "Lane Keep Assist",
+            "Apple CarPlay & Android Auto",
+            "17-inch alloy wheels"
+          ],
+          "notes": "Entry model imported from Germany."
+        },
+        {
+          "badge_name": "VXR",
+          "years": {
+            "start": 2018,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door liftback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "9-speed automatic"
+          ],
+          "msrp_aud_min": 55990,
+          "msrp_aud_max": 58000,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1737,
+          "standard_features": [
+            "3.6L V6 235kW",
+            "Twinster torque-vectoring AWD",
+            "Brembo front brakes",
+            "FlexRide adaptive dampers",
+            "Ventilated massage front seats",
+            "20-inch alloys"
+          ],
+          "notes": "Final Commodore performance flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RS",
+          "body_style": "5-door liftback",
+          "engine_code": "GM-LTG-2.0T",
+          "transmission": "9-speed automatic",
+          "drivetrain": "FWD",
+          "msrp_aud": 37290,
+          "power_kw": 191.0,
+          "torque_nm": 350.0,
+          "fuel_l_100km": 7.6,
+          "towing_braked_kg": 1800,
+          "notes": "Sporty liftback."
+        },
+        {
+          "badge_name": "VXR",
+          "body_style": "5-door liftback",
+          "engine_code": "GM-LGX-3.6-V6",
+          "transmission": "9-speed automatic",
+          "drivetrain": "AWD",
+          "msrp_aud": 55990,
+          "power_kw": 235.0,
+          "torque_nm": 381.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 2100,
+          "notes": "AWD V6 flagship."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "ZB",
+          "category": "exterior",
+          "caption": "The Triple Eight / Red Bull Holden ZB Commodore is a 2022 V8 Supercar driven by Broc Feeney and owned by Peter Xiberras, presented at the 2025 Adelaide Grand Final on 30 November. It became known as Holden's last Australian touring car race",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Holden_Commodore_%28ZB%29_of_Broc_Feeney_at_the_2025_Adelaide_Grand_Final.jpg/1280px-Holden_Commodore_%28ZB%29_of_Broc_Feeney_at_the_2025_Adelaide_Grand_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Yu Chu Chin)",
+          "local_path": "media/pictures/holden/commodore/holden_commodore_ZB_1_Holden_Commodore_ZB_of_Broc_Feeney_at_the_2025_Adelaide_Grand_Final.jpg",
+          "file_size_bytes": 263886,
+          "sha256": "f25cfdb60a581b04196b08084f2b934e7b78ef5822d9771be086d3df740a7886"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "make_slug": "ssangyong-kgm",
+  "name": "SsangYong / KGM",
+  "country_of_origin": "South Korea",
+  "years_active_au": {
+    "start": 1997,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Specialists in rugged ladder-frame utes and heavy-duty 4x4 wagons, originally powered by Mercedes-Benz-derived drivetrains and rebranded to KGM in 2024.",
+  "australian_history": "SsangYong's Australian journey began in 1995-1997 when the Musso 4x4 wagon was imported by independent distributors and Mercedes-Benz dealerships. Boasting styling by British designer Ken Greenley and Mercedes-Benz-licensed engines (notably the OM662 2.9L 5-cylinder diesel and M104 3.2L inline-6), the Musso offered European diesel reliability at an accessible price.\n\nIn 1998, the short-wheelbase Korando 3-door 4x4 arrived, followed in 2003 by the Rexton, a body-on-frame 7-seat SUV utilizing Mercedes-Benz W163 M-Class underpinnings. In 2005, SsangYong introduced the controversial Stavic people mover, powered by a 2.7L 5-cylinder common-rail turbo-diesel. In 2006, the Actyon SUV and Actyon Sports dual-cab ute arrived, making SsangYong an early pioneer in the sub-$30k lifestyle diesel ute segment.\n\nIn late 2018, SsangYong Motor Australia established a direct factory-owned subsidiary headquartered in Melbourne, relaunching the brand with the Musso dual-cab ute, Rexton SUV, and Tivoli compact crossover, backed by a 7-year unlimited-kilometre warranty. In 2022-2024, following the acquisition of SsangYong by South Korean industrial giant KG Group, the brand began transitioning its global and Australian identity to KGM (KG Mobility). KGM launched the adventure-oriented Torres SUV and refreshed Musso ute, maintaining strong demand among trades and rural towing buyers.",
+  "models_catalog": [
+    {
+      "model_slug": "musso",
+      "name": "Musso",
+      "vehicle_type": "4WD Wagon / Dual Cab Ute",
+      "segment": "Large 4WD / Light Commercial",
+      "years_sold_au": {
+        "start": 1995,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Originally a Mercedes-Benz-powered 4WD wagon in the 1990s, revived in 2018 as a value-packed dual-cab ute with coil-spring and leaf-spring rear options.",
+      "generations": [
+        {
+          "series_code": "FJ",
+          "generation_name": "Musso 1st Gen (Wagon)",
+          "years": {
+            "start": 1995,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "summary": "Mercedes-Benz licensed 2.9L 5-cylinder diesel and 3.2L inline-6 petrol engines, dual-range 4WD."
+        },
+        {
+          "series_code": "Q200",
+          "generation_name": "Musso 2nd Gen (Ute)",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual Cab Ute",
+            "Musso XLV Long-Bed"
+          ],
+          "summary": "2.2L e-XDi turbo-diesel (133kW/420Nm), 3500kg towing, coil-spring or leaf-spring rear; ELX, Ultimate."
+        }
+      ]
+    },
+    {
+      "model_slug": "rexton",
+      "name": "Rexton",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Heavy-duty 7-seat body-on-frame 4WD wagon offering 3.5-tonne towing and luxury equipment.",
+      "generations": [
+        {
+          "series_code": "Y200/Y250",
+          "generation_name": "Rexton 1st Gen",
+          "years": {
+            "start": 2003,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door Wagon (7 seats)"
+          ],
+          "summary": "2.7L 5-cylinder common-rail diesel and 3.2L petrol, Mercedes-Benz 5-speed Tiptronic auto."
+        },
+        {
+          "series_code": "Y400",
+          "generation_name": "Rexton 2nd Gen",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon (7 seats)"
+          ],
+          "summary": "High-strength steel quad-frame, 2.2L e-XDi diesel (148kW/441Nm), 8-speed automatic, 3500kg towing; ELX, Ultimate."
+        }
+      ]
+    },
+    {
+      "model_slug": "korando",
+      "name": "Korando",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 1998,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "From a quirky 3-door body-on-frame off-roader to a modern monocoque compact family SUV.",
+      "generations": [
+        {
+          "series_code": "KJ",
+          "generation_name": "Korando 2nd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2006
+          },
+          "body_styles": [
+            "3-door SWB 4WD"
+          ],
+          "summary": "Mercedes-Benz 2.3L/2.9L diesel and 3.2L petrol, dual-range 4WD, distinctive retro styling."
+        },
+        {
+          "series_code": "C200/C300",
+          "generation_name": "Korando 3rd/4th Gen",
+          "years": {
+            "start": 2011,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Monocoque crossover, 2.0L diesel then 1.5L Turbo petrol (120kW), front-wheel drive and AWD."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "make_slug": "holden",
+  "model_slug": "adventra-crewman",
+  "name": "Holden Adventra & Crewman",
+  "vehicle_type": "All-Wheel-Drive Cross Wagon / Dual-Cab Utility / Cab Chassis",
+  "segment": "Large / Crossover SUV / Commercial Dual-Cab",
+  "years_sold_au": {
+    "start": 2003,
+    "end": 2008
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Elizabeth, South Australia"
+  ],
+  "overview": "Developed during Holden's multi-million dollar engineering expansion under the VY/VZ Commodore program, the Adventra and Crewman represented audacious Australian engineering innovations. The 2003 Crewman was Australia's first locally designed and manufactured monocoque dual-cab utility, seating five adults on an extended 3,200 mm wheelbase with a heavy-duty leaf-sprung live rear axle capable of carrying up to a tonne. The Adventra was Holden's crossover all-wheel-drive sport wagon, boasting an Australian-engineered 'Cross-Trac' permanent AWD system (62% rear, 38% front torque split with automatic brake-traction management) and raised ground clearance. Holden combined the two concepts to create the monstrous Crewman Cross 8 and Cross 6, alongside V8 SS performance dual-cabs.",
+  "australian_market_notes": "The Cross-Trac AWD system was developed entirely in-house by Holden engineers at Fishermans Bend and tested across the Simpson Desert and Mount Hotham snowfields. It delivered incredible off-road tractive ability without low-range gearing. The Crewman SS and Cross 8 became instant cult machines for tradies who wanted Monaro V8 thunder combined with family dual-cab practicality.",
+  "manuals": [
+    {
+      "title": "Holden Holden Adventra & Crewman Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2003,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/adventra-crewman/model.json",
+      "local_path": "media/manuals/holden/adventra-crewman/holden_adventra-crewman_au_technical_manual.pdf",
+      "file_size_bytes": 5812,
+      "sha256": "452999503004f7d38ee4c8916df5a6821f73b593f7b4dbcc251631f04a733634",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The VY Commodore was built from Sept 2002-August 2004. \nThe 2nd update on the 3rd generation Commodore, this time, more significant, the front and rear styling was updated again and the interior restyled as well. \nAn all wheel drive system ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2002_Holden_Commodore_%28VY%29_SS_sedan_%2819724548308%29.jpg/1280px-2002_Holden_Commodore_%28VY%29_SS_sedan_%2819724548308%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/holden/adventra-crewman/holden_adventra-crewman_hero_1_2002_Holden_Commodore_VY_SS_sedan_19724548308_.jpg",
+      "file_size_bytes": 313656,
+      "sha256": "e02874533a59e4dfb89d8c7c7318d4d45fff9649c47f6f2048d9ee36ca6c7c22"
+    },
+    {
+      "category": "exterior",
+      "caption": "Holden Crewman VZ SX6",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Holden_Adventra_SX6.jpg/1280px-Holden_Adventra_SX6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J)",
+      "local_path": "media/pictures/holden/adventra-crewman/holden_adventra-crewman_hero_2_Holden_Adventra_SX6.jpg",
+      "file_size_bytes": 310532,
+      "sha256": "5cfdf199d7762862250447d0f08fa5dea63c187c74e3a0b7a0dfd4bbbabd1aa5"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "VY-II",
+      "generation_name": "VY Series II Adventra & Crewman",
+      "years": {
+        "start": 2003,
+        "end": 2004
+      },
+      "body_styles": [
+        "5-door AWD wagon",
+        "4-door dual-cab ute"
+      ],
+      "platform": "GM V-body extended / Cross-Trac AWD",
+      "ancap_rating": 4,
+      "summary": "Launch of Adventra AWD (CX8, LX8) powered by Gen III 5.7L LS1 V8 (235 kW), and Crewman (Base 3.8L V6, SS 5.7L V8 235 kW, and Crewman Cross 8 AWD).",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-3.8-V6",
+          "name": "Holden ECOTEC 3.8L OHV V6",
+          "displacement_cc": 3791,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 152.0,
+          "power_rpm": "5200",
+          "torque_nm": 305.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Standard engine in base Crewman."
+        },
+        {
+          "engine_code": "Gen-III-5.7-LS1",
+          "name": "GM Gen III 5.7L (LS1) Pushrod V8",
+          "displacement_cc": 5665,
+          "displacement_litres": 5.7,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 235.0,
+          "power_rpm": "5200",
+          "torque_nm": 460.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.1:1",
+          "valvetrain": "OHV 16V",
+          "notes": "All-aluminium V8, standard in Adventra CX8/LX8 and Crewman SS / Cross 8."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Adventra LX8",
+          "years": {
+            "start": 2003,
+            "end": 2004
+          },
+          "body_styles": [
+            "AWD Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "4-speed automatic heavy duty 4L65-E"
+          ],
+          "msrp_aud_min": 52990,
+          "msrp_aud_max": 56990,
+          "fuel_consumption_l_100km": 15.2,
+          "kerb_weight_kg": 1965,
+          "standard_features": [
+            "Cross-Trac permanent AWD (62/38 split)",
+            "235 kW 5.7L LS1 V8",
+            "Raised heavy-duty suspension and skid plates",
+            "Leather seat trim and dual-zone climate control",
+            "17-inch alloy wheels with all-terrain tyres"
+          ],
+          "notes": "Flagship luxury AWD all-road wagon."
+        },
+        {
+          "badge_name": "Crewman SS",
+          "years": {
+            "start": 2003,
+            "end": 2004
+          },
+          "body_styles": [
+            "Dual Cab Ute"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual Tremec T56",
+            "4-speed automatic 4L65-E"
+          ],
+          "msrp_aud_min": 46990,
+          "msrp_aud_max": 49990,
+          "fuel_consumption_l_100km": 14.8,
+          "kerb_weight_kg": 1850,
+          "standard_features": [
+            "235 kW 5.7L LS1 V8",
+            "FE2 sports suspension",
+            "17-inch SS alloy wheels and fog lamps",
+            "Sports bucket seats and leather-wrapped steering wheel",
+            "Rear limited-slip differential (LSD)"
+          ],
+          "notes": "Muscle dual-cab utility."
+        },
+        {
+          "badge_name": "Crewman Cross 8",
+          "years": {
+            "start": 2004,
+            "end": 2004
+          },
+          "body_styles": [
+            "Dual Cab Ute"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "4-speed automatic heavy duty 4L65-E"
+          ],
+          "msrp_aud_min": 51990,
+          "msrp_aud_max": 54990,
+          "fuel_consumption_l_100km": 15.6,
+          "kerb_weight_kg": 2010,
+          "standard_features": [
+            "Cross-Trac permanent AWD",
+            "235 kW 5.7L LS1 V8",
+            "Raised suspension and wheel arch flares",
+            "Heavy-duty leaf rear axle with limited-slip differential",
+            "Full dual-cab sports interior"
+          ],
+          "notes": "World's only 5.7L V8 AWD factory dual-cab ute."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Adventra LX8",
+          "body_style": "AWD Wagon",
+          "engine_code": "Gen-III-5.7-LS1",
+          "transmission": "4-speed automatic heavy duty 4L65-E",
+          "drivetrain": "AWD",
+          "msrp_aud": 52990,
+          "power_kw": 235.0,
+          "torque_nm": 460.0,
+          "fuel_l_100km": 15.2,
+          "towing_braked_kg": 2100,
+          "notes": "Cross-Trac permanent AWD LS1 V8 wagon."
+        },
+        {
+          "badge_name": "Crewman SS",
+          "body_style": "Dual Cab Ute",
+          "engine_code": "Gen-III-5.7-LS1",
+          "transmission": "6-speed manual Tremec T56",
+          "drivetrain": "RWD",
+          "msrp_aud": 46990,
+          "power_kw": 235.0,
+          "torque_nm": 460.0,
+          "fuel_l_100km": 14.8,
+          "towing_braked_kg": 2100,
+          "notes": "6-speed manual 5.7L V8 dual cab ute."
+        },
+        {
+          "badge_name": "Crewman Cross 8",
+          "body_style": "Dual Cab Ute",
+          "engine_code": "Gen-III-5.7-LS1",
+          "transmission": "4-speed automatic heavy duty 4L65-E",
+          "drivetrain": "AWD",
+          "msrp_aud": 51990,
+          "power_kw": 235.0,
+          "torque_nm": 460.0,
+          "fuel_l_100km": 15.6,
+          "towing_braked_kg": 2500,
+          "notes": "Cross-Trac AWD 5.7L V8 heavy-duty dual cab."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VY-II",
+          "category": "exterior",
+          "caption": "The VY Commodore was built from Sept 2002-August 2004, a mild update. \nSedans available were; Executive, Acclaim, Berlina, Calais, S, SV8 and SS.\nThe V2 2 door Monaro was introduced in 2001, available in CV6 and CV8\nAll wheel drive Wagon (A",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2003_Holden_HSV_VY_Senator_Signature_Sedan.jpg/1280px-2003_Holden_HSV_VY_Senator_Signature_Sedan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Cars Down Under)",
+          "local_path": "media/pictures/holden/adventra-crewman/holden_adventra-crewman_VY-II_1_2003_Holden_HSV_VY_Senator_Signature_Sedan.jpg",
+          "file_size_bytes": 446586,
+          "sha256": "4672613f3662c556cec35a2941b0007229a96dd031d6f806ecc5dbf064c82040"
+        }
+      ]
+    },
+    {
+      "series_code": "VZ",
+      "generation_name": "VZ Series Adventra & Crewman",
+      "years": {
+        "start": 2004,
+        "end": 2008
+      },
+      "body_styles": [
+        "5-door AWD wagon",
+        "4-door dual-cab ute",
+        "2-door cab chassis (One Tonner)"
+      ],
+      "platform": "GM V-body extended / Cross-Trac AWD",
+      "ancap_rating": 4,
+      "summary": "VZ powertrain update. Introduction of 190 kW Alloytec V6 in Adventra SX6/CX6 and Crewman Cross 6, alongside upgraded 250 kW Gen III 5.7L and 260 kW 6.0L L76 V8 in Crewman SS / SSZ.",
+      "engines": [
+        {
+          "engine_code": "Alloytec-190-V6",
+          "name": "Holden Alloytec 190 3.6L DOHC 24V V6",
+          "displacement_cc": 3564,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 190.0,
+          "power_rpm": "6500",
+          "torque_nm": 340.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24V VVT",
+          "notes": "Variable Cam Phasing (VCP) and dual exhaust; paired with 5-speed 5L40-E automatic."
+        },
+        {
+          "engine_code": "Gen-IV-6.0-L76",
+          "name": "GM Gen IV 6.0L (L76) Pushrod V8",
+          "displacement_cc": 5967,
+          "displacement_litres": 6.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 260.0,
+          "power_rpm": "5600",
+          "torque_nm": 510.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.4:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Introduced in 2006 on Crewman SS; 260 kW and 510 Nm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Adventra CX6",
+          "years": {
+            "start": 2005,
+            "end": 2006
+          },
+          "body_styles": [
+            "AWD Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic 5L40-E with paddle shifters"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1895,
+          "standard_features": [
+            "Cross-Trac permanent AWD",
+            "190 kW Alloytec V6",
+            "Electronic Stability Program (ESP)",
+            "17-inch alloy wheels",
+            "Climate control"
+          ],
+          "notes": "V6 powered AWD wagon."
+        },
+        {
+          "badge_name": "Crewman SSZ",
+          "years": {
+            "start": 2005,
+            "end": 2006
+          },
+          "body_styles": [
+            "Dual Cab Ute"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual Tremec T56",
+            "4-speed automatic 4L65-E"
+          ],
+          "msrp_aud_min": 49990,
+          "msrp_aud_max": 52990,
+          "fuel_consumption_l_100km": 14.6,
+          "kerb_weight_kg": 1860,
+          "standard_features": [
+            "5.7L LS1 V8 (250 kW)",
+            "Leather sports seats with 'SSZ' embroidery",
+            "Premium color-coded brake calipers",
+            "Auxiliary dashboard gauge pod",
+            "17-inch SS alloy wheels"
+          ],
+          "notes": "Special edition high-spec performance V8 dual-cab."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Adventra CX6",
+          "body_style": "AWD Wagon",
+          "engine_code": "Alloytec-190-V6",
+          "transmission": "5-speed automatic 5L40-E with paddle shifters",
+          "drivetrain": "AWD",
+          "msrp_aud": 44990,
+          "power_kw": 190.0,
+          "torque_nm": 340.0,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 2100,
+          "notes": "190 kW V6 Cross-Trac AWD wagon."
+        },
+        {
+          "badge_name": "Crewman SSZ",
+          "body_style": "Dual Cab Ute",
+          "engine_code": "Gen-IV-6.0-L76",
+          "transmission": "6-speed manual Tremec T56",
+          "drivetrain": "RWD",
+          "msrp_aud": 49990,
+          "power_kw": 260.0,
+          "torque_nm": 510.0,
+          "fuel_l_100km": 14.6,
+          "towing_braked_kg": 2100,
+          "notes": "6.0L Gen-IV 260 kW muscle dual-cab ute."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VZ",
+          "category": "exterior",
+          "caption": "Holden Crewman VZ SX6",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Holden_Adventra_SX6.jpg/1280px-Holden_Adventra_SX6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (TuRbO_J)",
+          "local_path": "media/pictures/holden/adventra-crewman/holden_adventra-crewman_VZ_1_Holden_Adventra_SX6.jpg",
+          "file_size_bytes": 310532,
+          "sha256": "5cfdf199d7762862250447d0f08fa5dea63c187c74e3a0b7a0dfd4bbbabd1aa5"
+        }
+      ]
+    }
+  ]
+}

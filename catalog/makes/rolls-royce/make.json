@@ -1,0 +1,71 @@
+{
+  "make_slug": "rolls-royce",
+  "name": "Rolls-Royce",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1920,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The quintessential symbol of automotive perfection, handcrafting royal tour cars, viceregal state limousines, and modern Goodwood masterpieces.",
+  "australian_history": "Rolls-Royce motor cars have graced Australian roads since the Silver Ghost era, serving as the official transport for visiting royalty, Governors-General, and prime ministers. From the 1960s Silver Cloud and Silver Shadow to the modern Goodwood era under BMW stewardship, Rolls-Royce has represented the absolute apex of luxury. Australia is an important market for the Phantom, Ghost, Wraith coupe, Cullinan luxury SUV, and the all-electric Spectre coupe.",
+  "models_catalog": [
+    {
+      "model_slug": "phantom",
+      "name": "Phantom",
+      "vehicle_type": "Sedan / Coupe / Drophead",
+      "segment": "Pinnacle Luxury Car",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The flagship of the Goodwood era, featuring coach doors, Starlight Headliner, and imperious 6.75-litre twin-turbo V12 waftability.",
+      "generations": [
+        {
+          "series_code": "Phantom-VII-VIII",
+          "generation_name": "Phantom VII & VIII",
+          "years": {
+            "start": 2003,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door saloon",
+            "Extended Wheelbase",
+            "Coupe",
+            "Drophead Coupe"
+          ],
+          "summary": "Aluminium spaceframe, self-righting wheel centres, Magic Carpet Ride, and 6.75L twin-turbo V12."
+        }
+      ]
+    },
+    {
+      "model_slug": "ghost",
+      "name": "Ghost",
+      "vehicle_type": "Sedan",
+      "segment": "Upper Luxury Car",
+      "years_sold_au": {
+        "start": 2010,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Designed for owners who prefer to drive themselves as well as be chauffeured, featuring Planar suspension and all-wheel steering.",
+      "generations": [
+        {
+          "series_code": "Ghost-I-II",
+          "generation_name": "Ghost 1st & 2nd Gen",
+          "years": {
+            "start": 2010,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door saloon",
+            "Extended"
+          ],
+          "summary": "Twin-turbo 6.6L and 6.75L V12, satellite-aided transmission, illuminated Pantheon grille, and Black Badge."
+        }
+      ]
+    }
+  ]
+}

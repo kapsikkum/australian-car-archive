@@ -1,0 +1,279 @@
+{
+  "make_slug": "mazda",
+  "model_slug": "rx-3-808",
+  "name": "RX-3 / 808",
+  "vehicle_type": "Rotary / Piston Coupe & Sedan",
+  "segment": "Sports Coupe / Small Car",
+  "years_sold_au": {
+    "start": 1972,
+    "end": 1978
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mazda RX-3 (Savanna) and its reciprocating-piston sister the Mazda 808 (Grand Familia) are iconic pillars of Australian motorsport history and Japanese performance folklore. Famed for taking the fight directly to Holden Torana GTR XU-1s and Ford Falcon GT-HOs at Mount Panorama Bathurst, the RX-3's screaming twin-rotor Wankel rotary engine won legions of fanatical followers.",
+  "australian_market_notes": "Introduced in March 1972, the RX-3 was sold alongside the cheaper, conventional four-cylinder 808. In motorsport, the RX-3 proved an unbeatable giant-killer in the under-3.0-litre class at the Bathurst 1000, claiming a historic 1st, 2nd, and 3rd in class in 1975 led by Don Holland. Surviving authentic RX-3 Coupes command extraordinary auction values across Australia today.",
+  "manuals": [
+    {
+      "title": "Mazda RX-3 / 808 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1972,
+      "language": "en",
+      "source_url": "local://catalog/makes/mazda/models/rx-3-808/model.json",
+      "local_path": "media/manuals/mazda/rx-3-808/mazda_rx-3-808_au_technical_manual.pdf",
+      "file_size_bytes": 4254,
+      "sha256": "a577b9a503c191ca72239840c0bedf1faaebf640c434a5cbd4aae395d0e1abb1",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Mazda Grand Familia, as it was known in Japan, was sold as the Mazda 808 in some export markets including Asia, Australia, and New Zealand. This was the Car with the inline 4 cyl engine, the Car with the Rotary engine was the Savanna in",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/1972_Mazda_RX3_Series_I_Sedan_%2816719870351%29.jpg/1280px-1972_Mazda_RX3_Series_I_Sedan_%2816719870351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/mazda/rx-3-808/mazda_rx-3-808_hero_1_1972_Mazda_RX3_Series_I_Sedan_16719870351_.jpg",
+      "file_size_bytes": 358189,
+      "sha256": "b03c99149b98ea0e8d6f8527e8aaaa17772c82fa1aec6b79ba2c2a1834c7a0c5"
+    },
+    {
+      "category": "exterior",
+      "caption": "The Mazda Grand Familia, as it was known in Japan, was sold as the Mazda 808 in some export markets including Asia, Australia, and New Zealand. This was the Car with the inline 4 cyl engine, the Car with the Rotary engine was the Savanna in",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/1973_Mazda_RX3_Series_II_Coupe_%2823738913081%29.jpg/1280px-1973_Mazda_RX3_Series_II_Coupe_%2823738913081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/mazda/rx-3-808/mazda_rx-3-808_hero_2_1973_Mazda_RX3_Series_II_Coupe_23738913081_.jpg",
+      "file_size_bytes": 408548,
+      "sha256": "2e747c7c3a6d78737dd8929de08c18e416f4e7b0f13155044675ce2da4735576"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "S102A/S124A",
+      "generation_name": "RX-3 Series I, II & III",
+      "years": {
+        "start": 1972,
+        "end": 1978
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "4-door Sedan",
+        "5-door Station Wagon"
+      ],
+      "platform": "Mazda S-platform",
+      "ancap_rating": "Untested",
+      "summary": "Rotary-powered icon. Series I (10A twin-rotor), Series II (12A single distributor with pointed nose), and Series III (spoilers and updated dash). 1975 Bathurst class dominator.",
+      "engines": [
+        {
+          "engine_code": "10A",
+          "name": "Mazda 10A Twin-Rotor Rotary",
+          "displacement_cc": 982,
+          "displacement_litres": 1.0,
+          "cylinders": 2,
+          "configuration": "Rotary (2-Rotor)",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 82.0,
+          "power_rpm": "7000",
+          "torque_nm": 135.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "Rotary Ports",
+          "notes": "Twin rotor 491cc x 2 with dual distributors in Series I."
+        },
+        {
+          "engine_code": "12A",
+          "name": "Mazda 12A Twin-Rotor Rotary",
+          "displacement_cc": 1146,
+          "displacement_litres": 1.1,
+          "cylinders": 2,
+          "configuration": "Rotary (2-Rotor)",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 97.0,
+          "power_rpm": "7000",
+          "torque_nm": 157.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "Rotary Ports",
+          "notes": "Larger 573cc x 2 rotors introduced in Series II (1974) with single distributor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RX-3 Coupe",
+          "years": {
+            "start": 1972,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 3299,
+          "msrp_aud_max": 4890,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 885,
+          "standard_features": [
+            "High-back bucket seats",
+            "Wood-rim steering wheel",
+            "Sports instruments with 7000rpm redline tachometer",
+            "Front disc brakes",
+            "Hexagonal tail-lights (Coupe)"
+          ],
+          "notes": "Highly prized collector car in Australia."
+        },
+        {
+          "badge_name": "RX-3 Sedan / Wagon",
+          "years": {
+            "start": 1972,
+            "end": 1976
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed auto"
+          ],
+          "msrp_aud_min": 3150,
+          "msrp_aud_max": 4350,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 905,
+          "standard_features": [
+            "4 doors",
+            "Vinyl seats",
+            "Centre console",
+            "Heater/demister"
+          ],
+          "notes": "Sedan and rare rotary wagon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RX-3 Coupe 12A",
+          "body_style": "2-door Coupe",
+          "engine_code": "12A",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1974,
+          "years_end": 1978,
+          "msrp_aud": 4290,
+          "power_kw": 97.0,
+          "torque_nm": 157.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 750,
+          "notes": "Iconic Australian touring car racer."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "STC/SN3A",
+      "generation_name": "Mazda 808 (Grand Familia)",
+      "years": {
+        "start": 1972,
+        "end": 1977
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "4-door Sedan",
+        "5-door Station Wagon"
+      ],
+      "platform": "Mazda S-platform",
+      "ancap_rating": "Untested",
+      "summary": "Piston-engine brother of the RX-3. Shared body panels with rectangular headlights, powered by conventional 1.3L and 1.6L 4-cylinder reciprocating engines.",
+      "engines": [
+        {
+          "engine_code": "TC",
+          "name": "Mazda TC 1.3L OHC",
+          "displacement_cc": 1272,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 54.0,
+          "power_rpm": "6000",
+          "torque_nm": 92.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Economy piston engine."
+        },
+        {
+          "engine_code": "NA",
+          "name": "Mazda NA 1.6L OHC",
+          "displacement_cc": 1586,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 60.0,
+          "power_rpm": "5500",
+          "torque_nm": 115.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "8.6:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Offered in 808 Super Deluxe."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "808 Deluxe / Super Deluxe",
+          "years": {
+            "start": 1972,
+            "end": 1977
+          },
+          "body_styles": [
+            "Coupe",
+            "Sedan",
+            "Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 2490,
+          "msrp_aud_max": 3490,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 855,
+          "standard_features": [
+            "Single rectangular headlights",
+            "Vinyl interior",
+            "Heater/demister",
+            "Push-button radio"
+          ],
+          "notes": "Affordable small car widely converted into RX-3 rotary replicas today."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "808 Sedan 1300",
+          "body_style": "4-door Sedan",
+          "engine_code": "TC",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1972,
+          "years_end": 1977,
+          "msrp_aud": 2690,
+          "power_kw": 54.0,
+          "torque_nm": 92.0,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 700,
+          "notes": "Piston family runabout."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "make_slug": "bolwell",
+  "model_slug": "nagari-mk-viii",
+  "name": "Bolwell Nagari (Mk VIII)",
+  "vehicle_type": "Sports Coupe / Convertible",
+  "segment": "Supercar / V8 Sports",
+  "years_sold_au": {
+    "start": 1970,
+    "end": 1974
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Mordialloc, Victoria"
+  ],
+  "overview": "The Bolwell Nagari (Mk VIII) was Australia's premier bespoke production sports car, built by Campbell and Graeme Bolwell in Mordialloc, Melbourne. Featuring an ultra-rigid Y-shaped steel backbone chassis, breathtaking fiberglass coachwork, and Ford 302ci/351ci Windsor and Cleveland V8 engines, the Nagari weighed just 1,040 kg and accelerated from 0-100 km/h in 5.8 seconds, outpacing contemporary European exotics. A total of 127 units (100 coupes and 27 convertibles) were built.",
+  "australian_market_notes": "Conceived after Graeme Bolwell worked with Colin Chapman at Lotus in England, the Nagari was sold as a fully built, road-compliant production car. Using an Austin 1800-derived front suspension with unequal wishbones and a live Ford rear axle with trailing arms and Panhard rod, the Nagari offered outstanding handling and explosive straight-line acceleration.",
+  "manuals": [
+    {
+      "title": "Bolwell Bolwell Nagari (Mk VIII) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1970,
+      "language": "en",
+      "source_url": "local://catalog/makes/bolwell/models/nagari-mk-viii/model.json",
+      "local_path": "media/manuals/bolwell/nagari-mk-viii/bolwell_nagari-mk-viii_au_technical_manual.pdf",
+      "file_size_bytes": 3237,
+      "sha256": "ecf1e0193c73adfa0d8db157e1fce4f7636905689491338cb27f1dd9a6368c02",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Bolwell is an Australian company that produced sports cars between 1962 and 1979 \nThe first, 1962-64 Mk IV was offered as a really swoopy looking  coupe with steel tube chassis and fibreglass body. Power was generally Fords 4 cyl Kent. The ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/1970_Bolwell_Nagari_Mk_VIII_Coupe_%2833472077442%29.jpg/1280px-1970_Bolwell_Nagari_Mk_VIII_Coupe_%2833472077442%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/bolwell/nagari-mk-viii/bolwell_nagari-mk-viii_hero_1_1970_Bolwell_Nagari_Mk_VIII_Coupe_33472077442_.jpg",
+      "file_size_bytes": 395608,
+      "sha256": "6867310b21332c2f4d1faa2f45249646dc3a472873b34d56a08dc94408446326"
+    },
+    {
+      "category": "exterior",
+      "caption": "Bolwell is an Australian company that produced sports cars between 1962 and 1979 \nThe first, 1962-64 Mk IV was offered as a really swoopy looking  coupe with steel tube chassis and fibreglass body. Power was generally Fords 4 cyl Kent. The ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/1971_Bolwell_Nagari_Mk_VIII_Convertible_%2831252981952%29.jpg/1280px-1971_Bolwell_Nagari_Mk_VIII_Convertible_%2831252981952%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/bolwell/nagari-mk-viii/bolwell_nagari-mk-viii_hero_2_1971_Bolwell_Nagari_Mk_VIII_Convertible_31252981952_.jpg",
+      "file_size_bytes": 395159,
+      "sha256": "233cd1b36e996d3f4d67d3ba37095f3807ca3a58d2bf0277a1dc6357ffc290ae"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Mk-VIII",
+      "generation_name": "Nagari Mk VIII",
+      "years": {
+        "start": 1970,
+        "end": 1974
+      },
+      "body_styles": [
+        "2-door coupe",
+        "2-door convertible"
+      ],
+      "platform": "Bolwell steel backbone chassis",
+      "ancap_rating": null,
+      "summary": "Bespoke Australian V8 sports car; Ford 302ci and 351ci V8s, 4-speed Toploader manual; 127 production units built.",
+      "engines": [
+        {
+          "engine_code": "Ford-302-Nagari",
+          "name": "Ford 302ci (4.9L) Windsor/Cleveland V8",
+          "displacement_cc": 4942,
+          "displacement_litres": 4.9,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 179.0,
+          "power_rpm": "4800",
+          "torque_nm": 407.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Holley 4-barrel carburettor."
+        },
+        {
+          "engine_code": "Ford-351-Nagari",
+          "name": "Ford 351ci (5.8L) Cleveland V8",
+          "displacement_cc": 5752,
+          "displacement_litres": 5.8,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 224.0,
+          "power_rpm": "5400",
+          "torque_nm": 515.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Optional high-output V8; 0-100 km/h in 5.5s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Coupe",
+          "years": {
+            "start": 1970,
+            "end": 1974
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Ford Toploader)"
+          ],
+          "msrp_aud_min": 6500,
+          "msrp_aud_max": 7500,
+          "fuel_consumption_l_100km": 15.0,
+          "kerb_weight_kg": 1040,
+          "standard_features": [
+            "Y-frame backbone chassis",
+            "Hand-laid fiberglass body",
+            "Girling 4-wheel disc brakes",
+            "Alloy sports road wheels",
+            "Smiths instruments"
+          ],
+          "notes": "100 coupes produced."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Coupe",
+          "body_style": "2-door coupe",
+          "engine_code": "Ford-302-Nagari",
+          "transmission": "4-speed manual (Ford Toploader)",
+          "drivetrain": "RWD",
+          "msrp_aud": 6800,
+          "power_kw": 179.0,
+          "torque_nm": 407.0,
+          "fuel_l_100km": 15.0,
+          "towing_braked_kg": 0,
+          "notes": "0-100 km/h in 5.8s; top speed 230 km/h."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Mk-VIII",
+          "category": "exterior",
+          "caption": "Bolwell is an Australian company that produced sports cars between 1962 and 1979 \nThe first, 1962-64 Mk IV was offered as a really swoopy looking  coupe with steel tube chassis and fibreglass body. Power was generally Fords 4 cyl Kent. The ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/1970_Bolwell_Nagari_Mk_VIII_Coupe_%2833472077442%29.jpg/1280px-1970_Bolwell_Nagari_Mk_VIII_Coupe_%2833472077442%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/bolwell/nagari-mk-viii/bolwell_nagari-mk-viii_Mk-VIII_1_1970_Bolwell_Nagari_Mk_VIII_Coupe_33472077442_.jpg",
+          "file_size_bytes": 395608,
+          "sha256": "6867310b21332c2f4d1faa2f45249646dc3a472873b34d56a08dc94408446326"
+        }
+      ]
+    }
+  ]
+}

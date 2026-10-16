@@ -1,0 +1,41 @@
+{
+  "make_slug": "jac",
+  "name": "JAC Motors",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2024,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Chinese commercial giant entering Australia's fiercely contested dual-cab ute segment in 2024 with the JAC T9 turbo diesel and electric utilities.",
+  "australian_history": "JAC Motors officially entered the Australian light commercial market in early 2024 through independent distributor LTS Auto. JAC launched with the T9 dual-cab ute—a rugged ladder-frame pickup powered by a 2.0-litre turbo diesel engine paired with an 8-speed ZF automatic gearbox and BorgWarner part-time 4WD. The T9 earned a full five-star ANCAP safety rating under the stringent 2023-2025 testing criteria. JAC also previewed an all-electric dual-cab T9 EV with an 88kWh battery.",
+  "models_catalog": [
+    {
+      "model_slug": "t9",
+      "name": "T9",
+      "vehicle_type": "Ute / Pickup Truck",
+      "segment": "Mid-size Dual-Cab Ute",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Boldly styled dual-cab ute with 3,500kg braked towing, five-star ANCAP safety, and 2.0L turbo diesel power.",
+      "generations": [
+        {
+          "series_code": "T9-Gen1",
+          "generation_name": "JAC T9",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "summary": "Oasis and Haven trims; 2.0L Turbo Diesel (125kW/410Nm), 8-speed ZF auto, rear diff lock, and 10.4-inch touchscreen."
+        }
+      ]
+    }
+  ]
+}

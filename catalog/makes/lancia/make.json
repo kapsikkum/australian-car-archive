@@ -1,0 +1,70 @@
+{
+  "make_slug": "lancia",
+  "name": "Lancia",
+  "country_of_origin": "Italy",
+  "years_active_au": {
+    "start": 1960,
+    "end": 1988
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Pioneering Italian engineering marque beloved by Australian enthusiasts for the Fulvia, Flavia, Beta, and rally-legend Delta Integrale.",
+  "australian_history": "Lancia was imported into Australia in the 1960s and 1970s by Grenville Motors and independent distributors, attracting discerning drivers with front-wheel drive engineering, narrow-angle V4 engines (Fulvia), and boxer-fours (Flavia). The Lancia Beta range—including Coupe, HPE, and mid-engine Montecarlo—was sold in Australia through the 1970s and 1980s. While official factory imports ceased in the late 1980s, Australian rally and Italian car enthusiasts privately imported dozens of Group A World Rally Championship homologation heroes, notably the Lancia Delta HF Integrale and Integrale Evoluzione.",
+  "models_catalog": [
+    {
+      "model_slug": "beta",
+      "name": "Beta",
+      "vehicle_type": "Sedan / Coupe / HPE / Spider",
+      "segment": "Medium Sports Car",
+      "years_sold_au": {
+        "start": 1974,
+        "end": "1985"
+      },
+      "locally_built": false,
+      "overview": "Fiat twin-cam powered sports range featuring transverse front-wheel drive and MacPherson strut suspension.",
+      "generations": [
+        {
+          "series_code": "Beta-Series",
+          "generation_name": "Lancia Beta",
+          "years": {
+            "start": 1974,
+            "end": 1985
+          },
+          "body_styles": [
+            "Berlina sedan",
+            "Coupe",
+            "HPE shooting brake",
+            "Spider targa"
+          ],
+          "summary": "Lampredi twin-cam 1.6L, 1.8L, and 2.0L Volumex supercharged engines."
+        }
+      ]
+    },
+    {
+      "model_slug": "delta-integrale",
+      "name": "Delta HF Integrale",
+      "vehicle_type": "Hatchback",
+      "segment": "Rally Homologation Sports Car",
+      "years_sold_au": {
+        "start": 1987,
+        "end": "1994"
+      },
+      "locally_built": false,
+      "overview": "Six-time consecutive WRC champion rally icon, revered in Australia with private imports and collector status.",
+      "generations": [
+        {
+          "series_code": "Delta-HF",
+          "generation_name": "Delta HF 4WD & Integrale",
+          "years": {
+            "start": 1987,
+            "end": 1994
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "2.0L Turbo 8V/16V, permanent Ferguson 4WD with Torsen rear differential, Evo 1, and Evo 2 (158kW)."
+        }
+      ]
+    }
+  ]
+}

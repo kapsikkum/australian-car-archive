@@ -1,0 +1,232 @@
+{
+  "make_slug": "holden",
+  "model_slug": "statesman-caprice",
+  "name": "Holden Statesman / Caprice",
+  "vehicle_type": "Sedan",
+  "segment": "Upper Luxury / Limousine",
+  "years_sold_au": {
+    "start": 1971,
+    "end": 2017
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Dandenong, Victoria",
+    "Elizabeth, South Australia",
+    "Acacia Ridge, Queensland"
+  ],
+  "overview": "The Holden Statesman and Caprice was Australia's presidential luxury flagship for nearly five decades. Conceived to challenge the Ford Fairlane and LTD, the Statesman rode on an extended 114-inch to 118-inch wheelbase providing unmatched rear legroom. Serving as official transport for Australian prime ministers, diplomats, business executives, and luxury hire car fleets, the Statesman and Caprice evolved from the ornate HQ-WB models to the modern IRS-equipped VQ-WL series and the billion-dollar Zeta-platform WM and WN. Exported globally as the Chevrolet Caprice, Buick Park Avenue, and US Police Pursuit Vehicle (PPV).",
+  "australian_market_notes": "Originally marketed without the Holden nameplate simply as 'Statesman' in the HQ series, it featured formal roofline styling and standard V8 power. The 1990 VQ was a watershed car, introducing the first independent rear suspension (IRS) in a production Holden. The 2006 WM series was engineered on GM's global Zeta platform, offering extraordinary torsional rigidity and cavernous comfort. In 2015, the WN Series II Caprice V adopted the 304kW 6.2L LS3 V8.",
+  "manuals": [
+    {
+      "title": "Holden Holden Statesman / Caprice Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1971,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/statesman-caprice/model.json",
+      "local_path": "media/manuals/holden/statesman-caprice/holden_statesman-caprice_au_technical_manual.pdf",
+      "file_size_bytes": 4334,
+      "sha256": "fb1f506fbe122db09beeac1417d10f0646ce964fad8f2c6b1c183cc2a9519c7f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Absinth Yellow\nThe HJ Holden was built from October 1974-July 1976. \nThe HJ was the first of three facelifts on the HQ shape, it got a squared off front with wrap around indicators front and rear. (indicators on HQ within the rear bumper, n",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/1975_Holden_HJ_Sandman_Utility_%2832105576745%29.jpg/1280px-1975_Holden_HJ_Sandman_Utility_%2832105576745%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/holden/statesman-caprice/holden_statesman-caprice_hero_1_1975_Holden_HJ_Sandman_Utility_32105576745_.jpg",
+      "file_size_bytes": 353045,
+      "sha256": "d4205889493ca9f7e31a18c30e8657fc1b99f7379de63f8e4ae082d5e5fec669"
+    },
+    {
+      "category": "exterior",
+      "caption": "The WH Statesman was built from April 1999-Feb 2003. \nBased on the 1st of the 3rd generation Commodores, the VT, the WH Statesman was introduced 2 years after the introduction of the VT. \nThe Statesman had unique front and rear styling and ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2002_Holden_WH_Statesman_Series_II_Sedan_%2818111933585%29.jpg/1280px-2002_Holden_WH_Statesman_Series_II_Sedan_%2818111933585%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/holden/statesman-caprice/holden_statesman-caprice_hero_2_2002_Holden_WH_Statesman_Series_II_Sedan_18111933585_.jpg",
+      "file_size_bytes": 334762,
+      "sha256": "01cc0ca8afe2c205121f7859e692942fd2071c774bae118123e7246528aa6cd6"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "HQ-WB",
+      "generation_name": "HQ-WB Series",
+      "years": {
+        "start": 1971,
+        "end": 1985
+      },
+      "body_styles": [
+        "4-door long-wheelbase sedan"
+      ],
+      "platform": "GM-H LWB perimeter chassis",
+      "ancap_rating": null,
+      "summary": "Extended 114-inch wheelbase luxury cruiser. Statesman Custom, de Ville, and Caprice trims with 308ci V8 and plush velour/leather.",
+      "engines": [
+        {
+          "engine_code": "Holden-308-V8-Statesman",
+          "name": "Holden 308ci (5.0L) Red/Blue V8",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 179.0,
+          "power_rpm": "4800",
+          "torque_nm": 427.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Standard in Caprice."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Caprice",
+          "years": {
+            "start": 1974,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Turbo Hydra-Matic 400 3-speed automatic"
+          ],
+          "msrp_aud_min": 7950,
+          "msrp_aud_max": 18500,
+          "fuel_consumption_l_100km": 16.5,
+          "kerb_weight_kg": 1580,
+          "standard_features": [
+            "308ci V8",
+            "Integrated air conditioning",
+            "Power windows",
+            "Leather or crushed velour seating",
+            "Radial Tuned Suspension (HZ/WB)"
+          ],
+          "notes": "Australia's premier domestic luxury limousine."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Caprice",
+          "body_style": "4-door long-wheelbase sedan",
+          "engine_code": "Holden-308-V8-Statesman",
+          "transmission": "Turbo Hydra-Matic 400 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 8450,
+          "power_kw": 179.0,
+          "torque_nm": 427.0,
+          "fuel_l_100km": 16.5,
+          "towing_braked_kg": 1800,
+          "notes": "VIP ministerial transportation."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HQ-WB",
+          "category": "exterior",
+          "caption": "1971–1974 Holden HQ Monaro GTS coupe (with a 1980–1984 Statesman WB Caprice front end conversion), photographed in Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/1971-1974_Holden_HQ_Monaro_GTS.jpg/1280px-1971-1974_Holden_HQ_Monaro_GTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (The original uploader was Sdunn1000 at English Wikipedia.)",
+          "local_path": "media/pictures/holden/statesman-caprice/holden_statesman-caprice_HQ-WB_1_1971-1974_Holden_HQ_Monaro_GTS.jpg",
+          "file_size_bytes": 344482,
+          "sha256": "aae8a18d3c22c2157651b30708c3893596968b3e65aa96b75cefe29183402061"
+        }
+      ]
+    },
+    {
+      "series_code": "WM-WN",
+      "generation_name": "WM & WN Series",
+      "years": {
+        "start": 2006,
+        "end": 2017
+      },
+      "body_styles": [
+        "4-door long-wheelbase sedan"
+      ],
+      "platform": "GM Zeta LWB platform",
+      "ancap_rating": "5 Stars",
+      "summary": "Billion-dollar Zeta platform limousine with 6.0L L98/L77 and 6.2L LS3 V8. Supplied to the US as the Chevrolet Caprice PPV police interceptor.",
+      "engines": [
+        {
+          "engine_code": "Gen-IV-LS3-Caprice",
+          "name": "Chevrolet 6.2L LS3 V8 (WN Series II)",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 304.0,
+          "power_rpm": "6000",
+          "torque_nm": 570.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.7:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Fitted to final Caprice V; 0-100 km/h in 5.1 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Caprice V",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed automatic (6L80-E)"
+          ],
+          "msrp_aud_min": 60490,
+          "msrp_aud_max": 65000,
+          "fuel_consumption_l_100km": 12.9,
+          "kerb_weight_kg": 1851,
+          "standard_features": [
+            "304kW LS3 6.2L V8",
+            "Rear seat dual DVD screens",
+            "Bose premium audio",
+            "Head-Up Display",
+            "Forward Collision Alert",
+            "Leather heated memory seats"
+          ],
+          "notes": "Australia's ultimate executive transport."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Caprice V",
+          "body_style": "4-door long-wheelbase sedan",
+          "engine_code": "Gen-IV-LS3-Caprice",
+          "transmission": "6-speed automatic (6L80-E)",
+          "drivetrain": "RWD",
+          "msrp_aud": 61490,
+          "power_kw": 304.0,
+          "torque_nm": 570.0,
+          "fuel_l_100km": 12.9,
+          "towing_braked_kg": 2100,
+          "notes": "Final Australian factory limousine."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "WM-WN",
+          "category": "exterior",
+          "caption": "2007-2016 Chevrolet Caprice V8 (WM/WN)\nRebadged Holden Caprice/Statesman",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Chevrolet_Caprice_WM_V8.jpg/1280px-Chevrolet_Caprice_WM_V8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Mohammed Hamad)",
+          "local_path": "media/pictures/holden/statesman-caprice/holden_statesman-caprice_WM-WN_1_Chevrolet_Caprice_WM_V8.jpg",
+          "file_size_bytes": 282675,
+          "sha256": "0ba47502ff66eb42900fe9cbee55519055e834407cf3d084d3cb5f42796d154e"
+        }
+      ]
+    }
+  ]
+}

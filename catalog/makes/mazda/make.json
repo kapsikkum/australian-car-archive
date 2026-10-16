@@ -1,0 +1,942 @@
+{
+  "make_slug": "mazda",
+  "name": "Mazda",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1959,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Renowned for innovative engineering, rotary-powered motorsport legends, and stylish consumer favourites. Mazda has consistently stood as Australia's second best-selling automotive marque for over two decades.",
+  "australian_history": "Mazda vehicles first reached Australian shores in 1959 through independent distributors, with the tiny R360 rear-engine coupe and light commercial utility models. In 1966, the Mazda 1000/1200 Familia arrived, establishing Mazda's reputation for mechanical sophistication.\n\nThe pivotal chapter in Mazda's Australian heritage began in 1969 with the rotary engine revolution. Following the R100 coupe, Mazda introduced the Capella Rotary (RX-2) in 1970, the RX-3 in 1971, and the RX-4 in 1973. Australian motorsport legend Allan Moffat forged the RX-3 into an iconic touring car weapon, famously challenging the V8 Holden Toranas and Ford Falcons at Mount Panorama, Bathurst. The rotary legend culminated with three generations of the RX-7 sports car (1979-2002); Moffat won the Australian Touring Car Championship in 1983 in an RX-7, and Allan Horsley's Mazda Motorsport skunkworks built the world-exclusive, twin-turbo RX-7 SP in Melbourne to win the Eastern Creek and Bathurst 12 Hour endurance races in 1995.\n\nIn the mainstream market, Mazda forged a deep alliance with Ford Australia throughout the 1980s and 1990s. The front-wheel-drive Mazda 323 (BD/BF) and 626 (GC/GD) formed the engineering foundation for the locally built Ford Laser, Meteor, and Telstar, which dominated Australian sales charts.\n\nIn 1989, Mazda introduced the MX-5 (NA), a lightweight rear-wheel-drive roadster that single-handedly revitalized the open-top sports car segment in Australia and worldwide. In 1992, Mazda launched its luxury Eunos sub-brand in Australia, showcasing advanced engineering like the world's first Miller-cycle engine in the Eunos 800.\n\nThe modern era began in 2002 with Mazda's emotive 'Zoom-Zoom' brand renaissance. The Mazda6 (2002) and Mazda3 (2004) set new standards for design, build quality, and driving dynamics in their respective classes. In 2011 and 2012, the Mazda3 achieved the extraordinary feat of becoming Australia's #1 selling car outright, unseating the Holden Commodore. In 2012, the CX-5 introduced Skyactiv lightweight chassis and powertrain technology, becoming Australia's favourite private SUV for years. Today, Mazda Australia remains headquartered in Mulgrave, Victoria, backed by a nationwide dealer network.",
+  "models_catalog": [
+    {
+      "model_slug": "rx-7",
+      "name": "RX-7",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1979,
+        "end": 2002
+      },
+      "locally_built": false,
+      "overview": "Rotary-powered sports car icon with legendary Australian touring car and endurance racing heritage.",
+      "generations": [
+        {
+          "series_code": "SA22C/FB",
+          "generation_name": "RX-7 Series 1-3",
+          "years": {
+            "start": 1979,
+            "end": 1985
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "12A twin-rotor engine 77kW-85kW, 5-speed manual, Moffat ATCC winner 1983."
+        },
+        {
+          "series_code": "FC3S",
+          "generation_name": "RX-7 Series 4-5",
+          "years": {
+            "start": 1986,
+            "end": 1992
+          },
+          "body_styles": [
+            "Coupe",
+            "Convertible"
+          ],
+          "summary": "13B naturally aspirated and 13B-Turbo intercooled twin-scroll turbo (147kW-162kW)."
+        },
+        {
+          "series_code": "FD3S",
+          "generation_name": "RX-7 Series 6-8",
+          "years": {
+            "start": 1992,
+            "end": 2002
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "Sequential twin-turbo 13B-REW (176kW-206kW); 1995 Australian-only RX-7 SP homologation special."
+        }
+      ]
+    },
+    {
+      "model_slug": "rx-8",
+      "name": "RX-8",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2012
+      },
+      "locally_built": false,
+      "overview": "4-door, 4-seat rotary sports coupe with rear suicide freestyle doors and the naturally aspirated RENESIS engine.",
+      "generations": [
+        {
+          "series_code": "SE3P",
+          "generation_name": "RX-8 Series 1 & 2",
+          "years": {
+            "start": 2003,
+            "end": 2012
+          },
+          "body_styles": [
+            "Coupe (Freestyle doors)"
+          ],
+          "summary": "RENESIS 13B-MSP naturally aspirated rotary revving to 9000rpm (170kW-177kW); Base, Luxury, and GT."
+        }
+      ]
+    },
+    {
+      "model_slug": "121",
+      "name": "121",
+      "vehicle_type": "Sedan / Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1987,
+        "end": 2002
+      },
+      "locally_built": false,
+      "overview": "Quirky, beloved city car, famous in Australia for the DB 'Bubble' sedan and canvas 'Fun-top' roof.",
+      "generations": [
+        {
+          "series_code": "DA",
+          "generation_name": "121 1st Gen",
+          "years": {
+            "start": 1987,
+            "end": 1990
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch"
+          ],
+          "summary": "1.3L B3 engine, boxy packaging, co-developed with Ford Festiva."
+        },
+        {
+          "series_code": "DB",
+          "generation_name": "121 2nd Gen ('Bubble')",
+          "years": {
+            "start": 1990,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "summary": "1.3L and 1.5L engines, distinctive rounded jellybean styling and canvas sunroof."
+        },
+        {
+          "series_code": "DW",
+          "generation_name": "121 Metro 3rd Gen",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "Tall-boy hatchback packaging, 1.3L and 1.5L engines, succeeded by Mazda2."
+        }
+      ]
+    },
+    {
+      "model_slug": "mazda2",
+      "name": "Mazda2",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 2002,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Fun-to-drive, stylish light car that has been an Australian small-car mainstay for over two decades.",
+      "generations": [
+        {
+          "series_code": "DY",
+          "generation_name": "Mazda2 1st Gen",
+          "years": {
+            "start": 2002,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "1.5L ZY-VE engine 82kW, tall mini-MPV profile; Neo, Maxx, and Genki."
+        },
+        {
+          "series_code": "DE",
+          "generation_name": "Mazda2 2nd Gen",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch",
+            "Sedan"
+          ],
+          "summary": "Gram-strategy lightweight chassis (100kg lighter), 1.5L MZR engine, Wheels COTY 2007."
+        },
+        {
+          "series_code": "DJ",
+          "generation_name": "Mazda2 3rd Gen",
+          "years": {
+            "start": 2014,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "Sedan"
+          ],
+          "summary": "KODO design, Skyactiv-G 1.5L engine (79kW-82kW), G-Vectoring Control; Pure, Evolve, GT."
+        }
+      ]
+    },
+    {
+      "model_slug": "323",
+      "name": "323",
+      "vehicle_type": "Hatchback / Sedan / Wagon",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1977,
+        "end": 2003
+      },
+      "locally_built": false,
+      "overview": "Long-running small car range that cemented Mazda in Australia; platform twin to the Australian Ford Laser.",
+      "generations": [
+        {
+          "series_code": "FA4",
+          "generation_name": "323 1st Gen",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "Hatchback",
+            "Wagon"
+          ],
+          "summary": "Rear-wheel drive, 1.3L and 1.4L engines, hatch with folding rear seat."
+        },
+        {
+          "series_code": "BD",
+          "generation_name": "323 2nd Gen",
+          "years": {
+            "start": 1980,
+            "end": 1985
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Switch to FWD, 1.3L and 1.5L engines; Australian Wheels COTY 1980."
+        },
+        {
+          "series_code": "BF",
+          "generation_name": "323 3rd Gen",
+          "years": {
+            "start": 1985,
+            "end": 1989
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "1.6L B6 engine, introduced turbo AWD variants in Japan; SS and Deluxe trims."
+        },
+        {
+          "series_code": "BG",
+          "generation_name": "323 Astina 4th Gen",
+          "years": {
+            "start": 1989,
+            "end": 1994
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Pop-up headlights on Astina 5-door, 1.6L and 1.8L DOHC engines; huge Australian cult status."
+        },
+        {
+          "series_code": "BA",
+          "generation_name": "323 Astina/Protege 5th Gen",
+          "years": {
+            "start": 1994,
+            "end": 1998
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Hardtop doors, 1.8L BP and smooth 2.0L KF-DE V6 engine in Astina V6."
+        },
+        {
+          "series_code": "BJ",
+          "generation_name": "323 Astina/Protege 6th Gen",
+          "years": {
+            "start": 1998,
+            "end": 2003
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.6L ZM-DE, 1.8L FP-DE, and 2.0L FS-DE in Astina SP20; final 323 before Mazda3."
+        }
+      ]
+    },
+    {
+      "model_slug": "mazda3",
+      "name": "Mazda3",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 2004,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "One of Australia's most successful cars in modern history, twice topping the national sales charts outright (2011, 2012).",
+      "generations": [
+        {
+          "series_code": "BK",
+          "generation_name": "Mazda3 1st Gen",
+          "years": {
+            "start": 2004,
+            "end": 2009
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "2.0L LF-VE, 2.3L L3-VE (SP23), and 190kW 2.3L Turbo MPS; Neo, Maxx, Maxx Sport, SP23."
+        },
+        {
+          "series_code": "BL",
+          "generation_name": "Mazda3 2nd Gen",
+          "years": {
+            "start": 2009,
+            "end": 2013
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Smiling face styling, 2.0L, 2.5L SP25, 2.2L Diesel, 190kW MPS; Australia's #1 car 2011 & 2012."
+        },
+        {
+          "series_code": "BM",
+          "generation_name": "Mazda3 3rd Gen",
+          "years": {
+            "start": 2014,
+            "end": 2016
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "KODO styling, full Skyactiv-G 2.0L and 2.5L engines; Neo, Maxx, Touring, SP25, SP25 Astina."
+        },
+        {
+          "series_code": "BN",
+          "generation_name": "Mazda3 3rd Gen Facelift",
+          "years": {
+            "start": 2016,
+            "end": 2019
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Standard G-Vectoring Control, electronic park brake, updated interior."
+        },
+        {
+          "series_code": "BP",
+          "generation_name": "Mazda3 4th Gen",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Near-luxury finish, 2.0L G20, 2.5L G25, and Skyactiv-X SPCCI 2.0L mild hybrid (X20)."
+        }
+      ]
+    },
+    {
+      "model_slug": "626",
+      "name": "626",
+      "vehicle_type": "Sedan / Hatchback / Wagon",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 1979,
+        "end": 2002
+      },
+      "locally_built": false,
+      "overview": "Refined Japanese mid-size car that challenged European competitors and shared DNA with the Ford Telstar.",
+      "generations": [
+        {
+          "series_code": "CB",
+          "generation_name": "626 1st Gen",
+          "years": {
+            "start": 1979,
+            "end": 1982
+          },
+          "body_styles": [
+            "Sedan",
+            "Coupe"
+          ],
+          "summary": "Rear-wheel drive, 2.0L MA engine, comfortable ride, Wheels COTY runner-up."
+        },
+        {
+          "series_code": "GC",
+          "generation_name": "626 2nd Gen",
+          "years": {
+            "start": 1983,
+            "end": 1987
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "summary": "Switch to FWD, 2.0L FE engine, electronic adjustable suspension (EVCS); Wheels COTY 1983."
+        },
+        {
+          "series_code": "GD",
+          "generation_name": "626 3rd Gen",
+          "years": {
+            "start": 1987,
+            "end": 1992
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback",
+            "Wagon"
+          ],
+          "summary": "2.2L F2 engine, optional 4WS (four-wheel steering) and turbo variants."
+        },
+        {
+          "series_code": "GE",
+          "generation_name": "626 4th Gen",
+          "years": {
+            "start": 1992,
+            "end": 1997
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "summary": "Sleek aerodynamic curves, 2.0L FS and smooth 2.5L KL-DE V6; Cronos architecture."
+        },
+        {
+          "series_code": "GF",
+          "generation_name": "626 5th Gen",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback",
+            "Wagon"
+          ],
+          "summary": "2.0L FS-DE engine, spacious practical cabin; succeeded by Mazda6 in 2002."
+        }
+      ]
+    },
+    {
+      "model_slug": "mazda6",
+      "name": "Mazda6",
+      "vehicle_type": "Sedan / Hatchback / Wagon",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 2002,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Dynamic mid-size sports sedan and wagon that spearheaded Mazda's 'Zoom-Zoom' brand rebirth in Australia.",
+      "generations": [
+        {
+          "series_code": "GG/GY",
+          "generation_name": "Mazda6 1st Gen",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback",
+            "Wagon"
+          ],
+          "summary": "2.3L MZR engine 122kW, double-wishbone front suspension; 190kW AWD MPS turbo in 2005."
+        },
+        {
+          "series_code": "GH",
+          "generation_name": "Mazda6 2nd Gen",
+          "years": {
+            "start": 2008,
+            "end": 2012
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback",
+            "Wagon"
+          ],
+          "summary": "2.5L L5-VE petrol and 2.2L MZR-CD turbodiesel; Classic, Luxury, Luxury Sports."
+        },
+        {
+          "series_code": "GJ/GL",
+          "generation_name": "Mazda6 3rd Gen",
+          "years": {
+            "start": 2012,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "KODO styling, Skyactiv-G 2.5L, 2.2L twin-turbo diesel, and 170kW 2.5L Turbo (Atenza)."
+        }
+      ]
+    },
+    {
+      "model_slug": "mx-5",
+      "name": "MX-5",
+      "vehicle_type": "Roadster Convertible",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1989,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The world's and Australia's favourite two-seat roadster, embodying the 'Jinba Ittai' (horse and rider as one) ethos.",
+      "generations": [
+        {
+          "series_code": "NA",
+          "generation_name": "MX-5 1st Gen",
+          "years": {
+            "start": 1989,
+            "end": 1997
+          },
+          "body_styles": [
+            "Roadster Convertible"
+          ],
+          "summary": "Pop-up lights, 1.6L B6-ZE (85kW) then 1.8L BP-ZE (96kW); Wheels COTY 1989."
+        },
+        {
+          "series_code": "NB",
+          "generation_name": "MX-5 2nd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2005
+          },
+          "body_styles": [
+            "Roadster Convertible"
+          ],
+          "summary": "Fixed headlights, 1.8L BP-Z3 with VVT (106kW); 2002 Australian-only MX-5 SP Turbo (150kW)."
+        },
+        {
+          "series_code": "NC",
+          "generation_name": "MX-5 3rd Gen",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "Soft-top",
+            "Retractable Hardtop (PRHT)"
+          ],
+          "summary": "2.0L MZR LF-VE engine 118kW, flared guards, power retractable hardtop; Wheels COTY 2005."
+        },
+        {
+          "series_code": "ND",
+          "generation_name": "MX-5 4th Gen",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Soft-top",
+            "Retractable Fastback (RF)"
+          ],
+          "summary": "Sub-1000kg weight, Skyactiv-G 1.5L and 2.0L (135kW); Wheels COTY 2015."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-3",
+      "name": "CX-3",
+      "vehicle_type": "SUV",
+      "segment": "Light SUV",
+      "years_sold_au": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Perennial best-seller in the Australian light SUV category, based on the Mazda2 platform.",
+      "generations": [
+        {
+          "series_code": "DK",
+          "generation_name": "CX-3 1st Gen",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L Skyactiv-G petrol (110kW) and 1.5L/1.8L diesel; Neo, Maxx, sTouring, Akari."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-30",
+      "name": "CX-30",
+      "vehicle_type": "SUV",
+      "segment": "Small SUV",
+      "years_sold_au": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Sleek coupe-crossover bridging the gap between the CX-3 and CX-5, built on the Mazda3 architecture.",
+      "generations": [
+        {
+          "series_code": "DM",
+          "generation_name": "CX-30 1st Gen",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L G20, 2.5L G25, and Skyactiv-X mild hybrid; Pure, Evolve, Touring, Astina."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-5",
+      "name": "CX-5",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2012,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The vehicle that solidified Mazda's SUV supremacy in Australia, repeatedly holding the title of Australia's #1 private SUV.",
+      "generations": [
+        {
+          "series_code": "KE",
+          "generation_name": "CX-5 1st Gen",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Launched Skyactiv technology; 2.0L petrol, 2.5L petrol, 2.2L twin-turbo diesel; Maxx, Maxx Sport, Grand Touring, Akari."
+        },
+        {
+          "series_code": "KF",
+          "generation_name": "CX-5 2nd Gen",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Sculpted KODO body, G-Vectoring Control; added 170kW 2.5L Turbo in 2018."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-7",
+      "name": "CX-7",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2006,
+        "end": 2012
+      },
+      "locally_built": false,
+      "overview": "Sporty crossover powered originally by the Mazda3 MPS turbo engine, an early precursor to the modern medium SUV boom.",
+      "generations": [
+        {
+          "series_code": "ER",
+          "generation_name": "CX-7 1st Gen",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.3L Turbo MZR 175kW AWD, later 2.5L naturally aspirated FWD and 2.2L diesel."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-8",
+      "name": "CX-8",
+      "vehicle_type": "SUV",
+      "segment": "Large SUV",
+      "years_sold_au": {
+        "start": 2018,
+        "end": 2023
+      },
+      "locally_built": false,
+      "overview": "Narrower 7-seat family SUV blending CX-5 packaging with three-row capability, highly popular in diesel AWD.",
+      "generations": [
+        {
+          "series_code": "KG",
+          "generation_name": "CX-8 1st Gen",
+          "years": {
+            "start": 2018,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.2L twin-turbo diesel and 2.5L petrol; Sport, Touring, GT, Asaki."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-9",
+      "name": "CX-9",
+      "vehicle_type": "SUV",
+      "segment": "Large SUV",
+      "years_sold_au": {
+        "start": 2007,
+        "end": 2023
+      },
+      "locally_built": false,
+      "overview": "Spacious full-size 7-seat family SUV that won Wheels Car of the Year in 2008 and 2017 across two generations.",
+      "generations": [
+        {
+          "series_code": "TB",
+          "generation_name": "CX-9 1st Gen",
+          "years": {
+            "start": 2007,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "3.7L MZI V6 engine 204kW, 6-speed auto, FWD and AWD; Wheels COTY 2008."
+        },
+        {
+          "series_code": "TC",
+          "generation_name": "CX-9 2nd Gen",
+          "years": {
+            "start": 2016,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.5L Skyactiv-G Turbo 170kW/420Nm, premium cabin; Wheels COTY 2017."
+        }
+      ]
+    },
+    {
+      "model_slug": "cx-60",
+      "name": "CX-60",
+      "vehicle_type": "SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Mazda's premium push with rear-drive longitudinal architecture, inline-6 turbo engines, and plug-in hybrid options.",
+      "generations": [
+        {
+          "series_code": "KH",
+          "generation_name": "CX-60 1st Gen",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "3.3L Turbo Inline-6 petrol (209kW), 3.3L Inline-6 diesel (187kW), and 2.5L PHEV (241kW)."
+        }
+      ]
+    },
+    {
+      "model_slug": "bt-50",
+      "name": "BT-50",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 2006,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Heavy-duty dual-cab and single-cab ute, originally co-developed with Ford Ranger and now sharing underpinnings with the Isuzu D-Max.",
+      "generations": [
+        {
+          "series_code": "UN",
+          "generation_name": "BT-50 1st Gen",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "Single Cab",
+            "Freestyle Cab",
+            "Dual Cab"
+          ],
+          "summary": "2.5L WL-C (105kW) and 3.0L WE-C (115kW) common-rail turbo-diesel; Ford Ranger PJ/PK twin."
+        },
+        {
+          "series_code": "UP/UR",
+          "generation_name": "BT-50 2nd Gen",
+          "years": {
+            "start": 2011,
+            "end": 2020
+          },
+          "body_styles": [
+            "Single Cab",
+            "Freestyle Cab",
+            "Dual Cab"
+          ],
+          "summary": "Ford Ranger PX platform, 3.2L 5-cylinder diesel (147kW/470Nm) and 2.2L 4-cylinder; XT, XTR, GT."
+        },
+        {
+          "series_code": "TF",
+          "generation_name": "BT-50 3rd Gen",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single Cab",
+            "Freestyle Cab",
+            "Dual Cab"
+          ],
+          "summary": "Isuzu D-Max platform, 3.0L 4JJ3-TCX diesel (140kW/450Nm) and 1.9L; XT, XTR, GT, SP, Thunder."
+        }
+      ]
+    },
+    {
+      "model_slug": "rx-3-808",
+      "name": "RX-3 / 808",
+      "vehicle_type": "Rotary / Piston Coupe & Sedan",
+      "segment": "Sports Coupe / Small Car",
+      "years_sold_au": {
+        "start": 1972,
+        "end": 1978
+      },
+      "locally_built": false,
+      "overview": "The Mazda RX-3 (Savanna) and its reciprocating-piston sister the Mazda 808 (Grand Familia) are iconic pillars of Australian motorsport history and Japanese performance folklore. Fa",
+      "generations": [
+        {
+          "series_code": "S102A/S124A",
+          "generation_name": "RX-3 Series I, II & III",
+          "years": {
+            "start": 1972,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door Coupe",
+            "4-door Sedan",
+            "5-door Station Wagon"
+          ],
+          "summary": "Rotary-powered icon. Series I (10A twin-rotor), Series II (12A single distributor with pointed nose), and Series III (sp"
+        },
+        {
+          "series_code": "STC/SN3A",
+          "generation_name": "Mazda 808 (Grand Familia)",
+          "years": {
+            "start": 1972,
+            "end": 1977
+          },
+          "body_styles": [
+            "2-door Coupe",
+            "4-door Sedan",
+            "5-door Station Wagon"
+          ],
+          "summary": "Piston-engine brother of the RX-3. Shared body panels with rectangular headlights, powered by conventional 1.3L and 1.6L"
+        }
+      ]
+    },
+    {
+      "model_slug": "626-mazda6",
+      "name": "626 / Mazda6",
+      "vehicle_type": "Sedan / Hatchback / Wagon",
+      "segment": "Medium Car",
+      "years_sold_au": {
+        "start": 1979,
+        "end": 2024
+      },
+      "locally_built": false,
+      "overview": "The Mazda 626 and its successor the Mazda6 served as Australia's benchmark mid-size Japanese passenger car for 45 years. From the 1983 Wheels Car of the Year winning front-wheel dr",
+      "generations": [
+        {
+          "series_code": "CB/GC/GD/GE/GF",
+          "generation_name": "Mazda 626 (5 Generations)",
+          "years": {
+            "start": 1979,
+            "end": 2002
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Hatch",
+            "2-door Coupe",
+            "5-door Wagon"
+          ],
+          "summary": "Classic 626 heritage. The 1983 GC won Wheels Car of the Year, followed by the turbo 2.2L GD, sleek V6-powered GE, and de"
+        },
+        {
+          "series_code": "GG/GY",
+          "generation_name": "Mazda6 1st Generation & MPS",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Hatch",
+            "5-door Wagon"
+          ],
+          "summary": "Replaced 626 with dynamic 'Zoom-Zoom' styling, double-wishbone front suspension, and spawned the 190kW turbo AWD Mazda6 "
+        },
+        {
+          "series_code": "GH",
+          "generation_name": "Mazda6 2nd Generation",
+          "years": {
+            "start": 2008,
+            "end": 2012
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Hatch",
+            "5-door Wagon"
+          ],
+          "summary": "Aerodynamic coupe-like silhouette, upgraded 2.5L engine, and high-torque 2.2L MZR-CD turbodiesel with 400Nm."
+        },
+        {
+          "series_code": "GJ/GL",
+          "generation_name": "Mazda6 3rd Generation",
+          "years": {
+            "start": 2012,
+            "end": 2024
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Wagon"
+          ],
+          "summary": "12-year tour-de-force featuring Kodo design, SKYACTIV engines, i-ELOOP brake energy regeneration, 170kW 2.5T turbo, and "
+        }
+      ]
+    }
+  ]
+}

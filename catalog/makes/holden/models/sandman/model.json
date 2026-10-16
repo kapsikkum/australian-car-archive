@@ -1,0 +1,316 @@
+{
+  "make_slug": "holden",
+  "model_slug": "sandman",
+  "name": "Holden Sandman",
+  "vehicle_type": "Panel Van / Coupe Utility",
+  "segment": "Commercial / Lifestyle Sports",
+  "years_sold_au": {
+    "start": 1974,
+    "end": 1980
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Elizabeth, South Australia",
+    "Dandenong, Victoria",
+    "Pagewood, New South Wales",
+    "Acacia Ridge, Queensland"
+  ],
+  "overview": "The Holden Sandman is the undisputed emblem of 1970s Australian youth and beach culture. Introduced in January 1974 on the HQ series (option package XX7 / XU3), the Sandman transformed humble commercial panel vans and utilities into vibrant, psychedelic recreational machines. Featuring bold side stripes, Monaro GTS sports dashboard with tachometer, GTS steering wheel, slotted steel rally wheels, twin bucket seats, and standard or optional 253ci and 308ci Red V8 power, the Sandman became a pop-culture legend closely tied to surfing, drive-in cinemas, and Australian freedom. The Sandman package carried through the HQ, HJ, HX, and HZ series until 1980, with authentic surviving examples now among Australia's most fiercely sought-after collector cars.",
+  "australian_market_notes": "Originally devised to counter the Ford Falcon Sundowner and Chrysler Valiant Drifter, the Sandman completely captured the youth zeitgeist. While legally classified as commercial vehicles (saving buyers significant sales tax at the time), Sandmans were heavily optioned with sports suspensions, dual exhaust systems, customized shag-pile carpets, and tailgate mural art. In 1977, the HZ series bestowed Radial Tuned Suspension (RTS), giving the Sandman world-class handling dynamics.",
+  "manuals": [
+    {
+      "title": "Holden Holden Sandman Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1974,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/sandman/model.json",
+      "local_path": "media/manuals/holden/sandman/holden_sandman_au_technical_manual.pdf",
+      "file_size_bytes": 5482,
+      "sha256": "b3cb3340222e8d8a3a34a69c46adfcbae317ce0e63dc109b8ed5b9416e57cc1b",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Holden Sandman HZ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Holden_Sandman_HZ_%2815689083317%29.jpg/1280px-Holden_Sandman_HZ_%2815689083317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/sandman/holden_sandman_hero_1_Holden_Sandman_HZ_15689083317_.jpg",
+      "file_size_bytes": 373856,
+      "sha256": "8594c05e93ae2af304e55f133c83d02cdb021469f09c5e132376d3c81c812c9d"
+    },
+    {
+      "category": "exterior",
+      "caption": "IMG_0530",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Holden_Sandman_HZ_%2815709640902%29.jpg/1280px-Holden_Sandman_HZ_%2815709640902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/sandman/holden_sandman_hero_2_Holden_Sandman_HZ_15709640902_.jpg",
+      "file_size_bytes": 348652,
+      "sha256": "b695447ece324c738baee59014039c567f0b42d18ec282f018b8b66a2233a918"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "HQ-HJ",
+      "generation_name": "HQ / HJ Sandman",
+      "years": {
+        "start": 1974,
+        "end": 1976
+      },
+      "body_styles": [
+        "2-door panel van",
+        "2-door coupe utility"
+      ],
+      "platform": "GM-H full-size perimeter subframe",
+      "ancap_rating": null,
+      "summary": "Inaugural Sandman package (XX7 / XU3) on HQ and HJ. Monaro GTS dash, sports wheels, bucket seats, and optional 253ci and 308ci Red V8 engines.",
+      "engines": [
+        {
+          "engine_code": "Red-202-Sandman",
+          "name": "Holden Red 202ci (3.3L) OHV Inline-6",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 101.0,
+          "power_rpm": "4400",
+          "torque_nm": 263.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Twin-barrel Bendix-Stromberg carburettor; standard base six."
+        },
+        {
+          "engine_code": "Red-253-V8-Sandman",
+          "name": "Holden Red 253ci (4.2L) OHV V8",
+          "displacement_cc": 4146,
+          "displacement_litres": 4.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 138.0,
+          "power_rpm": "4400",
+          "torque_nm": 355.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Twin-barrel Stromberg WW carburettor, 185 bhp."
+        },
+        {
+          "engine_code": "Red-308-V8-Sandman",
+          "name": "Holden Red 308ci (5.0L) OHV V8",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 179.0,
+          "power_rpm": "4800",
+          "torque_nm": 427.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel Quadrajet carburettor, 240 bhp output."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sandman Van",
+          "years": {
+            "start": 1974,
+            "end": 1976
+          },
+          "body_styles": [
+            "Panel Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "Tri-Matic 3-speed automatic",
+            "TH400 3-speed automatic"
+          ],
+          "msrp_aud_min": 3580,
+          "msrp_aud_max": 4650,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "Monaro GTS full instrumentation fascia with tachometer",
+            "GTS three-spoke steering wheel",
+            "Front bucket seats",
+            "Slotted steel GTS wheels with chrome trim rings",
+            "Distinctive Sandman multi-colour side and tailgate decals"
+          ],
+          "notes": "Iconic Australian surf lifestyle panel van."
+        },
+        {
+          "badge_name": "Sandman Utility",
+          "years": {
+            "start": 1974,
+            "end": 1976
+          },
+          "body_styles": [
+            "Coupe Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "Tri-Matic 3-speed automatic"
+          ],
+          "msrp_aud_min": 3450,
+          "msrp_aud_max": 4480,
+          "fuel_consumption_l_100km": 14.0,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Monaro GTS dashboard and bucket seats",
+            "Sandman body striping and decals",
+            "GTS wheels",
+            "Sports suspension package"
+          ],
+          "notes": "High-performance sports coupe utility."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sandman Van",
+          "body_style": "Panel Van",
+          "engine_code": "Red-253-V8-Sandman",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 3890,
+          "power_kw": 138.0,
+          "torque_nm": 355.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 1500,
+          "notes": "Classic 4.2L V8 4-speed manual surf van."
+        },
+        {
+          "badge_name": "Sandman Van",
+          "body_style": "Panel Van",
+          "engine_code": "Red-308-V8-Sandman",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 4350,
+          "power_kw": 179.0,
+          "torque_nm": 427.0,
+          "fuel_l_100km": 16.0,
+          "towing_braked_kg": 1600,
+          "notes": "Top-spec 5.0L 308 V8 muscle van."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HQ-HJ",
+          "category": "exterior",
+          "caption": "Absinth Yellow\nThe HJ Holden was built from October 1974-July 1976. \nThe HJ was the first of three facelifts on the HQ shape, it got a squared off front with wrap around indicators front and rear. (indicators on HQ within the rear bumper, n",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/1975_Holden_HJ_Sandman_Panel_Van_%2827414154796%29.jpg/1280px-1975_Holden_HJ_Sandman_Panel_Van_%2827414154796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/sandman/holden_sandman_HQ-HJ_1_1975_Holden_HJ_Sandman_Panel_Van_27414154796_.jpg",
+          "file_size_bytes": 265129,
+          "sha256": "e29f8bc8b37a9af21cd32a455ef0f0003050dda81817632bf31ff33edcb74e87"
+        }
+      ]
+    },
+    {
+      "series_code": "HX-HZ",
+      "generation_name": "HX / HZ Sandman",
+      "years": {
+        "start": 1976,
+        "end": 1980
+      },
+      "body_styles": [
+        "2-door panel van",
+        "2-door coupe utility"
+      ],
+      "platform": "GM-H full-size perimeter subframe",
+      "ancap_rating": null,
+      "summary": "Large 'SANDMAN' tailgate script on HX, followed by landmark HZ introduction of Radial Tuned Suspension (RTS), front chin spoiler, and 4-wheel disc brake option.",
+      "engines": [
+        {
+          "engine_code": "Red-4.2-V8-ADR27A",
+          "name": "Holden Red 4.2L (253ci) V8",
+          "displacement_cc": 4146,
+          "displacement_litres": 4.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 120.0,
+          "power_rpm": "4500",
+          "torque_nm": 325.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "ADR27A emission compliant."
+        },
+        {
+          "engine_code": "Red-5.0-V8-ADR27A",
+          "name": "Holden Red 5.0L (308ci) V8",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 161.0,
+          "power_rpm": "4800",
+          "torque_nm": 400.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel Quadrajet carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sandman Van (HZ)",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "Panel Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "Tri-Matic 3-speed automatic",
+            "TH400 3-speed automatic"
+          ],
+          "msrp_aud_min": 5690,
+          "msrp_aud_max": 6890,
+          "fuel_consumption_l_100km": 14.8,
+          "kerb_weight_kg": 1460,
+          "standard_features": [
+            "Radial Tuned Suspension (RTS) with rear anti-roll bar",
+            "Front chin air dam spoiler",
+            "Monaro GTS dashboard and sport steering wheel",
+            "GTS slotted wheels and round headlight grille",
+            "V8 standard equipment (from 1978)"
+          ],
+          "notes": "Peak handling RTS Sandman van."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sandman Van (HZ)",
+          "body_style": "Panel Van",
+          "engine_code": "Red-5.0-V8-ADR27A",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 6450,
+          "power_kw": 161.0,
+          "torque_nm": 400.0,
+          "fuel_l_100km": 15.5,
+          "towing_braked_kg": 1600,
+          "notes": "5.0L V8 HZ Sandman with RTS."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

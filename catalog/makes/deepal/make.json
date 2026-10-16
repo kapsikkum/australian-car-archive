@@ -1,0 +1,41 @@
+{
+  "make_slug": "deepal",
+  "name": "Deepal",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2024,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Changan Automobile's dedicated new energy brand, launched in Australia in late 2024 by leading distributor Inchcape with the head-turning Deepal S07 SUV.",
+  "australian_history": "Deepal arrived in Australia in late 2024 distributed by Inchcape Australasia (the long-standing Australian distributor for Subaru and Peugeot). Developed by Changan Automobile, Deepal vehicles feature striking angular European styling penned at Changan's Turin design centre in Italy. The debut model, the Deepal S07 midsize electric SUV, features rear-wheel drive, a 66.8kWh battery, frameless doors, augmented reality head-up display, and a 15.6-inch sunflower rotating touchscreen.",
+  "models_catalog": [
+    {
+      "model_slug": "s07",
+      "name": "S07",
+      "vehicle_type": "SUV",
+      "segment": "Medium Electric SUV",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Turin-designed electric midsize SUV featuring rear-wheel drive dynamics, 160kW motor, and high-tech cabin.",
+      "generations": [
+        {
+          "series_code": "S07-Gen1",
+          "generation_name": "Deepal S07",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "EPA1 multi-energy platform, 66.8kWh ternary NMC battery, 475km WLTP range, and interactive front lighting."
+        }
+      ]
+    }
+  ]
+}

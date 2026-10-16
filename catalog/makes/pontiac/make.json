@@ -1,0 +1,69 @@
+{
+  "make_slug": "pontiac",
+  "name": "Pontiac",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 1930,
+    "end": "1968"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "GM-H manufactured Pontiac Laurentians and Parisiennes in Melbourne, Sydney, and Adelaide, before Australia exported Holden Monaros and Commodores back to America as the Pontiac GTO and G8.",
+  "australian_history": "Pontiac has a reciprocal Australian legacy. From the 1930s until 1968, General Motors-Holden assembled Pontiacs in Australia (Silver Streak, Chieftain, Star Chief, Laurentian, and Parisienne). Using Canadian CKD packs, GM-H fitted local Australian-pressed bodies and Chevrolet running gear with factory right-hand drive. Four decades later, the relationship reversed: in 2004-2006, Holden exported over 40,000 Australian-designed and built Holden Monaro coupes from Elizabeth, South Australia to the United States as the Pontiac GTO (5.7L LS1 and 6.0L LS2). In 2008-2009, Holden exported the VE Commodore sedan as the critically acclaimed Pontiac G8 and G8 GXP before GM dissolved the Pontiac brand during the GFC.",
+  "models_catalog": [
+    {
+      "model_slug": "laurentian-parisienne",
+      "name": "Laurentian / Parisienne",
+      "vehicle_type": "Sedan / Hardtop",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1958,
+        "end": "1968"
+      },
+      "locally_built": true,
+      "overview": "Assembled by General Motors-Holden at Fishermans Bend and Elizabeth, representing the height of GM prestige in Australia.",
+      "generations": [
+        {
+          "series_code": "GMH-Pontiac",
+          "generation_name": "Pontiac Laurentian & Parisienne",
+          "years": {
+            "start": 1958,
+            "end": "1968"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "4-door hardtop"
+          ],
+          "summary": "Chevrolet 283 and 327 small-block V8 engines, Powerglide automatic, and Australian GM-H assembly."
+        }
+      ]
+    },
+    {
+      "model_slug": "gto-g8-export",
+      "name": "GTO / G8 (Australian Exports)",
+      "vehicle_type": "Coupe / Sedan",
+      "segment": "Performance Muscle Car",
+      "years_sold_au": {
+        "start": 2004,
+        "end": "2009"
+      },
+      "locally_built": true,
+      "overview": "Holden's export triumphs: Elizabeth-built Monaro and VE Commodore rebadged as Pontiac muscle icons for the North American market.",
+      "generations": [
+        {
+          "series_code": "V2-VE",
+          "generation_name": "Pontiac GTO & G8",
+          "years": {
+            "start": 2004,
+            "end": "2009"
+          },
+          "body_styles": [
+            "2-door coupe",
+            "4-door sedan"
+          ],
+          "summary": "Monaro-based GTO (LS1/LS2) and Commodore-based G8 (3.6 V6, 6.0 V8 GT, and 302kW 6.2L LS3 GXP with Tremec manual)."
+        }
+      ]
+    }
+  ]
+}

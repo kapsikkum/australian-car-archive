@@ -1,0 +1,294 @@
+{
+  "make_slug": "leyland-australia",
+  "model_slug": "morris-major-freeway",
+  "name": "Morris Major / Austin Freeway & Wolseley 24/80",
+  "vehicle_type": "4-door Sedan / 5-door Station Wagon",
+  "segment": "Compact / Mid-size",
+  "years_sold_au": {
+    "start": 1958,
+    "end": 1965
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Victoria Park (Zetland), Sydney, New South Wales"
+  ],
+  "overview": "The Morris Major and Austin Freeway family was BMC Australia's dedicated endeavor to engineer vehicles specifically for Australian motoring conditions at the Victoria Park plant in Zetland, Sydney. Commencing in 1958 as the Morris Major (and sibling Austin Lancer), it adapted the Wolseley 1500 body with increased ground clearance, reinforced suspension, and BMC's 1.5L B-Series four. In 1962, BMC Australia achieved an extraordinary domestic engineering feat: by extending the nose structure and casting two extra cylinders onto the 1622cc B-Series block, they created Australia's first locally designed mass-market inline-six: the 2433cc 'Blue Streak' six. Fitted to the Austin Freeway and the luxury Wolseley 24/80 (featuring genuine burr walnut dashboard and leather seats), the 6-cylinder Freeway competed directly with the Holden and Falcon, offering 59 kW, outback suspension, and optional Borg-Warner 35 automatic transmission.",
+  "australian_market_notes": "The 2.4-litre 'Blue Streak' engine was cast and machined entirely in Australia at BMC's Zetland engine facility. It used common pistons, conrods, and valvegear with the 4-cylinder B-series, achieving brilliant manufacturing economies. The Austin Freeway Station Wagon offered immense load space and was standard equipment for many Australian municipal councils and outback traveling salesmen.",
+  "manuals": [
+    {
+      "title": "Leyland Australia Morris Major / Austin Freeway & Wolseley 24/80 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1958,
+      "language": "en",
+      "source_url": "local://catalog/makes/leyland-australia/models/morris-major-freeway/model.json",
+      "local_path": "media/manuals/leyland-australia/morris-major-freeway/leyland-australia_morris-major-freeway_au_technical_manual.pdf",
+      "file_size_bytes": 5655,
+      "sha256": "46ae4d27e956b885b7a142d3f062db87ef344d503074be086fe8ffd9261f4248",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Morris Major Series II and Morris Major Elite\nFB9856\nThese were only for Australian and NZ consumption, but they were always pretty rare compared to their distant relatives, the Wolseley 1500 and Riley One-Point-Five.\n\nAccording to wactonbu",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Morris_Major_8295935158%29.jpg/1280px-Morris_Major_8295935158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/leyland-australia/morris-major-freeway/leyland-australia_morris-major-freeway_hero_Morris_Major_8295935158_.jpg.jpg",
+      "file_size_bytes": 367198,
+      "sha256": "783b66f6faa90a734b530fec6f80af25b54329ed9e0ea4830c63e86c3d69005b"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Major-Series-I-II-Elite",
+      "generation_name": "Morris Major (Series I, II & Elite)",
+      "years": {
+        "start": 1958,
+        "end": 1964
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "BMC Australian unibody (Wolseley 1500 derivative)",
+      "ancap_rating": null,
+      "summary": "Australian-developed 4-cylinder compact sedan. Higher ride clearance, heavy-duty suspension, 1.5L B-Series engine, followed by 1.6L Elite with finned rear wings.",
+      "engines": [
+        {
+          "engine_code": "BMC-B-Series-1500",
+          "name": "BMC B-Series 1.5L OHV Inline-4",
+          "displacement_cc": 1489,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 37.0,
+          "power_rpm": "4200",
+          "torque_nm": 102.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "7.2:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Single SU carburettor, 50 bhp output."
+        },
+        {
+          "engine_code": "BMC-B-Series-1622",
+          "name": "BMC B-Series 1.6L OHV Inline-4",
+          "displacement_cc": 1622,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 45.0,
+          "power_rpm": "4500",
+          "torque_nm": 122.0,
+          "torque_rpm": "2500",
+          "compression_ratio": "8.3:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Fitted to Morris Major Elite; 60 bhp output."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Morris Major Elite",
+          "years": {
+            "start": 1962,
+            "end": 1964
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 1780,
+          "msrp_aud_max": 1890,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 950,
+          "standard_features": [
+            "1622cc B-Series engine with 60 bhp",
+            "New tail fin styling with wrap-around tail lights",
+            "Heavy-duty front torsion bar and rear leaf spring suspension",
+            "Vinyl bench seats and fresh-air heater/demister"
+          ],
+          "notes": "Final and most refined Morris Major."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Morris Major Elite",
+          "body_style": "Sedan",
+          "engine_code": "BMC-B-Series-1622",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 1780,
+          "power_kw": 45.0,
+          "torque_nm": 122.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 750,
+          "notes": "1.6L Australian-developed compact."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Major-Series-I-II-Elite",
+          "category": "exterior",
+          "caption": "Morris Major Series II and Morris Major Elite\nFB9856\nThese were only for Australian and NZ consumption, but they were always pretty rare compared to their distant relatives, the Wolseley 1500 and Riley One-Point-Five.\n\nAccording to wactonbu",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Morris_Major_8295935158%29.jpg/1280px-Morris_Major_8295935158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+          "local_path": "media/pictures/leyland-australia/morris-major-freeway/leyland-australia_morris-major-freeway_Major-Series-I-II-Elite_Morris_Major_8295935158_.jpg.jpg",
+          "file_size_bytes": 367198,
+          "sha256": "783b66f6faa90a734b530fec6f80af25b54329ed9e0ea4830c63e86c3d69005b"
+        }
+      ]
+    },
+    {
+      "series_code": "Freeway-Wolseley-24-80",
+      "generation_name": "Austin Freeway & Wolseley 24/80 (6-Cylinder)",
+      "years": {
+        "start": 1962,
+        "end": 1965
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "BMC Australian lengthened unibody",
+      "ancap_rating": null,
+      "summary": "First Australian-designed mass-production inline-six: the 2.4L 'Blue Streak' six. Austin Freeway sedan and wagon, and prestige Wolseley 24/80 with burr walnut dash.",
+      "engines": [
+        {
+          "engine_code": "Blue-Streak-2433-I6",
+          "name": "BMC Blue Streak 2.4L OHV Inline-6",
+          "displacement_cc": 2433,
+          "displacement_litres": 2.4,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 59.0,
+          "power_rpm": "4350",
+          "torque_nm": 167.0,
+          "torque_rpm": "1750",
+          "compression_ratio": "8.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Single SU HS4 carburettor; 80 bhp and 123 lb-ft torque at low rpm."
+        },
+        {
+          "engine_code": "Blue-Streak-2433-TwinSU",
+          "name": "BMC Blue Streak 2.4L Twin-SU Inline-6",
+          "displacement_cc": 2433,
+          "displacement_litres": 2.4,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 63.0,
+          "power_rpm": "4400",
+          "torque_nm": 174.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "8.3:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Twin SU HS4 carburettors; 85 bhp; exclusive to Wolseley 24/80 Mk II."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Austin Freeway Sedan",
+          "years": {
+            "start": 1962,
+            "end": 1965
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column with synchromesh on all gears",
+            "Borg-Warner 35 3-speed automatic"
+          ],
+          "msrp_aud_min": 2180,
+          "msrp_aud_max": 2390,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1150,
+          "standard_features": [
+            "2.4L Blue Streak 6-cylinder engine",
+            "3-speed all-synchromesh manual transmission",
+            "Heavy-duty outback radiator and suspension",
+            "Wide chrome horizontal front grille with integrated indicators",
+            "Full-width bench seating for six"
+          ],
+          "notes": "Competitor to Holden Special and Ford Falcon."
+        },
+        {
+          "badge_name": "Wolseley 24/80 Sedan",
+          "years": {
+            "start": 1962,
+            "end": 1965
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "Borg-Warner 35 3-speed automatic"
+          ],
+          "msrp_aud_min": 2450,
+          "msrp_aud_max": 2690,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1190,
+          "standard_features": [
+            "2.4L Blue Streak 6-cylinder engine (twin SU carbs on Mk II)",
+            "Illuminated Wolseley radiator badge emblem",
+            "Genuine burr walnut timber veneer dashboard and door cappings",
+            "Deep English leather upholstery",
+            "Deep pile carpets and sound insulation package"
+          ],
+          "notes": "Luxury 6-cylinder executive saloon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Austin Freeway Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Blue-Streak-2433-I6",
+          "transmission": "3-speed manual column with synchromesh on all gears",
+          "drivetrain": "RWD",
+          "msrp_aud": 2180,
+          "power_kw": 59.0,
+          "torque_nm": 167.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 950,
+          "notes": "2.4L Blue Streak 6-cylinder family sedan."
+        },
+        {
+          "badge_name": "Wolseley 24/80 Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Blue-Streak-2433-TwinSU",
+          "transmission": "Borg-Warner 35 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 2650,
+          "power_kw": 63.0,
+          "torque_nm": 174.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1000,
+          "notes": "Luxury walnut and leather 6-cylinder saloon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Freeway-Wolseley-24-80",
+          "category": "exterior",
+          "caption": "Austin Freeway",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Austin_Freeway_%2815709543368%29.jpg/1280px-Austin_Freeway_%2815709543368%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/leyland-australia/morris-major-freeway/leyland-australia_morris-major-freeway_Freeway-Wolseley-24-80_Austin_Freeway_15709543368_.jpg.jpg",
+          "file_size_bytes": 369340,
+          "sha256": "818a334920569681473522fc1c3a04e12895bafd809daf093ef19f6c41aba2c3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "make_slug": "tesla",
+  "model_slug": "model-y",
+  "name": "Model Y",
+  "vehicle_type": "SUV",
+  "segment": "Medium Electric SUV",
+  "years_sold_au": {
+    "start": 2022,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "Australia's top-selling electric SUV and one of the highest-selling SUVs outright in Australia. Built on the Model 3 platform with a taller crossover body, 2,158 litres of total cargo storage, and class-leading electrical efficiency.",
+  "australian_market_notes": "First customer deliveries commenced in Australia in June 2022. It immediately overwhelmed order banks, regularly exceeding 2,500 sales per month and taking the title of Australia's most popular luxury crossover.",
+  "manuals": [
+    {
+      "title": "Tesla Model Y Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2022,
+      "language": "en",
+      "source_url": "local://catalog/makes/tesla/models/model-y/model.json",
+      "local_path": "media/manuals/tesla/model-y/tesla_model-y_au_technical_manual.pdf",
+      "file_size_bytes": 2879,
+      "sha256": "06a4bfd18c1970e59d7f446d5e5e4e98c4d6751df78e657d0630758a2bbe3c56",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Tesla Model Y (2025) at MYLE Festival 2025",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tesla_Model_Y_%282025%29_MYLE_Festival_2025_DSC_9565.jpg/1280px-Tesla_Model_Y_%282025%29_MYLE_Festival_2025_DSC_9565.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/tesla/model-y/tesla_model-y_hero_1_Tesla_Model_Y_2025_MYLE_Festival_2025_DSC_9565.jpg",
+      "file_size_bytes": 255064,
+      "sha256": "70a158cff8ed7b54d175b1634e4493595d8970f67c8255e35848c3d33c385d38"
+    },
+    {
+      "category": "exterior",
+      "caption": "Tesla Model Y (2025) at MYLE Festival 2025",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Tesla_Model_Y_%282025%29_MYLE_Festival_2025_DSC_9570.jpg/1280px-Tesla_Model_Y_%282025%29_MYLE_Festival_2025_DSC_9570.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/tesla/model-y/tesla_model-y_hero_2_Tesla_Model_Y_2025_MYLE_Festival_2025_DSC_9570.jpg",
+      "file_size_bytes": 233821,
+      "sha256": "18c5d5843fdd7c8b8fca64ed4e1d109f1e6e7cb6e76856c78c994e282fb811cd"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Model-Y-Gen1",
+      "generation_name": "Model Y First Generation",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Tesla Model Y platform",
+      "ancap_rating": "5 stars (98% adult occupant protection)",
+      "summary": "Front and rear single-piece gigacastings, structural battery pack integration, 15-inch display, panoramic glass roof, RWD, Long Range AWD, and Performance AWD.",
+      "engines": [
+        {
+          "engine_code": "3D7 Single Motor (RWD)",
+          "name": "Single Permanent Magnet Rear Motor",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Single Electric Motor",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 220,
+          "power_rpm": "Electric",
+          "torque_nm": 420,
+          "torque_rpm": "0-4000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Paired with 60kWh LFP battery pack; 455km WLTP range."
+        },
+        {
+          "engine_code": "Dual Motor Performance",
+          "name": "Dual Electric Motors (Performance AWD)",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Dual Electric Motors",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 357,
+          "power_rpm": "Electric",
+          "torque_nm": 660,
+          "torque_rpm": "0-5000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "75kWh/82kWh NMC battery, 514km WLTP range."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RWD",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 65400,
+          "msrp_aud_max": 72300,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1909,
+          "standard_features": [
+            "19-inch Gemini alloys",
+            "Autopilot",
+            "15-inch touchscreen",
+            "Power tailgate",
+            "Full panoramic glass roof",
+            "Heated front and rear seats",
+            "Camp mode and Dog mode"
+          ],
+          "notes": "Australia's undisputed electric vehicle sales leader."
+        },
+        {
+          "badge_name": "Performance",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 91400,
+          "msrp_aud_max": 98400,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1995,
+          "standard_features": [
+            "21-inch Uberturbine alloys",
+            "Performance brakes",
+            "Carbon fibre spoiler",
+            "Lowered suspension",
+            "Aluminium pedals",
+            "0-100 km/h in 3.7 seconds"
+          ],
+          "notes": "Supercar-baiting family SUV."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RWD",
+          "body_style": "5-door SUV",
+          "engine_code": "3D7 Single Motor (RWD)",
+          "transmission": "Single-speed reduction gear",
+          "drivetrain": "RWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 65400,
+          "power_kw": 220,
+          "torque_nm": 420,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 1600,
+          "notes": "60kWh LFP battery with 1600kg braked towing."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

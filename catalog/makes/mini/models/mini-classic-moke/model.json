@@ -1,0 +1,297 @@
+{
+  "make_slug": "mini",
+  "model_slug": "mini-classic-moke",
+  "name": "Classic Mini / Cooper / Moke",
+  "vehicle_type": "Hatchback / Utility / Roadster",
+  "segment": "Small / Micro Car",
+  "years_sold_au": {
+    "start": 1961,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "BMC Victoria Park / Zetland, Sydney NSW (1961-1981)"
+  ],
+  "overview": "The full story of the Mini in Australia: manufactured in Sydney at BMC Zetland (with Australian-developed wind-up windows and quarter-vents), immortalized by outright victory in the 1966 Bathurst 500, transformed into the Australian-engineered Californian Moke, and reborn as the modern BMW MINI Cooper and John Cooper Works.",
+  "australian_market_notes": "Australian Minis built at Zetland NSW featured heavy adaptations for Australian dust and heat. In 1966, Bob Holden and Rauno Aaltonen drove an Australian-built Cooper S to victory in the Bathurst 500, leading an unprecedented 1-2-3-4-5-6-7-8-9 finish in class. The open-top Mini Moke was produced at Zetland until 1981 and exported globally. Modern BMW MINI launched in Australia in 2002.",
+  "manuals": [
+    {
+      "title": "Mini Classic Mini / Cooper / Moke Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1961,
+      "language": "en",
+      "source_url": "local://catalog/makes/mini/models/mini-classic-moke/model.json",
+      "local_path": "media/manuals/mini/mini-classic-moke/mini_mini-classic-moke_au_technical_manual.pdf",
+      "file_size_bytes": 5148,
+      "sha256": "829d6f4f69398acc54a22c0a78486797cc18d172f1d51fdf79c0a4b830ea1a9d",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The original Mini was built in the UK from 1959-2000, 1960-80 in NZ and 1961-78 in Australia. \nAvailable in 2 door Saloon (1959-2000), Estate (1960-69), Van and Pickup (1960-83), Moke (1964-89), Mini Cooper (1961-71) and Cooper S (1963-2000",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2000_Mini_Mk_VII_John_Cooper_S_Works.jpg/1280px-2000_Mini_Mk_VII_John_Cooper_S_Works.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Cars Down Under)",
+      "local_path": "media/pictures/mini/mini-classic-moke/mini_mini-classic-moke_hero_1_2000_Mini_Mk_VII_John_Cooper_S_Works.jpg",
+      "file_size_bytes": 313745,
+      "sha256": "33eeb89f0f782af5a768c88761ad71dbb05be914596ab3ba9861dfac933a8ad3"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Classic-Cooper-S",
+      "generation_name": "Mini Cooper S (Zetland Mk I & II)",
+      "years": {
+        "start": 1965,
+        "end": "1971"
+      },
+      "body_styles": [
+        "2-door saloon"
+      ],
+      "platform": "BMC ADO15",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Manufactured at Zetland, Sydney. Twin 1.25-inch or 1.5-inch SU carburettors, Hydrolastic suspension, and 1966 Bathurst 500 conqueror.",
+      "engines": [
+        {
+          "engine_code": "A-Series 1275",
+          "name": "1275cc Cooper S Twin-Carb",
+          "displacement_cc": 1275,
+          "displacement_litres": 1.275,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 56,
+          "power_rpm": "5800",
+          "torque_nm": 107,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.75:1",
+          "valvetrain": "OHV 8-valve, pushrod",
+          "notes": "Twin 1.25-inch SU HS2 carburettors, close-ratio 4-speed gearbox, dual fuel tanks."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cooper S",
+          "years": {
+            "start": 1965,
+            "end": 1971
+          },
+          "body_styles": [
+            "2-door saloon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 2280,
+          "msrp_aud_max": 2490,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 640,
+          "standard_features": [
+            "7.5-inch Cooper S front disc brakes",
+            "Twin fuel tanks (45L total)",
+            "Oil cooler",
+            "Hydrolastic suspension",
+            "Australian wind-up windows with quarter vents"
+          ],
+          "notes": "Australia's giant-killing touring car legend."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cooper S",
+          "body_style": "2-door saloon",
+          "engine_code": "A-Series 1275",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1965,
+          "years_end": "1971",
+          "msrp_aud": 2280,
+          "power_kw": 56,
+          "torque_nm": 107,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 400,
+          "notes": "Bathurst specification with dual fuel tanks."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Classic-Cooper-S",
+          "category": "exterior",
+          "caption": "The original Mini was built in the UK from 1959-2000, 1960-80 in NZ and 1961-78 in Australia. \nAvailable in 2 door Saloon (1959-2000), Estate (1960-69), Van and Pickup (1960-83), Moke (1964-89), Mini Cooper (1961-71) and Cooper S (1963-2000",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2000_Mini_Mk_VII_John_Cooper_S_Works.jpg/1280px-2000_Mini_Mk_VII_John_Cooper_S_Works.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Cars Down Under)",
+          "local_path": "media/pictures/mini/mini-classic-moke/mini_mini-classic-moke_Classic-Cooper-S_1_2000_Mini_Mk_VII_John_Cooper_S_Works.jpg",
+          "file_size_bytes": 313745,
+          "sha256": "33eeb89f0f782af5a768c88761ad71dbb05be914596ab3ba9861dfac933a8ad3"
+        }
+      ]
+    },
+    {
+      "series_code": "Californian-Moke",
+      "generation_name": "Australian Mini Moke & Californian",
+      "years": {
+        "start": 1966,
+        "end": "1981"
+      },
+      "body_styles": [
+        "Open utility / recreational"
+      ],
+      "platform": "BMC ADO15 / YDO15",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Designed and manufactured at Zetland, Sydney. Evolved with 13-inch wheels, tubular nudge bars, denim trim, and high ground clearance into Australia's favourite surf car.",
+      "engines": [
+        {
+          "engine_code": "A-Series 998/1275",
+          "name": "998cc & 1275cc A-Series",
+          "displacement_cc": 1275,
+          "displacement_litres": 1.275,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 43,
+          "power_rpm": "5250",
+          "torque_nm": 88,
+          "torque_rpm": "2500",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Single SU carburettor, rubber cone suspension."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Californian 1275",
+          "years": {
+            "start": 1977,
+            "end": 1981
+          },
+          "body_styles": [
+            "Open utility"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 3690,
+          "msrp_aud_max": 4990,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 670,
+          "standard_features": [
+            "13-inch road wheels",
+            "Tubular front and rear nudge bars",
+            "Sun-top canopy",
+            "Denim-look seat trim",
+            "Rear bench seat"
+          ],
+          "notes": "Australian surf lifestyle icon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Californian 1275",
+          "body_style": "Open utility",
+          "engine_code": "A-Series 998/1275",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1977,
+          "years_end": "1981",
+          "msrp_aud": 4250,
+          "power_kw": 43,
+          "torque_nm": 88,
+          "fuel_l_100km": 7.5,
+          "towing_braked_kg": 400,
+          "notes": "Australian manufactured Californian."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "F56",
+      "generation_name": "Modern MINI Cooper / JCW (F56)",
+      "years": {
+        "start": 2014,
+        "end": "Present"
+      },
+      "body_styles": [
+        "3-door hatch",
+        "5-door hatch",
+        "Convertible"
+      ],
+      "platform": "BMW UKL1 platform",
+      "ancap_rating": "4 stars",
+      "summary": "Modern BMW engineering; 1.5T Cooper, 141kW 2.0T Cooper S, 170kW JCW, and limited-edition 225kW GP3.",
+      "engines": [
+        {
+          "engine_code": "B48A20",
+          "name": "2.0L TwinPower Turbo Inline-4 (Cooper S)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 141,
+          "power_rpm": "4700-6000",
+          "torque_nm": 280,
+          "torque_rpm": "1250-4750",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "DOHC 16-valve, Double-VANOS",
+          "notes": "Punchy hot hatch with twin-tailpipe exhaust."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cooper S",
+          "years": {
+            "start": 2014,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed dual-clutch Steptronic"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 51990,
+          "fuel_consumption_l_100km": 6.2,
+          "kerb_weight_kg": 1225,
+          "standard_features": [
+            "Circular 8.8-inch central display with LED ring",
+            "Mini Driving Modes (Sport/Mid/Green)",
+            "17-inch Roulette alloys",
+            "Union Jack LED tail-lights"
+          ],
+          "notes": "Go-kart handling feel."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cooper S",
+          "body_style": "3-door hatch",
+          "engine_code": "B48A20",
+          "transmission": "7-speed dual-clutch Steptronic",
+          "drivetrain": "FWD",
+          "years_start": 2018,
+          "years_end": "Present",
+          "msrp_aud": 43900,
+          "power_kw": 141,
+          "torque_nm": 280,
+          "fuel_l_100km": 6.2,
+          "towing_braked_kg": 0,
+          "notes": "3-door hatchback with dual-clutch transmission."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

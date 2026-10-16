@@ -1,0 +1,417 @@
+{
+  "make_slug": "mazda",
+  "model_slug": "cx-5",
+  "name": "CX-5",
+  "vehicle_type": "Medium SUV",
+  "segment": "Medium SUV",
+  "years_sold_au": {
+    "start": 2012,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mazda CX-5 is one of Australia's all-time most popular SUVs, holding the title of best-selling SUV in the country outright for multiple consecutive years. Debuting Mazda's SKYACTIV powertrain suite and Kodo 'Soul of Motion' design language, the CX-5 elevated the mid-size family crossover segment with class-leading steering feel, premium interiors, and punchy turbo power.",
+  "australian_market_notes": "Launched in March 2012, the CX-5 quickly dislodged long-time incumbents like the Toyota RAV4 and Subaru Forester from top spot. Australian models benefited from continuous refinements, including local ride calibrations, the introduction of the 170kW/420Nm 2.5-litre Turbo engine, and the luxurious Akera and sporty GT SP grades.",
+  "manuals": [
+    {
+      "title": "Mazda CX-5 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2012,
+      "language": "en",
+      "source_url": "local://catalog/makes/mazda/models/cx-5/model.json",
+      "local_path": "media/manuals/mazda/cx-5/mazda_cx-5_au_technical_manual.pdf",
+      "file_size_bytes": 4499,
+      "sha256": "707835239b05667c4ad0776a8b0c9ebbe9f588013ff9bd78e9eac63fe556a8bd",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Mazda CX-5 Brochure",
+      "year": 2017,
+      "source_url": "https://archive.org/details/mazdacx5brochure",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/cx-5/mazda_cx-5_manual_Mazda_CX-5_Brochure.html",
+      "file_size_bytes": 208511,
+      "sha256": "70c51015b0fcc4c9af05e09e84434ac2e01f0711ea650716f6657c1315393f47"
+    },
+    {
+      "title": "Mazda Automobile Mazda CX-5 user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-551306",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/cx-5/mazda_cx-5_manual_Mazda_Automobile_Mazda_CX-5_user_manual.html",
+      "file_size_bytes": 203179,
+      "sha256": "5eae55cbf6fa54dc085630017e3256ac6dfe9b21176dcba3027e0e5fe39b93e2"
+    },
+    {
+      "title": "Mazda CX-5 Owner's Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7009125",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/cx-5/mazda_cx-5_manual_Mazda_CX-5_Owner_s_Manual.html",
+      "file_size_bytes": 215133,
+      "sha256": "9850a8f6dcd4f8bb1a8250f48894cca1959702a8edb628001b3dd4bb09c2ec12"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2017 Mazda CX-5 (KF) Maxx 2WD wagon. Photographed in Fremantle, Western Australia, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2017_Mazda_CX-5_%28KF%29_Maxx_2WD_wagon_%282018-11-02%29_02.jpg/1280px-2017_Mazda_CX-5_%28KF%29_Maxx_2WD_wagon_%282018-11-02%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+      "local_path": "media/pictures/mazda/cx-5/mazda_cx-5_hero_1_2017_Mazda_CX-5_KF_Maxx_2WD_wagon_2018-11-02_02.jpg",
+      "file_size_bytes": 204503,
+      "sha256": "34fee435c5b0c1a7e3d5d2b3c33b78b430c49218fd1033518523d98487bdc070"
+    },
+    {
+      "category": "exterior",
+      "caption": "Mazda_CX-5_(KF)_Facelift in Böblingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mazda_CX-5_%28KF%29_Facelift_1X7A0331_%282%29.jpg/1280px-Mazda_CX-5_%28KF%29_Facelift_1X7A0331_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/mazda/cx-5/mazda_cx-5_hero_2_Mazda_CX-5_KF_Facelift_1X7A0331_2_.jpg",
+      "file_size_bytes": 411683,
+      "sha256": "fea8bdd74fa61fd0bc96973f87dc0d9fe80497174069ffd4b6ecd6f91c40f253"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "KE",
+      "generation_name": "CX-5 1st Generation",
+      "years": {
+        "start": 2012,
+        "end": "2017"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Mazda Skyactiv-Chassis",
+      "ancap_rating": "5 stars",
+      "summary": "First full SKYACTIV model featuring high-tensile steel, 2.0L & 2.5L petrol engines, and a torquey 2.2L twin-turbo diesel returning 5.7L/100km.",
+      "engines": [
+        {
+          "engine_code": "PE-VPS",
+          "name": "Mazda SKYACTIV-G 2.0L",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 114.0,
+          "power_rpm": "6000",
+          "torque_nm": 200.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "Standard front-wheel-drive powertrain."
+        },
+        {
+          "engine_code": "PY-VPS",
+          "name": "Mazda SKYACTIV-G 2.5L",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 138.0,
+          "power_rpm": "5700",
+          "torque_nm": 250.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "Added in early 2013 for all AWD petrol models."
+        },
+        {
+          "engine_code": "SH-VPTS",
+          "name": "Mazda SKYACTIV-D 2.2L Twin-Turbo Diesel",
+          "displacement_cc": 2191,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Sequential Twin-Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 129.0,
+          "power_rpm": "4500",
+          "torque_nm": 420.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "14.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "World's lowest compression diesel ratio for rapid revving."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Maxx",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 27800,
+          "msrp_aud_max": 33990,
+          "fuel_consumption_l_100km": 6.4,
+          "kerb_weight_kg": 1445,
+          "standard_features": [
+            "17-inch steel wheels",
+            "Reversing camera",
+            "5.8-inch touchscreen",
+            "Push button start",
+            "6 airbags"
+          ],
+          "notes": "Huge value entry model."
+        },
+        {
+          "badge_name": "Maxx Sport",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 33540,
+          "msrp_aud_max": 39470,
+          "fuel_consumption_l_100km": 6.9,
+          "kerb_weight_kg": 1510,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Dual-zone climate control",
+            "Satellite navigation",
+            "Auto headlights & wipers",
+            "Front fog lamps"
+          ],
+          "notes": "The volume seller of the CX-5 range."
+        },
+        {
+          "badge_name": "Akera",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 45770,
+          "msrp_aud_max": 50610,
+          "fuel_consumption_l_100km": 5.7,
+          "kerb_weight_kg": 1630,
+          "standard_features": [
+            "19-inch alloys",
+            "Leather seats",
+            "Sunroof",
+            "Bose audio",
+            "Blind spot monitoring",
+            "High beam control"
+          ],
+          "notes": "Luxury AWD flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CX-5 Maxx Sport AWD 2.5",
+          "body_style": "5-door SUV",
+          "engine_code": "PY-VPS",
+          "transmission": "6-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2013,
+          "years_end": 2017,
+          "msrp_aud": 36620,
+          "power_kw": 138.0,
+          "torque_nm": 250.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1800,
+          "notes": "Australia's favorite SUV configuration."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "KE",
+          "category": "exterior",
+          "caption": "Le Mazda CX-5 présenté lors du Mondial de l'Automobile de Paris 2012.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Mazda_CX-5_-_Mondial_de_l%27Automobile_de_Paris_2012_-_001.jpg/1280px-Mazda_CX-5_-_Mondial_de_l%27Automobile_de_Paris_2012_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Thesupermat)",
+          "local_path": "media/pictures/mazda/cx-5/mazda_cx-5_KE_1_Mazda_CX-5_-_Mondial_de_l_Automobile_de_Paris_2012_-_001.jpg",
+          "file_size_bytes": 219494,
+          "sha256": "cb4e0669babacb67f6209c579b719ae049fdfb813693322cc0a6ad868889a7d9"
+        }
+      ]
+    },
+    {
+      "series_code": "KF",
+      "generation_name": "CX-5 2nd Generation",
+      "years": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Mazda Skyactiv-Chassis II",
+      "ancap_rating": "5 stars",
+      "summary": "Sophisticated styling with Soul Red Crystal paint, G-Vectoring Control Plus, luxury Akera trim with Nappa leather, and the 170kW/420Nm 2.5-litre turbo engine.",
+      "engines": [
+        {
+          "engine_code": "PY-VPS-Gen2",
+          "name": "Mazda SKYACTIV-G 2.5L Cylinder Deactivation",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 140.0,
+          "power_rpm": "6000",
+          "torque_nm": 252.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "Equipped with cylinder deactivation cruising on 2 cylinders."
+        },
+        {
+          "engine_code": "PY-VPTS",
+          "name": "Mazda SKYACTIV-G 2.5T Dynamic Pressure Turbo",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 170.0,
+          "power_rpm": "5000",
+          "torque_nm": 420.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "Flagship turbo engine with 420Nm torque at just 2,000rpm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Maxx Sport",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 34390,
+          "msrp_aud_max": 42500,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1575,
+          "standard_features": [
+            "17-inch alloys",
+            "Apple CarPlay & Android Auto",
+            "Rear air vents",
+            "Dual-zone climate control",
+            "Blind spot monitoring",
+            "Smart city brake support"
+          ],
+          "notes": "Consistent best-seller."
+        },
+        {
+          "badge_name": "GT SP Turbo",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "i-ACTIV AWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 51590,
+          "msrp_aud_max": 54500,
+          "fuel_consumption_l_100km": 8.2,
+          "kerb_weight_kg": 1720,
+          "standard_features": [
+            "170kW 2.5T turbo engine",
+            "19-inch gloss black alloys",
+            "Black exterior accents",
+            "Red stitching interior",
+            "Bose 10-speaker audio"
+          ],
+          "notes": "Performance-themed family crossover."
+        },
+        {
+          "badge_name": "Akera Turbo",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "i-ACTIV AWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 53590,
+          "msrp_aud_max": 55500,
+          "fuel_consumption_l_100km": 8.2,
+          "kerb_weight_kg": 1735,
+          "standard_features": [
+            "Chroma brown Nappa leather",
+            "Ventilated front seats",
+            "Real Sen wood inserts",
+            "360-degree camera",
+            "Adaptive LED headlamps"
+          ],
+          "notes": "Executive luxury flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CX-5 GT SP 2.5T AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "PY-VPTS",
+          "transmission": "6-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 51590,
+          "power_kw": 170.0,
+          "torque_nm": 420.0,
+          "fuel_l_100km": 8.2,
+          "towing_braked_kg": 2000,
+          "notes": "0-100 km/h in 7.7 seconds with 420Nm torque."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "KF",
+          "category": "exterior",
+          "caption": "2017 Mazda CX-5 (KF) Maxx 2WD wagon. Photographed in Fremantle, Western Australia, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2017_Mazda_CX-5_%28KF%29_Maxx_2WD_wagon_%282018-11-02%29_02.jpg/1280px-2017_Mazda_CX-5_%28KF%29_Maxx_2WD_wagon_%282018-11-02%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+          "local_path": "media/pictures/mazda/cx-5/mazda_cx-5_KF_1_2017_Mazda_CX-5_KF_Maxx_2WD_wagon_2018-11-02_02.jpg",
+          "file_size_bytes": 204503,
+          "sha256": "34fee435c5b0c1a7e3d5d2b3c33b78b430c49218fd1033518523d98487bdc070"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "make_slug": "bmw",
+  "model_slug": "3-series",
+  "name": "3 Series",
+  "vehicle_type": "Sedan / Coupe / Wagon / Convertible",
+  "segment": "Medium Luxury Sports Car",
+  "years_sold_au": {
+    "start": 1976,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The benchmark executive sports sedan in Australia across seven distinct generations: E21, E30, E36, E46, E90, F30, and G20. Revered for near-perfect 50:50 weight distribution, rear-wheel drive chassis balance, silky inline-six engines, and iconic M3 motorsport heroes.",
+  "australian_market_notes": "First sold in Australia in 1976 (E21 318 and 320). In 1987, Jim Richards and Tony Longhurst drove the E30 M3 to Australian Touring Car Championship dominance, firmly lodging the 3 Series in Australian car culture. Australia remains one of BMW's strongest global markets for the 3 Series and M3.",
+  "manuals": [
+    {
+      "title": "Bmw 3 Series Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1976,
+      "language": "en",
+      "source_url": "local://catalog/makes/bmw/models/3-series/model.json",
+      "local_path": "media/manuals/bmw/3-series/bmw_3-series_au_technical_manual.pdf",
+      "file_size_bytes": 5336,
+      "sha256": "60351d709b040ca50574796e07eb41a89e81b4e083b0051bd80d37356f0fb4b8",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "BMW 3 Series Service Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6002798",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/bmw/3-series/bmw_3-series_manual_BMW_3_Series_Service_Manual.html",
+      "file_size_bytes": 214180,
+      "sha256": "096d488ceaf25b10bb7e62cbc1de42186b653fbe02e9327cd312107e9ac57a3c"
+    },
+    {
+      "title": "BMW E30 3 Series Brochure 1988",
+      "year": 1988,
+      "source_url": "https://archive.org/details/brochure2427_bmw-3-serie_1988-2",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/bmw/3-series/bmw_3-series_manual_BMW_E30_3_Series_Brochure_1988.html",
+      "file_size_bytes": 211343,
+      "sha256": "f1b93674dbf4edc419a2f07148d0af8becc020e89876c097b0bf38b209f8d7c7"
+    },
+    {
+      "title": "BMW E30 3 Series Brochure 1987",
+      "year": 1987,
+      "source_url": "https://archive.org/details/brochure2430_bmw-3-serie_1987-2",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/bmw/3-series/bmw_3-series_manual_BMW_E30_3_Series_Brochure_1987.html",
+      "file_size_bytes": 209038,
+      "sha256": "4a0e11810bf4218355f8a2c9c121fafffe27fb32c14067d6fc74a3fa86bef263"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The 1975-83 E21 was the first generation of the 3 Series, replacing the 02 Series. The styling of the new car bore a resemblance to the BMW E12 5 Series, only available as a 2 door Sedan. Three models were available: with 316 (1.6-litre), 3",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1981_BMW_E21_323i_JPS_Edition_%2832346730123%29.jpg/1280px-1981_BMW_E21_323i_JPS_Edition_%2832346730123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/bmw/3-series/bmw_3-series_hero_1_1981_BMW_E21_323i_JPS_Edition_32346730123_.jpg",
+      "file_size_bytes": 453743,
+      "sha256": "93e1cce1d5f54a404b4fc0dd426a674a70f39af0d511f0d76714c0d3c1999ed2"
+    },
+    {
+      "category": "exterior",
+      "caption": "The BMW E24 is the first generation of BMW 6 Series grand tourer coupes and was produced from 1976-89. It replaced the E9 coupes and was. The E24 was produced solely in a 2-door coupe body style.\nThe first models were the 3000cc 182hp 630CS",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/1986_BMW_E24_635i_Alpina_Coupe_%2844519342515%29.jpg/1280px-1986_BMW_E24_635i_Alpina_Coupe_%2844519342515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/bmw/3-series/bmw_3-series_hero_2_1986_BMW_E24_635i_Alpina_Coupe_44519342515_.jpg",
+      "file_size_bytes": 389895,
+      "sha256": "77be2f86d0763ddd5e0b44b84c2b221bd53d48d262942c400277994d171d7068"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "E30",
+      "generation_name": "3 Series E30",
+      "years": {
+        "start": 1983,
+        "end": 1991
+      },
+      "body_styles": [
+        "2-door sedan",
+        "4-door sedan",
+        "Convertible",
+        "Touring"
+      ],
+      "platform": "BMW E30",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "The defining cult compact BMW; 318i, 323i, 325i, and Group A homologation M3 with S14 2.3L twin-cam four.",
+      "engines": [
+        {
+          "engine_code": "M20B25",
+          "name": "2.5L SOHC Inline-6",
+          "displacement_cc": 2494,
+          "displacement_litres": 2.5,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125,
+          "power_rpm": "5800",
+          "torque_nm": 226,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Bosch Motronic injection, standard on Australian 325i."
+        },
+        {
+          "engine_code": "S14B23",
+          "name": "2.3L DOHC M-Power (M3)",
+          "displacement_cc": 2302,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 147,
+          "power_rpm": "6750",
+          "torque_nm": 240,
+          "torque_rpm": "4750",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve, individual throttle bodies",
+          "notes": "Group A touring car homologation powerplant."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "325i",
+          "years": {
+            "start": 1986,
+            "end": 1991
+          },
+          "body_styles": [
+            "2-door sedan",
+            "4-door sedan",
+            "Convertible"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 56900,
+          "msrp_aud_max": 75900,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Four-wheel disc brakes with ABS",
+            "Limited-slip differential (optional/sport)",
+            "Power steering",
+            "Air conditioning",
+            "14-inch basketweave alloys"
+          ],
+          "notes": "Benchmark sports sedan of the late 1980s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "325i",
+          "body_style": "2-door sedan",
+          "engine_code": "M20B25",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1986,
+          "years_end": "1991",
+          "msrp_aud": 58900,
+          "power_kw": 125,
+          "torque_nm": 226,
+          "fuel_l_100km": 9.2,
+          "towing_braked_kg": 1200,
+          "notes": "Classic sport manual specification."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "E30",
+          "category": "exterior",
+          "caption": "BMW E30-2C in Böblingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/BMW_E30-2C_IMG_9627.jpg/1280px-BMW_E30-2C_IMG_9627.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/bmw/3-series/bmw_3-series_E30_1_BMW_E30-2C_IMG_9627.jpg",
+          "file_size_bytes": 386050,
+          "sha256": "6654fd2f23ea0c5bb6146e63923e33f5ced75ad3934309cb49bf40897bff0011"
+        }
+      ]
+    },
+    {
+      "series_code": "E46",
+      "generation_name": "3 Series E46",
+      "years": {
+        "start": 1998,
+        "end": 2006
+      },
+      "body_styles": [
+        "4-door sedan",
+        "2-door coupe",
+        "Convertible",
+        "Touring wagon",
+        "Compact"
+      ],
+      "platform": "BMW E46",
+      "ancap_rating": "4 stars",
+      "summary": "Universally acclaimed for timeless styling, aluminum suspension components, 318i to 330i, and the revered 252kW S54 M3 and lightweight M3 CSL.",
+      "engines": [
+        {
+          "engine_code": "M54B30",
+          "name": "3.0L DOHC Inline-6",
+          "displacement_cc": 2979,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 170,
+          "power_rpm": "5900",
+          "torque_nm": 300,
+          "torque_rpm": "3500",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24-valve, Double-VANOS",
+          "notes": "Silky, linear power delivery on 330i and 330Ci."
+        },
+        {
+          "engine_code": "S54B32",
+          "name": "3.2L DOHC M-Power (M3)",
+          "displacement_cc": 3246,
+          "displacement_litres": 3.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 252,
+          "power_rpm": "7900",
+          "torque_nm": 365,
+          "torque_rpm": "4900",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "DOHC 24-valve, 6 individual throttles, Double-VANOS",
+          "notes": "8,000rpm redline; widely considered one of the greatest naturally aspirated engines ever built."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "330Ci",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "2-door coupe",
+            "Convertible"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed manual",
+            "5-speed Steptronic automatic"
+          ],
+          "msrp_aud_min": 89900,
+          "msrp_aud_max": 99900,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1430,
+          "standard_features": [
+            "M Aerodynamic pack",
+            "17-inch/18-inch M double-spoke wheels",
+            "Harman Kardon audio",
+            "Dynamic Stability Control (DSC)",
+            "Memory sports seats"
+          ],
+          "notes": "Flagship non-M coupe."
+        },
+        {
+          "badge_name": "M3",
+          "years": {
+            "start": 2001,
+            "end": 2006
+          },
+          "body_styles": [
+            "2-door coupe",
+            "Convertible"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed SMG-II automated manual"
+          ],
+          "msrp_aud_min": 142000,
+          "msrp_aud_max": 162000,
+          "fuel_consumption_l_100km": 11.9,
+          "kerb_weight_kg": 1495,
+          "standard_features": [
+            "Variable M Differential Lock",
+            "19-inch forged alloy wheels",
+            "Quad chrome exhaust tips",
+            "Power-dome aluminium bonnet",
+            "Wider wheel flares"
+          ],
+          "notes": "Australian performance icon; 0-100 km/h in 5.2 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M3",
+          "body_style": "2-door coupe",
+          "engine_code": "S54B32",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2001,
+          "years_end": "2006",
+          "msrp_aud": 142000,
+          "power_kw": 252,
+          "torque_nm": 365,
+          "fuel_l_100km": 11.9,
+          "towing_braked_kg": 0,
+          "notes": "Traditional 6-speed Getrag manual coupe."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "E46",
+          "category": "exterior",
+          "caption": "BMW 3 SERIES (E46) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/BMW_3_SERIES_%28E46%29_China.jpg/1280px-BMW_3_SERIES_%28E46%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/bmw/3-series/bmw_3-series_E46_1_BMW_3_SERIES_E46_China.jpg",
+          "file_size_bytes": 353038,
+          "sha256": "eaf7de439f83d69a0bf9c7847c10e0a72f0abd42d0fe5608ec91b192ddab5715"
+        }
+      ]
+    },
+    {
+      "series_code": "G20",
+      "generation_name": "3 Series G20",
+      "years": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Touring wagon"
+      ],
+      "platform": "BMW CLAR platform",
+      "ancap_rating": "5 stars",
+      "summary": "Stiffer CLAR platform, 320i, 330i, M340i xDrive (285kW B58), and G80 M3 (up to 375kW Competition and 405kW CS), introducing the first-ever M3 Touring wagon.",
+      "engines": [
+        {
+          "engine_code": "B58B30",
+          "name": "3.0L TwinPower Turbo Inline-6",
+          "displacement_cc": 2998,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 285,
+          "power_rpm": "5800-6500",
+          "torque_nm": 500,
+          "torque_rpm": "1800-5000",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24-valve, Valvetronic & Double-VANOS",
+          "notes": "Twin-scroll turbocharger with water-to-air intercooling in M340i xDrive."
+        },
+        {
+          "engine_code": "S58B30",
+          "name": "3.0L Twin-Turbo M-Power (M3 Competition)",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 375,
+          "power_rpm": "6250",
+          "torque_nm": 650,
+          "torque_rpm": "2750-5500",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 24-valve, 3D-printed cylinder head core",
+          "notes": "Powers G80 M3 Competition sedan and G81 M3 Touring."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "M340i xDrive",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed sport automatic"
+          ],
+          "msrp_aud_min": 99900,
+          "msrp_aud_max": 106200,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 1670,
+          "standard_features": [
+            "M Sport differential",
+            "Adaptive M suspension",
+            "19-inch M alloy wheels",
+            "BMW Laserlight / Matrix LED",
+            "Harman Kardon sound",
+            "BMW Curved Display"
+          ],
+          "notes": "0-100 km/h in 4.4 seconds with rear-biased AWD."
+        },
+        {
+          "badge_name": "M3 Competition",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring wagon"
+          ],
+          "drivetrain": "RWD / AWD (M xDrive)",
+          "transmissions": [
+            "8-speed M Steptronic"
+          ],
+          "msrp_aud_min": 153500,
+          "msrp_aud_max": 178900,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1730,
+          "standard_features": [
+            "Carbon-fibre roof",
+            "Active M differential",
+            "M Drive Professional with 10-stage traction control",
+            "Carbon-ceramic brakes (optional)",
+            "Merino leather interior"
+          ],
+          "notes": "0-100 km/h in 3.5 seconds (M xDrive)."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M3 Competition",
+          "body_style": "4-door sedan",
+          "engine_code": "S58B30",
+          "transmission": "8-speed M Steptronic",
+          "drivetrain": "AWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 169500,
+          "power_kw": 375,
+          "torque_nm": 650,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 0,
+          "notes": "M xDrive with 2WD rear-drive mode."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "G20",
+          "category": "exterior",
+          "caption": "BMW 3 SERIES SEDAN (G20) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/BMW_3_SERIES_SEDAN_%28G20%29_China.jpg/1280px-BMW_3_SERIES_SEDAN_%28G20%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/bmw/3-series/bmw_3-series_G20_1_BMW_3_SERIES_SEDAN_G20_China.jpg",
+          "file_size_bytes": 173505,
+          "sha256": "96d7018d2da74cd3a07577c560727bcb211c2ee079baa0ec5994d89c7bdb990e"
+        }
+      ]
+    }
+  ]
+}

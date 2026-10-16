@@ -1,0 +1,800 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "landcruiser",
+  "name": "LandCruiser",
+  "vehicle_type": "4WD / Wagon / Cab Chassis",
+  "segment": "Upper Large 4WD",
+  "years_sold_au": {
+    "start": 1958,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The LandCruiser is the undisputed King of the Australian Outback. First brought to Australia in 1958 for the Snowy Mountains Scheme, it has conquered the country's most unforgiving deserts, pastoral stations, and mines for nearly seven decades.",
+  "australian_market_notes": "Australia is the world's most demanding proving ground for the LandCruiser, absorbing over 10% of global production. The model split between the heavy-duty 70 Series workhorse and the comfort-oriented wagon bloodline (80, 100, 200, 300 Series) is unique in its enduring appeal to rural graziers, miners, and urban luxury buyers alike.",
+  "manuals": [
+    {
+      "title": "Toyota LandCruiser Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1958,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/landcruiser/model.json",
+      "local_path": "media/manuals/toyota/landcruiser/toyota_landcruiser_au_technical_manual.pdf",
+      "file_size_bytes": 8373,
+      "sha256": "6e76ac037081425489c4df47808dcc0712e361ca4abc74f55ff34ff344484def",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Toyota LandCruiser 70 Series user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-552130",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/landcruiser/toyota_landcruiser_manual_Toyota_LandCruiser_70_Series_user_manual.html",
+      "file_size_bytes": 208843,
+      "sha256": "8f81da013935c11dbe196227ee4e83e0568e452d723650df418f3d3c1fb2d1ee"
+    },
+    {
+      "title": "Manual toyota landcruiser 1984-1990",
+      "year": 2023,
+      "source_url": "https://archive.org/details/1984-1990-chassis-body",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/landcruiser/toyota_landcruiser_manual_Manual_toyota_landcruiser_1984-1990.html",
+      "file_size_bytes": 265922,
+      "sha256": "0123ff917dd6dfe2036d206b4136476619e7e721eff3d64716e86c4775f21b6c"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Toyota Landcruiser FJ40",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/1980_Toyota_Land_Cruiser_%28FJ40%29_hardtop_%2826042130985%29.jpg/1280px-1980_Toyota_Land_Cruiser_%28FJ40%29_hardtop_%2826042130985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_hero_1_1980_Toyota_Land_Cruiser_FJ40_hardtop_26042130985_.jpg",
+      "file_size_bytes": 364972,
+      "sha256": "b6010f1f8c98203126a13f8286cb409258fbc05ac5a641dbd452d8c21ccf0e30"
+    },
+    {
+      "category": "exterior",
+      "caption": "Marked police car (2023 Toyota Land Cruiser station wagon 4WD) of the Queensland Police Service, Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/AU-Q-Police-vehicle_Toyota-LandCruiser-2023_20260210.jpg/1280px-AU-Q-Police-vehicle_Toyota-LandCruiser-2023_20260210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 4.0 (Q8682)",
+      "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_hero_2_AU-Q-Police-vehicle_Toyota-LandCruiser-2023_20260210.jpg",
+      "file_size_bytes": 431043,
+      "sha256": "77b46664df51c94733f3389631b1b7215659f503e581b52f5423f7b9bc3825d1"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "40 Series",
+      "generation_name": "LandCruiser 40 Series",
+      "years": {
+        "start": 1960,
+        "end": 1984
+      },
+      "body_styles": [
+        "SWB Soft-top",
+        "SWB Hardtop (FJ40/BJ40)",
+        "Troop Carrier (FJ45/HJ47)",
+        "Cab Chassis (FJ45/HJ47)"
+      ],
+      "platform": "Toyota J40",
+      "ancap_rating": "Untested",
+      "summary": "The pioneer that forged Toyota's indestructible Australian reputation, working the Snowy Mountains Scheme, outback cattle stations, and mining frontiers.",
+      "engines": [
+        {
+          "engine_code": "2F",
+          "name": "Toyota 2F 4.2L",
+          "displacement_cc": 4230,
+          "displacement_litres": 4.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 99.0,
+          "power_rpm": "3600",
+          "torque_nm": 271.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "7.8:1",
+          "valvetrain": "OHV 12-valve",
+          "notes": "Low-revving iron-block tractor-like torque."
+        },
+        {
+          "engine_code": "2H",
+          "name": "Toyota 2H 4.0L Diesel",
+          "displacement_cc": 3980,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 77.0,
+          "power_rpm": "3500",
+          "torque_nm": 240.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "20.7:1",
+          "valvetrain": "OHV 12-valve",
+          "notes": "Legendary 6-cylinder diesel introduced in HJ47."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FJ40",
+          "years": {
+            "start": 1960,
+            "end": 1984
+          },
+          "body_styles": [
+            "SWB Hardtop"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "3-speed manual",
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 3200,
+          "msrp_aud_max": 11500,
+          "fuel_consumption_l_100km": 16.5,
+          "kerb_weight_kg": 1550,
+          "standard_features": [
+            "Dual-range 4WD",
+            "Folding windscreen",
+            "Removable hardtop",
+            "Rear jump seats"
+          ],
+          "notes": "Short wheelbase off-road icon."
+        },
+        {
+          "badge_name": "HJ47",
+          "years": {
+            "start": 1980,
+            "end": 1984
+          },
+          "body_styles": [
+            "Troop Carrier",
+            "Cab Chassis"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 11200,
+          "msrp_aud_max": 14500,
+          "fuel_consumption_l_100km": 12.0,
+          "kerb_weight_kg": 1820,
+          "standard_features": [
+            "2H diesel engine",
+            "Long wheelbase",
+            "Heavy duty dual leaf springs",
+            "Dual fuel tanks on Troopy"
+          ],
+          "notes": "The ultimate outback bush workhorse."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HJ47",
+          "body_style": "Troop Carrier",
+          "engine_code": "2H",
+          "transmission": "4-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1980,
+          "years_end": 1984,
+          "msrp_aud": 12400,
+          "power_kw": 77.0,
+          "torque_nm": 240.0,
+          "fuel_l_100km": 12.0,
+          "towing_braked_kg": 2500,
+          "notes": "Outback 11-seat Bush Troopy."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "40 Series",
+          "category": "exterior",
+          "caption": "Sintra, Portugal (Wikipedia)\nThe Toyota Land Cruiser is a popular series of four-wheel drive vehicles produced by the Japanese carmaker Toyota Motor Corporation. The Land Cruiser, along with the Hilux utility, has been used in the world's m",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Black_Toyota_Land_Cruiser_%2840_series%29.jpg/1280px-Black_Toyota_Land_Cruiser_%2840_series%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Pedro Simões from Lisboa, Portugal)",
+          "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_40_Series_1_Black_Toyota_Land_Cruiser_40_series_.jpg",
+          "file_size_bytes": 359915,
+          "sha256": "5e37c352d961ffdd1f55bcc2783c94f25497cb0990cd23fd9c85154ea9d665e9"
+        }
+      ]
+    },
+    {
+      "series_code": "60 Series",
+      "generation_name": "LandCruiser 60 Series",
+      "years": {
+        "start": 1980,
+        "end": 1990
+      },
+      "body_styles": [
+        "Station Wagon"
+      ],
+      "platform": "Toyota J60",
+      "ancap_rating": "Untested",
+      "summary": "Bridged the gap between utilitarian toughness and family touring comfort, introducing the iconic Sahara luxury trim and 12H-T direct-injection turbo-diesel.",
+      "engines": [
+        {
+          "engine_code": "2H",
+          "name": "Toyota 2H 4.0L Diesel",
+          "displacement_cc": 3980,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 77.0,
+          "power_rpm": "3500",
+          "torque_nm": 240.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "20.7:1",
+          "valvetrain": "OHV 12-valve",
+          "notes": "Fitted to the legendary HJ60."
+        },
+        {
+          "engine_code": "12H-T",
+          "name": "Toyota 12H-T 4.0L Turbo-Diesel",
+          "displacement_cc": 3980,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 100.0,
+          "power_rpm": "3500",
+          "torque_nm": 315.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "OHV 12-valve",
+          "notes": "Direct injection turbo-diesel icon in the HJ61 Sahara."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sahara",
+          "years": {
+            "start": 1985,
+            "end": 1990
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 38000,
+          "msrp_aud_max": 54000,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 2080,
+          "standard_features": [
+            "High roof design",
+            "Velour upholstery",
+            "Factory power sunroof",
+            "Built-in center console fridge/ice-maker",
+            "Air conditioning",
+            "Power windows"
+          ],
+          "notes": "Pioneered luxury outback expedition touring in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sahara",
+          "body_style": "Station Wagon",
+          "engine_code": "12H-T",
+          "transmission": "4-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 1986,
+          "years_end": 1990,
+          "msrp_aud": 48900,
+          "power_kw": 100.0,
+          "torque_nm": 315.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 2500,
+          "notes": "High-roof HJ61 Sahara Turbo."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "60 Series",
+          "category": "exterior",
+          "caption": "1986 Toyota Land Cruiser (60 Series).",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/1986_Toyota_Land_Cruiser_%2860_Series%29_01.jpg/1280px-1986_Toyota_Land_Cruiser_%2860_Series%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Imconfused11887 at English Wikipedia)",
+          "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_60_Series_1_1986_Toyota_Land_Cruiser_60_Series_01.jpg",
+          "file_size_bytes": 331951,
+          "sha256": "36fdde4bec3a79d98fe65624019c64961580f46600332391ea8c2a8fe179e278"
+        }
+      ]
+    },
+    {
+      "series_code": "70 Series",
+      "generation_name": "LandCruiser 70 Series",
+      "years": {
+        "start": 1984,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Single Cab",
+        "Double Cab",
+        "Troop Carrier",
+        "Wagon"
+      ],
+      "platform": "Toyota J70",
+      "ancap_rating": "5 Stars (Single Cab 2016)",
+      "summary": "Heavy-duty commercial and touring legend in continuous production since 1984. Revered for live beam axles, separate chassis, and V8/2.8L turbo-diesel muscle.",
+      "engines": [
+        {
+          "engine_code": "1VD-FTV",
+          "name": "Toyota 1VD-FTV 4.5L V8 Turbo-Diesel",
+          "displacement_cc": 4461,
+          "displacement_litres": 4.5,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 151.0,
+          "power_rpm": "3400",
+          "torque_nm": 430.0,
+          "torque_rpm": "1200-3200",
+          "compression_ratio": "16.8:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Singular single-turbo V8 fitted from 2007 to 2024, celebrated for sound and torque."
+        },
+        {
+          "engine_code": "1GD-FTV",
+          "name": "Toyota 1GD-FTV 2.8L Turbo-Diesel",
+          "displacement_cc": 2755,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 150.0,
+          "power_rpm": "3400",
+          "torque_nm": 500.0,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "15.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Introduced in 2023 with 6-speed automatic transmission."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 2007,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single Cab",
+            "Double Cab",
+            "Troop Carrier",
+            "Wagon (76 Series)"
+          ],
+          "drivetrain": "Part-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 63990,
+          "msrp_aud_max": 83500,
+          "fuel_consumption_l_100km": 10.7,
+          "kerb_weight_kg": 2240,
+          "standard_features": [
+            "Front and rear factory differential locks",
+            "Aluminium alloy wheels",
+            "Snorkel",
+            "Overfenders",
+            "Power windows",
+            "Cloth seats"
+          ],
+          "notes": "The grail outback touring specification."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GXL",
+          "body_style": "Double Cab",
+          "engine_code": "1VD-FTV",
+          "transmission": "5-speed manual",
+          "drivetrain": "Part-time 4WD",
+          "years_start": 2012,
+          "years_end": 2024,
+          "msrp_aud": 79200,
+          "power_kw": 151.0,
+          "torque_nm": 430.0,
+          "fuel_l_100km": 10.7,
+          "towing_braked_kg": 3500,
+          "notes": "VDJ79 Double Cab 4.5L V8 diesel."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "70 Series",
+          "category": "exterior",
+          "caption": "Toyota Land Cruiser at the Salar de Uyuni, Bolivia. During the winter, the Salar de Uyuni is mostly dry but a small patch close to the city of Uyuni remains covered with water. This photo was taken at sunrise time.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg/1280px-Reflection_on_the_Salar_de_Uyuni%2C_bolivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Christopher Crouzet)",
+          "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_70_Series_1_Reflection_on_the_Salar_de_Uyuni_bolivia.jpg",
+          "file_size_bytes": 116403,
+          "sha256": "12b5df37be8968c3db7e26ea2142e747426f3d7bc877d6a2fa476f9568071f38"
+        }
+      ]
+    },
+    {
+      "series_code": "80 Series",
+      "generation_name": "LandCruiser 80 Series",
+      "years": {
+        "start": 1990,
+        "end": 1998
+      },
+      "body_styles": [
+        "Station Wagon"
+      ],
+      "platform": "Toyota J80",
+      "ancap_rating": "Untested",
+      "summary": "Coil spring all-around revolution with full-time 4WD, widely hailed as the most capable and durable all-around LandCruiser wagon ever engineered.",
+      "engines": [
+        {
+          "engine_code": "1HD-T",
+          "name": "Toyota 1HD-T 4.2L Turbo-Diesel",
+          "displacement_cc": 4164,
+          "displacement_litres": 4.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 123.0,
+          "power_rpm": "3600",
+          "torque_nm": 360.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "18.6:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Direct injection 4.2L turbo diesel cult favourite."
+        },
+        {
+          "engine_code": "1FZ-FE",
+          "name": "Toyota 1FZ-FE 4.5L Petrol",
+          "displacement_cc": 4477,
+          "displacement_litres": 4.5,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 158.0,
+          "power_rpm": "4600",
+          "torque_nm": 373.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Twin-cam multi-valve petrol inline-6 introduced in 1992."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 1990,
+            "end": 1998
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "drivetrain": "Full-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 43000,
+          "msrp_aud_max": 65000,
+          "fuel_consumption_l_100km": 12.2,
+          "kerb_weight_kg": 2220,
+          "standard_features": [
+            "8-passenger seating",
+            "Full-time 4WD with center diff lock",
+            "Front/rear live coil axles",
+            "Dual fuel tanks (145L total)"
+          ],
+          "notes": "Australia's outback touring standard for the 1990s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GXL",
+          "body_style": "Station Wagon",
+          "engine_code": "1HD-T",
+          "transmission": "4-speed automatic",
+          "drivetrain": "Full-time 4WD",
+          "years_start": 1990,
+          "years_end": 1995,
+          "msrp_aud": 59900,
+          "power_kw": 123.0,
+          "torque_nm": 360.0,
+          "fuel_l_100km": 12.2,
+          "towing_braked_kg": 3500,
+          "notes": "HDJ80 Turbo Diesel GXL."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "80 Series",
+          "category": "exterior",
+          "caption": "Toyota Land Cruiser VX, 80 series (1990-1997), seen in Duesseldorf, Germany",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Toyota_Land_Cruiser_VX_80_series_1990-1997_backleft-2008-04-11_U..jpg/1280px-Toyota_Land_Cruiser_VX_80_series_1990-1997_backleft-2008-04-11_U..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Detectandpreserve)",
+          "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_80_Series_1_Toyota_Land_Cruiser_VX_80_series_1990-1997_backleft-2008-04-11_U..jpg",
+          "file_size_bytes": 213244,
+          "sha256": "7bb5d554139e2f44eff110aca6cf58fd959ea9027e5df02f944adab2224d285b"
+        }
+      ]
+    },
+    {
+      "series_code": "200 Series",
+      "generation_name": "LandCruiser 200 Series",
+      "years": {
+        "start": 2007,
+        "end": 2021
+      },
+      "body_styles": [
+        "Station Wagon"
+      ],
+      "platform": "Toyota J200",
+      "ancap_rating": "5 Stars",
+      "summary": "Pinnacle heavy-duty luxury tow vehicle, powered by the mighty 4.5L Twin-Turbo V8 diesel (1VD-FTV) with KDSS suspension and 3500kg towing.",
+      "engines": [
+        {
+          "engine_code": "1VD-FTV-TT",
+          "name": "Toyota 1VD-FTV 4.5L Twin-Turbo V8 Diesel",
+          "displacement_cc": 4461,
+          "displacement_litres": 4.5,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 200.0,
+          "power_rpm": "3600",
+          "torque_nm": 650.0,
+          "torque_rpm": "1600-2600",
+          "compression_ratio": "16.8:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Twin-turbo V8 producing up to 200kW/650Nm; Australia's premier long-range towing engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sahara",
+          "years": {
+            "start": 2007,
+            "end": 2021
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "drivetrain": "Full-time 4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 105000,
+          "msrp_aud_max": 131000,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 2740,
+          "standard_features": [
+            "KDSS kinetic dynamic suspension",
+            "Crawl Control and Multi-Terrain Select",
+            "Refrigerated center cool box",
+            "Rear seat DVD entertainment",
+            "Premium leather upholstery",
+            "Sunroof"
+          ],
+          "notes": "The ultimate Australian outback touring station wagon."
+        },
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 2007,
+            "end": 2021
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "drivetrain": "Full-time 4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 78000,
+          "msrp_aud_max": 92000,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 2680,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Dual fuel tanks (138L)",
+            "Smart key entry/start",
+            "8-passenger seating",
+            "Reversing camera"
+          ],
+          "notes": "The high-volume choice for Australian caravaners."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sahara",
+          "body_style": "Station Wagon",
+          "engine_code": "1VD-FTV-TT",
+          "transmission": "6-speed automatic",
+          "drivetrain": "Full-time 4WD",
+          "years_start": 2015,
+          "years_end": 2021,
+          "msrp_aud": 124500,
+          "power_kw": 200.0,
+          "torque_nm": 650.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 3500,
+          "notes": "Facelift 200 Series Sahara Twin Turbo V8."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "200 Series",
+          "category": "exterior",
+          "caption": "A 200-Series Toyota Land Cruiser in the desert of the UAE",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Toyota_Land_Cruiser_in_the_Desert_Side-Front_View_20120409_2.jpg/1280px-Toyota_Land_Cruiser_in_the_Desert_Side-Front_View_20120409_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (DXR)",
+          "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_200_Series_1_Toyota_Land_Cruiser_in_the_Desert_Side-Front_View_20120409_2.jpg",
+          "file_size_bytes": 118095,
+          "sha256": "2a95f10cf2ad372f1e851ea6960fc6a3513c993840c205eb93e8e70c691f6e75"
+        }
+      ]
+    },
+    {
+      "series_code": "300 Series",
+      "generation_name": "LandCruiser 300 Series",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Station Wagon"
+      ],
+      "platform": "Toyota TNGA-F",
+      "ancap_rating": "5 Stars",
+      "summary": "Built on the all-new TNGA-F ladder architecture, shedding 200kg and powered by a 227kW/700Nm 3.3L Twin-Turbo V6 diesel paired with a 10-speed automatic.",
+      "engines": [
+        {
+          "engine_code": "F33A-FTV",
+          "name": "Toyota F33A-FTV 3.3L Twin-Turbo V6 Diesel",
+          "displacement_cc": 3346,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 227.0,
+          "power_rpm": "4000",
+          "torque_nm": 700.0,
+          "torque_rpm": "1600-2600",
+          "compression_ratio": "15.4:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Hot-V twin-turbo diesel producing 227kW and a massive 700Nm of torque."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Station Wagon (5 seats)"
+          ],
+          "drivetrain": "Full-time 4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 89990,
+          "msrp_aud_max": 96500,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 2495,
+          "standard_features": [
+            "Vinyl floor",
+            "Snorkel standard",
+            "17-inch steel wheels",
+            "Toyota Safety Sense",
+            "Dual fuel tanks (110L total)"
+          ],
+          "notes": "Mining and fleet specification."
+        },
+        {
+          "badge_name": "Sahara",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Station Wagon (7 seats)"
+          ],
+          "drivetrain": "Full-time 4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 131190,
+          "msrp_aud_max": 135000,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 2630,
+          "standard_features": [
+            "Heated and ventilated leather seats",
+            "JBL 14-speaker audio",
+            "Head-up display",
+            "Power folding 3rd row",
+            "Cool box"
+          ],
+          "notes": "Luxury long-distance touring flagship."
+        },
+        {
+          "badge_name": "GR Sport",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Station Wagon (5 seats)"
+          ],
+          "drivetrain": "Full-time 4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 137790,
+          "msrp_aud_max": 143000,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 2630,
+          "standard_features": [
+            "Electronic Kinetic Dynamic Suspension System (e-KDSS)",
+            "Front and rear locking differentials",
+            "Exclusive GR Dakar grille",
+            "Matte grey 18-inch wheels",
+            "Carbon-look interior trim"
+          ],
+          "notes": "Off-road capability flagship developed from Dakar Rally racing."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GR Sport",
+          "body_style": "Station Wagon",
+          "engine_code": "F33A-FTV",
+          "transmission": "10-speed automatic",
+          "drivetrain": "Full-time 4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 141500,
+          "power_kw": 227.0,
+          "torque_nm": 700.0,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 3500,
+          "notes": "Top-tier off-road LC300."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "300 Series",
+          "category": "exterior",
+          "caption": "This is the Toyota Land Cruiser GR Sport, displayed at a Toyota Showroom in Bahrain. The GR Sport is one of the trims available for the 300 Series lineup of the Land Cruiser. This particular one is made for the GCC/Middle Eastern market.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Toyota_Land_Cruiser_GR_Sport.jpg/1280px-Toyota_Land_Cruiser_GR_Sport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Mohammed Hamad)",
+          "local_path": "media/pictures/toyota/landcruiser/toyota_landcruiser_300_Series_1_Toyota_Land_Cruiser_GR_Sport.jpg",
+          "file_size_bytes": 197448,
+          "sha256": "0be433ddc9bce63a00c2cfab3aedf6385bed1d9ecc52cbc862e15d474701dc05"
+        }
+      ]
+    }
+  ]
+}

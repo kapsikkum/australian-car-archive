@@ -1,0 +1,53 @@
+{
+  "make_slug": "morgan",
+  "name": "Morgan",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1955,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Handcrafted traditional British sports cars built with ash wood subframes in Malvern Link, imported to Australia for discerning purists.",
+  "australian_history": "Morgan sports cars have been imported to Australia by dedicated specialist agents—most notably Morgan Cars Australia in Melbourne—since the 1950s. Revered for hand-beaten aluminium panels over English ash timber frames, the Plus 4, 4/4, Rover V8-powered Plus 8, and quirky 3 Wheeler have maintained a passionate following and ADR road-legal compliance.",
+  "models_catalog": [
+    {
+      "model_slug": "plus-4-plus-8",
+      "name": "Plus 4 / Plus 8",
+      "vehicle_type": "Roadster",
+      "segment": "Bespoke Classic Sports Car",
+      "years_sold_au": {
+        "start": 1955,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Timeless British roadsters spanning Triumph four-cylinders, 3.5L/3.9L Rover V8, and modern BMW turbocharged powertrains.",
+      "generations": [
+        {
+          "series_code": "Classic-Morgan",
+          "generation_name": "Morgan Plus 4 & Plus 8 Classic",
+          "years": {
+            "start": 1955,
+            "end": "2018"
+          },
+          "body_styles": [
+            "2-door roadster"
+          ],
+          "summary": "Steel ladder chassis, ash frame, Rover V8, Ford Zetec/Duratec four-cylinder engines."
+        },
+        {
+          "series_code": "CX-Generation",
+          "generation_name": "Plus Four & Plus Six (CX)",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door roadster"
+          ],
+          "summary": "CX bonded aluminium chassis, BMW 2.0L Turbo (Plus Four) and 3.0L Turbo inline-6 (Plus Six)."
+        }
+      ]
+    }
+  ]
+}

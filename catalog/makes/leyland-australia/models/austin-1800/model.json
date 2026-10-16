@@ -1,0 +1,275 @@
+{
+  "make_slug": "leyland-australia",
+  "model_slug": "austin-1800",
+  "name": "Austin 1800 / Utility (Landcrab)",
+  "vehicle_type": "4-door Sedan / 2-door Coupe Utility",
+  "segment": "Mid-size / Large",
+  "years_sold_au": {
+    "start": 1965,
+    "end": 1971
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Victoria Park (Zetland), Sydney, New South Wales"
+  ],
+  "overview": "The Austin 1800 (BMC project ADO17, affectionately nicknamed the 'Landcrab' for its broad track and tenacious roadholding) was manufactured in Australia by BMC and later Leyland Australia at the Victoria Park assembly complex in Zetland, Sydney. Featuring Alec Issigonis's revolutionary transverse engine front-wheel-drive layout, Hydrolastic interconnected fluid suspension, and an astonishingly spacious passenger cabin with 70% of car length devoted to passengers, the 1800 won Wheels Car of the Year in 1965. Australia made two world-exclusive contributions to the model: Australian engineers re-engineered the shell with elevated ground clearance and sump protection for outback endurance (proven by an astonishing 2nd place in the gruelling 1968 London-to-Sydney Marathon); and in 1968, Leyland Australia designed and manufactured the world's only Austin 1800 Utility ('Landcrab Ute'), combining front-wheel drive, a completely flat load bed, and Hydrolastic self-levelling suspension that kept the ute flat regardless of cargo weight! Over 56,000 Austin 1800s were built in Sydney.",
+  "australian_market_notes": "The Australian-developed Austin 1800 Utility was an engineering triumph. Because front-wheel drive eliminated the transmission tunnel and rear differential, the load bed was totally flat with incredible capacity. Combined with the Hydrolastic interconnected suspension, the rear never sagged under load. The 1800 'S' saloon added twin SU carburettors, a sports cam, and 72 kW (96 bhp) performance.",
+  "manuals": [
+    {
+      "title": "Leyland Australia Austin 1800 / Utility (Landcrab) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1965,
+      "language": "en",
+      "source_url": "local://catalog/makes/leyland-australia/models/austin-1800/model.json",
+      "local_path": "media/manuals/leyland-australia/austin-1800/leyland-australia_austin-1800_au_technical_manual.pdf",
+      "file_size_bytes": 5585,
+      "sha256": "f93591f5abbcbd8ac3e80838b64dcdeb6153197f41bc4af60b59b594cb4a82db",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Heritage Motor Centre,Nov 2007",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Austin_1800_Rally_Car_%282100463043%29.jpg/1280px-Austin_1800_Rally_Car_%282100463043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.0 (allen watkin from London, UK)",
+      "local_path": "media/pictures/leyland-australia/austin-1800/leyland-australia_austin-1800_hero_Austin_1800_Rally_Car_2100463043_.jpg.jpg",
+      "file_size_bytes": 222038,
+      "sha256": "ed82250a94666502673fc4d61f4e76073fe7605976637ec21989b05191dab6f1"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Mk-I",
+      "generation_name": "Mk I Austin 1800",
+      "years": {
+        "start": 1965,
+        "end": 1968
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "BMC ADO17 unibody",
+      "ancap_rating": null,
+      "summary": "Wheels Car of the Year 1965. Transverse 1.8L BMC B-series engine, Hydrolastic fluid suspension, front-wheel drive, and massive interior legroom.",
+      "engines": [
+        {
+          "engine_code": "BMC-B-Series-1.8L",
+          "name": "BMC B-Series 1.8L OHV Inline-4",
+          "displacement_cc": 1798,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 63.0,
+          "power_rpm": "5300",
+          "torque_nm": 134.0,
+          "torque_rpm": "2100",
+          "compression_ratio": "8.4:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Single SU HS6 carburettor, 5-bearing crankshaft, transverse gearbox-in-sump."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "1800 Saloon",
+          "years": {
+            "start": 1965,
+            "end": 1968
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 2340,
+          "msrp_aud_max": 2550,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1170,
+          "standard_features": [
+            "Hydrolastic interconnected fluid suspension",
+            "Front disc brakes",
+            "Transverse front-wheel drive packaging",
+            "Huge rear legroom exceeding traditional large cars"
+          ],
+          "notes": "Wheels Car of the Year winner."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "1800 Saloon",
+          "body_style": "Sedan",
+          "engine_code": "BMC-B-Series-1.8L",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 2340,
+          "power_kw": 63.0,
+          "torque_nm": 134.0,
+          "fuel_l_100km": 9.2,
+          "towing_braked_kg": 900,
+          "notes": "Transverse FWD Australian family car."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Mk-I",
+          "category": "exterior",
+          "caption": "Heritage Motor Centre,Nov 2007",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Austin_1800_Rally_Car_%282100463043%29.jpg/1280px-Austin_1800_Rally_Car_%282100463043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.0 (allen watkin from London, UK)",
+          "local_path": "media/pictures/leyland-australia/austin-1800/leyland-australia_austin-1800_Mk-I_Austin_1800_Rally_Car_2100463043_.jpg.jpg",
+          "file_size_bytes": 222038,
+          "sha256": "ed82250a94666502673fc4d61f4e76073fe7605976637ec21989b05191dab6f1"
+        }
+      ]
+    },
+    {
+      "series_code": "Mk-II",
+      "generation_name": "Mk II Austin 1800 & Utility",
+      "years": {
+        "start": 1968,
+        "end": 1971
+      },
+      "body_styles": [
+        "4-door sedan",
+        "2-door coupe utility"
+      ],
+      "platform": "BMC ADO17 unibody",
+      "ancap_rating": null,
+      "summary": "Introduction of the world-exclusive Australian-designed Austin 1800 Utility, upright rear tail fins, twin-carburettor 1800 'S' saloon, and optional Borg-Warner 35 automatic.",
+      "engines": [
+        {
+          "engine_code": "BMC-B-Series-1.8L-MkII",
+          "name": "BMC B-Series 1.8L Mk II Inline-4",
+          "displacement_cc": 1798,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 65.0,
+          "power_rpm": "5300",
+          "torque_nm": 137.0,
+          "torque_rpm": "2100",
+          "compression_ratio": "8.6:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Single SU carburettor with revised cylinder head ports."
+        },
+        {
+          "engine_code": "BMC-B-Series-1.8S-TwinSU",
+          "name": "BMC B-Series 1.8L 'S' Twin-SU Inline-4",
+          "displacement_cc": 1798,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 72.0,
+          "power_rpm": "5600",
+          "torque_nm": 144.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Twin SU HS6 carburettors, free-flow exhaust manifold; 96 bhp; powers 1800 'S'."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Austin 1800 Utility",
+          "years": {
+            "start": 1968,
+            "end": 1971
+          },
+          "body_styles": [
+            "Coupe Utility"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 2190,
+          "msrp_aud_max": 2390,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1130,
+          "standard_features": [
+            "Australian-designed unibody coupe utility",
+            "Hydrolastic fluid suspension maintaining level bed height under load",
+            "Flat uninterrupted cargo bed with no driveshaft hump",
+            "Half-tonne payload rating",
+            "Full-width bench seating with durable commercial vinyl"
+          ],
+          "notes": "World-exclusive Australian-developed FWD commercial ute."
+        },
+        {
+          "badge_name": "Austin 1800 'S' Saloon",
+          "years": {
+            "start": 1968,
+            "end": 1971
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 2690,
+          "msrp_aud_max": 2890,
+          "fuel_consumption_l_100km": 9.6,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Twin SU 72 kW 'S' performance engine",
+            "Sports instrumentation with tachometer",
+            "Upright tailfins with amber turn indicators",
+            "Power front disc brakes",
+            "Reclining front bucket seats"
+          ],
+          "notes": "High-performance sports saloon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Austin 1800 Utility",
+          "body_style": "Coupe Utility",
+          "engine_code": "BMC-B-Series-1.8L-MkII",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 2190,
+          "power_kw": 65.0,
+          "torque_nm": 137.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 900,
+          "notes": "Unique Australian-designed Landcrab ute."
+        },
+        {
+          "badge_name": "Austin 1800 'S' Saloon",
+          "body_style": "Sedan",
+          "engine_code": "BMC-B-Series-1.8S-TwinSU",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 2690,
+          "power_kw": 72.0,
+          "torque_nm": 144.0,
+          "fuel_l_100km": 9.6,
+          "towing_braked_kg": 950,
+          "notes": "Twin-carburettor 72 kW sports saloon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Mk-II",
+          "category": "exterior",
+          "caption": "Austin 1800 Mk2 Ute",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/1970_Austin_1800_%28Mark_II%29_utility_%2818767670135%29.jpg/1280px-1970_Austin_1800_%28Mark_II%29_utility_%2818767670135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/leyland-australia/austin-1800/leyland-australia_austin-1800_Mk-II_1970_Austin_1800_Mark_II_utility_18767670135_.jpg.jpg",
+          "file_size_bytes": 340053,
+          "sha256": "a6d50fcab26ce35b577c40b3a054a045fab47ee9c0d278405403bd447b46662c"
+        }
+      ]
+    }
+  ]
+}

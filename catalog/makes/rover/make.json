@@ -1,0 +1,68 @@
+{
+  "make_slug": "rover",
+  "name": "Rover",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1948,
+    "end": "2005"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Distinguished British carmaker that assembled P5, P6, and SD1 models at Enfield and Zetland NSW, winning 1977 Wheels Car of the Year with the SD1 3500.",
+  "australian_history": "Rover vehicles were assembled in Australia by Pressed Metal Corporation and British Leyland. The Rover P5 3-Litre and P5B 3.5 V8 were favourites of government ministers. The technologically advanced P6 2000 and 3500 featured de Dion rear suspension and inboard disc brakes. In 1977, the hatchback Rover SD1 3500 won the coveted Australian Wheels Car of the Year award. Later collaboration with Honda yielded the locally sold Rover 416i and 827 V6 before British Aerospace and BMW ownership transitions culminated in the retro-styled Rover 75. Rover ceased sales when MG Rover collapsed in 2005.",
+  "models_catalog": [
+    {
+      "model_slug": "sd1",
+      "name": "SD1 (3500 / 2600)",
+      "vehicle_type": "Hatchback Sedan",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1977,
+        "end": "1987"
+      },
+      "locally_built": true,
+      "overview": "Ferrari Daytona-inspired five-door aerodynamic hatchback, powered by the Rover all-alloy 3.5-litre V8 and 1977 Wheels Car of the Year winner.",
+      "generations": [
+        {
+          "series_code": "SD1-Series",
+          "generation_name": "Rover SD1",
+          "years": {
+            "start": 1977,
+            "end": 1987
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "Assembled locally at Enfield NSW; 3500 V8, 2600 six-cylinder, luxury Vanden Plas, and fuel-injected Vitesse."
+        }
+      ]
+    },
+    {
+      "model_slug": "75",
+      "name": "75",
+      "vehicle_type": "Sedan / Tourer Wagon",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1999,
+        "end": "2005"
+      },
+      "locally_built": false,
+      "overview": "BMW-engineered British luxury sedan with oval instrumentation, walnut wood veneer, and KV6 engine.",
+      "generations": [
+        {
+          "series_code": "R40",
+          "generation_name": "Rover 75",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Tourer wagon"
+          ],
+          "summary": "2.0L and 2.5L KV6 quad-cam engines, 2.0 CDT BMW diesel, Club and Connoisseur trims, and rare rear-drive 4.6L V8."
+        }
+      ]
+    }
+  ]
+}

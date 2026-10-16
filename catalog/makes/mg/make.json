@@ -1,0 +1,129 @@
+{
+  "make_slug": "mg",
+  "name": "MG Motor",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 1950,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "From classic British sports cars assembled at BMC Zetland Sydney (MGA and MGB) to today's SAIC-owned volume powerhouse dominating Australian light cars and the acclaimed MG4 rear-drive EV.",
+  "australian_history": "Classic MG had deep manufacturing roots in Australia: Pressed Metal Corporation in Enfield and BMC at Zetland, Sydney assembled thousands of CKD MG sports cars, including the TC, TD, TF, MGA, and over 9,000 Australian-assembled MGB roadsters between 1963 and 1972. Relaunched in Australia in 2016 under Chinese parent SAIC Motor, MG Motor achieved one of the fastest market ascents in Australian history. By 2021, MG had vaulted into the top-10 vehicle brands nationally. The value-priced MG3 hatchback became Australia's undisputed best-selling light car, while the ZS compact SUV led the small SUV category. In 2023, the bespoke rear-wheel-drive MG4 electric hatchback earned unanimous critical acclaim from Australian motoring media, backed by the 320kW dual-motor MG4 XPower and the Cyberster electric roadster.",
+  "models_catalog": [
+    {
+      "model_slug": "zs-mg4",
+      "name": "ZS / ZST / MG4",
+      "vehicle_type": "SUV / Hatchback",
+      "segment": "Small SUV & Electric Hatchback",
+      "years_sold_au": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "MG's modern Australian cornerstones: the chart-topping ZS/ZST compact SUV family, pioneering ZS EV, and the multi-award-winning MG4 rear-wheel-drive electric hatchback.",
+      "generations": [
+        {
+          "series_code": "ZS-ZST",
+          "generation_name": "ZS & ZST Petrol SUV",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "ZS 1.5L naturally aspirated (84kW), and premium ZST with 1.3L Turbo (115kW), 6-speed auto, and MG Pilot safety suite."
+        },
+        {
+          "series_code": "ZS-EV",
+          "generation_name": "ZS EV",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Australia's pioneer sub-$45k EV; 44.5kWh Mk1 upgraded to 50.3kWh Standard Range and 72.6kWh Long Range with grille-less front face."
+        },
+        {
+          "series_code": "MG4",
+          "generation_name": "MG4 EV",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "MSP modular scalable platform; 51 Excite (51kWh, 125kW), 64 Essence (64kWh, 150kW), 77 Long Range (77kWh, 530km), and 320kW dual-motor AWD XPower."
+        }
+      ]
+    },
+    {
+      "model_slug": "mg3",
+      "name": "MG3",
+      "vehicle_type": "Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 2016,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Australia's best-selling light car for multiple consecutive years, offering unbeatable new-car showroom value, backed by the Gen-2 Hybrid+.",
+      "generations": [
+        {
+          "series_code": "MG3-Gen1",
+          "generation_name": "MG3 First Generation",
+          "years": {
+            "start": 2016,
+            "end": "2024"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "1.5L naturally aspirated petrol engine (82kW), 4-speed automatic, Core and Excite trims, Apple CarPlay."
+        },
+        {
+          "series_code": "MG3-Gen2",
+          "generation_name": "MG3 Second Generation (Hybrid+)",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "All-new chassis, 1.5L Hybrid+ producing 155kW combined output, 1.83kWh battery, and comprehensive ADAS."
+        }
+      ]
+    },
+    {
+      "model_slug": "classic-mgb",
+      "name": "Classic MGB (Australian Assembled)",
+      "vehicle_type": "Roadster",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1963,
+        "end": "1972"
+      },
+      "locally_built": true,
+      "overview": "Over 9,000 MGB roadsters assembled locally at Pressed Metal Corp and BMC Zetland Sydney, etching MG into Australian sports car lore.",
+      "generations": [
+        {
+          "series_code": "MGB-Aussie",
+          "generation_name": "MGB Mk I & II",
+          "years": {
+            "start": 1963,
+            "end": 1972
+          },
+          "body_styles": [
+            "2-door roadster"
+          ],
+          "summary": "1798cc B-series four-cylinder with twin SU carbs; locally pressed body panels, banjos and later tube rear axles."
+        }
+      ]
+    }
+  ]
+}

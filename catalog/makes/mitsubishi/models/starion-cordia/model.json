@@ -1,0 +1,319 @@
+{
+  "make_slug": "mitsubishi",
+  "model_slug": "starion-cordia",
+  "name": "Starion & Cordia Turbo",
+  "vehicle_type": "Sports Coupe / Liftback",
+  "segment": "Sports Coupe",
+  "years_sold_au": {
+    "start": 1982,
+    "end": 1989
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mitsubishi Starion Turbo and Cordia GSR Turbo were the trailblazers of Japanese factory turbocharging in 1980s Australia. From the front-wheel drive Cordia GSR with its mind-bending 'Super Shift' 4x2 twin-stick dual-range transmission to the widebody, rear-wheel drive Starion Turbo that battled Australian Touring Cars in Group E and Group A, these coupes created Australia's turbo street-racing legend.",
+  "australian_market_notes": "Released in 1982 (Starion) and 1983 (Cordia), Mitsubishi brought boost to Australian showrooms years before it became mainstream. The lightweight Cordia GSR Turbo with digital instrumentation became a 1980s street-racer folklore hero, while the Starion was famously campaigned by rally ace Colin Bond in the Australian Production Car Championship and Bathurst 1000 with factory Ralliart backing.",
+  "manuals": [
+    {
+      "title": "Mitsubishi Starion & Cordia Turbo Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1982,
+      "language": "en",
+      "source_url": "local://catalog/makes/mitsubishi/models/starion-cordia/model.json",
+      "local_path": "media/manuals/mitsubishi/starion-cordia/mitsubishi_starion-cordia_au_technical_manual.pdf",
+      "file_size_bytes": 4550,
+      "sha256": "1d6e6d38c1becd55938026069d73d0bb312f958466955ee0b25996cdfb22a441",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "PZ253\nI've known about this Starion for years as it is parked on a busy arterial route in Christchurch. It's still there, outside that same block of flats, and I finally managed to catch up with it in September last year.\nThis is probably o",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/1983_Mitsubishi_Starion_%288494716022%29.jpg/1280px-1983_Mitsubishi_Starion_%288494716022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/mitsubishi/starion-cordia/mitsubishi_starion-cordia_hero_1_1983_Mitsubishi_Starion_8494716022_.jpg.jpg",
+      "file_size_bytes": 287711,
+      "sha256": "1786c3e82272499b903220faf6f062860666b8b24e106e17e18e5af147527997"
+    },
+    {
+      "category": "exterior",
+      "caption": "A 1988 Mitsubishi Starion taken at Bicester Scramble October 2024.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1988_Mitsubishi_Starion_EX_Turbo_BS_O24.jpg/1280px-1988_Mitsubishi_Starion_EX_Turbo_BS_O24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (MrWalkr)",
+      "local_path": "media/pictures/mitsubishi/starion-cordia/mitsubishi_starion-cordia_hero_2_1988_Mitsubishi_Starion_EX_Turbo_BS_O24.jpg.jpg",
+      "file_size_bytes": 227124,
+      "sha256": "713e2894eb10812291fdd372a939aa9903c7c07cea8b00dbb811fadbe582a3ec"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "AA/AB/AC",
+      "generation_name": "Cordia GSR Turbo",
+      "years": {
+        "start": 1983,
+        "end": 1989
+      },
+      "body_styles": [
+        "3-door Hatchback Coupe"
+      ],
+      "platform": "Mitsubishi Cordia",
+      "ancap_rating": "Untested",
+      "summary": "1980s cult icon. AA series (1.6L 4G32T Turbo 75kW with 4x2 Super Shift twin-stick transmission), upgraded in AB and AC series to 1.8L 4G62T Turbo (110kW/210Nm) and digital instrument cluster.",
+      "engines": [
+        {
+          "engine_code": "4G32T",
+          "name": "Mitsubishi 4G32T 1.6L Saturn Turbo",
+          "displacement_cc": 1597,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged (TC05)",
+          "fuel_type": "Petrol",
+          "power_kw": 75.0,
+          "power_rpm": "5500",
+          "torque_nm": 147.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Fitted to early AA Cordia GSR with carburetted turbo setup."
+        },
+        {
+          "engine_code": "4G62T",
+          "name": "Mitsubishi 4G62T 1.8L Sirius Turbo (ECI)",
+          "displacement_cc": 1795,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged (TC06)",
+          "fuel_type": "Petrol",
+          "power_kw": 110.0,
+          "power_rpm": "5800",
+          "torque_nm": 210.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "8.2:1",
+          "valvetrain": "SOHC 8-valve ECI",
+          "notes": "Electronically Controlled Injection delivering blisteringly quick acceleration."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cordia GSR Turbo (AA)",
+          "years": {
+            "start": 1983,
+            "end": 1984
+          },
+          "body_styles": [
+            "3-door Hatchback Coupe"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4x2 Super Shift dual-range manual (8 forward ratios)"
+          ],
+          "msrp_aud_min": 13990,
+          "msrp_aud_max": 14990,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 990,
+          "standard_features": [
+            "Twin-stick Super Shift transmission (Economy & Power modes)",
+            "Bonnet scoop",
+            "Turbo boost gauge",
+            "Checkered sports bucket seats",
+            "14-inch steel wheels"
+          ],
+          "notes": "Lightweight sub-tonne turbo pioneer."
+        },
+        {
+          "badge_name": "Cordia GSR Turbo (AB / AC)",
+          "years": {
+            "start": 1984,
+            "end": 1989
+          },
+          "body_styles": [
+            "3-door Hatchback Coupe"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 22500,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1045,
+          "standard_features": [
+            "110kW 1.8L turbo engine",
+            "Digital electronic instrument cluster with bar-graph boost gauge",
+            "14-inch alloy wheels",
+            "Rear spoiler",
+            "Four-wheel disc brakes"
+          ],
+          "notes": "Street-racing legend in Australian enthusiast circles."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cordia GSR Turbo 1.8",
+          "body_style": "3-door Hatchback Coupe",
+          "engine_code": "4G62T",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1985,
+          "years_end": 1989,
+          "msrp_aud": 18990,
+          "power_kw": 110.0,
+          "torque_nm": 210.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 800,
+          "notes": "0-100 km/h in under 8 seconds; 1980s boost legend."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "AA/AB/AC",
+          "category": "exterior",
+          "caption": "1985 Mitsubishi Cordia (AB) GSL hatchback. The alloys wheels are from the GSR trim level. Photographed in Sutherland, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1985_Mitsubishi_Cordia_%28AB%29_GSL_hatchback_%282009-09-17%29.jpg/1280px-1985_Mitsubishi_Cordia_%28AB%29_GSL_hatchback_%282009-09-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/mitsubishi/starion-cordia/mitsubishi_starion-cordia_AA_AB_AC_1_1985_Mitsubishi_Cordia_AB_GSL_hatchback_2009-09-17_.jpg.jpg",
+          "file_size_bytes": 250622,
+          "sha256": "7470ef8ef0210f93a64b3a2b2fe37c4f52d2c423a88c604caad3f04931862dc8"
+        }
+      ]
+    },
+    {
+      "series_code": "JA/JB/JD",
+      "generation_name": "Starion Turbo",
+      "years": {
+        "start": 1982,
+        "end": 1989
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Mitsubishi Starion",
+      "ancap_rating": "Untested",
+      "summary": "Rear-wheel drive grand touring sports coupe. JA series (2.0L 4G63T Sirius Turbo 125kW), JB (unleaded), and final widebody JD with flared guards, 132kW intercooled engine, and limited-slip differential.",
+      "engines": [
+        {
+          "engine_code": "4G63T-Starion",
+          "name": "Mitsubishi 4G63T 2.0L Sirius Turbo",
+          "displacement_cc": 1997,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged (TC06)",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "5500",
+          "torque_nm": 245.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "7.6:1",
+          "valvetrain": "SOHC 8-valve ECI",
+          "notes": "Lead petrol JA series engine."
+        },
+        {
+          "engine_code": "4G63T-JD",
+          "name": "Mitsubishi 4G63T 2.0L Intercooled Turbo (JD)",
+          "displacement_cc": 1997,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled (TC05-12A)",
+          "fuel_type": "Unleaded Petrol",
+          "power_kw": 132.0,
+          "power_rpm": "5500",
+          "torque_nm": 245.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "8.0:1",
+          "valvetrain": "SOHC 8-valve ECI",
+          "notes": "Intercooled widebody specification."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Starion Turbo (JA / JB)",
+          "years": {
+            "start": 1982,
+            "end": 1986
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 21990,
+          "msrp_aud_max": 25990,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1260,
+          "standard_features": [
+            "Pop-up headlights",
+            "Limited slip differential",
+            "Four-wheel independent suspension",
+            "Power windows",
+            "15-inch alloy wheels"
+          ],
+          "notes": "Narrow-body sports GT."
+        },
+        {
+          "badge_name": "Starion Turbo Widebody (JD)",
+          "years": {
+            "start": 1987,
+            "end": 1989
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 34990,
+          "msrp_aud_max": 39990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1340,
+          "standard_features": [
+            "Blistered factory widebody guards",
+            "Front-mount intercooler",
+            "16-inch 5-spoke alloys",
+            "Leather seats",
+            "Air conditioning",
+            "Cruise control"
+          ],
+          "notes": "Extremely desirable widebody collector car."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Starion Turbo Widebody JD",
+          "body_style": "2-door Coupe",
+          "engine_code": "4G63T-JD",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1987,
+          "years_end": 1989,
+          "msrp_aud": 36990,
+          "power_kw": 132.0,
+          "torque_nm": 245.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 1000,
+          "notes": "Widebody rear-drive turbo icon."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "JA/JB/JD",
+          "category": "exterior",
+          "caption": "Mitsubishi Starion 4WD Rally",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Mitsubishi_Starion_4WD_Rally.jpg/1280px-Mitsubishi_Starion_4WD_Rally.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (TTTNIS)",
+          "local_path": "media/pictures/mitsubishi/starion-cordia/mitsubishi_starion-cordia_JA_JB_JD_1_Mitsubishi_Starion_4WD_Rally.jpg.jpg",
+          "file_size_bytes": 208172,
+          "sha256": "a3fae2dbcd189e8f2d7726a79351f649b2c3e8cf7b38105621f7436e9024b5fc"
+        }
+      ]
+    }
+  ]
+}

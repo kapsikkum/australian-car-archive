@@ -1,0 +1,605 @@
+{
+  "make_slug": "mazda",
+  "model_slug": "mx-5",
+  "name": "MX-5",
+  "vehicle_type": "Roadster / Convertible",
+  "segment": "Sports Car",
+  "years_sold_au": {
+    "start": 1989,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mazda MX-5 is the world's best-selling two-seater sports car and an icon of pure driving pleasure in Australia. Embodying the philosophy of 'Jinba Ittai' (horse and rider as one), the MX-5 revived the classic British roadster concept with Japanese reliability, near-perfect 50:50 weight distribution, and rear-wheel-drive purity.",
+  "australian_market_notes": "Launched in Australia in October 1989, the NA MX-5 was crowned 1989 Wheels Car of the Year, sparking an Australian roadster renaissance. Across four generations, Australian buyers received exclusive special editions, including the Australia-only factory turbocharged MX-5 SE (NB8C) in 2004, the Power Retractable Hard Top (PRHT) NC, and the ND which captured the 2016 Wheels Car of the Year award.",
+  "manuals": [
+    {
+      "title": "Mazda MX-5 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1989,
+      "language": "en",
+      "source_url": "local://catalog/makes/mazda/models/mx-5/model.json",
+      "local_path": "media/manuals/mazda/mx-5/mazda_mx-5_au_technical_manual.pdf",
+      "file_size_bytes": 6871,
+      "sha256": "eee35a43fb6b32906589433c0fc43cec9084a0c6d3d9f14a505848c40d6eb266",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Prospekt Mazda MX-5 2017",
+      "year": null,
+      "source_url": "https://archive.org/details/mazda-mx-5-17",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/mx-5/mazda_mx-5_manual_Prospekt_Mazda_MX-5_2017.html",
+      "file_size_bytes": 215181,
+      "sha256": "10c8af63b664eb610d404294858b50274fe005a3dfd5d0442e46b60813ff4247"
+    },
+    {
+      "title": "Mazda 2010 MX-5 Miata Specifications",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7372085",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/mx-5/mazda_mx-5_manual_Mazda_2010_MX-5_Miata_Specifications.html",
+      "file_size_bytes": 215495,
+      "sha256": "5e4acb98a354b5a0a7cbc2e496a38c0a35ab7c4202083230ea17ffe3b6323b00"
+    },
+    {
+      "title": "Mazda 2003 Miata MX-5 Specifications",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7385827",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/mx-5/mazda_mx-5_manual_Mazda_2003_Miata_MX-5_Specifications.html",
+      "file_size_bytes": 215479,
+      "sha256": "3a5cb669adeee3c92da1988f91978dfc9a60967150f84e046d2848a5339c59e9"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Interest in small roadsters increased following the launch of the Mazda MX-5 in 1989, and MG (then owned by Rover Group) capitalised on this in 1992 by producing new body panels to create an updated version of the old car. The boot lid and ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/1993_MG_RV8_Convertible_%288675053794%29.jpg/1280px-1993_MG_RV8_Convertible_%288675053794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/mazda/mx-5/mazda_mx-5_hero_1_1993_MG_RV8_Convertible_8675053794_.jpg",
+      "file_size_bytes": 370283,
+      "sha256": "e1f82ec22bd1295fff7dc51fd9117f86a8260abed6877821070240fbff8319cc"
+    },
+    {
+      "category": "exterior",
+      "caption": "Interest in small roadsters increased following the launch of the Mazda MX-5 in 1989, and MG (then owned by Rover Group) capitalised on this in 1992 by producing new body panels to create an updated version of the old car. The boot lid and ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/1993_MG_RV8_Roadster_%2816150255560%29.jpg/1280px-1993_MG_RV8_Roadster_%2816150255560%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/mazda/mx-5/mazda_mx-5_hero_2_1993_MG_RV8_Roadster_16150255560_.jpg",
+      "file_size_bytes": 432500,
+      "sha256": "dd3c5889396a936543f9610d99873013a6d0fdfd5d75ad8af71b0962d3ee6832"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "NA",
+      "generation_name": "MX-5 1st Generation",
+      "years": {
+        "start": 1989,
+        "end": 1997
+      },
+      "body_styles": [
+        "2-door Roadster"
+      ],
+      "platform": "Mazda NA",
+      "ancap_rating": "Untested",
+      "summary": "1989 Wheels Car of the Year. Iconic pop-up headlights, manual soft-top, double-wishbone suspension at all four corners, and free-revving 1.6L and 1.8L DOHC 16-valve engines.",
+      "engines": [
+        {
+          "engine_code": "B6-ZE",
+          "name": "Mazda B6-ZE 1.6L DOHC",
+          "displacement_cc": 1597,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85.0,
+          "power_rpm": "6500",
+          "torque_nm": 137.0,
+          "torque_rpm": "5500",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Original NA6CE powerplant featuring light flywheel and tuned exhaust note."
+        },
+        {
+          "engine_code": "BP-ZE",
+          "name": "Mazda BP-ZE 1.8L DOHC",
+          "displacement_cc": 1839,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 96.0,
+          "power_rpm": "6500",
+          "torque_nm": 150.0,
+          "torque_rpm": "5500",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Introduced in 1994 NA8C with larger disc brakes and chassis bracing."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Base Roadster",
+          "years": {
+            "start": 1989,
+            "end": 1997
+          },
+          "body_styles": [
+            "2-door Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 950,
+          "standard_features": [
+            "Pop-up headlights",
+            "14-inch 'daisy' alloy wheels",
+            "Vinyl manual folding soft-top",
+            "Momo steering wheel (early)"
+          ],
+          "notes": "Lightweight 950kg sports roadster."
+        },
+        {
+          "badge_name": "Clubman",
+          "years": {
+            "start": 1994,
+            "end": 1997
+          },
+          "body_styles": [
+            "2-door Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 42000,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 990,
+          "standard_features": [
+            "Bilstein shock absorbers",
+            "Torsen limited-slip differential",
+            "Rear lip spoiler",
+            "De-powered steering option",
+            "Stiffer springs"
+          ],
+          "notes": "Track-focused enthusiast special in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "MX-5 NA6 Manual",
+          "body_style": "2-door Roadster",
+          "engine_code": "B6-ZE",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1989,
+          "years_end": 1993,
+          "msrp_aud": 29990,
+          "power_kw": 85.0,
+          "torque_nm": 137.0,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 0,
+          "notes": "Original 1989 launch car; pure driving dynamics."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "NA",
+          "category": "exterior",
+          "caption": "1996 Mazda MX-5 1.8 Taken at the British Motor Museum, Gaydon",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/1996_Mazda_MX-5_1.8.jpg/1280px-1996_Mazda_MX-5_1.8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Vauxford)",
+          "local_path": "media/pictures/mazda/mx-5/mazda_mx-5_NA_1_1996_Mazda_MX-5_1.8.jpg",
+          "file_size_bytes": 244321,
+          "sha256": "ada3d2964632ae411d92f60b8dea6da5bdf973da57ae7f69bd2f5e6a3c13b42f"
+        }
+      ]
+    },
+    {
+      "series_code": "NB",
+      "generation_name": "MX-5 2nd Generation",
+      "years": {
+        "start": 1998,
+        "end": 2005
+      },
+      "body_styles": [
+        "2-door Roadster"
+      ],
+      "platform": "Mazda NB",
+      "ancap_rating": "Untested",
+      "summary": "Fixed projector headlights, glass rear heated window, 6-speed manual, S-VT variable valve timing, and Australia's unique factory turbocharged MX-5 SE Turbo hero.",
+      "engines": [
+        {
+          "engine_code": "BP-Z3",
+          "name": "Mazda BP-Z3 1.8L S-VT",
+          "displacement_cc": 1839,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 106.0,
+          "power_rpm": "7000",
+          "torque_nm": 168.0,
+          "torque_rpm": "5500",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve S-VT",
+          "notes": "Sequential valve timing on intake cam from late 2000 NB8B facelift."
+        },
+        {
+          "engine_code": "BP-Z3-Turbo",
+          "name": "Mazda BP-Z3 1.8L Turbo (MX-5 SE)",
+          "displacement_cc": 1839,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled (IHI RHF5)",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 150.0,
+          "power_rpm": "6500",
+          "torque_nm": 280.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Factory turbocharged model developed for Australia and North America (Mazdaspeed)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Base / Classic",
+          "years": {
+            "start": 1998,
+            "end": 2005
+          },
+          "body_styles": [
+            "2-door Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 44500,
+          "fuel_consumption_l_100km": 8.3,
+          "kerb_weight_kg": 1030,
+          "standard_features": [
+            "15-inch alloy wheels",
+            "Dual airbags",
+            "Glass rear window with demister",
+            "Power mirrors and windows",
+            "Torsen LSD (manual)"
+          ],
+          "notes": "Refined second-generation roadster."
+        },
+        {
+          "badge_name": "SE Turbo",
+          "years": {
+            "start": 2004,
+            "end": 2005
+          },
+          "body_styles": [
+            "2-door Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed shot-peened manual"
+          ],
+          "msrp_aud_min": 45490,
+          "msrp_aud_max": 45490,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1105,
+          "standard_features": [
+            "150kW turbo engine",
+            "17-inch Racing Hart alloy wheels",
+            "Bilstein sports suspension",
+            "Bosch ABS",
+            "Red/black leather sports seats",
+            "Rear boot spoiler",
+            "Large front air dam"
+          ],
+          "notes": "Australian performance icon; 0-100 km/h in 6.2s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "MX-5 SE Turbo",
+          "body_style": "2-door Roadster",
+          "engine_code": "BP-Z3-Turbo",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2004,
+          "years_end": 2005,
+          "msrp_aud": 45490,
+          "power_kw": 150.0,
+          "torque_nm": 280.0,
+          "fuel_l_100km": 9.1,
+          "towing_braked_kg": 0,
+          "notes": "Only 206 factory turbocharged units sold in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "NB",
+          "category": "exterior",
+          "caption": "2001 Mazda MX-5 S (NB) - 1.8 (140PS) petrol manual",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2001_Mazda_MX-5_S_%28NB%29_-_1.8_%28140PS%29_petrol_manual_-_2025-05-05%2C_front_right.jpg/1280px-2001_Mazda_MX-5_S_%28NB%29_-_1.8_%28140PS%29_petrol_manual_-_2025-05-05%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (DieselFordMondeo)",
+          "local_path": "media/pictures/mazda/mx-5/mazda_mx-5_NB_1_2001_Mazda_MX-5_S_NB_-_1.8_140PS_petrol_manual_-_2025-05-05_front_right.jpg",
+          "file_size_bytes": 281319,
+          "sha256": "e4c168137091f6e0c600e3c0a50f7c041d060e3bd93a2627eb4a30866d140b28"
+        }
+      ]
+    },
+    {
+      "series_code": "NC",
+      "generation_name": "MX-5 3rd Generation",
+      "years": {
+        "start": 2005,
+        "end": 2015
+      },
+      "body_styles": [
+        "2-door Roadster Soft-top",
+        "2-door Roadster Coupe PRHT"
+      ],
+      "platform": "Mazda NC",
+      "ancap_rating": "4 stars",
+      "summary": "2005 Wheels Car of the Year. Sized up to the RX-8 platform, powered by the 2.0L MZR engine, and introduced the world's fastest Power Retractable Hard Top (12 seconds).",
+      "engines": [
+        {
+          "engine_code": "LF-VE",
+          "name": "Mazda MZR LF-VE 2.0L",
+          "displacement_cc": 1999,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 118.0,
+          "power_rpm": "6700",
+          "torque_nm": 188.0,
+          "torque_rpm": "5000",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 16-valve S-VT",
+          "notes": "All-aluminium block; rev limiter raised to 7,500rpm on NC2 facelift with forged crankshaft."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Soft Top / Touring",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "2-door Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed activematic auto"
+          ],
+          "msrp_aud_min": 41865,
+          "msrp_aud_max": 46990,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 1105,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Bose premium audio",
+            "Leather upholstery (Touring)",
+            "Limited slip differential (manual)",
+            "DSC stability control"
+          ],
+          "notes": "2005 Wheels COTY winner."
+        },
+        {
+          "badge_name": "Roadster Coupe (PRHT)",
+          "years": {
+            "start": 2006,
+            "end": 2015
+          },
+          "body_styles": [
+            "2-door Roadster Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed auto"
+          ],
+          "msrp_aud_min": 45490,
+          "msrp_aud_max": 51990,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 1142,
+          "standard_features": [
+            "Electric folding hardtop (12 seconds)",
+            "Bose 7-speaker audio",
+            "17-inch alloys",
+            "Leather seats",
+            "Chrome accents"
+          ],
+          "notes": "Accounted for over 70% of Australian NC sales."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "MX-5 Roadster Coupe PRHT Manual",
+          "body_style": "2-door Roadster Coupe",
+          "engine_code": "LF-VE",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2006,
+          "years_end": 2015,
+          "msrp_aud": 47990,
+          "power_kw": 118.0,
+          "torque_nm": 188.0,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 0,
+          "notes": "Fastest folding hardtop of its era."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "NC",
+          "category": "exterior",
+          "caption": "2006-2008 Mazda MX-5 photographed in Washington, D.C., USA.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/3rd_Mazda_MX-5_--_06-14-2010.jpg/1280px-3rd_Mazda_MX-5_--_06-14-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (IFCAR)",
+          "local_path": "media/pictures/mazda/mx-5/mazda_mx-5_NC_1_3rd_Mazda_MX-5_--_06-14-2010.jpg",
+          "file_size_bytes": 213541,
+          "sha256": "9223b35dd5cb5d6a20e08ed7d31ac380a395613018b3efbbfeedeef8c35df4a0"
+        }
+      ]
+    },
+    {
+      "series_code": "ND",
+      "generation_name": "MX-5 4th Generation",
+      "years": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "body_styles": [
+        "2-door Roadster Soft-top",
+        "2-door Targa RF (Retractable Fastback)"
+      ],
+      "platform": "Mazda ND",
+      "ancap_rating": "5 stars",
+      "summary": "2016 Wheels Car of the Year. Gram strategy shedding 100kg down to 1,005kg, SKYACTIV-G engines (1.5L and 2.0L upgraded to 135kW in ND2), and stunning RF fastback.",
+      "engines": [
+        {
+          "engine_code": "P5-VP",
+          "name": "Mazda SKYACTIV-G 1.5L",
+          "displacement_cc": 1496,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 96.0,
+          "power_rpm": "7000",
+          "torque_nm": 150.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "Sweet-revving high-compression 1.5L engine in early entry models."
+        },
+        {
+          "engine_code": "PE-VPR",
+          "name": "Mazda SKYACTIV-G 2.0L (ND2)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 135.0,
+          "power_rpm": "7000",
+          "torque_nm": 205.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "ND2 upgrade featuring lighter pistons, larger throttle body, dual-mass flywheel, and 7,500rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Roadster / GT",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 44990,
+          "fuel_consumption_l_100km": 6.8,
+          "kerb_weight_kg": 1035,
+          "standard_features": [
+            "LED headlights",
+            "MZD Connect touchscreen",
+            "Limited slip differential (manual)",
+            "Bose 9-speaker audio (GT)",
+            "Heated leather seats (GT)"
+          ],
+          "notes": "2016 Wheels COTY award winner."
+        },
+        {
+          "badge_name": "RF / RF GT / GT RS",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Targa RF"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 38550,
+          "msrp_aud_max": 51990,
+          "fuel_consumption_l_100km": 6.9,
+          "kerb_weight_kg": 1087,
+          "standard_features": [
+            "Electric retractable targa roof",
+            "Bilstein gas dampers (GT RS)",
+            "Brembo 4-piston front brakes (GT RS)",
+            "17-inch BBS forged alloys (GT RS)"
+          ],
+          "notes": "GT RS package adds factory track hardware."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "MX-5 RF GT RS Manual",
+          "body_style": "2-door Targa RF",
+          "engine_code": "PE-VPR",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 51990,
+          "power_kw": 135.0,
+          "torque_nm": 205.0,
+          "fuel_l_100km": 6.9,
+          "towing_braked_kg": 0,
+          "notes": "Equipped with Brembo brakes and Bilstein suspension."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ND",
+          "category": "exterior",
+          "caption": "Mazda MX-5 (ND) in Stuttgart-Vaihingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mazda_MX-5_%28ND%29_1X7A7471.jpg/1280px-Mazda_MX-5_%28ND%29_1X7A7471.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/mazda/mx-5/mazda_mx-5_ND_1_Mazda_MX-5_ND_1X7A7471.jpg",
+          "file_size_bytes": 261539,
+          "sha256": "ee7a5ddd0dd5ac5ece8c8cef2e41f9e03926c5697d01e35ab1c08a17e606298d"
+        }
+      ]
+    }
+  ]
+}

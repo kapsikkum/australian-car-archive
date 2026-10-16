@@ -1,0 +1,119 @@
+{
+  "make_slug": "jeep",
+  "name": "Jeep",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 1946,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "The original 4x4 brand, with rich Australian heritage including post-war CKD assembly of Willys and CJ Jeeps in Sydney and Brisbane, through to modern Wrangler, Cherokee, and Grand Cherokee.",
+  "australian_history": "Willys-Overland Jeeps first arrived in Australia during the Second World War with Allied forces. In the post-war era, Willys Motors Australia and Pressed Metal Corporation in Enfield, Sydney assembled CKD kits of the CJ-3B, CJ-5, and Willys utility wagons. In the 1960s and 1970s, Kaiser Jeep and AMC assembled Jeep CJ-6, CJ-7, and Gladiator pickups in Rocklea, Brisbane. The modern retail resurgence began in 1994 when Chrysler Jeep Australia reintroduced the Cherokee (XJ), offering unbeatable value 4.0-litre inline-six capability. The Wrangler (TJ, JK, JL) became Australia's ultimate lifestyle off-roader, while the Grand Cherokee (WJ, WK2) achieved massive towing popularity across the nation.",
+  "models_catalog": [
+    {
+      "model_slug": "wrangler",
+      "name": "Wrangler",
+      "vehicle_type": "4WD Convertible SUV",
+      "segment": "Off-Road 4WD",
+      "years_sold_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The quintessential open-air 4x4, offering removable doors, fold-down windscreen, live Dana 44 axles, and legendary Rubicon rock-crawling prowess.",
+      "generations": [
+        {
+          "series_code": "TJ",
+          "generation_name": "Wrangler TJ",
+          "years": {
+            "start": 1996,
+            "end": 2006
+          },
+          "body_styles": [
+            "2-door soft top",
+            "2-door hard top"
+          ],
+          "summary": "Quadra-Coil all-coil suspension, AMC 4.0L High Output inline-six, Sport, Renegade, and first Rubicon with Rock-Trac 4:1."
+        },
+        {
+          "series_code": "JK",
+          "generation_name": "Wrangler JK",
+          "years": {
+            "start": 2007,
+            "end": 2018
+          },
+          "body_styles": [
+            "2-door soft top",
+            "4-door Unlimited"
+          ],
+          "summary": "Introduced the four-door Unlimited; 3.8L V6, 3.6L Pentastar V6 (209kW), and 2.8 CRD turbo diesel."
+        },
+        {
+          "series_code": "JL",
+          "generation_name": "Wrangler JL",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door",
+            "4-door Unlimited"
+          ],
+          "summary": "Aluminium doors/tailgate, 8-speed automatic, 3.6L Pentastar, 2.0L Turbo, forward-facing TrailCam, and electronic sway-bar disconnect."
+        }
+      ]
+    },
+    {
+      "model_slug": "grand-cherokee",
+      "name": "Grand Cherokee",
+      "vehicle_type": "Large SUV",
+      "segment": "Large SUV",
+      "years_sold_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The American flagship that revolutionized Australia's large SUV market. Across five generations (ZJ, WJ, WK, WK2, and WL), the Grand Cherokee blended authentic Jeep trail capability with luxury appointments, muscular HEMI V8s, efficient 3.0L diesels with 3,500kg towing, and the earth-shattering 522kW Grand Cherokee Trackhawk.",
+      "generations": [
+        {
+          "series_code": "WJ",
+          "generation_name": "Grand Cherokee Second Generation (WJ)",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Sophisticated Uniframe construction, Quadra-Drive full-time 4WD with Vari-Lok gerotor progressive axles, 4.0L straight-six, 4.7L PowerTech V8, and Mercedes-sourced 2.7 CRD 5-cylinder turbo-diesel."
+        },
+        {
+          "series_code": "WK2",
+          "generation_name": "Grand Cherokee Fourth Generation (WK2 & Trackhawk)",
+          "years": {
+            "start": 2011,
+            "end": 2022
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Australian sales sensation. Co-developed with Mercedes-Benz ML platform, independent suspension, 3.6L Pentastar V6, 3.0L EcoDiesel V6 (184kW/570Nm, 3500kg towing), 5.7L HEMI V8, SRT 6.4L HEMI (344kW), and the legendary 522kW supercharged Trackhawk."
+        },
+        {
+          "series_code": "WL",
+          "generation_name": "Grand Cherokee Fifth Generation (WL & WL L)",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV (SWB)",
+            "5-door 7-seat SUV (LWB)"
+          ],
+          "summary": "Built on the Giorgio-derived STLA Large platform. Offered in three-row 7-seat (LWB) and two-row 5-seat (SWB) configurations with 3.6L Pentastar V6 and the advanced 4xe Plug-in Hybrid delivering 280kW and 637Nm."
+        }
+      ]
+    }
+  ]
+}

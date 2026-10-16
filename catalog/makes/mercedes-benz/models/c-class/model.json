@@ -1,0 +1,314 @@
+{
+  "make_slug": "mercedes-benz",
+  "model_slug": "c-class",
+  "name": "C-Class",
+  "vehicle_type": "Sedan / Wagon / Coupe / Convertible",
+  "segment": "Medium Luxury Car",
+  "years_sold_au": {
+    "start": 1994,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "Mercedes-Benz's most popular luxury nameplate in Australia, spanning W202, W203, W204, W205, and W206. Renowned for supreme safety engineering, quiet cabin isolation, and thundering naturally aspirated and biturbo V8 AMG performance flagships.",
+  "australian_market_notes": "Succeeded the legendary 190E (W201) in 1994. The C-Class held the title of Australia's best-selling luxury car for over a decade. Australia emerged as one of the world's most enthusiastic markets for AMG C-Class models, with the W204 C63 AMG (6.2L M156 V8) developing a massive cult following.",
+  "manuals": [
+    {
+      "title": "Mercedes Benz C-Class Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1994,
+      "language": "en",
+      "source_url": "local://catalog/makes/mercedes-benz/models/c-class/model.json",
+      "local_path": "media/manuals/mercedes-benz/c-class/mercedes-benz_c-class_au_technical_manual.pdf",
+      "file_size_bytes": 3801,
+      "sha256": "a7da07219fbf7a8351e33f439d1bdf1625bd4345cec4ab39f3150de988007b62",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Mercedes-Benz C-Class Specifications",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7334304",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mercedes-benz/c-class/mercedes-benz_c-class_manual_Mercedes-Benz_C-Class_Specifications.html",
+      "file_size_bytes": 215681,
+      "sha256": "2e7f0a0ac2d3dcb2e629029f4cd9a439f2ed9f5ba5b1da053c9d191f187cff76"
+    },
+    {
+      "title": "Mercedes-Benz 2001 C-Class user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-551329",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mercedes-benz/c-class/mercedes-benz_c-class_manual_Mercedes-Benz_2001_C-Class_user_manual.html",
+      "file_size_bytes": 209019,
+      "sha256": "226c9a157ddf5db16ab8d377cf2f7199fd754c16d407a6beb1a221b3ff45acab"
+    },
+    {
+      "title": "Mercedes-Benz C-CLASS WAGON C 240 user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-551772",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mercedes-benz/c-class/mercedes-benz_c-class_manual_Mercedes-Benz_C-CLASS_WAGON_C_240_user_manual.html",
+      "file_size_bytes": 208953,
+      "sha256": "1f3a7c93304853f2d634706819182ce4430cac1f861b6670733381ce9bb10987"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "DTM car Mercedes-Benz Season 2008 (C-Class, W204), Bernd Schneider (driver).",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/DTM_Mercedes_w204_Schneider_amk.jpg/1280px-DTM_Mercedes_w204_Schneider_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.5 (user:AngMoKio)",
+      "local_path": "media/pictures/mercedes-benz/c-class/mercedes-benz_c-class_hero_1_DTM_Mercedes_w204_Schneider_amk.jpg",
+      "file_size_bytes": 191386,
+      "sha256": "9580b432744e48b5f62bfd7b92a8b4318fb780e505c199c7f042a1201e946969"
+    },
+    {
+      "category": "exterior",
+      "caption": "Mercedes-Benz_C-Class_All-Terrain at IAA 2021",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mercedes-Benz_C-Class_All-Terrain_IAA_2021_1X7A0279.jpg/1280px-Mercedes-Benz_C-Class_All-Terrain_IAA_2021_1X7A0279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/mercedes-benz/c-class/mercedes-benz_c-class_hero_2_Mercedes-Benz_C-Class_All-Terrain_IAA_2021_1X7A0279.jpg",
+      "file_size_bytes": 281854,
+      "sha256": "1d3c452dde5cf95adbef7a21726bdbf27befa824a91ee4d58f2d902e24982f33"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "W204",
+      "generation_name": "C-Class W204",
+      "years": {
+        "start": 2007,
+        "end": 2014
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Estate wagon",
+        "2-door coupe"
+      ],
+      "platform": "Mercedes-Benz W204",
+      "ancap_rating": "5 stars",
+      "summary": "Agility Control damping, Classic/Elegance/Avantgarde styling divides, C200 CGI, C250, C300, and the legendary naturally aspirated 6.2L V8 C63 AMG.",
+      "engines": [
+        {
+          "engine_code": "M271 EVO",
+          "name": "1.8L Turbo CGI",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 150,
+          "power_rpm": "5500",
+          "torque_nm": 310,
+          "torque_rpm": "2000-4300",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Direct injection turbocharged four-cylinder in C250 CGI."
+        },
+        {
+          "engine_code": "M156",
+          "name": "6.2L Naturally Aspirated AMG V8",
+          "displacement_cc": 6208,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 336,
+          "power_rpm": "6800",
+          "torque_nm": 600,
+          "torque_rpm": "5000",
+          "compression_ratio": "11.3:1",
+          "valvetrain": "DOHC 32-valve, bucket tappets",
+          "notes": "Legendary AMG powerplant producing up to 373kW in Edition 507 and 380kW in Black Series."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "C250 Avantgarde",
+          "years": {
+            "start": 2010,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon",
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "7G-Tronic 7-speed automatic"
+          ],
+          "msrp_aud_min": 65900,
+          "msrp_aud_max": 71900,
+          "fuel_consumption_l_100km": 7.2,
+          "kerb_weight_kg": 1505,
+          "standard_features": [
+            "Avantgarde sports grille with large tri-star",
+            "18-inch alloy wheels",
+            "COMAND navigation",
+            "Artico leather upholstery",
+            "Bi-xenon headlights"
+          ],
+          "notes": "Volume luxury sweet-spot in Australia."
+        },
+        {
+          "badge_name": "C63 AMG",
+          "years": {
+            "start": 2008,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon",
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "AMG Speedshift Plus 7G-Tronic / MCT"
+          ],
+          "msrp_aud_min": 139900,
+          "msrp_aud_max": 169900,
+          "fuel_consumption_l_100km": 13.4,
+          "kerb_weight_kg": 1730,
+          "standard_features": [
+            "6.2L V8",
+            "Power-dome aluminium bonnet",
+            "AMG high-performance composite brakes",
+            "Nappa leather sports bucket seats",
+            "Quad oval exhaust pipes"
+          ],
+          "notes": "Cult status in Australia; acclaimed for tyre-smoking V8 muscle and NASCAR-grade exhaust note."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "C63 AMG",
+          "body_style": "4-door sedan",
+          "engine_code": "M156",
+          "transmission": "AMG Speedshift Plus 7G-Tronic",
+          "drivetrain": "RWD",
+          "years_start": 2008,
+          "years_end": "2014",
+          "msrp_aud": 149900,
+          "power_kw": 336,
+          "torque_nm": 600,
+          "fuel_l_100km": 13.4,
+          "towing_braked_kg": 0,
+          "notes": "Naturally aspirated 6.2L V8 muscle sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "W204",
+          "category": "exterior",
+          "caption": "DTM car Mercedes-Benz Season 2009 (C-Class, W204), Mathias Lauda (driver).",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/DTM_Mercedes_W204_Lauda09_amk.jpg/1280px-DTM_Mercedes_W204_Lauda09_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (AngMoKio)",
+          "local_path": "media/pictures/mercedes-benz/c-class/mercedes-benz_c-class_W204_1_DTM_Mercedes_W204_Lauda09_amk.jpg",
+          "file_size_bytes": 157334,
+          "sha256": "60f9ef5cb5f30722fe25d6079b5be56d8e769f482a07e1036f51b04c8eda0f44"
+        }
+      ]
+    },
+    {
+      "series_code": "W205",
+      "generation_name": "C-Class W205",
+      "years": {
+        "start": 2014,
+        "end": 2021
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Estate wagon",
+        "2-door coupe",
+        "Convertible"
+      ],
+      "platform": "Mercedes-Benz MRA platform",
+      "ancap_rating": "5 stars",
+      "summary": "MRA aluminium-hybrid lightweight architecture, S-Class inspired interior design, 3.0 V6 C43 AMG, and 375kW 4.0L Biturbo V8 C63 S.",
+      "engines": [
+        {
+          "engine_code": "M177",
+          "name": "4.0L Biturbo AMG V8 (C63 S)",
+          "displacement_cc": 3982,
+          "displacement_litres": 4.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 375,
+          "power_rpm": "5500-6250",
+          "torque_nm": 700,
+          "torque_rpm": "1750-4500",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 32-valve, 'Hot inside V' turbochargers",
+          "notes": "Dry-sump-inspired engineering with twin turbos nestled between cylinder banks."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "C63 S AMG",
+          "years": {
+            "start": 2015,
+            "end": 2021
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon",
+            "Coupe",
+            "Cabriolet"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "AMG Speedshift MCT 7-speed / 9-speed"
+          ],
+          "msrp_aud_min": 154900,
+          "msrp_aud_max": 189900,
+          "fuel_consumption_l_100km": 8.6,
+          "kerb_weight_kg": 1655,
+          "standard_features": [
+            "Electronic locking rear differential",
+            "Dynamic engine mounts",
+            "Burmester surround sound",
+            "AMG Ride Control adaptive damping",
+            "Performance exhaust with bypass flaps"
+          ],
+          "notes": "375kW/700Nm performance benchmark in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "C63 S AMG",
+          "body_style": "4-door sedan",
+          "engine_code": "M177",
+          "transmission": "AMG Speedshift MCT 7-speed",
+          "drivetrain": "RWD",
+          "years_start": 2015,
+          "years_end": "2021",
+          "msrp_aud": 154900,
+          "power_kw": 375,
+          "torque_nm": 700,
+          "fuel_l_100km": 8.6,
+          "towing_braked_kg": 0,
+          "notes": "V8 biturbo with 700Nm torque."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "W205",
+          "category": "exterior",
+          "caption": "Stanced Mercedes C-Class at Tuning World Bodensee 2018",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mercedes_C-Class%2C_TWB_2018%2C_Friedrichshafen_%28OW1A0629%29.jpg/1280px-Mercedes_C-Class%2C_TWB_2018%2C_Friedrichshafen_%28OW1A0629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Matti Blume)",
+          "local_path": "media/pictures/mercedes-benz/c-class/mercedes-benz_c-class_W205_1_Mercedes_C-Class_TWB_2018_Friedrichshafen_OW1A0629_.jpg",
+          "file_size_bytes": 228649,
+          "sha256": "913a745ec717ae1f16216a01d5afd640fe287f3df3e9833b4b750503ef3946a2"
+        }
+      ]
+    }
+  ]
+}

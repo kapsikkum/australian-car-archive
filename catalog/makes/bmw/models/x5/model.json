@@ -1,0 +1,491 @@
+{
+  "make_slug": "bmw",
+  "model_slug": "x5",
+  "name": "X5",
+  "vehicle_type": "Large Luxury SUV",
+  "segment": "Large Luxury SUV",
+  "years_sold_au": {
+    "start": 2000,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The vehicle that redefined the luxury SUV category in Australia. Originating in 2000 as the world's first true Sports Activity Vehicle (SAV) with monocoque construction and car-like handling, the BMW X5 has dominated Australian luxury SUV sales across four generations.",
+  "australian_market_notes": "Launched in Australia in late 2000 (E53). The six-cylinder diesel models (3.0d / xDrive30d) established an unprecedented reputation as long-distance Australian touring wagons, capable of effortless country overtaking and heavy horse-float and caravan towing. The X5 M transformed the super-SUV segment.",
+  "manuals": [
+    {
+      "title": "Bmw X5 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2000,
+      "language": "en",
+      "source_url": "local://catalog/makes/bmw/models/x5/model.json",
+      "local_path": "media/manuals/bmw/x5/bmw_x5_au_technical_manual.pdf",
+      "file_size_bytes": 5522,
+      "sha256": "3aaee3c23aa27180709e3c9a134f1d08dfd3f2a232e2deeb6084e0ff9f43de51",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "BMW X5 BROCHURE 2010 User manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzz-id-1311474",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/bmw/x5/bmw_x5_manual_BMW_X5_BROCHURE_2010_User_manual.html",
+      "file_size_bytes": 215196,
+      "sha256": "d34f03457baf636dc60a7a907cba3f0875b4bdd17740375b945040f27e399c2c"
+    },
+    {
+      "title": "BMW X5 2002 Owner's Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6888175",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/bmw/x5/bmw_x5_manual_BMW_X5_2002_Owner_s_Manual.html",
+      "file_size_bytes": 215340,
+      "sha256": "2952580c0f4fe523882a7ea120b7becedc2b72f272ec208c8c7e087ec8d3a4f3"
+    },
+    {
+      "title": "BMW X5 Owner's Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7066408",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/bmw/x5/bmw_x5_manual_BMW_X5_Owner_s_Manual.html",
+      "file_size_bytes": 214345,
+      "sha256": "8fafbaa235da7e0ce7891b50b41d90cf1098a48a4bd006b8045b889ce9d11af1"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "BMW X5 M (G05) at Automesse Salzburg 2023",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/BMW_X5_M_%28G05%29_1X7A7047.jpg/1280px-BMW_X5_M_%28G05%29_1X7A7047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+      "local_path": "media/pictures/bmw/x5/bmw_x5_hero_1_BMW_X5_M_G05_1X7A7047.jpg",
+      "file_size_bytes": 230433,
+      "sha256": "06fc19fc83d10a70ead5b060ba271a22e45d62706cfddd4fcc63d0b365b28895"
+    },
+    {
+      "category": "exterior",
+      "caption": "BMW_iX5_Hydrogen at IAA 2021",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/BMW_iX5_Hydrogen_IAA_2021_1X7A0194.jpg/1280px-BMW_iX5_Hydrogen_IAA_2021_1X7A0194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/bmw/x5/bmw_x5_hero_2_BMW_iX5_Hydrogen_IAA_2021_1X7A0194.jpg",
+      "file_size_bytes": 361665,
+      "sha256": "dded33582bc7bba58b8e41a51903794ceed63c5b52705cd97b6e82dc2d522eea"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "E53",
+      "generation_name": "X5 First Generation (E53)",
+      "years": {
+        "start": 2000,
+        "end": 2006
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "BMW E53",
+      "ancap_rating": "5 stars",
+      "summary": "Pioneered car-like monocoque SUV chassis dynamics. Offered with 3.0i petrol, 3.0d turbo-diesel, 4.4i V8, and the high-output 4.6is / 4.8is performance flagships with 265kW.",
+      "engines": [
+        {
+          "engine_code": "M57D30",
+          "name": "3.0L Turbo Diesel Inline-6",
+          "displacement_cc": 2926,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 160,
+          "power_rpm": "4000",
+          "torque_nm": 500,
+          "torque_rpm": "2000-2750",
+          "compression_ratio": "17.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Common-rail diesel powerhouse that captured the Australian market."
+        },
+        {
+          "engine_code": "N62B48",
+          "name": "4.8L DOHC 32V V8 (4.8is)",
+          "displacement_cc": 4799,
+          "displacement_litres": 4.8,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 265,
+          "power_rpm": "6200",
+          "torque_nm": 500,
+          "torque_rpm": "3500",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 32-valve Valvetronic",
+          "notes": "Performance hero with air suspension and 20-inch wheels."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "3.0d",
+          "years": {
+            "start": 2001,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 79900,
+          "msrp_aud_max": 93500,
+          "fuel_consumption_l_100km": 8.6,
+          "kerb_weight_kg": 2095,
+          "standard_features": [
+            "Leather trim",
+            "Dynamic Stability Control",
+            "Hill Descent Control",
+            "Split tailgate"
+          ],
+          "notes": "Australia's favorite luxury tow vehicle."
+        },
+        {
+          "badge_name": "4.8is",
+          "years": {
+            "start": 2004,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 158500,
+          "msrp_aud_max": 163000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 2200,
+          "standard_features": [
+            "20-inch V-spoke alloys",
+            "Two-axle air suspension",
+            "Sport body styling",
+            "Panoramic glass sunroof"
+          ],
+          "notes": "Precursor to the modern X5 M."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "3.0d",
+          "body_style": "5-door SUV",
+          "engine_code": "M57D30",
+          "transmission": "6-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2004,
+          "years_end": 2006,
+          "msrp_aud": 86900,
+          "power_kw": 160,
+          "torque_nm": 500,
+          "fuel_l_100km": 8.6,
+          "towing_braked_kg": 2700,
+          "notes": "Facelifted E53 with xDrive and 6-speed ZF auto."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E53",
+          "category": "exterior",
+          "caption": "BMW X5 (E53) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/BMW_X5_%28E53%29_China.jpg/1280px-BMW_X5_%28E53%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/bmw/x5/bmw_x5_E53_1_BMW_X5_E53_China.jpg",
+          "file_size_bytes": 315066,
+          "sha256": "5dc0967dcb370bdca6e2163d265e9432228bebc4972f1cd14c66b8af4813c057"
+        }
+      ]
+    },
+    {
+      "series_code": "E70",
+      "generation_name": "X5 Second Generation (E70)",
+      "years": {
+        "start": 2007,
+        "end": 2013
+      },
+      "body_styles": [
+        "5-door SUV",
+        "7-seat SUV"
+      ],
+      "platform": "BMW E70",
+      "ancap_rating": "5 stars",
+      "summary": "Introduced available third-row 7-seat packaging, Adaptive Drive active anti-roll bars, iDrive, and the inaugural BMW X5 M powered by a 408kW 4.4L twin-turbo V8.",
+      "engines": [
+        {
+          "engine_code": "N57D30",
+          "name": "3.0L Turbo Diesel Inline-6 (xDrive30d)",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 180,
+          "power_rpm": "4000",
+          "torque_nm": 540,
+          "torque_rpm": "1750-3000",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "All-aluminium block, piezo common-rail injection."
+        },
+        {
+          "engine_code": "S63B44A",
+          "name": "4.4L TwinPower V8 (X5 M)",
+          "displacement_cc": 4395,
+          "displacement_litres": 4.4,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 408,
+          "power_rpm": "6000",
+          "torque_nm": 680,
+          "torque_rpm": "1500-5650",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "First all-wheel-drive M car in history."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "xDrive30d",
+          "years": {
+            "start": 2007,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door SUV",
+            "7-seat SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed automatic",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 86900,
+          "msrp_aud_max": 96900,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 2150,
+          "standard_features": [
+            "18-inch alloys",
+            "Nevada leather",
+            "Park Distance Control",
+            "Dual-zone climate"
+          ],
+          "notes": "Australia's top-selling luxury SUV."
+        },
+        {
+          "badge_name": "X5 M",
+          "years": {
+            "start": 2009,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed M Sports automatic"
+          ],
+          "msrp_aud_min": 172900,
+          "msrp_aud_max": 185000,
+          "fuel_consumption_l_100km": 13.9,
+          "kerb_weight_kg": 2380,
+          "standard_features": [
+            "20-inch M light alloys",
+            "M Dynamic Mode",
+            "Adaptive Drive",
+            "Quad exhaust tips"
+          ],
+          "notes": "0-100km/h in 4.7s. 555hp super SUV."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "xDrive30d",
+          "body_style": "5-door SUV",
+          "engine_code": "N57D30",
+          "transmission": "8-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2010,
+          "years_end": 2013,
+          "msrp_aud": 92900,
+          "power_kw": 180,
+          "torque_nm": 540,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 2700,
+          "notes": "Facelifted LCI model with 8-speed ZF auto."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E70",
+          "category": "exterior",
+          "caption": "BMW X5 M (G05) at Automesse Salzburg 2023",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/BMW_X5_M_%28G05%29_1X7A7047.jpg/1280px-BMW_X5_M_%28G05%29_1X7A7047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/bmw/x5/bmw_x5_E70_1_BMW_X5_M_G05_1X7A7047.jpg",
+          "file_size_bytes": 230433,
+          "sha256": "06fc19fc83d10a70ead5b060ba271a22e45d62706cfddd4fcc63d0b365b28895"
+        }
+      ]
+    },
+    {
+      "series_code": "G05",
+      "generation_name": "X5 Fourth Generation (G05)",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "BMW CLAR",
+      "ancap_rating": "5 stars",
+      "summary": "Built on CLAR platform with optional two-axle air suspension, off-road package, xDrive30d, plug-in hybrid xDrive45e/50e, M50i/M60i V8, and the mighty 460kW X5 M Competition.",
+      "engines": [
+        {
+          "engine_code": "B57D30",
+          "name": "3.0L Turbo Diesel Inline-6 (xDrive30d)",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 195,
+          "power_rpm": "4000",
+          "torque_nm": 620,
+          "torque_rpm": "2000-2500",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Later upgraded to 210kW with 48V mild-hybrid system."
+        },
+        {
+          "engine_code": "S63B44B",
+          "name": "4.4L TwinPower V8 (X5 M Competition)",
+          "displacement_cc": 4395,
+          "displacement_litres": 4.4,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 460,
+          "power_rpm": "6000",
+          "torque_nm": 750,
+          "torque_rpm": "1800-5800",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "625hp Competition specification with active M differential."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "xDrive30d M Sport",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 112900,
+          "msrp_aud_max": 141900,
+          "fuel_consumption_l_100km": 7.2,
+          "kerb_weight_kg": 2185,
+          "standard_features": [
+            "20-inch M alloys",
+            "Live Cockpit Professional",
+            "Vernasca leather",
+            "Panoramic glass roof",
+            "Driving Assistant Professional"
+          ],
+          "notes": "Dominant luxury SUV choice in corporate and regional Australia."
+        },
+        {
+          "badge_name": "X5 M Competition",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed M Steptronic automatic"
+          ],
+          "msrp_aud_min": 212900,
+          "msrp_aud_max": 247900,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 2310,
+          "standard_features": [
+            "21/22-inch staggered M alloys",
+            "M Sport exhaust",
+            "Carbon fibre trim",
+            "Laserlight headlights",
+            "Bowers & Wilkins Diamond sound"
+          ],
+          "notes": "0-100km/h in 3.8s. Unrivalled luxury performance."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "xDrive30d M Sport",
+          "body_style": "5-door SUV",
+          "engine_code": "B57D30",
+          "transmission": "8-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2018,
+          "years_end": "Present",
+          "msrp_aud": 124900,
+          "power_kw": 195,
+          "torque_nm": 620,
+          "fuel_l_100km": 7.2,
+          "towing_braked_kg": 3500,
+          "notes": "Benchmark 3500kg braked towing luxury SUV."
+        },
+        {
+          "badge_name": "X5 M Competition",
+          "body_style": "5-door SUV",
+          "engine_code": "S63B44B",
+          "transmission": "8-speed M Steptronic automatic",
+          "drivetrain": "AWD",
+          "years_start": 2020,
+          "years_end": "Present",
+          "msrp_aud": 229900,
+          "power_kw": 460,
+          "torque_nm": 750,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 3000,
+          "notes": "460kW super-SUV flagship."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "G05",
+          "category": "exterior",
+          "caption": "BMW X5 (G05) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/BMW_X5_%28G05%29_China.jpg/1280px-BMW_X5_%28G05%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/bmw/x5/bmw_x5_G05_1_BMW_X5_G05_China.jpg",
+          "file_size_bytes": 201568,
+          "sha256": "4151d61b0b6776c4f585bebafc64a1a3128f6a1b5c931682f35cd8bfc7fe2dd9"
+        }
+      ]
+    }
+  ]
+}

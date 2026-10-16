@@ -1,0 +1,41 @@
+{
+  "make_slug": "leapmotor",
+  "name": "Leapmotor",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2024,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Innovative EV brand backed by multinational giant Stellantis (Leapmotor International), launching in Australia in late 2024 with the C10 medium SUV and T03 city car.",
+  "australian_history": "Leapmotor made its Australian debut in November 2024 under Leapmotor International—a 51:49 joint venture led by Stellantis (the parent company of Jeep, RAM, Fiat, and Alfa Romeo). Utilizing Stellantis' established Australian distribution infrastructure, Leapmotor entered with the C10 midsize electric SUV built on the LEAP 3.0 technology architecture. Featuring cell-to-chassis (CTC 2.0) engineering, a Qualcomm Snapdragon 8155 cockpit, and competitive pricing, Leapmotor targets mainstream family EV buyers.",
+  "models_catalog": [
+    {
+      "model_slug": "c10",
+      "name": "C10",
+      "vehicle_type": "SUV",
+      "segment": "Medium Electric SUV",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Family electric SUV offering 160kW rear-wheel drive, 69.9kWh LFP battery, and five-star Euro NCAP crash safety.",
+      "generations": [
+        {
+          "series_code": "C10-Gen1",
+          "generation_name": "Leapmotor C10",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Style and Design trims, 160kW/320Nm rear motor, 420km WLTP range, organic silicone upholstery, and panoramic glass roof."
+        }
+      ]
+    }
+  ]
+}

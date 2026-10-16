@@ -1,0 +1,181 @@
+{
+  "make_slug": "holden",
+  "model_slug": "gemini",
+  "name": "Holden Gemini",
+  "vehicle_type": "Sedan / Coupe / Wagon / Van",
+  "segment": "Small",
+  "years_sold_au": {
+    "start": 1975,
+    "end": 1987
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Acacia Ridge, Queensland",
+    "Pagewood, New South Wales"
+  ],
+  "overview": "The Holden Gemini was Australia's best-selling four-cylinder car of the 1970s and early 1980s. Developed from GM's global T-car platform (shared with the Opel Kadett C, Isuzu Bellett Gemini, and Chevrolet Chevette), the Gemini won the prestigious 1975 Wheels Car of the Year award on debut. Over 226,000 units were produced across TX, TC, TD, TE, TF, and TG rear-wheel-drive series before transitioning to the front-wheel-drive RB series.",
+  "australian_market_notes": "Built primarily at Holden's Acacia Ridge assembly plant in Brisbane, Queensland, the Gemini was powered by Isuzu's robust chain-driven 1.6-litre G161Z SOHC cross-flow four-cylinder engine. In 1978, the TD series introduced Holden's Radial Tuned Suspension (RTS), transforming handling. The 1979 TE introduced an Isuzu 1.8-litre diesel option capable of under 5.0 L/100km, while the final TG series spawned the collector-grade ZZ/Z sporting edition.",
+  "manuals": [
+    {
+      "title": "Holden Holden Gemini Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1975,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/gemini/model.json",
+      "local_path": "media/manuals/holden/gemini/holden_gemini_au_technical_manual.pdf",
+      "file_size_bytes": 3295,
+      "sha256": "220b57312f5b4ba74d1e6efd565482ed2a0cbdd549118da1795b748d7c8afeee",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1977 Holden Gemini TC Brochure. Australia, March 1977",
+      "year": null,
+      "source_url": "https://archive.org/details/1977-holden-gemini-tc-brochure.-australia-march-1977",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/gemini/holden_gemini_manual_1977_Holden_Gemini_TC_Brochure._Australia_March_1977.html",
+      "file_size_bytes": 232609,
+      "sha256": "5ee2c4351f43ee8829e880360366099abad982d0de48d8628c94a6b97de0afa6"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Holden Gemini TD Wagon",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1979_Holden_Gemini_%28TD%29_station_wagon_%2815688991357%29.jpg/1280px-1979_Holden_Gemini_%28TD%29_station_wagon_%2815688991357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/gemini/holden_gemini_hero_1_1979_Holden_Gemini_TD_station_wagon_15688991357_.jpg",
+      "file_size_bytes": 223964,
+      "sha256": "e74259ecfbf077fc419937a3d41396387c6d95eb63bbd07f56527968b286351f"
+    },
+    {
+      "category": "exterior",
+      "caption": "Holden Gemini TD Wagon",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/1979_Holden_Gemini_%28TD%29_station_wagon_%2815874097822%29.jpg/1280px-1979_Holden_Gemini_%28TD%29_station_wagon_%2815874097822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/gemini/holden_gemini_hero_2_1979_Holden_Gemini_TD_station_wagon_15874097822_.jpg",
+      "file_size_bytes": 425355,
+      "sha256": "a042921d3f1beaa1a2ac4e35a96b404fee8511eb8c07e4dde4a50720bf95fb3e"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "TX-TG",
+      "generation_name": "RWD Gemini (TX, TC, TD, TE, TF, TG)",
+      "years": {
+        "start": 1975,
+        "end": 1985
+      },
+      "body_styles": [
+        "4-door sedan",
+        "2-door coupe",
+        "3-door station wagon",
+        "3-door panel van"
+      ],
+      "platform": "GM T-car (RWD)",
+      "ancap_rating": null,
+      "summary": "1975 Wheels Car of the Year winner; Isuzu 1.6L G161Z SOHC engine, RTS suspension on TD, diesel option on TE, and TG ZZ/Z sporting edition.",
+      "engines": [
+        {
+          "engine_code": "Isuzu-G161Z",
+          "name": "Isuzu G161Z 1.6L SOHC 4-Cylinder",
+          "displacement_cc": 1584,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 50.0,
+          "power_rpm": "5400",
+          "torque_nm": 111.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "8.7:1",
+          "valvetrain": "SOHC 8V crossflow",
+          "notes": "Nikki 2-barrel downdraft carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SL",
+          "years": {
+            "start": 1975,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual",
+            "Tri-Matic 3-speed auto"
+          ],
+          "msrp_aud_min": 3290,
+          "msrp_aud_max": 7200,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 935,
+          "standard_features": [
+            "Front disc brakes",
+            "Cloth seating",
+            "Flow-through ventilation",
+            "Reclining bucket seats"
+          ],
+          "notes": "Bestselling small car in Australia."
+        },
+        {
+          "badge_name": "ZZ/Z",
+          "years": {
+            "start": 1983,
+            "end": 1984
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 8500,
+          "msrp_aud_max": 9200,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 965,
+          "standard_features": [
+            "Sports alloy wheels",
+            "Front air dam",
+            "Rear deck spoiler",
+            "Sports steering wheel",
+            "Special silver decals"
+          ],
+          "notes": "Final sporting edition of the RWD Gemini; 1,000 units produced."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SL",
+          "body_style": "4-door sedan",
+          "engine_code": "Isuzu-G161Z",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "msrp_aud": 3450,
+          "power_kw": 50.0,
+          "torque_nm": 111.0,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 800,
+          "notes": "Light, economical, and agile."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "TX-TG",
+          "category": "exterior",
+          "caption": "The Holden Gemini is a compact car that was built and sold by General Motors Holden from 1975 to 1986. It was derived from the Japanese Isuzu Gemini. \nThe original Gemini, the TX, was built from 1975-77\nThe facelift TC with bolder grille, f",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/1984_Holden_TG_Gemini_SL_Sedan_%2825260791463%29.jpg/1280px-1984_Holden_TG_Gemini_SL_Sedan_%2825260791463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/gemini/holden_gemini_TX-TG_1_1984_Holden_TG_Gemini_SL_Sedan_25260791463_.jpg",
+          "file_size_bytes": 354074,
+          "sha256": "afdf1f8e0dbd6df962275b235c104ccdad3b502435880faf34c37f57434e33a7"
+        }
+      ]
+    }
+  ]
+}

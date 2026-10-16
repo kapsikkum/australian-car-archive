@@ -1,0 +1,186 @@
+{
+  "make_slug": "holden",
+  "model_slug": "colorado",
+  "name": "Holden Colorado",
+  "vehicle_type": "Ute / Cab Chassis",
+  "segment": "Light Commercial / Mid-size Pick-up",
+  "years_sold_au": {
+    "start": 2008,
+    "end": 2020
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Holden Colorado was Holden's rugged 4x4 and 4x2 dual-cab, space-cab, and single-cab workhorse pick-up, replacing the legendary Rodeo in 2008. Across the RC and RG generations, the Colorado delivered class-leading 3.5-tonne braked towing capacity and up to 500Nm of torque from its Duramax 2.8L turbo-diesel engine. In 2016, Holden's engineering team at Lang Lang conducted a massive Australian-specific chassis, steering, and powertrain calibration that transformed refinement and dynamics.",
+  "australian_market_notes": "The RC generation was built in Rayong, Thailand alongside the Isuzu D-Max, powered by the bulletproof 3.0L Isuzu 4JJ1-TC turbo-diesel and Holden's Australian-built 3.6L Alloytec V6. The RG series (launched in 2012 on GM's global mid-size truck platform) introduced the potent 2.8L Duramax diesel. The 2016 RG Series II introduced a Centrifugal Pendulum Absorber (CPA) torque converter—a first in the dual-cab ute segment—damping engine vibrations and enabling earlier torque converter lock-up. Range topped by the Z71 and HSV SportsCat.",
+  "manuals": [
+    {
+      "title": "Holden Holden Colorado Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2008,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/colorado/model.json",
+      "local_path": "media/manuals/holden/colorado/holden_colorado_au_technical_manual.pdf",
+      "file_size_bytes": 3424,
+      "sha256": "1fe1e6c166b6dde805217afdb94d5423bef9b724726f397269b8da7bccbaca78",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Holden Colorado Truck Brochure (2017)",
+      "year": 2017,
+      "source_url": "https://archive.org/details/holden-colorado-rg-brochure-201712",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/colorado/holden_colorado_manual_Holden_Colorado_Truck_Brochure_2017.html",
+      "file_size_bytes": 217277,
+      "sha256": "7980771787697d68397a134db939ad0daed729a91730c7b5bbe9f021d1d42380"
+    },
+    {
+      "title": "Holden Colorado Truck Brochure (2012)",
+      "year": 2012,
+      "source_url": "https://archive.org/details/holden-colorado-truck-brochure-2012",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/colorado/holden_colorado_manual_Holden_Colorado_Truck_Brochure_2012.html",
+      "file_size_bytes": 217182,
+      "sha256": "17dd89992f0166c51c7ba0f49351fbb5076994ad0652414aa59d23dd7cc2ad98"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2015 Holden Colorado 7 LTZ  in Fremantle, WA",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Holden_Colorado_7_LTZ_front.jpg/1280px-2015_Holden_Colorado_7_LTZ_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (LuvsMG481)",
+      "local_path": "media/pictures/holden/colorado/holden_colorado_hero_1_2015_Holden_Colorado_7_LTZ_front.jpg",
+      "file_size_bytes": 230781,
+      "sha256": "0f526d49d4097171bf0d1a68a169c96c4ad4ac60ceca6aa343efc7ab194d4369"
+    },
+    {
+      "category": "exterior",
+      "caption": "2015 Holden Colorado 7 LTZ  in Fremantle, WA",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Holden_Colorado_7_LTZ_rear.jpg/1280px-2015_Holden_Colorado_7_LTZ_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (LuvsMG481)",
+      "local_path": "media/pictures/holden/colorado/holden_colorado_hero_2_2015_Holden_Colorado_7_LTZ_rear.jpg",
+      "file_size_bytes": 200794,
+      "sha256": "e3d06ea3f56d8a37a0ef7eb2f2ad3a99d5ffbff1ad502cbb72f52ae795127412"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "RG",
+      "generation_name": "Colorado RG Series",
+      "years": {
+        "start": 2012,
+        "end": 2020
+      },
+      "body_styles": [
+        "Single Cab",
+        "Space Cab",
+        "Crew Cab"
+      ],
+      "platform": "GM Global TKI truck architecture",
+      "ancap_rating": "5 Stars",
+      "summary": "Global GM ladder-frame platform with 2.8L Duramax turbo-diesel delivering 500Nm and 3,500kg braked towing. Comprehensive Australian suspension and steering redesign in 2016.",
+      "engines": [
+        {
+          "engine_code": "Duramax-2.8-LWN",
+          "name": "Duramax 2.8L Common-Rail Turbo-Diesel",
+          "displacement_cc": 2776,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 147.0,
+          "power_rpm": "3600",
+          "torque_nm": 500.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 16V Variable Geometry Turbo",
+          "notes": "500Nm with 6-speed auto (440Nm with 6-speed manual); CPA torque converter."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LTZ",
+          "years": {
+            "start": 2012,
+            "end": 2020
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 48990,
+          "msrp_aud_max": 54990,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 2100,
+          "standard_features": [
+            "8-inch MyLink touchscreen",
+            "Apple CarPlay & Android Auto",
+            "Forward Collision Alert",
+            "Lane Departure Warning",
+            "18-inch alloys",
+            "3.5-tonne towing"
+          ],
+          "notes": "High-volume private buyer and trade favorite."
+        },
+        {
+          "badge_name": "Z71",
+          "years": {
+            "start": 2015,
+            "end": 2020
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 54990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 2135,
+          "standard_features": [
+            "Leather appointed seats with heating",
+            "Black styling package",
+            "Integrated sailplane sports bar",
+            "Z71 bonnet decals",
+            "Soft-drop tailgate"
+          ],
+          "notes": "Holden's flagship dual-cab adventure pick-up."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Z71",
+          "body_style": "Crew Cab",
+          "engine_code": "Duramax-2.8-LWN",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "msrp_aud": 57190,
+          "power_kw": 147.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 8.7,
+          "towing_braked_kg": 3500,
+          "notes": "500Nm torque and 3.5-tonne towing."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "RG",
+          "category": "exterior",
+          "caption": "ACT Policing Holden Colorado Paddy Wagon driving through Nouthbourne Ave.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/ACTPol_Holden_Colorado_Paddy_Wagon.png/1280px-ACTPol_Holden_Colorado_Paddy_Wagon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (South East Australian Responses)",
+          "local_path": "media/pictures/holden/colorado/holden_colorado_RG_1_ACTPol_Holden_Colorado_Paddy_Wagon.png",
+          "file_size_bytes": 4082289,
+          "sha256": "8eb7835ac490f08b5f3bfcacafef3d86372d17c20d466c27054b1f8c34908c90"
+        }
+      ]
+    }
+  ]
+}

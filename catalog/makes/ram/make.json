@@ -1,0 +1,105 @@
+{
+  "make_slug": "ram",
+  "name": "RAM Trucks",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 2015,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "The pioneer of full-size American pickup trucks in Australia, re-engineered and remanufactured to OEM right-hand drive standards by Walkinshaw Automotive in Clayton, Victoria.",
+  "australian_history": "RAM Trucks Australia revolutionized the Australian light commercial market. In 2015, American Special Vehicles (a partnership between Walkinshaw Automotive Group and Ateco) established a full-scale OEM-standard right-hand drive remanufacturing facility at Walkinshaw's headquarters in Clayton, Victoria. Employing hundreds of Australian engineers and automotive tradespeople, the facility disassembles imported RAM 1500 and 2500/3500 trucks and rebuilds them with a bespoke Australian-engineered RHD steering box, RHD dashboard, heating/air-conditioning unit, and ADR-compliant wiring harnesses. Over 25,000 trucks have rolled off the Clayton line. RAM trucks dominate Australia's heavy caravan, boat, and horse-float towing community thanks to their 4.5-tonne towing rating, 5.7L HEMI V8, and the 523kW supercharged TRX monster.",
+  "models_catalog": [
+    {
+      "model_slug": "ram-1500",
+      "name": "RAM 1500",
+      "vehicle_type": "Full-size Pickup Truck",
+      "segment": "Full-size American Ute",
+      "years_sold_au": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Locally remanufactured at Clayton VIC, offering 4.5-tonne towing, spacious crew cab luxury, 5.7L HEMI V8 rumble, and the 523kW supercharged TRX.",
+      "generations": [
+        {
+          "series_code": "DS",
+          "generation_name": "RAM 1500 DS Classic",
+          "years": {
+            "start": 2018,
+            "end": "2023"
+          },
+          "body_styles": [
+            "Quad Cab",
+            "Crew Cab"
+          ],
+          "summary": "5.7L HEMI V8 (291kW/556Nm), 8-speed automatic, 4.5-tonne braked towing, Express and Warlock editions."
+        },
+        {
+          "series_code": "DT",
+          "generation_name": "RAM 1500 DT",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "summary": "Redesigned high-strength steel chassis, eTorque mild-hybrid 5.7L HEMI V8, Laramie, Limited, and RamBox cargo management."
+        },
+        {
+          "series_code": "DT-TRX",
+          "generation_name": "RAM 1500 TRX",
+          "years": {
+            "start": 2022,
+            "end": "2024"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "summary": "6.2L Supercharged Hellcat V8 (523kW / 882Nm), Bilstein Black Hawk e2 adaptive dampers, 35-inch tyres, 0-100 in 4.5s."
+        },
+        {
+          "series_code": "DT-Hurricane",
+          "generation_name": "RAM 1500 Hurricane",
+          "years": {
+            "start": 2025,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "summary": "All-new 3.0L Twin-Turbo Hurricane inline-six producing 313kW (Standard Output) or 403kW (High Output)."
+        }
+      ]
+    },
+    {
+      "model_slug": "ram-2500-3500",
+      "name": "RAM 2500 / 3500 Heavy Duty",
+      "vehicle_type": "Heavy Duty Pickup Truck",
+      "segment": "Heavy Commercial / Hauler",
+      "years_sold_au": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Commercial-grade haulers remanufactured at Clayton VIC, powered by the 6.7-litre Cummins inline-six turbo diesel with up to 8-tonne towing ratings.",
+      "generations": [
+        {
+          "series_code": "HD-Series",
+          "generation_name": "RAM 2500 & 3500 HD",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Crew Cab",
+            "Mega Cab"
+          ],
+          "summary": "6.7L Cummins High Output Turbo Diesel (276kW / 1152Nm), solid beam axles, dual rear wheels on 3500."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "make_slug": "ford",
+  "model_slug": "mustang",
+  "name": "Ford Mustang",
+  "vehicle_type": "Fastback Coupe / Convertible",
+  "segment": "Sports / Muscle Car",
+  "years_sold_au": {
+    "start": 1965,
+    "end": 2026
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Homebush, New South Wales (1965-1966 RHD factory conversions)",
+    "Campbellfield, Victoria (Tickford TVE SVT Cobra conversions, 2001-2002)",
+    "Flat Rock, Michigan, USA (Factory RHD export to Australia, 2015-present)"
+  ],
+  "overview": "The Ford Mustang has a storied heritage in Australia stretching back six decades. In 1965, Ford Australia officially imported and converted 400 iconic 1965-1966 notchback Mustangs to right-hand drive at Homebush, NSW, while touring car legend Norm Beechey campaigned a 1965 Mustang to Australia's first Australian Touring Car Championship win for an American V8. In 2001, Ford Tickford Experience (FTE) in Campbellfield, Victoria undertook a heroic $4 million engineering program to convert 250 SVT Mustang Cobras featuring independent rear suspension and 240 kW 4.6L DOHC 32V modular V8s. In late 2015, Ford delivered the first global factory right-hand drive FM Mustang to Australia, creating unprecedented multi-year customer waiting lists. The FM/FN generations and all-new 2024+ S650 generation (featuring the 362 kW 5.0L Gen-4 Coyote V8 and 373 kW Dark Horse) made Mustang Australia's best-selling sports car for seven consecutive years.",
+  "australian_market_notes": "The 2001 Tickford Cobra conversion was a monumental engineering triumph: TVE completely re-engineered the front floor pan, steering rack, wiring harness, and air conditioning to OEM right-hand drive standards, winning full compliance approval under Australian Design Rules. In modern times, the Mustang represents Ford Australia's primary weapon in Supercars Championship touring car racing, carrying the blue oval flag across Mount Panorama.",
+  "manuals": [
+    {
+      "title": "Ford Ford Mustang Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1965,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/mustang/model.json",
+      "local_path": "media/manuals/ford/mustang/ford_mustang_au_technical_manual.pdf",
+      "file_size_bytes": 6978,
+      "sha256": "acdd1669fe03023404346c88f18cd31218e63f0eafd3a5a825145fb5bffb5738",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Ford Mustang buyer's & restoration guide, 1964 1/2 -2007",
+      "year": 2006,
+      "source_url": "https://archive.org/details/fordmustangbuyer0000sess",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/mustang/ford_mustang_manual_Ford_Mustang_buyer_s_restoration_guide_1964_1_2_-2007.html",
+      "file_size_bytes": 219732,
+      "sha256": "b5b78fce29fd3c904ba8ca83ca36533354019fdb51a256ac589e1201aa3ecdc1"
+    },
+    {
+      "title": "Ford Mustang The Legend Lives (USA)",
+      "year": null,
+      "source_url": "https://archive.org/details/ps2_Ford_Mustang_The_Legend_Lives_USA",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/mustang/ford_mustang_manual_Ford_Mustang_The_Legend_Lives_USA.html",
+      "file_size_bytes": 221086,
+      "sha256": "e6e47df8389daa8f1ae6ca9329bfda2fd7a3ba65b1f9ec2a169c77f5a7a51daf"
+    },
+    {
+      "title": "Ford Mustang Car Brochure (2001)",
+      "year": 2001,
+      "source_url": "https://archive.org/details/ford-mustang-car-brochure-2001",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/mustang/ford_mustang_manual_Ford_Mustang_Car_Brochure_2001.html",
+      "file_size_bytes": 219299,
+      "sha256": "1246a642f09d11ce185279ec0e6c2012217999e059983d4d6a537a2860ec116e"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Ford Mustang Coupe 1967 Ballina Golf Cub NSW",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ford_Mustang_Coupe_1967_Ballina_Golf_Cub_NSW_L1030004.jpg/1280px-Ford_Mustang_Coupe_1967_Ballina_Golf_Cub_NSW_L1030004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (John Robert McPherson)",
+      "local_path": "media/pictures/ford/mustang/ford_mustang_hero_1_Ford_Mustang_Coupe_1967_Ballina_Golf_Cub_NSW_L1030004.jpg",
+      "file_size_bytes": 424688,
+      "sha256": "5c38c6ed01f4b4a83beb6463564ce7a76031a757ace56b564e06c0a12af8c158"
+    },
+    {
+      "category": "exterior",
+      "caption": "Ford Mustang Coupe 1967 Ballina Golf Cub NSW",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ford_Mustang_Coupe_1967_Ballina_Golf_Cub_NSW_L1030005.jpg/1280px-Ford_Mustang_Coupe_1967_Ballina_Golf_Cub_NSW_L1030005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (John Robert McPherson)",
+      "local_path": "media/pictures/ford/mustang/ford_mustang_hero_2_Ford_Mustang_Coupe_1967_Ballina_Golf_Cub_NSW_L1030005.jpg",
+      "file_size_bytes": 469466,
+      "sha256": "63752ce14af40122007745cddba4b816a41075d08b8dc2ecf2ecd56b85324dfe"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "First-Gen-AU",
+      "generation_name": "First Generation Mustang (Australian Delivery)",
+      "years": {
+        "start": 1965,
+        "end": 1973
+      },
+      "body_styles": [
+        "2-door hardtop coupe",
+        "2-door fastback"
+      ],
+      "platform": "Ford Falcon unibody architecture",
+      "ancap_rating": null,
+      "summary": "Official 1965-66 Ford Australia Homebush RHD conversions and private imports. Won the 1965 Australian Touring Car Championship with Norm Beechey.",
+      "engines": [
+        {
+          "engine_code": "Windsor-289-V8",
+          "name": "Ford 289ci (4.7L) Challenger V8",
+          "displacement_cc": 4727,
+          "displacement_litres": 4.7,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 149.0,
+          "power_rpm": "4400",
+          "torque_nm": 382.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "OHV 16V",
+          "notes": "2-barrel carburettor; 200 bhp rating in 1965-66 Australian deliveries."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Mustang Hardtop (AU)",
+          "years": {
+            "start": 1965,
+            "end": 1966
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed Cruise-O-Matic automatic",
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 3990,
+          "msrp_aud_max": 4450,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1270,
+          "standard_features": [
+            "289ci Challenger V8 engine",
+            "Right-hand drive Homebush factory conversion",
+            "Front bucket seats and center console",
+            "Power-assisted steering and front disc brakes"
+          ],
+          "notes": "Historical factory-backed Australian delivery; 400 imported."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Mustang Hardtop (AU)",
+          "body_style": "Coupe",
+          "engine_code": "Windsor-289-V8",
+          "transmission": "3-speed Cruise-O-Matic automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 4200,
+          "power_kw": 149.0,
+          "torque_nm": 382.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 1000,
+          "notes": "Official 1965 Australian delivery V8."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "SN-95-Tickford",
+      "generation_name": "SN-95 Tickford Mustang SVT Cobra",
+      "years": {
+        "start": 2001,
+        "end": 2002
+      },
+      "body_styles": [
+        "2-door coupe",
+        "2-door convertible"
+      ],
+      "platform": "Ford Fox-4 platform with Independent Rear Suspension (IRS)",
+      "ancap_rating": null,
+      "summary": "Hand-built right-hand drive conversion by Tickford Vehicle Engineering (TVE) in Campbellfield, Victoria. 240 kW 4.6L hand-assembled DOHC 32V modular V8.",
+      "engines": [
+        {
+          "engine_code": "Modular-4.6-DOHC-32V",
+          "name": "Ford SVT Modular 4.6L DOHC 32V V8",
+          "displacement_cc": 4601,
+          "displacement_litres": 4.6,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 240.0,
+          "power_rpm": "6000",
+          "torque_nm": 430.0,
+          "torque_rpm": "4750",
+          "compression_ratio": "9.85:1",
+          "valvetrain": "DOHC 32V",
+          "notes": "Hand-built at Ford Romeo Engine Plant with signed plaque; aluminum block with 6800 rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Mustang SVT Cobra Coupe",
+          "years": {
+            "start": 2001,
+            "end": 2002
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual Tremec T-45 / TR-3650"
+          ],
+          "msrp_aud_min": 85000,
+          "msrp_aud_max": 89000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1555,
+          "standard_features": [
+            "240 kW hand-built DOHC 32V V8",
+            "Multi-link Independent Rear Suspension (IRS)",
+            "17-inch cast alloy wheels with 245/45 tyres",
+            "Brembo 330mm front disc brakes",
+            "Leather sports bucket seats with embossed running Cobra emblem",
+            "Mach 460 premium 8-speaker audio system"
+          ],
+          "notes": "Tickford-converted Campbellfield hero; only 250 built."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Mustang SVT Cobra Coupe",
+          "body_style": "Coupe",
+          "engine_code": "Modular-4.6-DOHC-32V",
+          "transmission": "5-speed manual Tremec T-45 / TR-3650",
+          "drivetrain": "RWD",
+          "msrp_aud": 85000,
+          "power_kw": 240.0,
+          "torque_nm": 430.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1000,
+          "notes": "Tickford Australian factory RHD Cobra."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "SN-95-Tickford",
+          "category": "exterior",
+          "caption": "True Blue. \nFords Pony car, the Mustang was first introduced in April, 1964. \nThe 4th generation Mustang, the SN-95, was introduced in 1994, built around existing power train and chassis, the body was replaced by a stronger swoopier style c",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2002_Ford_Mustang_TVE_Cobra_Convertible_%2832105473465%29.jpg/1280px-2002_Ford_Mustang_TVE_Cobra_Convertible_%2832105473465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/ford/mustang/ford_mustang_SN-95-Tickford_1_2002_Ford_Mustang_TVE_Cobra_Convertible_32105473465_.jpg",
+          "file_size_bytes": 402107,
+          "sha256": "ce7b16f8c499e982f44f0699a3f1bf97419e40e0b730b7b6549785334039346b"
+        }
+      ]
+    },
+    {
+      "series_code": "FM-FN",
+      "generation_name": "FM / FN Mustang (S550)",
+      "years": {
+        "start": 2015,
+        "end": 2023
+      },
+      "body_styles": [
+        "2-door fastback coupe",
+        "2-door convertible"
+      ],
+      "platform": "Ford S550 platform",
+      "ancap_rating": 3,
+      "summary": "First global factory right-hand drive Mustang. Multi-link IRS, 2.3L EcoBoost turbo, 5.0L Coyote V8 up to 339 kW, and track-focused Bullitt and Mach 1 editions.",
+      "engines": [
+        {
+          "engine_code": "Coyote-5.0-V8-Gen3",
+          "name": "Ford Coyote 5.0L Dual-Fuel DOHC 32V V8",
+          "displacement_cc": 5038,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 339.0,
+          "power_rpm": "7000",
+          "torque_nm": 556.0,
+          "torque_rpm": "4600",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 32V Ti-VCT",
+          "notes": "Direct and port dual-fuel injection; 7500 rpm redline; active valve performance exhaust."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT Fastback (5.0L V8)",
+          "years": {
+            "start": 2015,
+            "end": 2023
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual Getrag MT-82 with rev matching",
+            "10-speed automatic with paddle shifters"
+          ],
+          "msrp_aud_min": 57490,
+          "msrp_aud_max": 66990,
+          "fuel_consumption_l_100km": 12.7,
+          "kerb_weight_kg": 1732,
+          "standard_features": [
+            "339 kW 5.0L Coyote V8",
+            "Brembo 6-piston front brake calipers with 380mm discs",
+            "Active valve dual exhaust with quad tips",
+            "19-inch Ebony Black alloy wheels",
+            "MagneRide magnetorheological adaptive damping option",
+            "12-inch digital customisable instrument cluster"
+          ],
+          "notes": "Australia's top-selling sports car."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GT Fastback (5.0L V8)",
+          "body_style": "Coupe",
+          "engine_code": "Coyote-5.0-V8-Gen3",
+          "transmission": "6-speed manual Getrag MT-82 with rev matching",
+          "drivetrain": "RWD",
+          "msrp_aud": 64190,
+          "power_kw": 339.0,
+          "torque_nm": 556.0,
+          "fuel_l_100km": 13.0,
+          "towing_braked_kg": 1000,
+          "notes": "339 kW 5.0L V8 6-speed manual muscle coupe."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "S650",
+      "generation_name": "S650 Next-Gen Mustang",
+      "years": {
+        "start": 2024,
+        "end": 2026
+      },
+      "body_styles": [
+        "2-door fastback coupe",
+        "2-door convertible"
+      ],
+      "platform": "Ford S650 platform",
+      "ancap_rating": null,
+      "summary": "Next-Gen Mustang featuring fighter-jet inspired cockpit with twin curved displays, 362 kW Gen-4 Coyote V8, Electronic Drift Brake, and the flagship 373 kW Dark Horse.",
+      "engines": [
+        {
+          "engine_code": "Coyote-5.0-Gen4-DarkHorse",
+          "name": "Ford Coyote 5.0L Gen-4 High-Output DOHC 32V V8",
+          "displacement_cc": 5038,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 373.0,
+          "power_rpm": "7250",
+          "torque_nm": 567.0,
+          "torque_rpm": "4900",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 32V Ti-VCT",
+          "notes": "Dual throttle body induction, forged connecting rods from Shelby GT500; 500 hp output."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Dark Horse",
+          "years": {
+            "start": 2024,
+            "end": 2026
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual Tremec TR-3160",
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 99102,
+          "msrp_aud_max": 103002,
+          "fuel_consumption_l_100km": 13.2,
+          "kerb_weight_kg": 1805,
+          "standard_features": [
+            "373 kW (500 hp) Gen-4 Coyote V8 with dual throttle bodies",
+            "Tremec TR-3160 6-speed manual with 3D-printed titanium shift ball",
+            "MagneRide active suspension with heavy-duty front strut tower brace",
+            "Torsen limited-slip differential and auxiliary oil coolers",
+            "Electronic Drift Brake (in partnership with Vaughn Gittin Jr.)",
+            "19-inch staggered alloy wheels and Pirelli P-Zero Trofeo RS tyres"
+          ],
+          "notes": "Track-focused factory flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Dark Horse",
+          "body_style": "Coupe",
+          "engine_code": "Coyote-5.0-Gen4-DarkHorse",
+          "transmission": "6-speed manual Tremec TR-3160",
+          "drivetrain": "RWD",
+          "msrp_aud": 99102,
+          "power_kw": 373.0,
+          "torque_nm": 567.0,
+          "fuel_l_100km": 13.2,
+          "towing_braked_kg": 1000,
+          "notes": "500 hp Tremec manual track monster."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "S650",
+          "category": "exterior",
+          "caption": "Australian specification Ford Mustang S650 on Sydney Harbour Bridge.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Australian_spec_Ford_Mustang_S650.jpg/1280px-Australian_spec_Ford_Mustang_S650.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 4.0 (Edncars)",
+          "local_path": "media/pictures/ford/mustang/ford_mustang_S650_1_Australian_spec_Ford_Mustang_S650.jpg",
+          "file_size_bytes": 296763,
+          "sha256": "9f0bc5f2644d3c77f6a6069e7d2793a47ced38f88f45c8322f8fd0f4f026dad9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "make_slug": "nissan",
+  "model_slug": "z-car",
+  "name": "Z-Car (Fairlady Z)",
+  "vehicle_type": "Sports Car / Coupe",
+  "segment": "Sports Car",
+  "years_sold_au": {
+    "start": 1970,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Datsun and Nissan Z-Car is one of the most celebrated sports car dynasties in Australian automotive history. From the breathtaking 1970 Datsun 240Z that conquered Jaguar E-Types and MGs on price and performance to the twin-turbo technology tour-de-force 300ZX, the pure rear-drive naturally aspirated 350Z and 370Z, and the modern 298kW twin-turbo RZ34 Z Coupe, the Z represents affordable, exhilarating grand touring sports car excellence.",
+  "australian_market_notes": "First imported in late 1970 by Datsun Australia, the 240Z revolutionized the Australian sports car landscape. The Z32 300ZX Twin Turbo of the 1990s introduced Super HICAS four-wheel steering and claimed supercar benchmarks. The 2003 350Z Track brought Brembo brakes and carbon driveshafts to the enthusiast market. In 2022, the RZ34 Z returned with retro styling cues honouring the 240Z and 300ZX with 298kW twin-turbo V6 power.",
+  "manuals": [
+    {
+      "title": "Nissan Z-Car (Fairlady Z) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1970,
+      "language": "en",
+      "source_url": "local://catalog/makes/nissan/models/z-car/model.json",
+      "local_path": "media/manuals/nissan/z-car/nissan_z-car_au_technical_manual.pdf",
+      "file_size_bytes": 10562,
+      "sha256": "346287cf7805538bcdb10c4c002e67ddf00c96dcd75ebc47eb8a66f17e0c2d86",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "c/n unknown. Made in 1975. This is 3-door fastback coupe. Installed wheels used S130 Fairlady Z. On display at Clasic Car Festival in Yamagata goal point(Shikokuyama Kaori no Mori Park), Ōga, Yamagata, Gifu. 21st May 2023",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Nissan_A-GS30_Fairlady_Z-L_2by2_%2823052112053%29.jpg/1280px-Nissan_A-GS30_Fairlady_Z-L_2by2_%2823052112053%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (先従隗始)",
+      "local_path": "media/pictures/nissan/z-car/nissan_z-car_hero_1_Nissan_A-GS30_Fairlady_Z-L_2by2_23052112053_.jpg",
+      "file_size_bytes": 193977,
+      "sha256": "ff96b629fc4641022c90792e36be795361a64c5fb5638508e77044f66d98d12a"
+    },
+    {
+      "category": "exterior",
+      "caption": "c/n unknown. Made in 1975. This is 3-door fastback coupe. Installed wheels used S130 Fairlady Z. On display at Clasic Car Festival in Yamagata goal point(Shikokuyama Kaori no Mori Park), Ōga, Yamagata, Gifu. 21st May 2023",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nissan_A-GS30_Fairlady_Z-L_2by2_%2823052112055%29.jpg/1280px-Nissan_A-GS30_Fairlady_Z-L_2by2_%2823052112055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (先従隗始)",
+      "local_path": "media/pictures/nissan/z-car/nissan_z-car_hero_2_Nissan_A-GS30_Fairlady_Z-L_2by2_23052112055_.jpg",
+      "file_size_bytes": 139816,
+      "sha256": "43ccd9b2ffff78c683446957c93bdd786840d695af0724025b179bdfdb3d8415"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "S30",
+      "generation_name": "240Z & 260Z",
+      "years": {
+        "start": 1970,
+        "end": 1978
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "2+2 Coupe"
+      ],
+      "platform": "Nissan S30",
+      "ancap_rating": "Untested",
+      "summary": "The original game changer. 240Z (2.4L L24 OHC straight-six with twin Hitachi SU carburettors), followed by 260Z 2-seater and 2+2 (2.6L L26). Four-wheel independent strut suspension and front disc brakes.",
+      "engines": [
+        {
+          "engine_code": "L24",
+          "name": "Datsun L24 2.4L OHC Inline-6",
+          "displacement_cc": 2393,
+          "displacement_litres": 2.4,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 113.0,
+          "power_rpm": "5600",
+          "torque_nm": 198.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Twin Hitachi SU-type carburettors; musical straight-six exhaust note."
+        },
+        {
+          "engine_code": "L26",
+          "name": "Datsun L26 2.6L OHC Inline-6",
+          "displacement_cc": 2565,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 121.0,
+          "power_rpm": "5600",
+          "torque_nm": 209.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Fitted to 260Z 2-seater and longer wheelbase 2+2."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "240Z",
+          "years": {
+            "start": 1970,
+            "end": 1974
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 4567,
+          "msrp_aud_max": 5190,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1040,
+          "standard_features": [
+            "Long bonnet / short rear deck styling",
+            "Wood-rim 3-spoke steering wheel",
+            "Triple auxiliary gauges on dash top",
+            "Reclining bucket seats",
+            "14-inch steel wheels with full wheel covers"
+          ],
+          "notes": "One of the most desirable classic sports cars in Australia."
+        },
+        {
+          "badge_name": "260Z 2-Seater & 2+2",
+          "years": {
+            "start": 1974,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door Coupe",
+            "2+2 Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 6890,
+          "msrp_aud_max": 8990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1140,
+          "standard_features": [
+            "2.6L engine",
+            "300mm longer wheelbase (2+2)",
+            "Fold-down rear seat (2+2)",
+            "Updated dashboard with integrated vents"
+          ],
+          "notes": "2+2 brought practical family sports touring."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Datsun 240Z Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "L24",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1970,
+          "years_end": 1974,
+          "msrp_aud": 4567,
+          "power_kw": 113.0,
+          "torque_nm": 198.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 0,
+          "notes": "The legendary original Australian Z."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S30",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 3-door fastback coupe. Running near Clasic Car Festival in Yamagata goal point(Shikokuyama Kaori no Mori Park), Ōga, Yamagata, Gifu. 21st May 2023",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nissan_S30_Fairlady_Z-L_%2823052112083%29.jpg/1280px-Nissan_S30_Fairlady_Z-L_%2823052112083%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (先従隗始)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_S30_1_Nissan_S30_Fairlady_Z-L_23052112083_.jpg",
+          "file_size_bytes": 238994,
+          "sha256": "49fcfb10cd85fc327854cacf3f31232849060a31b2b1f62a8858d64c2207f642"
+        }
+      ]
+    },
+    {
+      "series_code": "S130",
+      "generation_name": "280ZX",
+      "years": {
+        "start": 1979,
+        "end": 1983
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "2+2 Coupe",
+        "T-Bar Roof"
+      ],
+      "platform": "Nissan S130",
+      "ancap_rating": "Untested",
+      "summary": "Luxury grand touring era with electronic fuel injection (2.8L L28E), power steering, removable T-Bar glass roof panels, and semi-trailing arm rear suspension.",
+      "engines": [
+        {
+          "engine_code": "L28E",
+          "name": "Datsun L28E 2.8L EFI Inline-6",
+          "displacement_cc": 2753,
+          "displacement_litres": 2.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 103.0,
+          "power_rpm": "5200",
+          "torque_nm": 203.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.3:1",
+          "valvetrain": "SOHC 12-valve EFI",
+          "notes": "Bosch L-Jetronic fuel injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "280ZX T-Bar",
+          "years": {
+            "start": 1979,
+            "end": 1983
+          },
+          "body_styles": [
+            "2+2 T-Bar Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 24500,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1280,
+          "standard_features": [
+            "Removable glass T-Bar roof panels",
+            "Four-wheel disc brakes",
+            "Power windows and mirrors",
+            "Alloy wheels",
+            "Velour interior"
+          ],
+          "notes": "Grand touring luxury cruiser."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "280ZX T-Bar 2+2",
+          "body_style": "2+2 T-Bar Coupe",
+          "engine_code": "L28E",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1979,
+          "years_end": 1983,
+          "msrp_aud": 19990,
+          "power_kw": 103.0,
+          "torque_nm": 203.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 900,
+          "notes": "Iconic removable glass T-top."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S130",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 3-door fastback coupe, KS130JATB(AT) or KS130JTB(MT) T-bar roof Turbo 2 seater(later) version.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nissan_E-S130_Fairlady_Z_T-BAR_ROOF_TURBO_2SEATER_%2823101512012%29.jpg/1280px-Nissan_E-S130_Fairlady_Z_T-BAR_ROOF_TURBO_2SEATER_%2823101512012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (先従隗始)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_S130_1_Nissan_E-S130_Fairlady_Z_T-BAR_ROOF_TURBO_2SEATER_23101512012_.jpg",
+          "file_size_bytes": 372014,
+          "sha256": "3d0c1c323d4a7dfb919de63f95c19a217459eef37b452de4be49c73875834101"
+        }
+      ]
+    },
+    {
+      "series_code": "Z31",
+      "generation_name": "300ZX 1st Generation",
+      "years": {
+        "start": 1984,
+        "end": 1989
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "2+2 Coupe",
+        "T-Bar"
+      ],
+      "platform": "Nissan Z31",
+      "ancap_rating": "Untested",
+      "summary": "Introduced Japan's first mass-produced V6 engine (VG30E / VG30ET Turbo), pop-up semi-concealed headlights, digital dashboard, and 3-way electronically adjustable shocks.",
+      "engines": [
+        {
+          "engine_code": "VG30ET",
+          "name": "Nissan VG30ET 3.0L Turbo V6",
+          "displacement_cc": 2960,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged (Garrett T3)",
+          "fuel_type": "Petrol",
+          "power_kw": 155.0,
+          "power_rpm": "5200",
+          "torque_nm": 308.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "7.8:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Cast-iron block V6 with Garrett turbo."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "300ZX & 300ZX Turbo",
+          "years": {
+            "start": 1984,
+            "end": 1989
+          },
+          "body_styles": [
+            "2-door Coupe",
+            "2+2 T-Bar"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 48990,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "Digital instrument cluster",
+            "3-way electronically adjustable shock absorbers",
+            "Removable T-top roof",
+            "Leather seats (Turbo)",
+            "15 or 16-inch alloy wheels"
+          ],
+          "notes": "Technological showcase of the 1980s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "300ZX Turbo T-Bar",
+          "body_style": "2+2 T-Bar Coupe",
+          "engine_code": "VG30ET",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1986,
+          "years_end": 1989,
+          "msrp_aud": 46990,
+          "power_kw": 155.0,
+          "torque_nm": 308.0,
+          "fuel_l_100km": 11.8,
+          "towing_braked_kg": 1000,
+          "notes": "155kW turbocharged grand tourer."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Z31",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 3-door fastback coupe, KHZ31XATGR 2 seater 300ZX(later) version. On display at Michinoeki MontDeus Hida Kuraiyama, Ichinomiyamachi, Takayama, Gifu. 22nd October 2023",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Nissan_E-HZ31_Fairlady_Z_2_SEATER_300ZX_%2823102212555%29.jpg/1280px-Nissan_E-HZ31_Fairlady_Z_2_SEATER_300ZX_%2823102212555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (先従隗始)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_Z31_1_Nissan_E-HZ31_Fairlady_Z_2_SEATER_300ZX_23102212555_.jpg",
+          "file_size_bytes": 326514,
+          "sha256": "c91c46097b381b3c6a2c19312ba945f6a270416f5cb3837b38693ce4f7086f1a"
+        }
+      ]
+    },
+    {
+      "series_code": "Z32",
+      "generation_name": "300ZX 2nd Generation (Twin Turbo)",
+      "years": {
+        "start": 1989,
+        "end": 1996
+      },
+      "body_styles": [
+        "2-door 2-Seater",
+        "2-door 2+2 T-Bar",
+        "Convertible"
+      ],
+      "platform": "Nissan Z32",
+      "ancap_rating": "Untested",
+      "summary": "Masterpiece of Japanese supercar engineering. Wide low-slung stance, VG30DETT twin-turbo engine delivering 208kW, Super HICAS four-wheel steering, and four-wheel multi-link suspension.",
+      "engines": [
+        {
+          "engine_code": "VG30DE",
+          "name": "Nissan VG30DE 3.0L Quad-Cam 24V V6",
+          "displacement_cc": 2960,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 166.0,
+          "power_rpm": "6400",
+          "torque_nm": 273.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 24-valve NVCS",
+          "notes": "Variable valve timing on intake cams."
+        },
+        {
+          "engine_code": "VG30DETT",
+          "name": "Nissan VG30DETT 3.0L Twin-Turbo V6",
+          "displacement_cc": 2960,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Parallel Twin-Turbocharged Dual-Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 208.0,
+          "power_rpm": "6400",
+          "torque_nm": 388.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 24-valve NVCS",
+          "notes": "Twin Garrett T22 turbos and twin side-mount intercoolers; 208kW Australian specification."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "300ZX Naturally Aspirated",
+          "years": {
+            "start": 1989,
+            "end": 1996
+          },
+          "body_styles": [
+            "2+2 T-Bar Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 64990,
+          "msrp_aud_max": 75000,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1530,
+          "standard_features": [
+            "Glass T-bar roof",
+            "Climate control",
+            "Cruise control",
+            "Bose audio",
+            "16-inch alloy wheels"
+          ],
+          "notes": "Official Australian delivered model."
+        },
+        {
+          "badge_name": "300ZX Twin Turbo",
+          "years": {
+            "start": 1989,
+            "end": 1996
+          },
+          "body_styles": [
+            "2-Seater",
+            "2+2 T-Bar Coupe"
+          ],
+          "drivetrain": "RWD with Super HICAS 4-wheel steering",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 85000,
+          "msrp_aud_max": 105000,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 1580,
+          "standard_features": [
+            "208kW twin-turbo engine",
+            "Super HICAS active rear-wheel steering",
+            "Viscous limited-slip differential",
+            "Brembo-developed 4-piston aluminium brake calipers",
+            "Rear spoiler"
+          ],
+          "notes": "Supercar slayer capable of 0-100 km/h in 5.3s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "300ZX Twin Turbo Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "VG30DETT",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1990,
+          "years_end": 1996,
+          "msrp_aud": 89990,
+          "power_kw": 208.0,
+          "torque_nm": 388.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 0,
+          "notes": "Legendary Japanese high-tech performance titan."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Z32",
+          "category": "exterior",
+          "caption": "Nissan 300ZX on its way to the 2022 Oldtimer Meeting in Kulmbach",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nissan_300ZX_Kulmbach-20220626-RM-150855.jpg/1280px-Nissan_300ZX_Kulmbach-20220626-RM-150855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ermell)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_Z32_1_Nissan_300ZX_Kulmbach-20220626-RM-150855.jpg",
+          "file_size_bytes": 419456,
+          "sha256": "80309b7de9c66867543de22b441f7a60314531968dcbf545d91d34aed9ac7377"
+        }
+      ]
+    },
+    {
+      "series_code": "Z33",
+      "generation_name": "350Z",
+      "years": {
+        "start": 2003,
+        "end": 2009
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "2-door Roadster"
+      ],
+      "platform": "Nissan FM platform",
+      "ancap_rating": "Untested",
+      "summary": "Revival of the pure sports car ethos on the front midship (FM) chassis. Carbon-fibre composite driveshaft, naturally aspirated 3.5L VQ35DE / VQ35HR engine (up to 230kW), and Brembo brakes.",
+      "engines": [
+        {
+          "engine_code": "VQ35DE-Z33",
+          "name": "Nissan VQ35DE 3.5L V6",
+          "displacement_cc": 3498,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 206.0,
+          "power_rpm": "6200",
+          "torque_nm": 363.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 24-valve Continuously Variable Valve Timing",
+          "notes": "Upgraded to 221kW in 2005 35th Anniversary edition."
+        },
+        {
+          "engine_code": "VQ35HR",
+          "name": "Nissan VQ35HR 3.5L High-Rev V6",
+          "displacement_cc": 3498,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated (Dual Throttle)",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 230.0,
+          "power_rpm": "6800",
+          "torque_nm": 358.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "10.6:1",
+          "valvetrain": "DOHC 24-valve e-VTC",
+          "notes": "High-rev engine with twin symetrical air intakes and 7,500rpm redline (2007-2009)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Touring",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "Coupe",
+            "Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 59990,
+          "msrp_aud_max": 69990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1470,
+          "standard_features": [
+            "17 or 18-inch alloys",
+            "Leather upholstery",
+            "Bose 7-speaker audio",
+            "Climate control",
+            "Carbon-fibre driveshaft"
+          ],
+          "notes": "Popular sports grand tourer."
+        },
+        {
+          "badge_name": "Track",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD with viscous LSD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 65990,
+          "msrp_aud_max": 69990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1450,
+          "standard_features": [
+            "Gold Brembo 4-piston front brake calipers",
+            "RAYS lightweight forged 18-inch wheels",
+            "Front and rear aero spoilers",
+            "Viscous limited-slip differential"
+          ],
+          "notes": "Dedicated track weapon in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "350Z Track Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "VQ35HR",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2007,
+          "years_end": 2009,
+          "msrp_aud": 67990,
+          "power_kw": 230.0,
+          "torque_nm": 358.0,
+          "fuel_l_100km": 11.7,
+          "towing_braked_kg": 0,
+          "notes": "230kW twin-throttle VQ35HR with Brembo brakes and RAYS forged wheels."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Z33",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 3-door fastback coupe, GLTARUYZ33EDA----- Version ST(later) version. RAYS VOLK RACING SF-CHALLENGE 18inch wheels and GT Wing are installed. Running near Clasic Car Festival in Yamagata goal point(Shikokuyama Kaori no Mo",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Nissan_CBA-Z33_Fairlady_Z_Version_S_%2823052112124%29.jpg/1280px-Nissan_CBA-Z33_Fairlady_Z_Version_S_%2823052112124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (先従隗始)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_Z33_1_Nissan_CBA-Z33_Fairlady_Z_Version_S_23052112124_.jpg",
+          "file_size_bytes": 302631,
+          "sha256": "6e4100fa1ee6722d70c12aa9c7827ea3649f69b316ce56606f4f6e3e5812f0df"
+        }
+      ]
+    },
+    {
+      "series_code": "Z34",
+      "generation_name": "370Z",
+      "years": {
+        "start": 2009,
+        "end": 2021
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "2-door Roadster"
+      ],
+      "platform": "Nissan FM platform",
+      "ancap_rating": "Untested",
+      "summary": "Shorter wheelbase, wider track, aluminium doors and bonnet, 3.7L VQ37VHR engine with VVEL (245kW standard, 253kW Nismo), and world-first SynchroRev Match manual transmission.",
+      "engines": [
+        {
+          "engine_code": "VQ37VHR",
+          "name": "Nissan VQ37VHR 3.7L VVEL V6",
+          "displacement_cc": 3696,
+          "displacement_litres": 3.7,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 245.0,
+          "power_rpm": "7000",
+          "torque_nm": 363.0,
+          "torque_rpm": "5200",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "DOHC 24-valve VVEL",
+          "notes": "Variable Valve Event and Lift controlling throttle directly at intake valves."
+        },
+        {
+          "engine_code": "VQ37VHR-Nismo",
+          "name": "Nissan VQ37VHR 3.7L VVEL V6 (Nismo)",
+          "displacement_cc": 3696,
+          "displacement_litres": 3.7,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 253.0,
+          "power_rpm": "7400",
+          "torque_nm": 371.0,
+          "torque_rpm": "5200",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "DOHC 24-valve VVEL",
+          "notes": "Nismo dual exhaust and ECM tune producing 253kW."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "370Z Coupe & Roadster",
+          "years": {
+            "start": 2009,
+            "end": 2021
+          },
+          "body_styles": [
+            "Coupe",
+            "Roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual with SynchroRev Match",
+            "7-speed automatic with paddle shifters"
+          ],
+          "msrp_aud_min": 49990,
+          "msrp_aud_max": 74990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "SynchroRev Match automated throttle blipping",
+            "19-inch RAYS forged alloys",
+            "Sport brakes with red 4-piston calipers",
+            "Viscous LSD",
+            "Bose 8-speaker audio"
+          ],
+          "notes": "World-first rev-matching manual transmission."
+        },
+        {
+          "badge_name": "370Z Nismo",
+          "years": {
+            "start": 2017,
+            "end": 2021
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed automatic"
+          ],
+          "msrp_aud_min": 61490,
+          "msrp_aud_max": 63990,
+          "fuel_consumption_l_100km": 10.6,
+          "kerb_weight_kg": 1510,
+          "standard_features": [
+            "253kW engine tune",
+            "Nismo aerodynamic body kit with rear diffuser and spoiler",
+            "Recaro leather/Alcantara sports seats",
+            "Nismo-tuned suspension with front and rear performance dampers",
+            "19-inch super-lightweight RAYS forged wheels"
+          ],
+          "notes": "Factory track-special edition."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "370Z Nismo Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "VQ37VHR-Nismo",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2017,
+          "years_end": 2021,
+          "msrp_aud": 61490,
+          "power_kw": 253.0,
+          "torque_nm": 371.0,
+          "fuel_l_100km": 10.6,
+          "towing_braked_kg": 0,
+          "notes": "253kW naturally aspirated sports coupe."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Z34",
+          "category": "exterior",
+          "caption": "20-inch wheel of Nissan Z (Z34) Version ST",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20-inch_wheel_of_Nissan_FAIRLADY_Z_%28Z34%29_Version_ST%2C_2022.jpg/1280px-20-inch_wheel_of_Nissan_FAIRLADY_Z_%28Z34%29_Version_ST%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Kazyakuruma)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_Z34_1_20-inch_wheel_of_Nissan_FAIRLADY_Z_Z34_Version_ST_2022.jpg",
+          "file_size_bytes": 278691,
+          "sha256": "17288f82bb51ea94559e2dc9ce09d954921af9f5737b6a207c6b03175ef58740"
+        }
+      ]
+    },
+    {
+      "series_code": "RZ34",
+      "generation_name": "Nissan Z (7th Generation)",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Nissan FM platform",
+      "ancap_rating": "Untested",
+      "summary": "Tribute to 50+ years of Z heritage with 240Z-inspired silhouette and 300ZX-inspired LED tail-lights. Powered by the 298kW 3.0L VR30DDTT twin-turbo V6 with manual or 9-speed auto, and track-ready Z Nismo.",
+      "engines": [
+        {
+          "engine_code": "VR30DDTT",
+          "name": "Nissan VR30DDTT 3.0L Twin-Turbo V6",
+          "displacement_cc": 2997,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 298.0,
+          "power_rpm": "6400",
+          "torque_nm": 475.0,
+          "torque_rpm": "1600-5600",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 24-valve Direct Injection",
+          "notes": "Direct injection twin-turbo V6; optical turbo speed sensors."
+        },
+        {
+          "engine_code": "VR30DDTT-Nismo",
+          "name": "Nissan VR30DDTT 3.0L Twin-Turbo V6 (Nismo)",
+          "displacement_cc": 2997,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 313.0,
+          "power_rpm": "6400",
+          "torque_nm": 520.0,
+          "torque_rpm": "2000-5200",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 24-valve Direct Injection",
+          "notes": "Upgraded boost and wastegate control producing 313kW and 520Nm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Z Coupe / Proto Spec",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD with mechanical clutch-type LSD",
+          "transmissions": [
+            "6-speed manual with launch control",
+            "9-speed automatic with paddle shifters"
+          ],
+          "msrp_aud_min": 73300,
+          "msrp_aud_max": 80500,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1573,
+          "standard_features": [
+            "12.3-inch digital instrument cluster",
+            "8-inch touchscreen with Apple CarPlay",
+            "Bose 8-speaker audio",
+            "Brembo 4-piston front calipers",
+            "19-inch RAYS forged alloys",
+            "Active noise cancellation"
+          ],
+          "notes": "Sold out first year Australian allocation instantly."
+        },
+        {
+          "badge_name": "Z Nismo",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD with mechanical LSD",
+          "transmissions": [
+            "9-speed performance automatic"
+          ],
+          "msrp_aud_min": 94000,
+          "msrp_aud_max": 94000,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1650,
+          "standard_features": [
+            "313kW engine",
+            "Recaro leather/Alcantara bucket seats",
+            "Akebono 15.0-inch 4-piston front brakes",
+            "Stiffer chassis bracing",
+            "Nismo tuned suspension and aero",
+            "Dunlop SP Sport MAXX GT600 tyres"
+          ],
+          "notes": "Ultimate factory track iteration; 0-100 km/h in 4.3 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Nissan Z Coupe Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "VR30DDTT",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 73300,
+          "power_kw": 298.0,
+          "torque_nm": 475.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 0,
+          "notes": "298kW twin-turbo manual sports coupe with launch control."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "RZ34",
+          "category": "exterior",
+          "caption": "20-inch wheel of Nissan Z (Z34) Version ST",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/20-inch_wheel_of_Nissan_FAIRLADY_Z_%28Z34%29_Version_ST%2C_2022.jpg/1280px-20-inch_wheel_of_Nissan_FAIRLADY_Z_%28Z34%29_Version_ST%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Kazyakuruma)",
+          "local_path": "media/pictures/nissan/z-car/nissan_z-car_RZ34_1_20-inch_wheel_of_Nissan_FAIRLADY_Z_Z34_Version_ST_2022.jpg",
+          "file_size_bytes": 278691,
+          "sha256": "17288f82bb51ea94559e2dc9ce09d954921af9f5737b6a207c6b03175ef58740"
+        }
+      ]
+    }
+  ]
+}

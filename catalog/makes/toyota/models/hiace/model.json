@@ -1,0 +1,675 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "hiace",
+  "name": "HiAce",
+  "vehicle_type": "Commercial Van / Commuter Bus",
+  "segment": "Commercial Van",
+  "years_sold_au": {
+    "start": 1971,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota HiAce is the unquestioned titan of Australian commercial vans and passenger shuttle transport. Across more than half a century, its cab-over and semi-bonnet configurations have kept Australian tradespeople, couriers, airport shuttles, and tourism fleets moving with renowned reliability and outstanding resale value.",
+  "australian_market_notes": "First imported in 1971, the HiAce captured majority market share in the medium commercial van category for decades. While early H10-H200 generations used a cab-over-engine layout maximizing cargo length, the sixth-generation H300 moved to a semi-bonnet design to achieve a 5-star ANCAP safety rating while introducing the 130kW/450Nm 2.8GD turbo diesel and V6 power.",
+  "manuals": [
+    {
+      "title": "Toyota HiAce Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1971,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/hiace/model.json",
+      "local_path": "media/manuals/toyota/hiace/toyota_hiace_au_technical_manual.pdf",
+      "file_size_bytes": 7574,
+      "sha256": "a438a77e1b97e3d4d4714d72b69785242d8184fe5adcc7ad6f07f3ba7063dfd9",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "2026 Toyota Hiace Welcab Series Web Catalog Japan, 11-2025. 令和8年 トヨタ ハイエース ウェルキャブ シリーズ ウェブカタログ 日本、令和7年11月。",
+      "year": null,
+      "source_url": "https://archive.org/details/2026-toyota-hiace-welcab-series-web-catalog-japan-11-2025",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/hiace/toyota_hiace_manual_2026_Toyota_Hiace_Welcab_Series_Web_Catalog_Japan_11-2025._8_7_11.html",
+      "file_size_bytes": 258358,
+      "sha256": "e18b264768521a4d7e85dacc5fe539110ec9a1c6d2c21d5b94105664c4943bf3"
+    },
+    {
+      "title": "2004 Toyota Hiace Wagon Brochure. Japan, 5 2004. PR 0019 0405",
+      "year": null,
+      "source_url": "https://archive.org/details/2004-toyota-hiace-wagon-brochure.-japan-5-2004.-pr-0019-0405",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/hiace/toyota_hiace_manual_2004_Toyota_Hiace_Wagon_Brochure._Japan_5_2004._PR_0019_0405.html",
+      "file_size_bytes": 243556,
+      "sha256": "7094f6adba2b90ff6c7dca4d3652f00425e97f371c03ba82f7e4a1e8ac80ffe2"
+    },
+    {
+      "title": "2010 Toyota Hiace Brochure. Japan, 6 2010",
+      "year": null,
+      "source_url": "https://archive.org/details/2010-toyota-hiace-brochure.-japan-6-2010",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/hiace/toyota_hiace_manual_2010_Toyota_Hiace_Brochure._Japan_6_2010.html",
+      "file_size_bytes": 252540,
+      "sha256": "9505a0ec94abf75f3ae674947b23a93bfa57b91439f710859eee9283561cf91b"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Toyota Hiace H10",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/1976_Toyota_HiAce_%28RH11%29_van_%2819093731083%29.jpg/1280px-1976_Toyota_HiAce_%28RH11%29_van_%2819093731083%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/toyota/hiace/toyota_hiace_hero_1_1976_Toyota_HiAce_RH11_van_19093731083_.jpg",
+      "file_size_bytes": 258253,
+      "sha256": "d2644dd050fc6f048ce52086aa117da66ae206d9502ec65128d83c23159b8b1b"
+    },
+    {
+      "category": "exterior",
+      "caption": "1983 Toyota HiAce (YH61V) van, Sunchaser camper conversion. Photographed in Cronulla, New South Wales, Australia.Sunchaser conversion (including fitment of the front-mounted boot/bonnet) undertaken by Sunchaser Motor Campers Pty Ltd of Brae",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1983_Toyota_HiAce_%28YH61V%29_van%2C_Sunchaser_camper_conversion_%282010-06-21%29.jpg/1280px-1983_Toyota_HiAce_%28YH61V%29_van%2C_Sunchaser_camper_conversion_%282010-06-21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/toyota/hiace/toyota_hiace_hero_2_1983_Toyota_HiAce_YH61V_van_Sunchaser_camper_conversion_2010-06-21_.jpg",
+      "file_size_bytes": 203062,
+      "sha256": "8d5f16b610d38d3d0644424e53b3c5170b06c59692b236387c7b46837abe4b97"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "H10/H20/H30/H40",
+      "generation_name": "HiAce 1st & 2nd Generation",
+      "years": {
+        "start": 1971,
+        "end": 1982
+      },
+      "body_styles": [
+        "SWB Van",
+        "LWB Van",
+        "Commuter Bus",
+        "Cab Chassis Ute"
+      ],
+      "platform": "Toyota H10/H20",
+      "ancap_rating": "Untested",
+      "summary": "Established the HiAce name in Australia with cab-over forward control layout, sliding side door, and bulletproof 1.6L 12R and 2.0L 18R four-cylinder engines.",
+      "engines": [
+        {
+          "engine_code": "18R",
+          "name": "Toyota 18R 2.0L Petrol",
+          "displacement_cc": 1968,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 65.0,
+          "power_rpm": "5000",
+          "torque_nm": 145.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Mainstay commercial workhorse."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Standard Van / Commuter",
+          "years": {
+            "start": 1971,
+            "end": 1982
+          },
+          "body_styles": [
+            "SWB Van",
+            "LWB Van",
+            "Commuter Bus"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 2490,
+          "msrp_aud_max": 5990,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1280,
+          "standard_features": [
+            "Vinyl seating",
+            "Heater/demister",
+            "Column gearshift",
+            "Rear tailgate or barn doors"
+          ],
+          "notes": "Aussie courier benchmark."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HiAce LWB Van",
+          "body_style": "LWB Van",
+          "engine_code": "18R",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1977,
+          "years_end": 1982,
+          "msrp_aud": 4990,
+          "power_kw": 65.0,
+          "torque_nm": 145.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 1000,
+          "notes": "1-tonne payload commercial workhorse."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "H50/H60/H70",
+      "generation_name": "HiAce 3rd Generation",
+      "years": {
+        "start": 1982,
+        "end": 1989
+      },
+      "body_styles": [
+        "SWB Van",
+        "LWB Van",
+        "Super LWB Commuter Bus"
+      ],
+      "platform": "Toyota H50",
+      "ancap_rating": "Untested",
+      "summary": "Crisper squared-off styling, introduction of the 2.4L 2L diesel engine and 2.0L 3Y petrol, cementing domination of airport shuttle and delivery trades.",
+      "engines": [
+        {
+          "engine_code": "2L",
+          "name": "Toyota 2L 2.4L Diesel",
+          "displacement_cc": 2446,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 54.0,
+          "power_rpm": "4000",
+          "torque_nm": 156.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "22.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Indestructible naturally aspirated diesel."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Van / Commuter Bus",
+          "years": {
+            "start": 1982,
+            "end": 1989
+          },
+          "body_styles": [
+            "SWB Van",
+            "LWB Van",
+            "Commuter"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 9890,
+          "msrp_aud_max": 18500,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "Side sliding door",
+            "Front disc brakes",
+            "Flow-through ventilation",
+            "14-seat capacity (Commuter)"
+          ],
+          "notes": "Omnipresent tourist bus."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HiAce Commuter Diesel",
+          "body_style": "Super LWB Commuter Bus",
+          "engine_code": "2L",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1983,
+          "years_end": 1989,
+          "msrp_aud": 16990,
+          "power_kw": 54.0,
+          "torque_nm": 156.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 1200,
+          "notes": "The ubiquitous Australian hotel and airport transfer minibus."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "H50/H60/H70",
+          "category": "exterior",
+          "caption": "Toyota HiAce",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/1984-1985_Toyota_HiAce_%28YH51V%29_VanWagon_van_%2814345284510%29.jpg/1280px-1984-1985_Toyota_HiAce_%28YH51V%29_VanWagon_van_%2814345284510%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+          "local_path": "media/pictures/toyota/hiace/toyota_hiace_H50_H60_H70_1_1984-1985_Toyota_HiAce_YH51V_VanWagon_van_14345284510_.jpg",
+          "file_size_bytes": 189617,
+          "sha256": "98a0c95ad0c007169bed2a2db34a19ef8fbb7409d37641710d17859266cb09d0"
+        }
+      ]
+    },
+    {
+      "series_code": "H100",
+      "generation_name": "HiAce 4th Generation",
+      "years": {
+        "start": 1989,
+        "end": 2004
+      },
+      "body_styles": [
+        "SWB Van",
+        "LWB Van",
+        "Super LWB Commuter Bus",
+        "SBV Walk-Through"
+      ],
+      "platform": "Toyota H100",
+      "ancap_rating": "Untested",
+      "summary": "15-year continuous production icon in Australia. Introduced 2.4L 2RZ-E EFI petrol and 2.8L 3L / 3.0L 5L diesels with aerodynamic flush-glass styling.",
+      "engines": [
+        {
+          "engine_code": "2RZ-E",
+          "name": "Toyota 2RZ-E 2.4L EFI Petrol",
+          "displacement_cc": 2438,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 88.0,
+          "power_rpm": "4800",
+          "torque_nm": 198.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 8-valve EFI",
+          "notes": "Workhorse EFI engine powering couriers nationwide."
+        },
+        {
+          "engine_code": "5L",
+          "name": "Toyota 5L 3.0L Diesel",
+          "displacement_cc": 2986,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 65.0,
+          "power_rpm": "4000",
+          "torque_nm": 197.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "22.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Legendary long-life naturally aspirated diesel."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LWB Van",
+          "years": {
+            "start": 1989,
+            "end": 2004
+          },
+          "body_styles": [
+            "LWB Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 32000,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1520,
+          "standard_features": [
+            "Power steering (later standard)",
+            "AM/FM radio",
+            "Side impact protection",
+            "Rear wiper/washer"
+          ],
+          "notes": "Australia's undisputed #1 commercial delivery van."
+        },
+        {
+          "badge_name": "Commuter Bus",
+          "years": {
+            "start": 1989,
+            "end": 2004
+          },
+          "body_styles": [
+            "Super LWB Commuter Bus"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 42000,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 1780,
+          "standard_features": [
+            "14 seats",
+            "High roof",
+            "Rear air conditioning",
+            "Emergency roof hatch",
+            "Tinted passenger glass"
+          ],
+          "notes": "Backbone of regional tour and airport operations."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HiAce LWB EFI Van",
+          "body_style": "LWB Van",
+          "engine_code": "2RZ-E",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1998,
+          "years_end": 2004,
+          "msrp_aud": 27990,
+          "power_kw": 88.0,
+          "torque_nm": 198.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1400,
+          "notes": "Peak fourth-generation volume configuration."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "H100",
+          "category": "exterior",
+          "caption": "H200系トヨタ・ハイエースの改造車をフロントから撮影。",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tuned_Toyota_HIACE_%28H100%29_front.jpg/1280px-Tuned_Toyota_HIACE_%28H100%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Tokumeigakarinoaoshima)",
+          "local_path": "media/pictures/toyota/hiace/toyota_hiace_H100_1_Tuned_Toyota_HIACE_H100_front.jpg",
+          "file_size_bytes": 336618,
+          "sha256": "9628ec5ff7b5b04f228adfac8e7bf18ecf49ddffed57c13ff273dfc46d3904c7"
+        }
+      ]
+    },
+    {
+      "series_code": "H200",
+      "generation_name": "HiAce 5th Generation",
+      "years": {
+        "start": 2004,
+        "end": 2019
+      },
+      "body_styles": [
+        "LWB Van",
+        "Super LWB Van",
+        "Commuter Bus"
+      ],
+      "platform": "Toyota H200",
+      "ancap_rating": "4 stars",
+      "summary": "15-year reign with wide-body Super LWB options, 2.7L VVTi petrol and 3.0L D-4D common-rail turbo diesel delivering supreme reliability and strong resale values.",
+      "engines": [
+        {
+          "engine_code": "1KD-FTV",
+          "name": "Toyota 1KD-FTV 3.0L D-4D Turbo Diesel",
+          "displacement_cc": 2982,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 100.0,
+          "power_rpm": "3400",
+          "torque_nm": 300.0,
+          "torque_rpm": "1200-2400",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Common-rail injection with tremendous torque off idle."
+        },
+        {
+          "engine_code": "2TR-FE",
+          "name": "Toyota 2TR-FE 2.7L VVT-i Petrol",
+          "displacement_cc": 2694,
+          "displacement_litres": 2.7,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 111.0,
+          "power_rpm": "4800",
+          "torque_nm": 241.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve VVT-i",
+          "notes": "Low maintenance petrol workhorse."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LWB Van",
+          "years": {
+            "start": 2005,
+            "end": 2019
+          },
+          "body_styles": [
+            "LWB Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto",
+            "6-speed auto"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 1690,
+          "standard_features": [
+            "Dual front airbags",
+            "ABS brakes",
+            "Air conditioning",
+            "Reversing camera (from 2012)",
+            "Cruise control (facelift)"
+          ],
+          "notes": "Aussie tradie standard vehicle."
+        },
+        {
+          "badge_name": "Super LWB / Commuter",
+          "years": {
+            "start": 2005,
+            "end": 2019
+          },
+          "body_styles": [
+            "Super LWB Van",
+            "Commuter Bus"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto",
+            "6-speed auto"
+          ],
+          "msrp_aud_min": 41990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1920,
+          "standard_features": [
+            "High roof",
+            "Wide body",
+            "Rear air conditioning",
+            "14 seats (Commuter)",
+            "Sliding side step"
+          ],
+          "notes": "Dominated 14-seat transport sector."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HiAce LWB Turbo Diesel",
+          "body_style": "LWB Van",
+          "engine_code": "1KD-FTV",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2006,
+          "years_end": 2019,
+          "msrp_aud": 38490,
+          "power_kw": 100.0,
+          "torque_nm": 300.0,
+          "fuel_l_100km": 8.7,
+          "towing_braked_kg": 1400,
+          "notes": "Top-selling fleet van across Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "H200",
+          "category": "exterior",
+          "caption": "This Toyota HiAce (H200) cargo van/delivery van was maybe taken by me back in 2020 at Bishan.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Toyota_HiAce_%28H200%29_cargo_van_delivery_van_in_at_Bishan.webp/1280px-Toyota_HiAce_%28H200%29_cargo_van_delivery_van_in_at_Bishan.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Trainsbuses30193219)",
+          "local_path": "media/pictures/toyota/hiace/toyota_hiace_H200_1_Toyota_HiAce_H200_cargo_van_delivery_van_in_at_Bishan.webp.jpg",
+          "file_size_bytes": 409782,
+          "sha256": "b68470711b8b9bde588c100ad1c58e2dbdb8cfb0d467e32beda4681f4fc534da"
+        }
+      ]
+    },
+    {
+      "series_code": "H300",
+      "generation_name": "HiAce 6th Generation",
+      "years": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "body_styles": [
+        "LWB Van",
+        "LWB Crew Van",
+        "Super LWB Van",
+        "Commuter Bus"
+      ],
+      "platform": "Toyota TNGA-based commercial platform",
+      "ancap_rating": "5 stars",
+      "summary": "Moved engine forward into a semi-bonnet architecture to achieve maximum 5-star ANCAP safety, powered by the 2.8L 1GD-FTV turbo diesel (130kW/450Nm) and 3.5L V6, with 6-speed transmissions.",
+      "engines": [
+        {
+          "engine_code": "1GD-FTV",
+          "name": "Toyota 1GD-FTV 2.8L D-4D Turbo Diesel",
+          "displacement_cc": 2755,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 130.0,
+          "power_rpm": "3400",
+          "torque_nm": 450.0,
+          "torque_rpm": "1600-2400",
+          "compression_ratio": "15.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Shared with HiLux and Prado; robust 450Nm of pulling power."
+        },
+        {
+          "engine_code": "7GR-FKS",
+          "name": "Toyota 7GR-FKS 3.5L Dual VVT-i V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 207.0,
+          "power_rpm": "6000",
+          "torque_nm": 351.0,
+          "torque_rpm": "4600",
+          "compression_ratio": "11.8:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-i",
+          "notes": "Available from 2019 to 2022."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LWB Van",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "LWB Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 38640,
+          "msrp_aud_max": 47760,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 2180,
+          "standard_features": [
+            "Toyota Safety Sense with AEB & pedestrian detection",
+            "Lane departure alert",
+            "Blind spot monitor",
+            "7 airbags",
+            "Apple CarPlay & Android Auto"
+          ],
+          "notes": "5-star ANCAP commercial safety benchmark."
+        },
+        {
+          "badge_name": "Super LWB Van / Commuter",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Super LWB Van",
+            "Commuter Bus"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 52640,
+          "msrp_aud_max": 73000,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 2400,
+          "standard_features": [
+            "12-seat capacity (Commuter GL)",
+            "Power sliding side door",
+            "Rear climate control",
+            "Sat nav",
+            "Front and rear parking sensors"
+          ],
+          "notes": "Can be driven on standard car licence (12-seat Commuter GL)."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HiAce LWB 2.8 Turbo Diesel Auto",
+          "body_style": "LWB Van",
+          "engine_code": "1GD-FTV",
+          "transmission": "6-speed automatic",
+          "drivetrain": "RWD",
+          "years_start": 2019,
+          "years_end": "Present",
+          "msrp_aud": 47760,
+          "power_kw": 130.0,
+          "torque_nm": 450.0,
+          "fuel_l_100km": 8.2,
+          "towing_braked_kg": 1500,
+          "notes": "High safety, comfortable commercial benchmark."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "H300",
+          "category": "exterior",
+          "caption": "TOYOTA HIACE (H300) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/TOYOTA_HIACE_%28H300%29_China.jpg/1280px-TOYOTA_HIACE_%28H300%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/toyota/hiace/toyota_hiace_H300_1_TOYOTA_HIACE_H300_China.jpg",
+          "file_size_bytes": 446559,
+          "sha256": "b2cbd96b8714639eca196c815b475a3482e4bf9772978e02a811ca1713622437"
+        }
+      ]
+    }
+  ]
+}

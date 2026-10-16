@@ -1,0 +1,345 @@
+{
+  "make_slug": "skoda",
+  "model_slug": "octavia",
+  "name": "Octavia",
+  "vehicle_type": "Sedan (Liftback) / Wagon (Combi)",
+  "segment": "Medium Car",
+  "years_sold_au": {
+    "start": 2007,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The intelligent family choice in Australia. Since spearheading Skoda's return to Australia in October 2007, the Octavia has won legions of loyal fans by combining Volkswagen Group engineering and Golf GTI drivetrains with cavernous boot space and 'Simply Clever' practical details. The Octavia RS Liftback and Combi wagon represent Australia's favorite value performance family express.",
+  "australian_market_notes": "Skoda officially relaunched in Australia in October 2007 with the Octavia 1Z. The high-performance Octavia RS rapidly became the brand's best-selling model in Australia, regularly accounting for up to 40% of all Australian Octavia sales—the highest RS mix in the world.",
+  "manuals": [
+    {
+      "title": "Skoda Octavia Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2007,
+      "language": "en",
+      "source_url": "local://catalog/makes/skoda/models/octavia/model.json",
+      "local_path": "media/manuals/skoda/octavia/skoda_octavia_au_technical_manual.pdf",
+      "file_size_bytes": 5142,
+      "sha256": "8395a403d8cca8c5296178619680bbfb9d05fc4d0311e93f20480d2f99846b67",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Škoda Octavia Owner's Manual",
+      "year": 2007,
+      "source_url": "https://archive.org/details/skoda-octavia-owners-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/skoda/octavia/skoda_octavia_manual__koda_Octavia_Owner_s_Manual.html",
+      "file_size_bytes": 216339,
+      "sha256": "f1dda8adeff1a9a60150b61a3970a501e783812748d5a874af6fb4074c47c2f8"
+    },
+    {
+      "title": "2004 Škoda Octavia II (1Z) Workshop Manual - Gearbox 02E-DSG",
+      "year": 2015,
+      "source_url": "https://archive.org/details/texts2004-skoda-octavia-ii-1z-workshop-manual-gearbox-02e-dsg",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/skoda/octavia/skoda_octavia_manual_2004_koda_Octavia_II_1Z_Workshop_Manual_-_Gearbox_02E-DSG.html",
+      "file_size_bytes": 220050,
+      "sha256": "a934807433b174f645a376da77794ac21b329bc3df6eb9daa012f560dc6e093c"
+    },
+    {
+      "title": "2004 Škoda Octavia II (1Z) Workshop Manuals",
+      "year": null,
+      "source_url": "https://archive.org/details/2004-skoda-octavia-ii-1z-workshop-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/skoda/octavia/skoda_octavia_manual_2004_koda_Octavia_II_1Z_Workshop_Manuals.html",
+      "file_size_bytes": 545613,
+      "sha256": "9a5d055e1d677df013edf3d3ae7dcffc05f499fa8ba7e73865b82b8f30a907fc"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2018 Skoda Octavia (5E MY18.5) 110TSI station wagon. Identifiable as this is a base model and is a rental car from Hertz. Photographed in Fremantle, Western Australia, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2018_Skoda_Octavia_%285E_MY18.5%29_110TSI_station_wagon_%282018-11-02%29.jpg/1280px-2018_Skoda_Octavia_%285E_MY18.5%29_110TSI_station_wagon_%282018-11-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+      "local_path": "media/pictures/skoda/octavia/skoda_octavia_hero_1_2018_Skoda_Octavia_5E_MY18.5_110TSI_station_wagon_2018-11-02_.jpg",
+      "file_size_bytes": 226219,
+      "sha256": "15e1bbc1fcce2905c6e50be0722e49e2920b9f7240d9a16387cae5c66e1c2b27"
+    },
+    {
+      "category": "exterior",
+      "caption": "Škoda Auto is an automobile manufacturer in the Czech Republic. In 1991, it became a subsidiary of the Volkswagen Group. The first model, Voiturette A, was a success and the company was established both within Austria-Hungary and internatio",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Lascar_The_Czech_%C5%A0koda_brand_%28An_Octavia_station_wagon_pictured%29_using_biofuel_%284504581102%29.jpg/1280px-Lascar_The_Czech_%C5%A0koda_brand_%28An_Octavia_station_wagon_pictured%29_using_biofuel_%284504581102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jorge Láscar from Australia)",
+      "local_path": "media/pictures/skoda/octavia/skoda_octavia_hero_2_Lascar_The_Czech_koda_brand_An_Octavia_station_wagon_pictured_using_biofuel_4504581102_.jpg",
+      "file_size_bytes": 412930,
+      "sha256": "6723285f53bb3fc391138188f88df8b300eb7f83ac3eecc369f8cc5e7d008591"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "1Z",
+      "generation_name": "Octavia Second Generation (Typ 1Z)",
+      "years": {
+        "start": 2007,
+        "end": 2013
+      },
+      "body_styles": [
+        "5-door Liftback",
+        "5-door Combi wagon"
+      ],
+      "platform": "Volkswagen Group PQ35",
+      "ancap_rating": "4 stars",
+      "summary": "Relaunched Skoda to Australia in 2007. Featured 1.8 TSI, 2.0 TDI, rugged Octavia Scout 4x4 wagon, and the cult Octavia RS (2.0 TSI 147kW and 2.0 TDI 125kW).",
+      "engines": [
+        {
+          "engine_code": "BWA/CCZA",
+          "name": "2.0L TSI Turbo Petrol (RS)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 147,
+          "power_rpm": "5100-6000",
+          "torque_nm": 280,
+          "torque_rpm": "1700-5000",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Golf GTI Mk5/Mk6 powertrain in a practical liftback or wagon."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Octavia RS 2.0 TSI",
+          "years": {
+            "start": 2007,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door Liftback",
+            "5-door Combi wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed DSG"
+          ],
+          "msrp_aud_min": 37990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 1400,
+          "standard_features": [
+            "18-inch Zenith / Neptune alloys",
+            "RS sports bodykit",
+            "VRS embroidered leather/alcantara seats",
+            "Dual chrome exhaust tips",
+            "Lowered sports suspension"
+          ],
+          "notes": "0-100km/h in 7.2s. Enormous 560L/580L boot."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Octavia RS 2.0 TSI",
+          "body_style": "5-door Combi wagon",
+          "engine_code": "BWA/CCZA",
+          "transmission": "6-speed DSG",
+          "drivetrain": "FWD",
+          "years_start": 2008,
+          "years_end": 2013,
+          "msrp_aud": 39990,
+          "power_kw": 147,
+          "torque_nm": 280,
+          "fuel_l_100km": 7.7,
+          "towing_braked_kg": 1400,
+          "notes": "Benchmark practical performance wagon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "1Z",
+          "category": "exterior",
+          "caption": "ŠKODA OCTAVIA (Typ 1Z) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%C5%A0KODA_OCTAVIA_%28Typ_1Z%29_China_%282%29.jpg/1280px-%C5%A0KODA_OCTAVIA_%28Typ_1Z%29_China_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/skoda/octavia/skoda_octavia_1Z_1__KODA_OCTAVIA_Typ_1Z_China_2_.jpg",
+          "file_size_bytes": 254164,
+          "sha256": "95ef227e8e8fe1eb06ec42be57458e85f5e955107227341157bc88e40418a694"
+        }
+      ]
+    },
+    {
+      "series_code": "5E",
+      "generation_name": "Octavia Third Generation (Typ 5E)",
+      "years": {
+        "start": 2013,
+        "end": 2020
+      },
+      "body_styles": [
+        "5-door Liftback",
+        "5-door Combi wagon"
+      ],
+      "platform": "Volkswagen Group MQB",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the MQB platform with 100kg weight reduction and massive 590L/610L boot. Powered by 103TSI, 110TSI, and the acclaimed Octavia RS (162TSI, 169TSI, and the flagship RS 245 with VAQ electronic front differential lock).",
+      "engines": [
+        {
+          "engine_code": "DLBA",
+          "name": "2.0L TSI 180TSI Turbo Petrol (RS 245)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 180,
+          "power_rpm": "5000-6700",
+          "torque_nm": 370,
+          "torque_rpm": "1600-4300",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA888 Gen 3 paired with VAQ electro-mechanical front differential lock."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Octavia RS 245",
+          "years": {
+            "start": 2017,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door Liftback",
+            "5-door Combi wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 43390,
+          "msrp_aud_max": 47090,
+          "fuel_consumption_l_100km": 6.5,
+          "kerb_weight_kg": 1425,
+          "standard_features": [
+            "19-inch Vega gloss black alloys",
+            "VAQ electronic locking front diff",
+            "Alcantara/leather sport seats",
+            "9.2-inch Columbus navigation",
+            "Black design exterior pack"
+          ],
+          "notes": "0-100km/h in 6.6s. Widely praised by Australian automotive journalists."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Octavia RS 245",
+          "body_style": "5-door Combi wagon",
+          "engine_code": "DLBA",
+          "transmission": "7-speed DSG",
+          "drivetrain": "FWD",
+          "years_start": 2017,
+          "years_end": 2020,
+          "msrp_aud": 45490,
+          "power_kw": 180,
+          "torque_nm": 370,
+          "fuel_l_100km": 6.5,
+          "towing_braked_kg": 1600,
+          "notes": "180kW wagon with VAQ limited slip differential."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "5E",
+          "category": "exterior",
+          "caption": "ŠKODA OCTAVIA (5E) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C5%A0KODA_OCTAVIA_%285E%29_China.jpg/1280px-%C5%A0KODA_OCTAVIA_%285E%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/skoda/octavia/skoda_octavia_5E_1__KODA_OCTAVIA_5E_China.jpg",
+          "file_size_bytes": 205867,
+          "sha256": "17c6f537674b1983f0de501b550bf08ea5703e6293afaf59661b7ff86b7f9fd3"
+        }
+      ]
+    },
+    {
+      "series_code": "NX",
+      "generation_name": "Octavia Fourth Generation (Typ NX)",
+      "years": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door Liftback",
+        "5-door Combi wagon"
+      ],
+      "platform": "Volkswagen Group MQB evo",
+      "ancap_rating": "5 stars",
+      "summary": "Sharp crystalline design, shift-by-wire DSG, Matrix LED headlights, class-leading 600L/640L boot, Style 110TSI, and the hero Octavia RS with 180kW/370Nm 2.0 TSI engine and standard VAQ differential.",
+      "engines": [
+        {
+          "engine_code": "DNPA",
+          "name": "2.0L TSI 180TSI Turbo Petrol (RS)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 180,
+          "power_rpm": "5000-6500",
+          "torque_nm": 370,
+          "torque_rpm": "1600-4300",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA888 evo4 powertrain with standard VAQ front diff lock."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Octavia RS Liftback / Combi",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Liftback",
+            "5-door Combi wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 49090,
+          "msrp_aud_max": 57490,
+          "fuel_consumption_l_100km": 6.8,
+          "kerb_weight_kg": 1470,
+          "standard_features": [
+            "19-inch Altair anthracite alloys",
+            "Matrix LED headlights",
+            "Virtual Cockpit with RS graphics",
+            "Red-stitched Alcantara sports seats",
+            "VAQ front differential lock",
+            "640L boot capacity"
+          ],
+          "notes": "0-100km/h in 6.7s. Benchmark everyday enthusiast car."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Octavia RS Liftback / Combi",
+          "body_style": "5-door Combi wagon",
+          "engine_code": "DNPA",
+          "transmission": "7-speed DSG",
+          "drivetrain": "FWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 53090,
+          "power_kw": 180,
+          "torque_nm": 370,
+          "fuel_l_100km": 6.8,
+          "towing_braked_kg": 1600,
+          "notes": "Current 180kW Octavia RS wagon with 640L luggage room."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

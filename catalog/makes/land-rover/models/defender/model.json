@@ -1,0 +1,304 @@
+{
+  "make_slug": "land-rover",
+  "model_slug": "defender",
+  "name": "Defender",
+  "vehicle_type": "4WD / Off-Road Utility",
+  "segment": "Heavy Off-Road 4WD",
+  "years_sold_au": {
+    "start": 1949,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Pressed Metal Corporation, Enfield NSW (1956-1982)",
+    "JRA Moorebank NSW (1982-1994)"
+  ],
+  "overview": "The immortal off-road master of the Australian bush and Australian Defence Force. Built and adapted locally with unique Australian military specifications (Project Perentie 4x4 and 6x6 with Isuzu 4BD1 3.9L engines), live-axle County 110s, and re-imagined for the 21st century as the ultra-capable, luxury L663 Defender.",
+  "australian_market_notes": "Originally imported for the Snowy Mountains Scheme in 1949. Local assembly by Pressed Metal Corp and JRA in Sydney produced Australian-exclusive variants, notably the Australian Army Perentie 4x4 and 6x6. Civil models adopted the 300Tdi, 5-cylinder Td5, and Ford Puma 2.4/2.2 TDCi until original production concluded in 2016. The all-new aluminium D7x monocoque L663 launched in 2020.",
+  "manuals": [
+    {
+      "title": "Land Rover Defender Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1949,
+      "language": "en",
+      "source_url": "local://catalog/makes/land-rover/models/defender/model.json",
+      "local_path": "media/manuals/land-rover/defender/land-rover_defender_au_technical_manual.pdf",
+      "file_size_bytes": 4287,
+      "sha256": "3c45a130cdcd0be65eaa626a26fc1d565aaeb9e2133e51722c0ca8e2189b1fa1",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Manual Técnico Land Rover Defender",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6084432",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/land-rover/defender/land-rover_defender_manual_Manual_T_cnico_Land_Rover_Defender.html",
+      "file_size_bytes": 214720,
+      "sha256": "8bbf9db64a313a09641c7c23c48df86f766f76f5b61fdf2d07ec37ece0b0acba"
+    },
+    {
+      "title": "Land Rover Defender Car Brochure (2011)",
+      "year": 2011,
+      "source_url": "https://archive.org/details/land-rover-defender-car-brochure-2011",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/land-rover/defender/land-rover_defender_manual_Land_Rover_Defender_Car_Brochure_2011.html",
+      "file_size_bytes": 213383,
+      "sha256": "cc98616d034cb5286d5834064ac90f420b5416d042b0bf8407a104060641f09c"
+    },
+    {
+      "title": "Land Rover DEFENDER LT77S user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-551203",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/land-rover/defender/land-rover_defender_manual_Land_Rover_DEFENDER_LT77S_user_manual.html",
+      "file_size_bytes": 209222,
+      "sha256": "426afa5172489d6435f2a21c87b3a0fe482e6d3b2fa9412e5ddd8054281f4330"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "A 2020 Land Rover Defender 110 First Edition",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg/1280px-Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (DeFacto)",
+      "local_path": "media/pictures/land-rover/defender/land-rover_defender_hero_1_Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg",
+      "file_size_bytes": 437706,
+      "sha256": "febd543cdbbca233d0cea49456a4848d36e6e470e52f836884b356a8fb281baa"
+    },
+    {
+      "category": "exterior",
+      "caption": "A 2016 Land Rover Defender 110 Station Wagon",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Land_Rover_Defender_110_Station_Wagon_2016_-_front.jpg/1280px-Land_Rover_Defender_110_Station_Wagon_2016_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (DeFacto)",
+      "local_path": "media/pictures/land-rover/defender/land-rover_defender_hero_2_Land_Rover_Defender_110_Station_Wagon_2016_-_front.jpg",
+      "file_size_bytes": 294852,
+      "sha256": "a076af6c879730c06ea5231d160b68e47a34b4bad10a81d901b805b82652f5c4"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Perentie",
+      "generation_name": "Australian Army Perentie 4x4 & 6x6",
+      "years": {
+        "start": 1987,
+        "end": 2013
+      },
+      "body_styles": [
+        "4x4 Soft Top",
+        "4x4 Survey",
+        "6x6 Long Wheelbase",
+        "6x6 Ambulance",
+        "6x6 Long Range Patrol"
+      ],
+      "platform": "JRA Heavy Duty Galvanised Chassis",
+      "ancap_rating": "Military Specification",
+      "summary": "Purpose-designed by Jaguar Rover Australia (JRA) at Moorebank, NSW for the Australian Army. Featured a hot-dip galvanised chassis, heavy-duty suspension, and bulletproof Isuzu 4BD1 3.9-litre diesel engines.",
+      "engines": [
+        {
+          "engine_code": "4BD1",
+          "name": "Isuzu 3.9L Naturally Aspirated Diesel",
+          "displacement_cc": 3856,
+          "displacement_litres": 3.9,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 66,
+          "power_rpm": "3200",
+          "torque_nm": 245,
+          "torque_rpm": "1900",
+          "compression_ratio": "17.5:1",
+          "valvetrain": "OHV 8-valve, gear-driven camshaft",
+          "notes": "Direct injection industrial diesel, renowned for running in extreme heat and dust with zero electronics."
+        },
+        {
+          "engine_code": "4BD1T",
+          "name": "Isuzu 3.9L Turbo Diesel (6x6)",
+          "displacement_cc": 3856,
+          "displacement_litres": 3.9,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 90,
+          "power_rpm": "3000",
+          "torque_nm": 314,
+          "torque_rpm": "1800",
+          "compression_ratio": "17.0:1",
+          "valvetrain": "OHV 8-valve, Garrett turbocharger",
+          "notes": "Fitted to the Australian Army Perentie 6x6 with unique wide-track front axle and leaf-sprung bogie drive rear."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Perentie 4x4 GS",
+          "years": {
+            "start": 1987,
+            "end": 2013
+          },
+          "body_styles": [
+            "Soft Top 4x4",
+            "Survey 4x4"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "LT95 4-speed manual with vacuum-operated centre diff lock"
+          ],
+          "msrp_aud_min": 35000,
+          "msrp_aud_max": 45000,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 2250,
+          "standard_features": [
+            "Galvanised chassis",
+            "Spare wheel mounted on passenger side chassis",
+            "ROPS roll-over protection",
+            "Dual fuel tanks (135L total)",
+            "Blackout lighting switch"
+          ],
+          "notes": "Over 2,500 units served with Australian armed forces."
+        },
+        {
+          "badge_name": "Perentie 6x6 Patrol",
+          "years": {
+            "start": 1989,
+            "end": 2013
+          },
+          "body_styles": [
+            "6x6 Long Wheelbase",
+            "6x6 Long Range Patrol Vehicle (LRPV)"
+          ],
+          "drivetrain": "6x6",
+          "transmissions": [
+            "LT95A 4-speed manual with auxiliary splitter box"
+          ],
+          "msrp_aud_min": 65000,
+          "msrp_aud_max": 85000,
+          "fuel_consumption_l_100km": 14.8,
+          "kerb_weight_kg": 3650,
+          "standard_features": [
+            "Full-time 6x6 with inter-axle diff locks",
+            "Bogie rear leaf rocker suspension",
+            "Turbocharged Isuzu 4BD1T",
+            "Power steering",
+            "Winch",
+            "Heavy-duty PTO"
+          ],
+          "notes": "Unique Australian-designed 6x6 tactical military transport."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Perentie 4x4 GS",
+          "body_style": "Soft Top 4x4",
+          "engine_code": "4BD1",
+          "transmission": "LT95 4-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1987,
+          "years_end": "2013",
+          "msrp_aud": 38000,
+          "power_kw": 66,
+          "torque_nm": 245,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 2000,
+          "notes": "Moorebank NSW built military tactical 4WD."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "L663",
+      "generation_name": "Defender Modern L663",
+      "years": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Defender 90 (3-door)",
+        "Defender 110 (5-door)",
+        "Defender 130 (8-seat)"
+      ],
+      "platform": "Jaguar Land Rover D7x",
+      "ancap_rating": "5 stars",
+      "summary": "Monocoque architecture three times stiffer than body-on-frame, 900mm wading depth, Terrain Response 2, D300 Ingenium mild-hybrid diesel, and 386kW V8 flagship.",
+      "engines": [
+        {
+          "engine_code": "D300 Ingenium",
+          "name": "3.0L Inline-6 Twin-Turbo Diesel MHEV",
+          "displacement_cc": 2996,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 221,
+          "power_rpm": "4000",
+          "torque_nm": 650,
+          "torque_rpm": "1500-2500",
+          "compression_ratio": "15.5:1",
+          "valvetrain": "DOHC 24-valve, 48V mild hybrid",
+          "notes": "Australia's volume powertrain choice for the modern Defender."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "110 D300 X-Dynamic SE",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 4WD"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "8-speed automatic with dual-range transfer case"
+          ],
+          "msrp_aud_min": 105900,
+          "msrp_aud_max": 115900,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 2380,
+          "standard_features": [
+            "Electronic air suspension",
+            "Configurable Terrain Response 2",
+            "11.4-inch Pivi Pro screen",
+            "Wade Sensing",
+            "ClearSight ground view cameras",
+            "3500kg towing capacity"
+          ],
+          "notes": "Heart of the modern Australian Defender range."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "110 D300 X-Dynamic SE",
+          "body_style": "5-door 4WD",
+          "engine_code": "D300 Ingenium",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 108900,
+          "power_kw": 221,
+          "torque_nm": 650,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 3500,
+          "notes": "3500kg braked towing with electronic air suspension."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "L663",
+          "category": "exterior",
+          "caption": "Land_Rover_Defender_(L663)_V8 in Böblingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Land_Rover_Defender_%28L663%29_V8_IMG_6604.jpg/1280px-Land_Rover_Defender_%28L663%29_V8_IMG_6604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/land-rover/defender/land-rover_defender_L663_1_Land_Rover_Defender_L663_V8_IMG_6604.jpg",
+          "file_size_bytes": 329818,
+          "sha256": "ebed425c312e733160b8a318fdf06b720c57ccc9788b3c054b3744828d96cc1a"
+        }
+      ]
+    }
+  ]
+}

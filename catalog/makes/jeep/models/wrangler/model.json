@@ -1,0 +1,386 @@
+{
+  "make_slug": "jeep",
+  "model_slug": "wrangler",
+  "name": "Wrangler",
+  "vehicle_type": "4WD Convertible SUV",
+  "segment": "Off-Road 4WD",
+  "years_sold_au": {
+    "start": 1996,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The direct descendant of the WWII Willys military Jeep, celebrated in Australia for live beam axles, removable doors and roof, fold-flat windscreen, and rock-crawling Rubicon mastery across TJ, JK, and JL generations.",
+  "australian_market_notes": "The TJ generation officially revived the Wrangler nameplate in Australia in 1996 with all-coil suspension and the bulletproof 4.0L AMC inline-six. In 2007, the JK introduced the 4-door Wrangler Unlimited, dramatically expanding the model's family adventure appeal. The modern JL introduced weight-saving aluminium panels, 8-speed automatic, and improved highway refinement.",
+  "manuals": [
+    {
+      "title": "Jeep Wrangler Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1996,
+      "language": "en",
+      "source_url": "local://catalog/makes/jeep/models/wrangler/model.json",
+      "local_path": "media/manuals/jeep/wrangler/jeep_wrangler_au_technical_manual.pdf",
+      "file_size_bytes": 5087,
+      "sha256": "7ce8c94808ac81b7e8155a1dec9581dd83fd143e6c68372cd97462578eafe746",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "2008 Jeep Wrangler Owner`s Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-5875253",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/jeep/wrangler/jeep_wrangler_manual_2008_Jeep_Wrangler_Owner_s_Manual.html",
+      "file_size_bytes": 207428,
+      "sha256": "99d22a50de70e958fed7b642d37391d67d82c7743103a096bc505e1e5218e18d"
+    },
+    {
+      "title": "Jeep Wrangler Car Brochure (2010)",
+      "year": 2010,
+      "source_url": "https://archive.org/details/2010-Jeep-Wrangler-brochure",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/jeep/wrangler/jeep_wrangler_manual_Jeep_Wrangler_Car_Brochure_2010.html",
+      "file_size_bytes": 220358,
+      "sha256": "636ddea2b3f918069479a3d7b1456220a84e7e221ca089492212568cef856c03"
+    },
+    {
+      "title": "2003 Jeep Wrangler ( TJ) Parts Manual Revised OCR 356 Pages",
+      "year": null,
+      "source_url": "https://archive.org/details/2003jeepwranglertjpartsmanualrevisedocr356pages",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/jeep/wrangler/jeep_wrangler_manual_2003_Jeep_Wrangler_TJ_Parts_Manual_Revised_OCR_356_Pages.html",
+      "file_size_bytes": 220016,
+      "sha256": "7be8653041ae6a396d6d197c2517f67f3f18743f2e1be23c4b68fc88152c8818"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Jeep Wrangler JK",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2013_Jeep_Wrangler_%28JK%29_Overland_3-door_hardtop_%2817194487677%29.jpg/1280px-2013_Jeep_Wrangler_%28JK%29_Overland_3-door_hardtop_%2817194487677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/jeep/wrangler/jeep_wrangler_hero_1_2013_Jeep_Wrangler_JK_Overland_3-door_hardtop_17194487677_.jpg",
+      "file_size_bytes": 228856,
+      "sha256": "4fb260410d1cc56a6043f3b9432224bce1b7941c9b2d546c8cb8eb85c52a0dda"
+    },
+    {
+      "category": "exterior",
+      "caption": "DSC_0642",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/DSC_0642_%28838565372%29.jpg/1280px-DSC_0642_%28838565372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Tom Reynolds from Melbourne, Australia)",
+      "local_path": "media/pictures/jeep/wrangler/jeep_wrangler_hero_2_DSC_0642_838565372_.jpg",
+      "file_size_bytes": 322394,
+      "sha256": "f4e285edb2e00c7ad0e4fcb58bff6796afe78a35cd9bc88b15157800f01534ea"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "TJ",
+      "generation_name": "Wrangler TJ",
+      "years": {
+        "start": 1996,
+        "end": "2006"
+      },
+      "body_styles": [
+        "2-door soft top",
+        "2-door hard top"
+      ],
+      "platform": "Chrysler TJ",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Introduced Quadra-Coil live axle suspension, replacing leaf springs. AMC 4.0L High Output inline-six, Sport, Renegade, and halo Rubicon with Dana 44 axles and Rock-Trac 4:1 transfer case.",
+      "engines": [
+        {
+          "engine_code": "PowerTech 4.0L",
+          "name": "AMC 4.0L High Output Inline-6",
+          "displacement_cc": 3960,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 130,
+          "power_rpm": "4600",
+          "torque_nm": 301,
+          "torque_rpm": "2800",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12-valve, cast-iron block and head",
+          "notes": "Indestructible tractor-like low-end torque for rock crawling."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sport 4.0",
+          "years": {
+            "start": 1996,
+            "end": "2006"
+          },
+          "body_styles": [
+            "2-door soft top",
+            "2-door hard top"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed manual",
+            "3-speed/4-speed automatic"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 36990,
+          "fuel_consumption_l_100km": 13.2,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "Command-Trac part-time 4WD",
+            "Dana 30 front / Dana 35 rear axle",
+            "Full metal doors with roll-up windows",
+            "Fold-down windscreen",
+            "Removable doors"
+          ],
+          "notes": "Core enthusiast off-roader."
+        },
+        {
+          "badge_name": "Rubicon",
+          "years": {
+            "start": 2003,
+            "end": "2006"
+          },
+          "body_styles": [
+            "2-door soft top",
+            "2-door hard top"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 43990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 14.1,
+          "kerb_weight_kg": 1560,
+          "standard_features": [
+            "Rock-Trac 4:1 low range transfer case",
+            "Heavy-duty Dana 44 front and rear axles",
+            "Tru-Lok pneumatic locking front and rear diffs",
+            "31-inch BFGoodrich Mud-Terrain tyres",
+            "Diamond-plate rocker sill guards"
+          ],
+          "notes": "Factory-built rock crawler named after the Rubicon Trail."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sport 4.0",
+          "body_style": "2-door soft top",
+          "engine_code": "PowerTech 4.0L",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1997,
+          "years_end": "2006",
+          "msrp_aud": 29990,
+          "power_kw": 130,
+          "torque_nm": 301,
+          "fuel_l_100km": 13.2,
+          "towing_braked_kg": 900,
+          "notes": "Classic 4.0L 5-speed manual soft top."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "TJ",
+          "category": "exterior",
+          "caption": "Riots after the death of Alexandros Grigoropoulos, Sina Street - Faculty of law, Athens, Greece.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/20081206_Alexandros_Grigoropoulos_december_2008_riots_Sina_Street_Athens_Greece.jpg/1280px-20081206_Alexandros_Grigoropoulos_december_2008_riots_Sina_Street_Athens_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (User:Ggia)",
+          "local_path": "media/pictures/jeep/wrangler/jeep_wrangler_TJ_1_20081206_Alexandros_Grigoropoulos_december_2008_riots_Sina_Street_Athens_Greece.jpg",
+          "file_size_bytes": 825042,
+          "sha256": "48eeebc787392d8821f5c4d2f4a89943e61b2dd0d585b36ef1d67293f5adb87d"
+        }
+      ]
+    },
+    {
+      "series_code": "JK",
+      "generation_name": "Wrangler JK",
+      "years": {
+        "start": 2007,
+        "end": "2018"
+      },
+      "body_styles": [
+        "2-door soft top",
+        "4-door Unlimited"
+      ],
+      "platform": "Chrysler JK",
+      "ancap_rating": "4 stars",
+      "summary": "Introduced the four-door Wrangler Unlimited; 3.8L V6 replaced by 209kW 3.6L Pentastar V6 and 2.8L CRD turbo diesel, electronic sway-bar disconnect, and huge Australian sales expansion.",
+      "engines": [
+        {
+          "engine_code": "Pentastar 3.6L V6",
+          "name": "3.6L DOHC Pentastar V6",
+          "displacement_cc": 3604,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 209,
+          "power_rpm": "6350",
+          "torque_nm": 347,
+          "torque_rpm": "4300",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24-valve, dual variable valve timing",
+          "notes": "Replaced the previous 3.8L cast-iron V6 with 40% more power."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Rubicon Unlimited 4-Door",
+          "years": {
+            "start": 2012,
+            "end": "2018"
+          },
+          "body_styles": [
+            "4-door Unlimited"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 49990,
+          "msrp_aud_max": 56990,
+          "fuel_consumption_l_100km": 11.7,
+          "kerb_weight_kg": 1995,
+          "standard_features": [
+            "Electronic sway-bar disconnect",
+            "Rock-Trac 4:1 transfer case",
+            "Dana 44 heavy duty axles front/rear",
+            "Tru-Lok electronic diff locks",
+            "Freedom Top three-piece modular hardtop"
+          ],
+          "notes": "Australia's ultimate turn-key 4WD adventure rig."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Rubicon Unlimited 4-Door",
+          "body_style": "4-door Unlimited",
+          "engine_code": "Pentastar 3.6L V6",
+          "transmission": "5-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2012,
+          "years_end": "2018",
+          "msrp_aud": 53990,
+          "power_kw": 209,
+          "torque_nm": 347,
+          "fuel_l_100km": 11.7,
+          "towing_braked_kg": 2300,
+          "notes": "4-door Unlimited with electronic lockers and sway-bar disconnect."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "JK",
+          "category": "exterior",
+          "caption": "2007-present Jeep Wrangler Sahara convertible photographed in Montreal, Quebec, Canada.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg/1280px-Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (Bull-Doser)",
+          "local_path": "media/pictures/jeep/wrangler/jeep_wrangler_JK_1_Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg",
+          "file_size_bytes": 346680,
+          "sha256": "6657c951adecadc84d0ee907e580b244f587505da19ceb0806754e3974210a64"
+        }
+      ]
+    },
+    {
+      "series_code": "JL",
+      "generation_name": "Wrangler JL",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "2-door",
+        "4-door Unlimited"
+      ],
+      "platform": "FCA JL platform",
+      "ancap_rating": "3 stars",
+      "summary": "Aluminium doors, windscreen frame, and tailgate; 8-speed automatic standard; forward-facing TrailCam; 2.0L Turbo and 3.6L Pentastar; Night Eagle, Overland, and Rubicon.",
+      "engines": [
+        {
+          "engine_code": "GME T4 Hurricane",
+          "name": "2.0L Turbo Petrol",
+          "displacement_cc": 1995,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 200,
+          "power_rpm": "5250",
+          "torque_nm": 400,
+          "torque_rpm": "3000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve, twin-scroll turbo",
+          "notes": "Standard engine on Australian 2024+ JL refresh."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Rubicon Unlimited JL",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Unlimited"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 68950,
+          "msrp_aud_max": 90450,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 2045,
+          "standard_features": [
+            "12.3-inch Uconnect 5 touchscreen",
+            "Forward TrailCam off-road camera",
+            "Electronic front sway-bar disconnect",
+            "Tru-Lok front and rear lockers",
+            "Off-Road+ drive mode",
+            "Steel front bumper with removable end-caps"
+          ],
+          "notes": "Flagship 4WD rock crawler."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Rubicon Unlimited JL",
+          "body_style": "4-door Unlimited",
+          "engine_code": "GME T4 Hurricane",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 90450,
+          "power_kw": 200,
+          "torque_nm": 400,
+          "fuel_l_100km": 9.9,
+          "towing_braked_kg": 2495,
+          "notes": "2.0L Turbo with full factory locking differentials."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "JL",
+          "category": "exterior",
+          "caption": "Jeep_Wrangler_Rubicon_(JL)_4xe at Retro Classics 2022",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jeep_Wrangler_Rubicon_%28JL%29_4xe_1X7A0285.jpg/1280px-Jeep_Wrangler_Rubicon_%28JL%29_4xe_1X7A0285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/jeep/wrangler/jeep_wrangler_JL_1_Jeep_Wrangler_Rubicon_JL_4xe_1X7A0285.jpg",
+          "file_size_bytes": 291459,
+          "sha256": "a54c70827552b97ef65b35bc702b7aaefc867e1713ae361cdb60e4bcb0d1883c"
+        }
+      ]
+    }
+  ]
+}

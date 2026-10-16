@@ -1,0 +1,599 @@
+{
+  "make_slug": "mercedes-benz",
+  "model_slug": "e-class",
+  "name": "E-Class",
+  "vehicle_type": "Sedan / Wagon / Coupe / Cabriolet",
+  "segment": "Large Luxury Car",
+  "years_sold_au": {
+    "start": 1968,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The heartbeat of Mercedes-Benz in Australia. From the virtually indestructible W114/W115 and W123 that conquered outback roads and taxi fleets, through the peerless Bruno Sacco W124, to supercharged V8 E55 AMG and twin-turbo 450kW E63 S AMG monsters.",
+  "australian_market_notes": "First sold as the 'Stroke 8' (W114/W115) in 1968. The W123 earned iconic status in Australia for racking up millions of kilometers with zero rattles, while the W124 300E and Porsche-assembled 500E set luxury performance benchmarks. Australia remains one of AMG's highest market-share territories globally.",
+  "manuals": [
+    {
+      "title": "Mercedes Benz E-Class Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1968,
+      "language": "en",
+      "source_url": "local://catalog/makes/mercedes-benz/models/e-class/model.json",
+      "local_path": "media/manuals/mercedes-benz/e-class/mercedes-benz_e-class_au_technical_manual.pdf",
+      "file_size_bytes": 6717,
+      "sha256": "a1b32c1cf72b3888d224938e0366539e420b8db57096efd40be8a2829698e9fb",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Mercedes-Benz E-Class Cabriolet Specification Brochure (2014)",
+      "year": 2014,
+      "source_url": "https://archive.org/details/mercedes-benz-e-class-cabriolet-specification-brochure-2014",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mercedes-benz/e-class/mercedes-benz_e-class_manual_Mercedes-Benz_E-Class_Cabriolet_Specification_Brochure_2014.html",
+      "file_size_bytes": 220530,
+      "sha256": "b1151597c17b68649d1e58f4af14f08789e38c703a00aa9e2d59b3343b7b9bf4"
+    },
+    {
+      "title": "Mercedes-Benz E-Class Car Brochure (2011)",
+      "year": 2010,
+      "source_url": "https://archive.org/details/mercedes-benz-e-class-car-brochure-2011",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mercedes-benz/e-class/mercedes-benz_e-class_manual_Mercedes-Benz_E-Class_Car_Brochure_2011.html",
+      "file_size_bytes": 219178,
+      "sha256": "859ddac8f5f0d637e7777f41d23e50d970622baf6889407a50ffe108ea391e0e"
+    },
+    {
+      "title": "Mercedes-Benz E-Class Car Brochure (2012)",
+      "year": 2011,
+      "source_url": "https://archive.org/details/mercedes-benz-e-class-car-brochure-2012",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mercedes-benz/e-class/mercedes-benz_e-class_manual_Mercedes-Benz_E-Class_Car_Brochure_2012.html",
+      "file_size_bytes": 220532,
+      "sha256": "1863122082756af6611bd4bc9123d0e58c853f45e8bf17efa28f048a90318507"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Mercedes-Benz 300SL was the first car in the SL-Class and it was the fastest production car of its day. Internally numbered W198, it was available from 1954-57 as a 2 seat sports car with distinctive gull-wing doors and later from 1958-",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1956_Mercedes_Benz_300_SL_Gullwing_%2815345035681%29.jpg/1280px-1956_Mercedes_Benz_300_SL_Gullwing_%2815345035681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/mercedes-benz/e-class/mercedes-benz_e-class_hero_1_1956_Mercedes_Benz_300_SL_Gullwing_15345035681_.jpg",
+      "file_size_bytes": 402330,
+      "sha256": "7491e2a2ad3e66df27b3c748cc1e6178a8ab4211568ab127b71c7ac60e215f25"
+    },
+    {
+      "category": "exterior",
+      "caption": "The Mercedes-Benz 300SL was the first car in the SL-Class and it was the fastest production car of its day. Also available at the time was the cheaper 190SL. They shared basic styling, engineering, detailing, and fully independent suspensio",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/1956_Mercedes_Benz_W198_300_SL_Gullwing_%2832781811530%29.jpg/1280px-1956_Mercedes_Benz_W198_300_SL_Gullwing_%2832781811530%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/mercedes-benz/e-class/mercedes-benz_e-class_hero_2_1956_Mercedes_Benz_W198_300_SL_Gullwing_32781811530_.jpg",
+      "file_size_bytes": 387920,
+      "sha256": "fc2c419b7895f2d687d72525c9fa5faf383a04bd1495618c86fe6a33f77373b1"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "W123",
+      "generation_name": "E-Class W123 Series",
+      "years": {
+        "start": 1976,
+        "end": 1985
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Coupe",
+        "Estate wagon"
+      ],
+      "platform": "Mercedes-Benz W123",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Legendary engineered-like-no-other-car-in-the-world durability. Highlights included 230E petrol, 280E twin-cam inline-six, and the bombproof OM617 5-cylinder 300D diesel.",
+      "engines": [
+        {
+          "engine_code": "M110",
+          "name": "2.8L DOHC Inline-6",
+          "displacement_cc": 2746,
+          "displacement_litres": 2.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 136,
+          "power_rpm": "5800",
+          "torque_nm": 240,
+          "torque_rpm": "4500",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 12-valve",
+          "notes": "Bosch K-Jetronic mechanical fuel injection; iconic twin-cam howl."
+        },
+        {
+          "engine_code": "OM617",
+          "name": "3.0L SOHC Diesel Inline-5",
+          "displacement_cc": 3005,
+          "displacement_litres": 3.0,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 59,
+          "power_rpm": "4000",
+          "torque_nm": 172,
+          "torque_rpm": "2400",
+          "compression_ratio": "21.0:1",
+          "valvetrain": "SOHC 10-valve",
+          "notes": "Legendary million-kilometer durability; mechanical inline Bosch injection pump."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "280E",
+          "years": {
+            "start": 1976,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic",
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 24900,
+          "msrp_aud_max": 41200,
+          "fuel_consumption_l_100km": 12.2,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "MB-Tex or velour upholstery",
+            "Zebrano wood console",
+            "Power steering",
+            "Four-wheel disc brakes"
+          ],
+          "notes": "Australia's premier executive transport of the late 1970s and 1980s."
+        },
+        {
+          "badge_name": "300D",
+          "years": {
+            "start": 1976,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 26500,
+          "msrp_aud_max": 42900,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1505,
+          "standard_features": [
+            "Glow plug system",
+            "Central locking",
+            "Dual exterior mirrors",
+            "Rigid passenger cell"
+          ],
+          "notes": "Celebrated worldwide and in Australia for indestructible engineering."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "280E",
+          "body_style": "4-door sedan",
+          "engine_code": "M110",
+          "transmission": "4-speed automatic",
+          "drivetrain": "RWD",
+          "years_start": 1976,
+          "years_end": 1985,
+          "msrp_aud": 33900,
+          "power_kw": 136,
+          "torque_nm": 240,
+          "fuel_l_100km": 12.2,
+          "towing_braked_kg": 1500,
+          "notes": "Top-specification Australian delivered W123 petrol sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W123",
+          "category": "exterior",
+          "caption": "1983 Mercedes-Benz E-Class saloon (W123, 200E) in Ipoh, Malaysia.Designed &amp; Assembled in West Germany",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/1983_Mercedes-Benz_E-Class_saloon_%28W123%2C_200E%29_in_Ipoh%2C_Malaysia_%2801%29.jpg/1280px-1983_Mercedes-Benz_E-Class_saloon_%28W123%2C_200E%29_in_Ipoh%2C_Malaysia_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.5 my (Aero777)",
+          "local_path": "media/pictures/mercedes-benz/e-class/mercedes-benz_e-class_W123_1_1983_Mercedes-Benz_E-Class_saloon_W123_200E_in_Ipoh_Malaysia_01_.jpg",
+          "file_size_bytes": 228986,
+          "sha256": "3c3712177f0bd726160e6e41b3994764163e81c14577582a81a439319940af9b"
+        }
+      ]
+    },
+    {
+      "series_code": "W124",
+      "generation_name": "E-Class W124 Series",
+      "years": {
+        "start": 1985,
+        "end": 1995
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Coupe",
+        "Cabriolet",
+        "Estate wagon"
+      ],
+      "platform": "Mercedes-Benz W124",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Masterpiece designed by Bruno Sacco featuring innovative 5-link independent rear suspension, aerodynamic drag Cd of 0.29, 300E/320E inline-sixes, and the legendary hand-built 500E (engineered and assembled in partnership with Porsche).",
+      "engines": [
+        {
+          "engine_code": "M103",
+          "name": "3.0L SOHC Inline-6",
+          "displacement_cc": 2960,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 132,
+          "power_rpm": "5700",
+          "torque_nm": 255,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Smooth KE-Jetronic injected six, standard on Australian 300E."
+        },
+        {
+          "engine_code": "M119",
+          "name": "5.0L DOHC 32V V8 (500E)",
+          "displacement_cc": 4973,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 240,
+          "power_rpm": "5700",
+          "torque_nm": 480,
+          "torque_rpm": "3900",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Porsche-engineered and hand-assembled at Rossle-Bau in Zuffenhausen; flared wheel arches."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "300E / E300",
+          "years": {
+            "start": 1986,
+            "end": 1995
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 89500,
+          "msrp_aud_max": 129000,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1400,
+          "standard_features": [
+            "ABS brakes",
+            "Zebrano wood trim",
+            "Electric sunroof",
+            "Automatic climate control",
+            "Driver airbag"
+          ],
+          "notes": "The defining executive car of corporate Australia during the late 80s."
+        },
+        {
+          "badge_name": "500E / E500",
+          "years": {
+            "start": 1991,
+            "end": 1994
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 198000,
+          "msrp_aud_max": 235000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1710,
+          "standard_features": [
+            "Recaro 4-seater sport interior",
+            "Flared front and rear wheel arches",
+            "SL500 suspension and brakes",
+            "ASR traction control"
+          ],
+          "notes": "The 'Iron Fist in a Velvet Glove'. Highly prized Australian collector's icon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "500E / E500",
+          "body_style": "4-door sedan",
+          "engine_code": "M119",
+          "transmission": "4-speed automatic",
+          "drivetrain": "RWD",
+          "years_start": 1991,
+          "years_end": 1994,
+          "msrp_aud": 215000,
+          "power_kw": 240,
+          "torque_nm": 480,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1500,
+          "notes": "Porsche-built 5.0L V8 super-sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W124",
+          "category": "exterior",
+          "caption": "Mercedes-Benz E Class W124",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mercedes-Benz_E_Class_W124_%286785730146%29.jpg/1280px-Mercedes-Benz_E_Class_W124_%286785730146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (nakhon100)",
+          "local_path": "media/pictures/mercedes-benz/e-class/mercedes-benz_e-class_W124_1_Mercedes-Benz_E_Class_W124_6785730146_.jpg",
+          "file_size_bytes": 365407,
+          "sha256": "97b5ffca6f45e142541fa0cf6040117cc9d05351e40fc7156b084a2633c7fc8a"
+        }
+      ]
+    },
+    {
+      "series_code": "W211",
+      "generation_name": "E-Class W211 Series",
+      "years": {
+        "start": 2002,
+        "end": 2009
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Estate wagon"
+      ],
+      "platform": "Mercedes-Benz W211",
+      "ancap_rating": "5 stars",
+      "summary": "Elegant aerodynamic redesign featuring Airmatic DC suspension. Highlighted by the fearsome E55 AMG (350kW supercharged 5.4L V8) and later the naturally aspirated 6.2L V8 E63 AMG.",
+      "engines": [
+        {
+          "engine_code": "M113ML",
+          "name": "5.4L Supercharged SOHC V8 (E55 AMG)",
+          "displacement_cc": 5439,
+          "displacement_litres": 5.4,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol",
+          "power_kw": 350,
+          "power_rpm": "6100",
+          "torque_nm": 700,
+          "torque_rpm": "2650-4500",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 24-valve (3 valves per cylinder)",
+          "notes": "Lysholm twin-screw supercharger; devastating rolling acceleration."
+        },
+        {
+          "engine_code": "M156",
+          "name": "6.2L DOHC 32V V8 (E63 AMG)",
+          "displacement_cc": 6208,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 378,
+          "power_rpm": "6800",
+          "torque_nm": 630,
+          "torque_rpm": "5200",
+          "compression_ratio": "11.3:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "First engine designed from the ground up by AMG in Affalterbach."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "E55 AMG",
+          "years": {
+            "start": 2003,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed AMG Speedshift automatic"
+          ],
+          "msrp_aud_min": 219900,
+          "msrp_aud_max": 232000,
+          "fuel_consumption_l_100km": 12.9,
+          "kerb_weight_kg": 1835,
+          "standard_features": [
+            "18-inch AMG 5-spoke alloys",
+            "AMG Airmatic sport suspension",
+            "8-piston front brake calipers",
+            "Nappa nubuck leather"
+          ],
+          "notes": "0-100km/h in 4.5s. Muscle car annihilator."
+        },
+        {
+          "badge_name": "E63 AMG",
+          "years": {
+            "start": 2006,
+            "end": 2009
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "7-speed 7G-Tronic AMG Speedshift"
+          ],
+          "msrp_aud_min": 227600,
+          "msrp_aud_max": 239900,
+          "fuel_consumption_l_100km": 14.3,
+          "kerb_weight_kg": 1840,
+          "standard_features": [
+            "18-inch AMG multi-spoke wheels",
+            "Race start function",
+            "Harman Kardon Logic 7 sound",
+            "AMG quad exhaust"
+          ],
+          "notes": "High-revving 6.2L naturally aspirated masterpiece."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "E55 AMG",
+          "body_style": "4-door sedan",
+          "engine_code": "M113ML",
+          "transmission": "5-speed AMG Speedshift automatic",
+          "drivetrain": "RWD",
+          "years_start": 2003,
+          "years_end": 2006,
+          "msrp_aud": 224000,
+          "power_kw": 350,
+          "torque_nm": 700,
+          "fuel_l_100km": 12.9,
+          "towing_braked_kg": 1900,
+          "notes": "350kW supercharged V8 torque titan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W211",
+          "category": "exterior",
+          "caption": "MERCEDES-BENZ E-CLASS (W211) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/MERCEDES-BENZ_E-CLASS_%28W211%29_China.jpg/1280px-MERCEDES-BENZ_E-CLASS_%28W211%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mercedes-benz/e-class/mercedes-benz_e-class_W211_1_MERCEDES-BENZ_E-CLASS_W211_China.jpg",
+          "file_size_bytes": 213218,
+          "sha256": "d24f6748ca2cad40aa89c94a002085410f6e583e195169fce190b59fa6d7bfbc"
+        }
+      ]
+    },
+    {
+      "series_code": "W213",
+      "generation_name": "E-Class W213 Series & E63 S AMG",
+      "years": {
+        "start": 2016,
+        "end": 2023
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Coupe",
+        "Cabriolet",
+        "Estate wagon"
+      ],
+      "platform": "Mercedes-Benz MRA",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the MRA lightweight modular platform. Featured dual 12.3-inch widescreen cockpit displays, Drive Pilot semi-autonomous driving, and the almighty AMG E63 S 4MATIC+ with 450kW, 850Nm, and pure rear-wheel-drive Drift Mode.",
+      "engines": [
+        {
+          "engine_code": "M177",
+          "name": "4.0L BiTurbo V8 (E63 S AMG)",
+          "displacement_cc": 3982,
+          "displacement_litres": 4.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 450,
+          "power_rpm": "5750-6500",
+          "torque_nm": 850,
+          "torque_rpm": "2500-4500",
+          "compression_ratio": "8.6:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "'Hot inside V' twin-scroll turbochargers and cylinder deactivation."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "E300 / E350",
+          "years": {
+            "start": 2016,
+            "end": 2023
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "9-speed 9G-Tronic automatic"
+          ],
+          "msrp_aud_min": 107900,
+          "msrp_aud_max": 133900,
+          "fuel_consumption_l_100km": 7.3,
+          "kerb_weight_kg": 1655,
+          "standard_features": [
+            "Dual widescreen cockpit",
+            "Multibeam LED headlights",
+            "Burmester sound system",
+            "Driving Assistance Package Plus"
+          ],
+          "notes": "Core executive fleet choice."
+        },
+        {
+          "badge_name": "AMG E63 S 4MATIC+",
+          "years": {
+            "start": 2017,
+            "end": 2023
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "9-speed AMG Speedshift MCT"
+          ],
+          "msrp_aud_min": 239611,
+          "msrp_aud_max": 272400,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1955,
+          "standard_features": [
+            "20-inch AMG cross-spoke forged wheels",
+            "4MATIC+ variable AWD with Drift Mode",
+            "AMG Performance sports exhaust",
+            "Nappa exclusive leather"
+          ],
+          "notes": "0-100km/h in 3.4 seconds. King of the executive autobahn missiles."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "AMG E63 S 4MATIC+",
+          "body_style": "4-door sedan",
+          "engine_code": "M177",
+          "transmission": "9-speed AMG Speedshift MCT",
+          "drivetrain": "AWD",
+          "years_start": 2017,
+          "years_end": 2023,
+          "msrp_aud": 252900,
+          "power_kw": 450,
+          "torque_nm": 850,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 2100,
+          "notes": "450kW all-wheel drive flagship with rear-drive Drift Mode."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W213",
+          "category": "exterior",
+          "caption": "MERCEDES-BENZ E-CLASS (W213) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/MERCEDES-BENZ_E-CLASS_%28W213%29_China.jpg/1280px-MERCEDES-BENZ_E-CLASS_%28W213%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mercedes-benz/e-class/mercedes-benz_e-class_W213_1_MERCEDES-BENZ_E-CLASS_W213_China.jpg",
+          "file_size_bytes": 143132,
+          "sha256": "a666b02b8935651a8d596ab538e2476752f66084aa65f84341781d4eac0186b3"
+        }
+      ]
+    }
+  ]
+}

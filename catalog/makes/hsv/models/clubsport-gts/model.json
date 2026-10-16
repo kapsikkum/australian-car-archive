@@ -1,0 +1,437 @@
+{
+  "make_slug": "hsv",
+  "model_slug": "clubsport-gts",
+  "name": "HSV ClubSport & GTS",
+  "vehicle_type": "Sedan",
+  "segment": "High-Performance Muscle Car",
+  "years_sold_au": {
+    "start": 1990,
+    "end": 2017
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria"
+  ],
+  "overview": "The HSV ClubSport and GTS formed the beating heart of Holden Special Vehicles from 1990 to 2017. Developed at HSV's performance facility in Clayton, Victoria, the ClubSport was HSV's top-selling performance sedan, while the GTS served as the technological flagship. From the original VN ClubSport and VP GTS (with 4-bolt mains and IRS) to the stroker 5.7L V8s, the 300kW Callaway C4B in the VT/VX, the E-Series Magnetic Ride Control, the supercharged 430kW LSA in GEN-F, and the crowning 2017 GTSR W1 (powered by the dry-sump 474kW Corvette ZR1 LS9 supercharged V8), this model line represents the pinnacle of Australian rear-wheel-drive muscle car engineering.",
+  "australian_market_notes": "Created following HSV's successful homologation of the 1988 VL Walkinshaw, the ClubSport brought race-proven V8 power to everyday Australian enthusiasts. The GTS was introduced in 1992 on the VP series as the ultimate technology and speed flagship. Milestones included the 1996 VS GTS-R in 'XU3 Yellah' with carbon-fibre rear wing, the 2000 VT II GTS featuring a hand-built Callaway C4B 300kW V8, the 2006 E-Series Magnetic Ride Control active dampers, and the 2017 GTSR W1, which set the Australian production car power record with 474 kW (636 bhp) and 815 Nm of torque.",
+  "manuals": [
+    {
+      "title": "Hsv HSV ClubSport & GTS Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1990,
+      "language": "en",
+      "source_url": "local://catalog/makes/hsv/models/clubsport-gts/model.json",
+      "local_path": "media/manuals/hsv/clubsport-gts/hsv_clubsport-gts_au_technical_manual.pdf",
+      "file_size_bytes": 6487,
+      "sha256": "791defdf3bd0525a74b91ce87e7d2437f72f211d1f856bfcdc7094325c934c4f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Built from April 1995-August 1997. \nThe VS was a mild facelift on the VR. This car was built by HSV and based on the Holden Executive, the Clubsport was introduced late in the VN model as a cheaper sports V8. Upmarket Calais based Senator a",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1996_Holden_HSV_VS_Clubsport.jpg/1280px-1996_Holden_HSV_VS_Clubsport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/hsv/clubsport-gts/hsv_clubsport-gts_hero_1_1996_Holden_HSV_VS_Clubsport.jpg",
+      "file_size_bytes": 300091,
+      "sha256": "ed9c64422c7822fd89279994482b16eef73c22e28279894fdd9631283160c6dd"
+    },
+    {
+      "category": "exterior",
+      "caption": "Built from April 1995-August 1997. \nThe VS was a mild facelift on the VR. The Senator was built by HSV, along with the Clubsport and the GTS. The Clubsport was introduced with the VN, it was the base car available at HSV, the GTS, introduce",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1997_HSV_Senator_%28VS%29_sedan_%2817175944421%29.jpg/1280px-1997_HSV_Senator_%28VS%29_sedan_%2817175944421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/hsv/clubsport-gts/hsv_clubsport-gts_hero_2_1997_HSV_Senator_VS_sedan_17175944421_.jpg",
+      "file_size_bytes": 360199,
+      "sha256": "2eb292c36b6c2674fdd93631a2a754cb2bcdd62c35229266f82bbef934ea2da8"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "VN-VP",
+      "generation_name": "VN & VP Series",
+      "years": {
+        "start": 1990,
+        "end": 1993
+      },
+      "body_styles": [
+        "4-door performance sedan"
+      ],
+      "platform": "GM V-body modified by HSV",
+      "ancap_rating": null,
+      "summary": "Birth of the ClubSport (VN, 180kW Holden 5.0L EFI V8) and the flagship VP GTS (200kW Holden/Walkinshaw V8 with 4-bolt mains, IRS, and AP brakes).",
+      "engines": [
+        {
+          "engine_code": "Holden-5.0L-HSV-180",
+          "name": "Holden/HSV 5.0L (304ci) EFI V8 (VN ClubSport)",
+          "displacement_cc": 4987,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 180.0,
+          "power_rpm": "4600",
+          "torque_nm": 400.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "OHV 16V",
+          "notes": "HSV cold-air intake and tuned Delco engine management."
+        },
+        {
+          "engine_code": "Holden-5000i-200kW",
+          "name": "Holden/Walkinshaw 5000i 5.0L V8 (VP GTS)",
+          "displacement_cc": 4987,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Premium)",
+          "power_kw": 200.0,
+          "power_rpm": "4800",
+          "torque_nm": 410.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 16V with 4-bolt main bearing caps",
+          "notes": "Bespoke high-performance 4-bolt main block; 200kW."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ClubSport",
+          "years": {
+            "start": 1990,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (T5)",
+            "4-speed automatic (TH700)"
+          ],
+          "msrp_aud_min": 33320,
+          "msrp_aud_max": 38900,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "180kW V8",
+            "HSV sports suspension",
+            "16-inch alloy wheels",
+            "Sports seats",
+            "HSV body styling"
+          ],
+          "notes": "HSV's perennial volume champion."
+        },
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 1992,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (T5G)",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 53750,
+          "msrp_aud_max": 58000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "200kW 5000i V8 with 4-bolt mains",
+            "Independent Rear Suspension (IRS)",
+            "ABS brakes",
+            "17-inch alloy wheels",
+            "Devon leather trim"
+          ],
+          "notes": "First HSV GTS; 130 units produced."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GTS",
+          "body_style": "4-door sedan",
+          "engine_code": "Holden-5000i-200kW",
+          "transmission": "5-speed manual (T5G)",
+          "drivetrain": "RWD",
+          "msrp_aud": 53750,
+          "power_kw": 200.0,
+          "torque_nm": 410.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1500,
+          "notes": "0-100 km/h in 6.5s; 240 km/h top speed."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VN-VP",
+          "category": "exterior",
+          "caption": "Maranello Red 1992 HSV GTS (VP). The GTS was based on the Holden Commodore VP.\n\nThe Holden VP Commodore was built from Sept 1991-July 1993. \nThe VN got a facelift in 1991; the VP, with translucent acrylic grille (colour coded on S and SS an",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1992_Holden_VP_HSV_Commodore_GTS_Sedan_%2826173653572%29.jpg/1280px-1992_Holden_VP_HSV_Commodore_GTS_Sedan_%2826173653572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/hsv/clubsport-gts/hsv_clubsport-gts_VN-VP_1_1992_Holden_VP_HSV_Commodore_GTS_Sedan_26173653572_.jpg",
+          "file_size_bytes": 365533,
+          "sha256": "de3a8fdbf2f73865f69468ea665412a23e78b8ec82739ce092db790f260ddde5"
+        }
+      ]
+    },
+    {
+      "series_code": "E-Series",
+      "generation_name": "E-Series (E1, E2, E3)",
+      "years": {
+        "start": 2006,
+        "end": 2013
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door Sportwagon (Tourer)"
+      ],
+      "platform": "GM Zeta platform modified by HSV",
+      "ancap_rating": "5 Stars",
+      "summary": "Zeta platform flagship; LS2 6.0L (307kW) and LS3 6.2L (317kW/325kW) V8s; groundbreaking Magnetic Ride Control (MRC) suspension; bi-modal exhaust system.",
+      "engines": [
+        {
+          "engine_code": "LS3-6.2-HSV-325",
+          "name": "Chevrolet LS3 6.2L V8 (GTS E3)",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 325.0,
+          "power_rpm": "6000",
+          "torque_nm": 550.0,
+          "torque_rpm": "4600",
+          "compression_ratio": "10.7:1",
+          "valvetrain": "OHV 16V with Bi-Modal Intake & Exhaust",
+          "notes": "High-output LS3 V8; 0-100 km/h in 4.9s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ClubSport R8",
+          "years": {
+            "start": 2006,
+            "end": 2013
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door Sportwagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (Tremec TR-6060)",
+            "6-speed automatic (6L80-E)"
+          ],
+          "msrp_aud_min": 65990,
+          "msrp_aud_max": 73500,
+          "fuel_consumption_l_100km": 13.9,
+          "kerb_weight_kg": 1800,
+          "standard_features": [
+            "317kW/325kW LS3 V8",
+            "AP Racing 4-piston brakes",
+            "19-inch alloys",
+            "Competition Mode ESC",
+            "Sports bucket seats"
+          ],
+          "notes": "The standard of Australian high-performance."
+        },
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 2006,
+            "end": 2013
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (TR-6060)",
+            "6-speed auto"
+          ],
+          "msrp_aud_min": 78990,
+          "msrp_aud_max": 86500,
+          "fuel_consumption_l_100km": 14.2,
+          "kerb_weight_kg": 1830,
+          "standard_features": [
+            "325kW LS3 V8",
+            "Magnetic Ride Control (MRC) active dampers",
+            "20-inch forged wheels",
+            "HSV Performance Data Interface (EDI)",
+            "Bi-modal active exhaust"
+          ],
+          "notes": "Advanced technological muscle flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GTS",
+          "body_style": "4-door sedan",
+          "engine_code": "LS3-6.2-HSV-325",
+          "transmission": "6-speed manual (TR-6060)",
+          "drivetrain": "RWD",
+          "msrp_aud": 82990,
+          "power_kw": 325.0,
+          "torque_nm": 550.0,
+          "fuel_l_100km": 14.2,
+          "towing_braked_kg": 2100,
+          "notes": "MRC suspension and track-ready performance."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E-Series",
+          "category": "exterior",
+          "caption": "The VY Commodore was built from Sept 2002-August 2004. \nThe 2nd update on the 3rd generation Commodore, the front and rear styling was updated and the interior restyled as well. \nAn all wheel drive system was developed at Holden, limited nu",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2003_Holden_VY_HSV_GTS_Sedan_%2825612335540%29_%28cropped%29.jpg/1280px-2003_Holden_VY_HSV_GTS_Sedan_%2825612335540%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/hsv/clubsport-gts/hsv_clubsport-gts_E-Series_1_2003_Holden_VY_HSV_GTS_Sedan_25612335540_cropped_.jpg",
+          "file_size_bytes": 339266,
+          "sha256": "f3d1398a3a4510c0453260c6be4547215a44e42772788b2cf7dd9f97e4cf4dd8"
+        }
+      ]
+    },
+    {
+      "series_code": "GEN-F",
+      "generation_name": "GEN-F & GEN-F2 (GTS & GTSR W1)",
+      "years": {
+        "start": 2013,
+        "end": 2017
+      },
+      "body_styles": [
+        "4-door performance sedan"
+      ],
+      "platform": "GM Zeta platform lightened by HSV",
+      "ancap_rating": "5 Stars",
+      "summary": "The ultimate Australian high-performance era. Supercharged 6.2L LSA V8 (430kW/740Nm) in GTS, and the crowning GTSR W1 powered by the Corvette ZR1's dry-sump 474kW (636hp) supercharged LS9 V8, Tremec TR-6060 manual, and Supashock racing suspension.",
+      "engines": [
+        {
+          "engine_code": "Supercharged-6.2-LSA",
+          "name": "Chevrolet 6.2L Supercharged LSA V8 (GTS)",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 430.0,
+          "power_rpm": "6150",
+          "torque_nm": 740.0,
+          "torque_rpm": "3850",
+          "compression_ratio": "9.1:1",
+          "valvetrain": "OHV 16V with Eaton 1.9L Roots Supercharger",
+          "notes": "Integrated liquid-to-air intercooler; 0-100 km/h in 4.4 seconds."
+        },
+        {
+          "engine_code": "Supercharged-6.2-LS9",
+          "name": "Chevrolet 6.2L Supercharged LS9 V8 (GTSR W1)",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 474.0,
+          "power_rpm": "6500",
+          "torque_nm": 815.0,
+          "torque_rpm": "3900",
+          "compression_ratio": "9.1:1",
+          "valvetrain": "OHV 16V Titanium Intake Valves & Connecting Rods",
+          "notes": "Hand-built dry-sump LS9 with 2.3L Eaton supercharger; 636 bhp / 815 Nm; most powerful Australian production car in history."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (TR-6060)",
+            "6-speed heavy-duty auto (6L90-E)"
+          ],
+          "msrp_aud_min": 92990,
+          "msrp_aud_max": 99990,
+          "fuel_consumption_l_100km": 15.3,
+          "kerb_weight_kg": 1886,
+          "standard_features": [
+            "430kW LSA Supercharged V8",
+            "AP Racing 6-piston front brakes",
+            "Generation 3 Magnetic Ride Control",
+            "Torque Vectoring",
+            "20-inch forged alloys",
+            "Head-Up Display"
+          ],
+          "notes": "World-class supercar performance sedan."
+        },
+        {
+          "badge_name": "GTSR W1",
+          "years": {
+            "start": 2017,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door supercar sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed close-ratio manual (Tremec TR-6060 MH3)"
+          ],
+          "msrp_aud_min": 169990,
+          "msrp_aud_max": 180000,
+          "fuel_consumption_l_100km": 16.5,
+          "kerb_weight_kg": 1895,
+          "standard_features": [
+            "474kW LS9 dry-sump V8",
+            "Supashock motorsport dampers",
+            "AP Racing 410mm front disc brakes",
+            "Pirelli P-Zero Trofeo R semi-slick tyres",
+            "Carbon-fibre airbox, front fender vents, and rear spoiler",
+            "Alcantara/leather racing seats"
+          ],
+          "notes": "The apex of Australian automotive manufacturing; only 275 produced; 0-100 km/h in 4.2s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GTSR W1",
+          "body_style": "4-door supercar sedan",
+          "engine_code": "Supercharged-6.2-LS9",
+          "transmission": "6-speed close-ratio manual (Tremec TR-6060 MH3)",
+          "drivetrain": "RWD",
+          "msrp_aud": 169990,
+          "power_kw": 474.0,
+          "torque_nm": 815.0,
+          "fuel_l_100km": 16.5,
+          "towing_braked_kg": 1600,
+          "notes": "474kW / 815Nm; Australia's ultimate road and track masterpiece."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "GEN-F",
+          "category": "exterior",
+          "caption": "The VF, available from 2013, is an evolution of the VE, it features new styling at the front and rear, with a more modern, sculpted appearance. Changes include altered headlights and tail lamps, alterations to the intake and grille and the ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2014_HSV_GTS_%28Gen-F%29_sedan_%2817489403444%29.jpg/1280px-2014_HSV_GTS_%28Gen-F%29_sedan_%2817489403444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/hsv/clubsport-gts/hsv_clubsport-gts_GEN-F_1_2014_HSV_GTS_Gen-F_sedan_17489403444_.jpg",
+          "file_size_bytes": 381978,
+          "sha256": "104ee5311a5e7269c7e5b8bdfa8f737ed1c2f3f8c624cb5699cae9fbbff90a5a"
+        }
+      ]
+    }
+  ]
+}

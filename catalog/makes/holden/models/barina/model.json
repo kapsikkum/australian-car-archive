@@ -1,0 +1,444 @@
+{
+  "make_slug": "holden",
+  "model_slug": "barina",
+  "name": "Holden Barina",
+  "vehicle_type": "Hatchback / Sedan / Convertible",
+  "segment": "Light / Subcompact",
+  "years_sold_au": {
+    "start": 1985,
+    "end": 2018
+  },
+  "locally_built": false,
+  "assembly_plants_au": [
+    "Imported (Kosai & Hamamatsu, Japan, MB/ML/MF/MH)",
+    "Imported (Zaragoza, Spain, SB/XC)",
+    "Imported (Eisenach, Germany, SB/XC)",
+    "Imported (Bupyeong, South Korea, TK/TM)"
+  ],
+  "overview": "For over 33 years across six generations, the Holden Barina was Australia's quintessential light car. Introduced in February 1985 as the MB Barina (a badge-engineered Suzuki Cultus made unforgettable by poet Pam Ayres' commercial: 'Beep beep, Barina!'), the model transitioned through the ML, MF, and MH series. In 1994, Holden pivoted to GM Europe with the SB Barina (Opel Corsa B), creating an Australian youth lifestyle phenomenon that produced the cult Barina GSi (1.6L 16V twin-cam). The 2001 XC Barina won Wheels Car of the Year 2001. Sourcing moved to GM Daewoo in 2005 with the value-focused TK, while the final 2011-2018 TM Barina featured GM's global Gamma II platform, culminating in the sporty Barina RS powered by a 103 kW 1.4L Turbo engine.",
+  "australian_market_notes": "The SB Barina revolutionized Australia's light car market, introducing European chassis feel, standard driver airbag options, and vibrant youth-oriented exterior color palettes. It dominated private light car sales for years, while the hot hatch Barina GSi became an enduring grassroots motorsport and hillclimb favorite.",
+  "manuals": [
+    {
+      "title": "Holden Holden Barina Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1985,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/barina/model.json",
+      "local_path": "media/manuals/holden/barina/holden_barina_au_technical_manual.pdf",
+      "file_size_bytes": 6108,
+      "sha256": "c3d473d6c8c42e8918c65ca57ef7684b7aba504169782a377967e591ba5ae981",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "February 1985 Holden Barina ( MB) Roadrunner Pack brochure",
+      "year": 1985,
+      "source_url": "https://archive.org/details/Holden_201511",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/barina/holden_barina_manual_February_1985_Holden_Barina_MB_Roadrunner_Pack_brochure.html",
+      "file_size_bytes": 205743,
+      "sha256": "6da95f1554e74642c004824951b0e097cad74ccf2cda66119c5ebd0cb08af0fd"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1991-1994 Holden Barina MH\nBarina is an Australian aboriginal word meaning \"summit\".\nThe second-generation MF Barina was a rebadged second generation Suzuki Cultus, co-developed with GM using the GM M platform and marketed worldwide under n",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1991-1994_Holden_Barina_MH_%2816832196729%29.jpg/1280px-1991-1994_Holden_Barina_MH_%2816832196729%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Mic from Reading - Berkshire, United Kingdom)",
+      "local_path": "media/pictures/holden/barina/holden_barina_hero_1_1991-1994_Holden_Barina_MH_16832196729_.jpg",
+      "file_size_bytes": 230149,
+      "sha256": "cd53d2edb3c7439d9228b4d9dc26ba00dfe05ddf465545880349cdd6d81cd4a6"
+    },
+    {
+      "category": "exterior",
+      "caption": "I still remember when these first came out, I was so happy that Holden had finally decided to go with an actual GM small car for it's Barina, instead of being a rebadged Suzuki Swift, which had been the case for so many years before this.\n\n",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1994-1995_Holden_Barina_%28SB%29_Swing_5-door_hatchback_%2817118879980%29.jpg/1280px-1994-1995_Holden_Barina_%28SB%29_Swing_5-door_hatchback_%2817118879980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+      "local_path": "media/pictures/holden/barina/holden_barina_hero_2_1994-1995_Holden_Barina_SB_Swing_5-door_hatchback_17118879980_.jpg",
+      "file_size_bytes": 206824,
+      "sha256": "4b917f1eb8d9e5e4f88e9d7bbf39cddc99b84aefe000b22ff42e1b0ceb5c5728"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "MB-ML",
+      "generation_name": "MB / ML Barina",
+      "years": {
+        "start": 1985,
+        "end": 1988
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "Suzuki M-platform (Cultus)",
+      "ancap_rating": null,
+      "summary": "First-generation Barina. Suzuki Cultus base, celebrated in iconic Pam Ayres television advertising. Super-economical 1.3L four-cylinder engine.",
+      "engines": [
+        {
+          "engine_code": "Suzuki-G13A",
+          "name": "Suzuki G13A 1.3L OHC Inline-4",
+          "displacement_cc": 1324,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 54.0,
+          "power_rpm": "5300",
+          "torque_nm": 103.0,
+          "torque_rpm": "3700",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Lightweight all-aluminium engine block."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Barina Hatch",
+          "years": {
+            "start": 1985,
+            "end": 1988
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 7890,
+          "msrp_aud_max": 8890,
+          "fuel_consumption_l_100km": 6.2,
+          "kerb_weight_kg": 735,
+          "standard_features": [
+            "5-speed manual transmission",
+            "AM radio",
+            "Fold-down rear seat",
+            "Cloth seat inserts"
+          ],
+          "notes": "Famous 'Beep beep, Barina' icon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Barina Hatch",
+          "body_style": "Hatchback",
+          "engine_code": "Suzuki-G13A",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 7890,
+          "power_kw": 54.0,
+          "torque_nm": 103.0,
+          "fuel_l_100km": 6.2,
+          "towing_braked_kg": 500,
+          "notes": "Featherweight 735 kg fuel miser."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "MB-ML",
+          "category": "exterior",
+          "caption": "2018 Holden Barina (TM MY18) LS hatchback. Photographed in Fremantle, Western Australia, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Holden_Barina_%28TM_MY18%29_LS_hatchback_%282018-10-22%29_01.jpg/1280px-2018_Holden_Barina_%28TM_MY18%29_LS_hatchback_%282018-10-22%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+          "local_path": "media/pictures/holden/barina/holden_barina_MB-ML_1_2018_Holden_Barina_TM_MY18_LS_hatchback_2018-10-22_01.jpg",
+          "file_size_bytes": 247492,
+          "sha256": "164005f7ee574b44d28fc81d6fbe2a0682e51088962aee3376611ba020de8179"
+        }
+      ]
+    },
+    {
+      "series_code": "SB",
+      "generation_name": "SB Barina",
+      "years": {
+        "start": 1994,
+        "end": 2001
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback",
+        "2-door convertible"
+      ],
+      "platform": "GM4200 platform (Opel Corsa B)",
+      "ancap_rating": 3,
+      "summary": "Transition to GM Europe Opel Corsa B. Phenomenal sales success among Australian youth; introduced vibrant colors, European ergonomics, and the famous twin-cam Barina GSi hot hatch.",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-1.4-C14SE",
+          "name": "Holden ECOTEC 1.4L OHC Inline-4",
+          "displacement_cc": 1389,
+          "displacement_litres": 1.4,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 60.0,
+          "power_rpm": "5800",
+          "torque_nm": 114.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Multi-point fuel injection."
+        },
+        {
+          "engine_code": "ECOTEC-1.6-C16XE",
+          "name": "Holden ECOTEC 1.6L DOHC 16V Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 78.0,
+          "power_rpm": "6000",
+          "torque_nm": 150.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Twin-cam high-revving sports engine in Barina GSi (later X16XE)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "City",
+          "years": {
+            "start": 1994,
+            "end": 2000
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 13990,
+          "msrp_aud_max": 15490,
+          "fuel_consumption_l_100km": 6.8,
+          "kerb_weight_kg": 885,
+          "standard_features": [
+            "Side intrusion door beams",
+            "Seatbelt pretensioners",
+            "Body-coloured bumpers",
+            "AM/FM stereo cassette"
+          ],
+          "notes": "Youth-oriented 3-door entry model."
+        },
+        {
+          "badge_name": "GSi",
+          "years": {
+            "start": 1994,
+            "end": 1998
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 21990,
+          "msrp_aud_max": 23490,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 965,
+          "standard_features": [
+            "1.6L 16V DOHC 78 kW engine",
+            "14-inch sports alloy wheels",
+            "Rear spoiler and body kit",
+            "Sports bucket seats",
+            "Anti-lock Braking System (ABS) and power steering"
+          ],
+          "notes": "Celebrated 1990s hot hatch cult classic."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "City",
+          "body_style": "Hatchback",
+          "engine_code": "ECOTEC-1.4-C14SE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 13990,
+          "power_kw": 60.0,
+          "torque_nm": 114.0,
+          "fuel_l_100km": 6.8,
+          "towing_braked_kg": 750,
+          "notes": "Vibrant European-designed compact."
+        },
+        {
+          "badge_name": "GSi",
+          "body_style": "Hatchback",
+          "engine_code": "ECOTEC-1.6-C16XE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 21990,
+          "power_kw": 78.0,
+          "torque_nm": 150.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 900,
+          "notes": "Pocket rocket hot hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "SB",
+          "category": "exterior",
+          "caption": "Hardly ever see these around, thankfully. A Barina isn't the nicest car to start with an chopping off half the roof and replacing it with a tent isn't going to improve it much.\n\nOn the shortlist for 'Worst Holden ever'\nsmh.drive.com.au/moto",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2000_Holden_Barina_%28SB%29_Cabrio_convertible_%282011-03-17%29_01.jpg/1280px-2000_Holden_Barina_%28SB%29_Cabrio_convertible_%282011-03-17%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (FotoSleuth)",
+          "local_path": "media/pictures/holden/barina/holden_barina_SB_1_2000_Holden_Barina_SB_Cabrio_convertible_2011-03-17_01.jpg",
+          "file_size_bytes": 289250,
+          "sha256": "4df776fd7b1a6d1b202c038591e495aa34ca987e96e0a06c6371e33a7d8ab10f"
+        }
+      ]
+    },
+    {
+      "series_code": "TM",
+      "generation_name": "TM Barina",
+      "years": {
+        "start": 2011,
+        "end": 2018
+      },
+      "body_styles": [
+        "5-door hatchback",
+        "4-door sedan"
+      ],
+      "platform": "GM Gamma II platform",
+      "ancap_rating": 5,
+      "summary": "Motorcycle-inspired digital gauge cluster, 5-star ANCAP safety across the range, MyLink touch infotainment, and the warm hatch Barina RS with 103 kW 1.4L Turbo.",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-1.6-F16D4",
+          "name": "Holden ECOTEC 1.6L DOHC 16V Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85.0,
+          "power_rpm": "6000",
+          "torque_nm": 155.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "Standard engine across CD and CDX."
+        },
+        {
+          "engine_code": "Turbo-1.4-LUJ",
+          "name": "Holden 1.4L Turbo DOHC 16V Inline-4",
+          "displacement_cc": 1364,
+          "displacement_litres": 1.4,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 103.0,
+          "power_rpm": "4900",
+          "torque_nm": 200.0,
+          "torque_rpm": "1850",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "Garrett turbocharger, 200 Nm flat torque curve; exclusive to Barina RS."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CD",
+          "years": {
+            "start": 2011,
+            "end": 2018
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 15990,
+          "msrp_aud_max": 18190,
+          "fuel_consumption_l_100km": 6.8,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "6 airbags",
+            "Electronic stability control",
+            "15-inch alloy wheels",
+            "Bluetooth connectivity",
+            "Cruise control"
+          ],
+          "notes": "5-star ANCAP rating standard."
+        },
+        {
+          "badge_name": "RS",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 20990,
+          "msrp_aud_max": 23190,
+          "fuel_consumption_l_100km": 6.5,
+          "kerb_weight_kg": 1245,
+          "standard_features": [
+            "103 kW 1.4L Turbo engine",
+            "17-inch sports gunmetal alloy wheels",
+            "10mm lowered sports suspension and quicker steering rack",
+            "Sport leather-wrapped steering wheel and alloy sports pedals",
+            "MyLink 7-inch touchscreen with app integration"
+          ],
+          "notes": "Warm sports hatch edition."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CD",
+          "body_style": "Hatchback",
+          "engine_code": "ECOTEC-1.6-F16D4",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 15990,
+          "power_kw": 85.0,
+          "torque_nm": 155.0,
+          "fuel_l_100km": 6.8,
+          "towing_braked_kg": 1000,
+          "notes": "Everyday city hatch."
+        },
+        {
+          "badge_name": "RS",
+          "body_style": "Hatchback",
+          "engine_code": "Turbo-1.4-LUJ",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 20990,
+          "power_kw": 103.0,
+          "torque_nm": 200.0,
+          "fuel_l_100km": 6.5,
+          "towing_braked_kg": 1100,
+          "notes": "1.4L Turbo 6-speed manual warm hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "TM",
+          "category": "exterior",
+          "caption": "2018 Holden Barina (TM MY18) LS hatchback. Photographed in Fremantle, Western Australia, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Holden_Barina_%28TM_MY18%29_LS_hatchback_%282018-10-22%29_01.jpg/1280px-2018_Holden_Barina_%28TM_MY18%29_LS_hatchback_%282018-10-22%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+          "local_path": "media/pictures/holden/barina/holden_barina_TM_1_2018_Holden_Barina_TM_MY18_LS_hatchback_2018-10-22_01.jpg",
+          "file_size_bytes": 247492,
+          "sha256": "164005f7ee574b44d28fc81d6fbe2a0682e51088962aee3376611ba020de8179"
+        }
+      ]
+    }
+  ]
+}

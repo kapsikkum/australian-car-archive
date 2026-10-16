@@ -1,0 +1,41 @@
+{
+  "make_slug": "alpine",
+  "name": "Alpine",
+  "country_of_origin": "France",
+  "years_active_au": {
+    "start": 2018,
+    "end": 2021
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Dieppe's legendary lightweight French sports car marque, selling the exquisite mid-engine A110 in Australia through bespoke Alpine centres.",
+  "australian_history": "Renault officially launched the reborn Alpine brand in Australia in late 2018 with the mid-engined, aluminium-chassis A110 coupe. Operating dedicated Alpine showcases in Sydney and Melbourne, the brand was lauded by Australian motoring journalists for pure vehicle dynamics, featherweight 1,080kg kerb weight, and telepathic steering. Offered in Pure, Légende, and 215kW A110 S specifications, the car garnered critical acclaim. However, the introduction of strict ADR 85/00 side-impact pole crash test regulations in late 2021 forced Alpine to withdraw the A110 from Australia.",
+  "models_catalog": [
+    {
+      "model_slug": "a110",
+      "name": "A110",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2018,
+        "end": "2021"
+      },
+      "locally_built": false,
+      "overview": "Ultralight mid-engine aluminium two-seater sports car, powered by a 1.8-litre turbocharged four-cylinder with 7-speed Getrag wet dual-clutch.",
+      "generations": [
+        {
+          "series_code": "A110-Modern",
+          "generation_name": "Alpine A110",
+          "years": {
+            "start": 2018,
+            "end": 2021
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "Pure, Légende, Premiere Edition (185kW), and stiffer A110 S (215kW / 320Nm)."
+        }
+      ]
+    }
+  ]
+}

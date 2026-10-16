@@ -1,0 +1,327 @@
+{
+  "make_slug": "holden",
+  "model_slug": "cruze",
+  "name": "Holden Cruze",
+  "vehicle_type": "Small SUV / Sedan / Hatchback / Sportwagon",
+  "segment": "Small / Compact",
+  "years_sold_au": {
+    "start": 2002,
+    "end": 2016
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Elizabeth, South Australia (JH Series II & III, 2011-2016)",
+    "Kosai, Japan (YG crossover, 2002-2006)",
+    "Bupyeong, South Korea (JG, 2009-2011)",
+    "Gunsan, South Korea (JH Sportwagon, 2012-2016)"
+  ],
+  "overview": "The Holden Cruze nameplate lived two major chapters in Australia. First launched from 2002 to 2006 as the YG Cruze, it was an innovative subcompact all-wheel-drive crossover co-developed with Suzuki (based on the Ignis) featuring elevated ground clearance and 1.5L power. In 2009, Holden revived the name with the JG Cruze sedan. Most significantly, from March 2011 until October 2016, Holden invested over $1 billion to manufacture the JH Cruze Series II locally on a dedicated assembly line alongside the Commodore at Elizabeth, South Australia. The Australian-built Cruze featured an Australian-designed 5-door hatchback body style, local steering and suspension tuning, high-spec SRi and SRi-V turbo models (1.4L and 1.6L 132 kW turbos), and an efficient 2.0L Turbo Diesel. Over 125,000 Cruzes were built at Elizabeth.",
+  "australian_market_notes": "The local production of the JH Cruze represented the return of small-car manufacturing to Australia for the first time since the 1990s. Holden's Melbourne design studio, led by Peter Hughes, penned the 5-door hatchback variant that was exported to world markets. Australian engineers recalibrated the suspension, dampers, and steering rack specifically for rough Australian rural bitumen, providing significantly superior composure compared to imported rivals.",
+  "manuals": [
+    {
+      "title": "Holden Holden Cruze Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2002,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/cruze/model.json",
+      "local_path": "media/manuals/holden/cruze/holden_cruze_au_technical_manual.pdf",
+      "file_size_bytes": 5483,
+      "sha256": "f872db9e091917d32694a0ffaea3d1b8ea3e5de01354cc8bbcacd214eb77414a",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2011-2015 Holden Cruze (JH) CD station wagon. Photographed in Fremantle, Western Australia, Australia. This is the same car I pictured back on July 30th.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/2011-2015_Holden_Cruze_%28JH%29_CD_station_wagon_%282018-10-22%29.jpg/1280px-2011-2015_Holden_Cruze_%28JH%29_CD_station_wagon_%282018-10-22%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+      "local_path": "media/pictures/holden/cruze/holden_cruze_hero_1_2011-2015_Holden_Cruze_JH_CD_station_wagon_2018-10-22_.jpg",
+      "file_size_bytes": 186957,
+      "sha256": "a5e5485f4bcae2d043b4b778c775703bbeffcc9f9853b89412661ea860026632"
+    },
+    {
+      "category": "exterior",
+      "caption": "Holden Cruze JH CDX Wagon",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2012_Holden_Cruze_%28JH_II_MY13%29_CDX_station_wagon_%2815923628619%29.jpg/1280px-2012_Holden_Cruze_%28JH_II_MY13%29_CDX_station_wagon_%2815923628619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/cruze/holden_cruze_hero_2_2012_Holden_Cruze_JH_II_MY13_CDX_station_wagon_15923628619_.jpg",
+      "file_size_bytes": 199978,
+      "sha256": "54483d3229713973cc8424a10d52d39d69b742e0b6f5c3ae4364372372c55dff"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "YG",
+      "generation_name": "YG Cruze AWD",
+      "years": {
+        "start": 2002,
+        "end": 2006
+      },
+      "body_styles": [
+        "5-door SUV crossover"
+      ],
+      "platform": "Suzuki Ignis platform",
+      "ancap_rating": 3,
+      "summary": "Subcompact AWD lifestyle crossover joint-venture with Suzuki. High ground clearance, flared wheel arches, and full-time all-wheel drive.",
+      "engines": [
+        {
+          "engine_code": "Suzuki-M15A",
+          "name": "Suzuki M15A 1.5L DOHC 16V Inline-4",
+          "displacement_cc": 1490,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 74.0,
+          "power_rpm": "5500",
+          "torque_nm": 138.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "All-aluminium construction with variable valve timing."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cruze AWD",
+          "years": {
+            "start": 2002,
+            "end": 2006
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 22490,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 990,
+          "standard_features": [
+            "Viscous-coupling all-wheel drive",
+            "Dual front airbags",
+            "15-inch alloy wheels",
+            "Roof rails",
+            "Air conditioning"
+          ],
+          "notes": "Pioneering compact AWD crossover."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cruze AWD",
+          "body_style": "Hatchback",
+          "engine_code": "Suzuki-M15A",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "msrp_aud": 19990,
+          "power_kw": 74.0,
+          "torque_nm": 138.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 800,
+          "notes": "Lightweight AWD pioneer."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "YG",
+          "category": "exterior",
+          "caption": "2003 Holden Cruze (YG) wagon. Photographed in Sutherland, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2003_Holden_Cruze_%28YG%29_wagon_%282009-10-23%29.jpg/1280px-2003_Holden_Cruze_%28YG%29_wagon_%282009-10-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/holden/cruze/holden_cruze_YG_1_2003_Holden_Cruze_YG_wagon_2009-10-23_.jpg",
+          "file_size_bytes": 407605,
+          "sha256": "6cde17ddf5a18fbdcbf33759dc4fcd14ac4b756f65ee4ce6c9c7bf4c2278d976"
+        }
+      ]
+    },
+    {
+      "series_code": "JH-Series-II",
+      "generation_name": "JH Cruze (Locally Manufactured)",
+      "years": {
+        "start": 2011,
+        "end": 2016
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door hatchback",
+        "5-door wagon"
+      ],
+      "platform": "GM Delta II platform",
+      "ancap_rating": 5,
+      "summary": "Manufactured at Elizabeth, South Australia. Australian-penned 5-door hatchback, locally tuned suspension and steering, introducing 1.4L Turbo, 1.6L 132 kW Turbo, and 2.0L Turbo Diesel.",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-1.8-F18D4",
+          "name": "Holden ECOTEC 1.8L DOHC 16V Inline-4",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 104.0,
+          "power_rpm": "6200",
+          "torque_nm": 176.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "Standard engine in CD and Equipe."
+        },
+        {
+          "engine_code": "iTi-1.4-Turbo",
+          "name": "Holden 1.4L iTi Turbo DOHC 16V Inline-4",
+          "displacement_cc": 1364,
+          "displacement_litres": 1.4,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 103.0,
+          "power_rpm": "4900",
+          "torque_nm": 200.0,
+          "torque_rpm": "1850",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "Intelligent Turbo Induction (iTi) with electric power steering and Watts linkage rear suspension."
+        },
+        {
+          "engine_code": "Turbo-1.6-SIDI",
+          "name": "Holden 1.6L SIDI Turbo DOHC 16V Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 132.0,
+          "power_rpm": "5500",
+          "torque_nm": 230.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16V VVT SIDI",
+          "notes": "Direct injection performance engine; powers Australian SRi and SRi-V from 2013."
+        },
+        {
+          "engine_code": "VCDi-2.0-Diesel",
+          "name": "Holden 2.0L VCDi Common-Rail Turbo Diesel Inline-4",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 120.0,
+          "power_rpm": "3800",
+          "torque_nm": 360.0,
+          "torque_rpm": "1750",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Variable-geometry turbocharger with 360 Nm of torque."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Equipe",
+          "years": {
+            "start": 2013,
+            "end": 2016
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed automatic with Active Select"
+          ],
+          "msrp_aud_min": 19490,
+          "msrp_aud_max": 22490,
+          "fuel_consumption_l_100km": 7.0,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "MyLink 7-inch colour touchscreen infotainment",
+            "Rear view camera and rear park sensors",
+            "17-inch alloy wheels",
+            "6 airbags and 5-star ANCAP rating"
+          ],
+          "notes": "Locally built volume sales leader."
+        },
+        {
+          "badge_name": "SRi-V",
+          "years": {
+            "start": 2011,
+            "end": 2016
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 26490,
+          "msrp_aud_max": 28990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1455,
+          "standard_features": [
+            "132 kW 1.6L SIDI Turbo engine (from 2013)",
+            "Watts linkage sports rear suspension",
+            "18-inch sports alloy wheels",
+            "Leather appointed sports seats with heating",
+            "Keyless entry with push-button start and satellite navigation"
+          ],
+          "notes": "Elizabeth-built sports flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Equipe",
+          "body_style": "Sedan",
+          "engine_code": "ECOTEC-1.8-F18D4",
+          "transmission": "6-speed automatic with Active Select",
+          "drivetrain": "FWD",
+          "msrp_aud": 21690,
+          "power_kw": 104.0,
+          "torque_nm": 176.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1200,
+          "notes": "Locally manufactured Australian sedan."
+        },
+        {
+          "badge_name": "SRi-V",
+          "body_style": "Hatchback",
+          "engine_code": "Turbo-1.6-SIDI",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 26490,
+          "power_kw": 132.0,
+          "torque_nm": 230.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1200,
+          "notes": "132 kW Australian-built sports turbo hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "JH-Series-II",
+          "category": "exterior",
+          "caption": "2011 Holden Cruze SRI-V at the Australian International Motor Show held at the Melbourne Convention Centre.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2011_Holden_Cruze_%28JH_II%29_SRi-V_sedan_%282011-07-02%29.jpg/1280px-2011_Holden_Cruze_%28JH_II%29_SRi-V_sedan_%282011-07-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Aaron Dominguez)",
+          "local_path": "media/pictures/holden/cruze/holden_cruze_JH-Series-II_1_2011_Holden_Cruze_JH_II_SRi-V_sedan_2011-07-02_.jpg",
+          "file_size_bytes": 294000,
+          "sha256": "f55af19d292613e363433b29f21c8f5904cc4a757941d26cc7dea879e3ff7ae6"
+        }
+      ]
+    }
+  ]
+}

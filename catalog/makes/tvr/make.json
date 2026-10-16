@@ -1,0 +1,41 @@
+{
+  "make_slug": "tvr",
+  "name": "TVR",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1988,
+    "end": "2006"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Blackpool's outrageous, lightweight fibreglass beasts—no ABS, no traction control, pure thunderous Rover V8 and Speed Six power.",
+  "australian_history": "TVR was imported into Australia in low volumes by enthusiasts and specialist agents in Sydney and Melbourne through the 1980s and 1990s. Models like the Chimaera, Griffith 500, and Speed Six-powered Tuscan captured admiration for their outrageous power-to-weight ratios, tubular steel backbone chassis, and aggressive exhaust roar. Production ended globally in 2006, leaving an indelible cult legacy.",
+  "models_catalog": [
+    {
+      "model_slug": "chimaera-griffith",
+      "name": "Chimaera / Griffith",
+      "vehicle_type": "Roadster",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1992,
+        "end": "2003"
+      },
+      "locally_built": false,
+      "overview": "V8 roadsters featuring hand-laid fibreglass bodies, bespoke leather cabins, and tuned Rover 4.0L, 4.5L, and 5.0L V8s.",
+      "generations": [
+        {
+          "series_code": "V8-Roadsters",
+          "generation_name": "TVR Chimaera & Griffith",
+          "years": {
+            "start": 1992,
+            "end": "2003"
+          },
+          "body_styles": [
+            "2-door roadster"
+          ],
+          "summary": "Tubular spaceframe, double-wishbone suspension, dry-sump 5.0L V8 producing 254kW in a 1,060kg roadster."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "make_slug": "gwm-haval",
+  "name": "GWM / Haval",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2009,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The pioneer of Chinese vehicles in Australia, progressing from the 2009 Great Wall V240 ute to direct factory operations with the GWM Cannon, Haval H6, and Tank 300 off-roaders.",
+  "australian_history": "Great Wall Motors (GWM) made Australian automotive history in 2009 when distributor Ateco Automotive launched the V240 and SA220, making Great Wall the very first Chinese brand sold in Australia. In 2016, GWM established a direct factory subsidiary in Melbourne and introduced the Haval SUV brand. In 2020, GWM rebranded under a unified identity, launching the rugged Cannon dual-cab ute, Haval Jolion compact SUV, Haval H6 midsize SUV (including H6 Hybrid and H6 GT coupe-SUV), and the Tank off-road sub-brand (Tank 300 and Tank 500), achieving top-10 monthly sales rankings.",
+  "models_catalog": [
+    {
+      "model_slug": "cannon-h6",
+      "name": "Cannon / Haval H6 / Tank 300",
+      "vehicle_type": "Ute / SUV / 4WD",
+      "segment": "Utes & Medium/Large SUVs",
+      "years_sold_au": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The backbone of GWM's Australian lineup: early pioneering V200/V240 utes, the best-selling Cannon dual-cab, high-tech Haval H6 hybrid, and heavy-duty Tank 300 4x4.",
+      "generations": [
+        {
+          "series_code": "V200-V240",
+          "generation_name": "Great Wall V240 & V200",
+          "years": {
+            "start": 2009,
+            "end": "2016"
+          },
+          "body_styles": [
+            "Single-cab ute",
+            "Dual-cab ute"
+          ],
+          "summary": "First Chinese vehicles in AU; 2.4L 4G69 Mitsubishi petrol (93kW) and 2.0L Turbo Diesel (105kW) with dual-range 4WD."
+        },
+        {
+          "series_code": "Cannon-Ute",
+          "generation_name": "GWM Cannon Ute",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "summary": "2.0L Turbo Diesel (120kW/400Nm), 8-speed ZF automatic, BorgWarner torque-on-demand 4WD, rear diff lock, and Cannon Alpha hybrid."
+        },
+        {
+          "series_code": "Haval-H6",
+          "generation_name": "Haval H6 Gen 2 & 3",
+          "years": {
+            "start": 2016,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "H6 GT coupe-SUV"
+          ],
+          "summary": "L.E.M.O.N. modular platform, 2.0L Turbo (150kW), 179kW H6 Dedicated Hybrid Transmission (DHT), and swoopy H6 GT."
+        },
+        {
+          "series_code": "Tank-300",
+          "generation_name": "GWM Tank 300",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 4WD SUV"
+          ],
+          "summary": "Ladder-chassis off-roader, front and rear differential locks, 2.0L Turbo Petrol (162kW) and 258kW/615Nm Tank 300 Hybrid."
+        }
+      ]
+    },
+    {
+      "model_slug": "jolion",
+      "name": "Haval Jolion",
+      "vehicle_type": "SUV",
+      "segment": "Small / Medium SUV",
+      "years_sold_au": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "GWM's popular family compact crossover, offering vast rear legroom, 1.5-litre turbo petrol, and punchy Jolion Hybrid.",
+      "generations": [
+        {
+          "series_code": "Jolion-Gen1",
+          "generation_name": "Haval Jolion",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.5L Turbo petrol (110kW/210Nm) with 7-speed DCT, and 139kW Jolion Hybrid with multi-mode transmission."
+        }
+      ]
+    }
+  ]
+}

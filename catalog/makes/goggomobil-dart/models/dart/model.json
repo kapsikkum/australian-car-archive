@@ -1,0 +1,157 @@
+{
+  "make_slug": "goggomobil-dart",
+  "model_slug": "dart",
+  "name": "Goggomobil Dart",
+  "vehicle_type": "Roadster",
+  "segment": "Micro Sports",
+  "years_sold_au": {
+    "start": 1959,
+    "end": 1962
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Brookvale, New South Wales"
+  ],
+  "overview": "The Goggomobil Dart is Australia's most famous and beloved micro-sports car. Conceived and designed by Sydney automotive pioneer Bill Buckle to bypass steep tariffs on imported fully assembled cars, the Dart combined German Hans Glas rolling chassis components with an ultra-lightweight, doorless aerodynamic fiberglass roadster body molded in Brookvale, Sydney. Standing just 1.1 meters tall and weighing only 345 kg, the Dart became an Australian cultural icon, celebrated for its playful styling and immortalized in Australian television advertisements.",
+  "australian_market_notes": "To enter the car, occupants simply stepped over the scalloped fiberglass sides into bucket seats. The rear-mounted 300cc and 400cc air-cooled twin-cylinder two-stroke engines drove the rear wheels via an innovative electric pre-selector transmission. Around 700 Darts were manufactured in Sydney between 1959 and 1962.",
+  "manuals": [
+    {
+      "title": "Goggomobil Dart Goggomobil Dart Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1959,
+      "language": "en",
+      "source_url": "local://catalog/makes/goggomobil-dart/models/dart/model.json",
+      "local_path": "media/manuals/goggomobil-dart/dart/goggomobil-dart_dart_au_technical_manual.pdf",
+      "file_size_bytes": 3268,
+      "sha256": "c076c25226a96734c9c8d69fe4abd6411237da3fa2835fa313efc7110f00f241",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "RMYC Unique Car Show, Newport, NSW July 2015",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/1959_Goggomobil_Dart_%2820485627536%29.jpg/1280px-1959_Goggomobil_Dart_%2820485627536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/goggomobil-dart/dart/goggomobil-dart_dart_hero_1_1959_Goggomobil_Dart_20485627536_.jpg",
+      "file_size_bytes": 320707,
+      "sha256": "748f46836be779b4e252b7f284b96ecd09a5c7626f0279d0c441f073ceb5f1d3"
+    },
+    {
+      "category": "exterior",
+      "caption": "RMYC Unique Car Show, Newport, NSW July 2015",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/1959_Goggomobil_Dart_%2820511842335%29.jpg/1280px-1959_Goggomobil_Dart_%2820511842335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/goggomobil-dart/dart/goggomobil-dart_dart_hero_2_1959_Goggomobil_Dart_20511842335_.jpg",
+      "file_size_bytes": 149397,
+      "sha256": "b16391073f881e369d938b010edfc1b92c7814c2d0dd6072ede340e806e3780c"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Dart",
+      "generation_name": "Goggomobil Dart",
+      "years": {
+        "start": 1959,
+        "end": 1962
+      },
+      "body_styles": [
+        "2-door-less open roadster"
+      ],
+      "platform": "Goggomobil platform with Buckle fiberglass tub",
+      "ancap_rating": null,
+      "summary": "Ultralight 345kg fiberglass roadster; rear-mounted Glas 293cc and 392cc 2-stroke twins; electric pre-selector gearbox; ~700 built in Sydney.",
+      "engines": [
+        {
+          "engine_code": "Glas-293-2T",
+          "name": "Glas 293cc Air-Cooled 2-Stroke Twin",
+          "displacement_cc": 293,
+          "displacement_litres": 0.29,
+          "cylinders": 2,
+          "configuration": "Inline rear-mounted",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol / 2-Stroke Premix",
+          "power_kw": 11.2,
+          "power_rpm": "5000",
+          "torque_nm": 24.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "6.0:1",
+          "valvetrain": "2-Stroke",
+          "notes": "Bing carburettor; 15 bhp."
+        },
+        {
+          "engine_code": "Glas-392-2T",
+          "name": "Glas 392cc Air-Cooled 2-Stroke Twin",
+          "displacement_cc": 392,
+          "displacement_litres": 0.39,
+          "cylinders": 2,
+          "configuration": "Inline rear-mounted",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol / 2-Stroke Premix",
+          "power_kw": 14.9,
+          "power_rpm": "5000",
+          "torque_nm": 32.0,
+          "torque_rpm": "3900",
+          "compression_ratio": "6.5:1",
+          "valvetrain": "2-Stroke",
+          "notes": "20 bhp; top speed 105 km/h."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Dart 400",
+          "years": {
+            "start": 1959,
+            "end": 1962
+          },
+          "body_styles": [
+            "Open roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed electric pre-selector",
+            "4-speed manual dog clutch"
+          ],
+          "msrp_aud_min": 1270,
+          "msrp_aud_max": 1400,
+          "fuel_consumption_l_100km": 4.5,
+          "kerb_weight_kg": 345,
+          "standard_features": [
+            "One-piece fiberglass monocoque tub",
+            "Wraparound Plexiglas screen",
+            "Stepped sill entry (no doors)",
+            "Twin rear finettes"
+          ],
+          "notes": "Classic Australian cult microcar."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Dart 400",
+          "body_style": "Open roadster",
+          "engine_code": "Glas-392-2T",
+          "transmission": "4-speed electric pre-selector",
+          "drivetrain": "RWD",
+          "msrp_aud": 1350,
+          "power_kw": 14.9,
+          "torque_nm": 32.0,
+          "fuel_l_100km": 4.5,
+          "towing_braked_kg": 0,
+          "notes": "345 kg weight; 105 km/h top speed; Australian design icon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Dart",
+          "category": "exterior",
+          "caption": "Photographed in Denmark.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Goggomobil_Dart_pic03.JPG/1280px-Goggomobil_Dart_pic03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Alf van Beem)",
+          "local_path": "media/pictures/goggomobil-dart/dart/goggomobil-dart_dart_Dart_1_Goggomobil_Dart_pic03.JPG",
+          "file_size_bytes": 427281,
+          "sha256": "506a3f2fc5c4ea74b728c1b4539eed2678c89daab482be6a2b6604ddb58556c1"
+        }
+      ]
+    }
+  ]
+}

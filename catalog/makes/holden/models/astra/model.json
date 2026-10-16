@@ -1,0 +1,757 @@
+{
+  "make_slug": "holden",
+  "model_slug": "astra",
+  "name": "Holden Astra",
+  "vehicle_type": "Hatchback / Sedan / Wagon / Coupe / Convertible",
+  "segment": "Small",
+  "years_sold_au": {
+    "start": 1984,
+    "end": 2020
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria (Nissan AMI JV, LB/LC/LD)",
+    "Elizabeth, South Australia (LD body panels)",
+    "Antwerp, Belgium (Opel, TS/AH)",
+    "Bochum, Germany (Opel, AH)",
+    "Gliwice, Poland (Opel, AH/BK)",
+    "Ellesmere Port, United Kingdom (Vauxhall/Opel, BK)"
+  ],
+  "overview": "Spanning 36 years across seven generations, the Holden Astra was Holden's frontline small car. Launched in August 1984 as the LB/LC Astra, it originated as a badge-engineered Nissan Pulsar assembled in Clayton, Victoria. Under the Button Car Plan, the 1987 LD Astra combined Nissan body engineering with Holden's locally manufactured 1.6L and 1.8L Family II engines. In 1996, the Astra was reborn as the TR series, imported from Opel in Europe. The 1998 TS Astra became a massive commercial triumph, winning Wheels Car of the Year and spawning the hot hatch SRi and SRi Turbo (147 kW). The 2004 AH brought dynamic European styling and the 177 kW Astra VXR, followed by the PJ VXR coupe and the final high-tech 2016-2020 BK Astra hatchback (European Car of the Year) before Holden's retirement.",
+  "australian_market_notes": "The TS Astra was Holden's best-selling passenger car after the Commodore in the late 1990s and early 2000s, renowned for its vault-solid German body rigidity, standard dual airbags, and Lotus-tuned suspension. The sporty SRi and SRi Turbo models earned fierce cult status among hot hatch enthusiasts, while Bertone-styled Astra Convertibles brought accessible European glamour to Australian beaches.",
+  "manuals": [
+    {
+      "title": "Holden Holden Astra Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1984,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/astra/model.json",
+      "local_path": "media/manuals/holden/astra/holden_astra_au_technical_manual.pdf",
+      "file_size_bytes": 8791,
+      "sha256": "607164365fcf03a47390099a49ca8675999cbe25d074024c003707c1734150b3",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Cleaned up my sister inlaws car the other week, as she was selling it.\n\nI just wished I'd taken a set of before pictures, just to show everyone the difference I made with a good clean!\n\nWas a great little car! I still like the look of these",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/2005_Holden_Astra_%28TS%29_Classic_sedan_%2815564025196%29.jpg/1280px-2005_Holden_Astra_%28TS%29_Classic_sedan_%2815564025196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+      "local_path": "media/pictures/holden/astra/holden_astra_hero_1_2005_Holden_Astra_TS_Classic_sedan_15564025196_.jpg",
+      "file_size_bytes": 172490,
+      "sha256": "8c5c703947e509dea7d1258787df018af0d34a0f71dce26f36a49336f82a8ed3"
+    },
+    {
+      "category": "exterior",
+      "caption": "Cleaned up my sister inlaws car the other week, as she was selling it.\n\nI just wished I'd taken a set of before pictures, just to show everyone the difference I made with a good clean!\n\nWas a great little car! I still like the look of these",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2005_Holden_Astra_%28TS%29_Classic_sedan_%2815564025436%29.jpg/1280px-2005_Holden_Astra_%28TS%29_Classic_sedan_%2815564025436%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+      "local_path": "media/pictures/holden/astra/holden_astra_hero_2_2005_Holden_Astra_TS_Classic_sedan_15564025436_.jpg",
+      "file_size_bytes": 214673,
+      "sha256": "8b3e47d2f11f8d9e119e96be3b442664d19727ceb62422dd5e8fc9feffda7b55"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "LB-LC",
+      "generation_name": "LB / LC Astra",
+      "years": {
+        "start": 1984,
+        "end": 1987
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "Nissan N12 platform",
+      "ancap_rating": null,
+      "summary": "First Holden Astra, produced jointly with Nissan Australia at Clayton, Victoria. Based on the N12 Pulsar with unique Holden grille and badging.",
+      "engines": [
+        {
+          "engine_code": "Nissan-E15",
+          "name": "Nissan E15 1.5L OHC Inline-4",
+          "displacement_cc": 1488,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 52.0,
+          "power_rpm": "5600",
+          "torque_nm": 115.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Single-barrel Hitachi carburettor."
+        },
+        {
+          "engine_code": "Nissan-E16",
+          "name": "Nissan E16 1.6L OHC Inline-4",
+          "displacement_cc": 1597,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 55.0,
+          "power_rpm": "5600",
+          "torque_nm": 124.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Introduced in LC update in 1986."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SL/X",
+          "years": {
+            "start": 1984,
+            "end": 1987
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 8590,
+          "msrp_aud_max": 9980,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 910,
+          "standard_features": [
+            "Cloth seat trim",
+            "AM/FM push-button radio",
+            "Split-folding rear seat",
+            "Rear window wiper/washer"
+          ],
+          "notes": "Core private buyer model."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SL/X",
+          "body_style": "Hatchback",
+          "engine_code": "Nissan-E15",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 8590,
+          "power_kw": 52.0,
+          "torque_nm": 115.0,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 600,
+          "notes": "First-generation Australian compact hatch."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "LD",
+      "generation_name": "LD Astra",
+      "years": {
+        "start": 1987,
+        "end": 1989
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door hatchback"
+      ],
+      "platform": "Nissan N13 platform",
+      "ancap_rating": null,
+      "summary": "Product of the Button Car Plan sharing the Nissan Pulsar platform, fitted with Holden's locally manufactured Family II 1.6L and 1.8L multi-point EFI engines.",
+      "engines": [
+        {
+          "engine_code": "Family-II-1.6L",
+          "name": "Holden Family II 16LF 1.6L OHC Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 59.0,
+          "power_rpm": "5400",
+          "torque_nm": 124.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Manufactured at Holden's Fishermans Bend engine plant in Melbourne."
+        },
+        {
+          "engine_code": "Family-II-1.8L",
+          "name": "Holden Family II 18LE 1.8L EFI Inline-4",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 79.0,
+          "power_rpm": "5600",
+          "torque_nm": 145.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Bosch multi-point electronic fuel injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SL/X",
+          "years": {
+            "start": 1987,
+            "end": 1989
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 12990,
+          "msrp_aud_max": 14990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 995,
+          "standard_features": [
+            "1.6L Family II engine",
+            "Power steering",
+            "Tinted glass",
+            "Cloth upholstery"
+          ],
+          "notes": "Mainstream sedan and hatch."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SL/X",
+          "body_style": "Sedan",
+          "engine_code": "Family-II-1.8L",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 14200,
+          "power_kw": 79.0,
+          "torque_nm": 145.0,
+          "fuel_l_100km": 8.0,
+          "towing_braked_kg": 750,
+          "notes": "1.8L EFI Family II sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "LD",
+          "category": "exterior",
+          "caption": "This image is a scan of a 35 mm print taken in 1989",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/1988_Holden_Astra_%28LD%29_SLX_hatchback_%2816306503476%29.jpg/1280px-1988_Holden_Astra_%28LD%29_SLX_hatchback_%2816306503476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/holden/astra/holden_astra_LD_1_1988_Holden_Astra_LD_SLX_hatchback_16306503476_.jpg",
+          "file_size_bytes": 204015,
+          "sha256": "b2753a614c25d2d8768efbdb649114325fb9a24001b0c8500e8d6ec9da5a0d68"
+        }
+      ]
+    },
+    {
+      "series_code": "TS",
+      "generation_name": "TS Astra",
+      "years": {
+        "start": 1998,
+        "end": 2005
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback",
+        "4-door sedan",
+        "2-door convertible"
+      ],
+      "platform": "GM T-body (Opel Astra G)",
+      "ancap_rating": 4,
+      "summary": "Wheels Car of the Year 1998. Acclaimed German Opel engineering, galvanized steel body, Lotus-tuned dynamic suspension, and the fiery SRi and SRi Turbo hot hatches.",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-1.8-X18XE1",
+          "name": "Holden ECOTEC 1.8L DOHC 16V Inline-4",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85.0,
+          "power_rpm": "5400",
+          "torque_nm": 170.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Upgraded to Z18XE with 92 kW in late 2000."
+        },
+        {
+          "engine_code": "ECOTEC-2.2-Z22SE",
+          "name": "Holden ECOTEC 2.2L DOHC 16V Inline-4",
+          "displacement_cc": 2198,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 108.0,
+          "power_rpm": "5800",
+          "torque_nm": 203.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "All-aluminium engine with twin counter-rotating balance shafts; fitted to Astra SRi."
+        },
+        {
+          "engine_code": "Turbo-2.0-Z20LET",
+          "name": "Holden 2.0L Turbo DOHC 16V Inline-4",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 147.0,
+          "power_rpm": "5400",
+          "torque_nm": 250.0,
+          "torque_rpm": "1950",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Garrett water-cooled turbocharger, air-to-air intercooler; powers Astra SRi Turbo."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "City",
+          "years": {
+            "start": 1998,
+            "end": 2004
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 18990,
+          "msrp_aud_max": 21990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1130,
+          "standard_features": [
+            "Dual front airbags",
+            "Engine immobiliser",
+            "AM/FM CD stereo",
+            "Power steering"
+          ],
+          "notes": "Benchmark entry model."
+        },
+        {
+          "badge_name": "CD",
+          "years": {
+            "start": 1998,
+            "end": 2005
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 21490,
+          "msrp_aud_max": 24990,
+          "fuel_consumption_l_100km": 7.6,
+          "kerb_weight_kg": 1160,
+          "standard_features": [
+            "Air conditioning",
+            "Power front windows",
+            "Heated electric mirrors",
+            "Velour interior"
+          ],
+          "notes": "Popular mid-spec trim."
+        },
+        {
+          "badge_name": "SRi",
+          "years": {
+            "start": 2001,
+            "end": 2004
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 27990,
+          "msrp_aud_max": 29990,
+          "fuel_consumption_l_100km": 8.6,
+          "kerb_weight_kg": 1240,
+          "standard_features": [
+            "2.2L 108 kW alloy engine",
+            "16-inch alloy wheels",
+            "Sports suspension",
+            "Sports bucket seats with white-faced dials",
+            "Traction control and ABS"
+          ],
+          "notes": "Atmospheric 3-door sports hatch."
+        },
+        {
+          "badge_name": "SRi Turbo",
+          "years": {
+            "start": 2003,
+            "end": 2004
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 36990,
+          "msrp_aud_max": 37990,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1290,
+          "standard_features": [
+            "147 kW 2.0L Turbo engine",
+            "17-inch 5-spoke alloy wheels",
+            "Full Irmscher sports body kit",
+            "Cruise control",
+            "Leather sports seats and electronic stability program (ESP)"
+          ],
+          "notes": "Hot hatch legend; 0-100 km/h in 7.0 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CD",
+          "body_style": "Hatchback",
+          "engine_code": "ECOTEC-1.8-X18XE1",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 21490,
+          "power_kw": 85.0,
+          "torque_nm": 170.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1000,
+          "notes": "Wheels Car of the Year winner."
+        },
+        {
+          "badge_name": "SRi Turbo",
+          "body_style": "Hatchback",
+          "engine_code": "Turbo-2.0-Z20LET",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 36990,
+          "power_kw": 147.0,
+          "torque_nm": 250.0,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 1200,
+          "notes": "Top-tier hot hatch pocket rocket."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "TS",
+          "category": "exterior",
+          "caption": "Holden Astra TS Classic",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2005_Holden_Astra_%28TS%29_Classic_Equipe_sedan_%2815794958950%29.jpg/1280px-2005_Holden_Astra_%28TS%29_Classic_Equipe_sedan_%2815794958950%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/holden/astra/holden_astra_TS_1_2005_Holden_Astra_TS_Classic_Equipe_sedan_15794958950_.jpg",
+          "file_size_bytes": 375128,
+          "sha256": "51180ce4f98d210144b88c2a8566005a3f5ea0ea7b37f164e3f0d5d6605b6096"
+        }
+      ]
+    },
+    {
+      "series_code": "AH",
+      "generation_name": "AH Astra",
+      "years": {
+        "start": 2004,
+        "end": 2009
+      },
+      "body_styles": [
+        "3-door coupe",
+        "5-door hatchback",
+        "4-door sedan",
+        "5-door wagon",
+        "2-door TwinTop"
+      ],
+      "platform": "GM Delta platform (Opel Astra H)",
+      "ancap_rating": 4,
+      "summary": "Crisp European exterior design, Continuous Damping Control (CDC) sports chassis, punchy CDTi common-rail turbo-diesel, and the blistering 177 kW Astra VXR.",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-1.8-Z18XER",
+          "name": "Holden ECOTEC 1.8L VVT Inline-4",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 103.0,
+          "power_rpm": "6300",
+          "torque_nm": 175.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "Variable Valve Timing (VVT)."
+        },
+        {
+          "engine_code": "Turbo-2.0-VXR-Z20LEH",
+          "name": "Holden VXR 2.0L Turbo DOHC 16V Inline-4",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 177.0,
+          "power_rpm": "5600",
+          "torque_nm": 320.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Forged pistons, under-crown oil spray jets, 1.2 bar boost; powers Astra VXR."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CD",
+          "years": {
+            "start": 2004,
+            "end": 2009
+          },
+          "body_styles": [
+            "Hatchback",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 21990,
+          "msrp_aud_max": 24990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1215,
+          "standard_features": [
+            "ABS with EBD",
+            "Front and side airbags",
+            "15-inch steel wheels",
+            "Cruise control"
+          ],
+          "notes": "High-volume fleet and family choice."
+        },
+        {
+          "badge_name": "VXR",
+          "years": {
+            "start": 2006,
+            "end": 2009
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 44990,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1393,
+          "standard_features": [
+            "177 kW 2.0L Turbo engine",
+            "19-inch alloy wheels",
+            "Recaro leather sports bucket seats",
+            "IDSPlus interactive driving system with continuous damping",
+            "Centre-exit trapezoidal chrome exhaust"
+          ],
+          "notes": "Performance flagship; 244 km/h top speed."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CD",
+          "body_style": "Hatchback",
+          "engine_code": "ECOTEC-1.8-Z18XER",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 21990,
+          "power_kw": 103.0,
+          "torque_nm": 175.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1200,
+          "notes": "Standard Australian specification."
+        },
+        {
+          "badge_name": "VXR",
+          "body_style": "Coupe",
+          "engine_code": "Turbo-2.0-VXR-Z20LEH",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 42990,
+          "power_kw": 177.0,
+          "torque_nm": 320.0,
+          "fuel_l_100km": 9.2,
+          "towing_braked_kg": 1400,
+          "notes": "High-octane hot hatch icon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "AH",
+          "category": "exterior",
+          "caption": "2006–2007 Holden Astra (AH) CDX hatchback. Photographed in Sutherland, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2006-2007_Holden_Astra_%28AH%29_CDX_hatchback_%282009-07-15%29.jpg/1280px-2006-2007_Holden_Astra_%28AH%29_CDX_hatchback_%282009-07-15%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/holden/astra/holden_astra_AH_1_2006-2007_Holden_Astra_AH_CDX_hatchback_2009-07-15_.jpg",
+          "file_size_bytes": 280571,
+          "sha256": "0101c641bb7779f93b5023cdec18166c9ff67c10d47ca562e0ba261dfea63674"
+        }
+      ]
+    },
+    {
+      "series_code": "BK",
+      "generation_name": "BK Astra",
+      "years": {
+        "start": 2016,
+        "end": 2020
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "GM D2XX platform (Opel Astra K)",
+      "ancap_rating": 5,
+      "summary": "European Car of the Year 2016. High-tensile lightweight architecture, Apple CarPlay/Android Auto, IntelliLux LED matrix headlights, and powerful 147 kW 1.6L direct-injection turbo.",
+      "engines": [
+        {
+          "engine_code": "ECOTEC-1.4T-B14XFT",
+          "name": "Holden ECOTEC 1.4L Direct-Injection Turbo Inline-4",
+          "displacement_cc": 1399,
+          "displacement_litres": 1.4,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 110.0,
+          "power_rpm": "5600",
+          "torque_nm": 240.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16V VVT SIDI",
+          "notes": "Spark Ignition Direct Injection (SIDI) aluminium turbo."
+        },
+        {
+          "engine_code": "ECOTEC-1.6T-B16SHT",
+          "name": "Holden ECOTEC 1.6L Direct-Injection Turbo Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 147.0,
+          "power_rpm": "5500",
+          "torque_nm": 300.0,
+          "torque_rpm": "1650",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16V VVT SIDI",
+          "notes": "Overboost feature lifts torque to 300 Nm in RS and RS-V."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "R",
+          "years": {
+            "start": 2016,
+            "end": 2020
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 21990,
+          "msrp_aud_max": 24190,
+          "fuel_consumption_l_100km": 5.8,
+          "kerb_weight_kg": 1245,
+          "standard_features": [
+            "7-inch colour touchscreen",
+            "Apple CarPlay & Android Auto",
+            "Rear camera and rear park assist",
+            "17-inch alloy wheels"
+          ],
+          "notes": "Entry-level turbo hatch."
+        },
+        {
+          "badge_name": "RS-V",
+          "years": {
+            "start": 2016,
+            "end": 2020
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 30990,
+          "msrp_aud_max": 33190,
+          "fuel_consumption_l_100km": 6.3,
+          "kerb_weight_kg": 1335,
+          "standard_features": [
+            "147 kW 1.6L Turbo engine",
+            "Leather appointed sports seats with heating",
+            "8-inch touchscreen with embedded satellite navigation",
+            "IntelliLux LED Matrix headlights",
+            "Blind spot alert and lane keep assist"
+          ],
+          "notes": "High-spec flagship hot hatch."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RS-V",
+          "body_style": "Hatchback",
+          "engine_code": "ECOTEC-1.6T-B16SHT",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 30990,
+          "power_kw": 147.0,
+          "torque_nm": 300.0,
+          "fuel_l_100km": 6.3,
+          "towing_braked_kg": 1400,
+          "notes": "147 kW 6-speed manual hot hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "BK",
+          "category": "exterior",
+          "caption": "2017 Holden Astra (BK) R hatchback. Photographed in Fremantle, Western Australia, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2017_Holden_Astra_%28BK%29_R_hatchback_%282018-11-02%29_01.jpg/1280px-2017_Holden_Astra_%28BK%29_R_hatchback_%282018-11-02%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+          "local_path": "media/pictures/holden/astra/holden_astra_BK_1_2017_Holden_Astra_BK_R_hatchback_2018-11-02_01.jpg",
+          "file_size_bytes": 221329,
+          "sha256": "f5157d985dfd9eb4bf522cc20f293d755f30475d41a4c48d6ab24850fe77c0f0"
+        }
+      ]
+    }
+  ]
+}

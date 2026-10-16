@@ -1,0 +1,787 @@
+{
+  "make_slug": "subaru",
+  "model_slug": "forester",
+  "name": "Forester",
+  "vehicle_type": "Compact / Medium SUV",
+  "segment": "Medium SUV",
+  "years_sold_au": {
+    "start": 1997,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Subaru Forester is an Australian automotive legend that helped pioneer the compact all-wheel-drive crossover genre in 1997. Blending permanent Symmetrical All-Wheel Drive, high ground clearance, commanding estate-car visibility, and turbocharged WRX engines in GT and XT badges, it earned an intensely loyal following among Australian families, campers, and rural motorists.",
+  "australian_market_notes": "Launched in Australia in September 1997, the Forester was an instant sales success. The introduction of the turbo Forester GT in 1998 democratized high-performance all-weather motoring for families, a formula expanded with the SG XT, SH S-Edition, and SJ XT. Across six generations, the Forester has been a fixture of Australian outdoor lifestyle culture.",
+  "manuals": [
+    {
+      "title": "Subaru Forester Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1997,
+      "language": "en",
+      "source_url": "local://catalog/makes/subaru/models/forester/model.json",
+      "local_path": "media/manuals/subaru/forester/subaru_forester_au_technical_manual.pdf",
+      "file_size_bytes": 8762,
+      "sha256": "f87dd319b5a011ba93f67708d01b2ba904a5f9bc48ee4966300ff28be93c0740",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Subaru Forester 2.5X user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-552036",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/subaru/forester/subaru_forester_manual_Subaru_Forester_2.5X_user_manual.html",
+      "file_size_bytes": 207870,
+      "sha256": "cb55c55ebb12f3fd5a0c771516b3cd33e1e8ee16ef918047afe3c8ff2ad862b4"
+    },
+    {
+      "title": "Subaru 2010 Forester user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-552026",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/subaru/forester/subaru_forester_manual_Subaru_2010_Forester_user_manual.html",
+      "file_size_bytes": 208023,
+      "sha256": "2aa00b95bf401131b98012feb6a230a62948de2dc076363bef691a81f9fff071"
+    },
+    {
+      "title": "Subaru Forester Car Brochure (2007)",
+      "year": 2006,
+      "source_url": "https://archive.org/details/subaru-forester-car-brochure-2007",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/subaru/forester/subaru_forester_manual_Subaru_Forester_Car_Brochure_2007.html",
+      "file_size_bytes": 216402,
+      "sha256": "1b8c59504a3f9d0986ac512cbdbf25c3e65d982ba89b6a2e8f84644c18088b14"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2014 Subaru Forester (MY14) 2.5i Luxury wagon. Trim level confirmed via used car website listings with the same licence plate. The 2.5i Luxury was a limited edition model. Photographed in Fairfield, Victoria, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2014_Subaru_Forester_%28MY14%29_2.5i_Luxury_wagon_%282015-06-25%29_01.jpg/1280px-2014_Subaru_Forester_%28MY14%29_2.5i_Luxury_wagon_%282015-06-25%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/subaru/forester/subaru_forester_hero_1_2014_Subaru_Forester_MY14_2.5i_Luxury_wagon_2015-06-25_01.jpg",
+      "file_size_bytes": 323862,
+      "sha256": "2614720f1a5fceacec21fdc9dc5a3e386572dd0ff59595878e2980b54be7be8a"
+    },
+    {
+      "category": "exterior",
+      "caption": "2014 Subaru Forester (MY14) 2.5i Luxury wagon. Trim level confirmed via used car website listings with the same licence plate. The 2.5i Luxury was a limited edition model. Photographed in Fairfield, Victoria, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2014_Subaru_Forester_%28MY14%29_2.5i_Luxury_wagon_%282015-06-25%29_02.jpg/1280px-2014_Subaru_Forester_%28MY14%29_2.5i_Luxury_wagon_%282015-06-25%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/subaru/forester/subaru_forester_hero_2_2014_Subaru_Forester_MY14_2.5i_Luxury_wagon_2015-06-25_02.jpg",
+      "file_size_bytes": 280392,
+      "sha256": "1544ad5673bab21af749dbf17593d42a37fc26ca5a9d0d8fbe47dbbd6d0e7765"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "SF",
+      "generation_name": "Forester 1st Generation (inc. GT Turbo)",
+      "years": {
+        "start": 1997,
+        "end": 2002
+      },
+      "body_styles": [
+        "5-door Wagon / SUV"
+      ],
+      "platform": "Subaru SF",
+      "ancap_rating": "3 stars",
+      "summary": "Pioneered the crossover wagon formula in Australia. The naturally aspirated 2.0L EJ20 was joined in late 1998 by the cult hero Forester GT Turbo (125kW EJ205 with WRX genetics).",
+      "engines": [
+        {
+          "engine_code": "EJ20J / EJ202",
+          "name": "Subaru EJ20 2.0L Boxer-4",
+          "displacement_cc": 1994,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 92.0,
+          "power_rpm": "5600",
+          "torque_nm": 184.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.7:1",
+          "valvetrain": "SOHC 16-valve",
+          "notes": "Low center of gravity horizontally opposed boxer."
+        },
+        {
+          "engine_code": "EJ205-SF",
+          "name": "Subaru EJ205 2.0L Turbo Boxer (GT)",
+          "displacement_cc": 1994,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "5600",
+          "torque_nm": 240.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "WRX-derived turbo boxer with functional bonnet scoop."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX / Limited",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Symmetrical AWD (dual-range on manual)",
+          "transmissions": [
+            "5-speed dual-range manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 26990,
+          "msrp_aud_max": 33990,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1330,
+          "standard_features": [
+            "Permanent Symmetrical AWD",
+            "Dual-range transfer case (manual)",
+            "Roof rails",
+            "Air conditioning",
+            "Power windows and mirrors"
+          ],
+          "notes": "Outstanding dirt-road traction."
+        },
+        {
+          "badge_name": "GT Turbo",
+          "years": {
+            "start": 1998,
+            "end": 2002
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Symmetrical AWD with rear LSD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 37990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "125kW turbo boxer engine",
+            "Bonnet scoop",
+            "16-inch alloy wheels",
+            "Momo leather steering wheel",
+            "Sports front bucket seats",
+            "Rear limited-slip differential"
+          ],
+          "notes": "Australia's original sleeper crossover rocket."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Forester GT Turbo Manual",
+          "body_style": "5-door Wagon",
+          "engine_code": "EJ205-SF",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 1998,
+          "years_end": 2002,
+          "msrp_aud": 37990,
+          "power_kw": 125.0,
+          "torque_nm": 240.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1400,
+          "notes": "Pioneering turbo all-wheel drive family sleeper."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SF",
+          "category": "exterior",
+          "caption": "1999 Subaru Forester with all-wheel drive and 2.5 liter flat-four engine owned by Our Community Place in Harrisonburg, Virginia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/1999_Subaru_Forester_Our_Community_Place_Harrisonburg_VA_March_2010.jpg/1280px-1999_Subaru_Forester_Our_Community_Place_Harrisonburg_VA_March_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Artaxerxes)",
+          "local_path": "media/pictures/subaru/forester/subaru_forester_SF_1_1999_Subaru_Forester_Our_Community_Place_Harrisonburg_VA_March_2010.jpg",
+          "file_size_bytes": 256431,
+          "sha256": "842c0b02e7d6f81f8af5a330d9c689a4e0d8c54a529b1ea925e996fdcd2942c2"
+        }
+      ]
+    },
+    {
+      "series_code": "SG",
+      "generation_name": "Forester 2nd Generation (inc. XT Turbo)",
+      "years": {
+        "start": 2002,
+        "end": 2008
+      },
+      "body_styles": [
+        "5-door Wagon / SUV"
+      ],
+      "platform": "Subaru SG",
+      "ancap_rating": "5 stars (facelift)",
+      "summary": "Crisper styling, hydroformed front subframe, 5-star ANCAP safety, and the legendary 2.5L EJ255 XT Turbo delivering up to 169kW with WRX acceleration.",
+      "engines": [
+        {
+          "engine_code": "EJ251 / EJ253",
+          "name": "Subaru EJ25 2.5L SOHC Boxer",
+          "displacement_cc": 2457,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 121.0,
+          "power_rpm": "5600",
+          "torque_nm": 226.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "SOHC 16-valve i-AVLS",
+          "notes": "Standard engine in X and XS trims."
+        },
+        {
+          "engine_code": "EJ255-SG",
+          "name": "Subaru EJ255 2.5L Turbo Boxer (XT)",
+          "displacement_cc": 2457,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 169.0,
+          "power_rpm": "5600",
+          "torque_nm": 320.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.4:1",
+          "valvetrain": "DOHC 16-valve AVCS",
+          "notes": "2.5-litre turbo introduced in late 2005 SG9 facelift; 0-100 km/h in 6.0s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "X / XS",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Symmetrical AWD (dual-range on manual)",
+          "transmissions": [
+            "5-speed manual with dual-range",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 30990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 9.6,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "Dual front and side airbags",
+            "ABS with EBD",
+            "Hill holder (manual)",
+            "Cruise control",
+            "Huge electric glass sunroof (XS)"
+          ],
+          "notes": "Family outback favourite."
+        },
+        {
+          "badge_name": "XT Turbo",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Symmetrical AWD with rear LSD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1460,
+          "standard_features": [
+            "169kW 2.5L turbo boxer engine",
+            "Aggressive bonnet scoop",
+            "17-inch alloy wheels",
+            "Aluminium pedals",
+            "Leather upholstery (Luxury pack)",
+            "High intensity discharge (HID) headlights"
+          ],
+          "notes": "Cult performance icon; 0-100 km/h in 6.0 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Forester XT 2.5 Turbo Manual",
+          "body_style": "5-door Wagon",
+          "engine_code": "EJ255-SG",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 2005,
+          "years_end": 2008,
+          "msrp_aud": 41990,
+          "power_kw": 169.0,
+          "torque_nm": 320.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1800,
+          "notes": "WRX performance in a rugged wagon body."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SG",
+          "category": "exterior",
+          "caption": "SUBARU FORESTER (SG) &amp; SUBARU LEGACY (BL) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/SUBARU_FORESTER_%28SG%29_%26_SUBARU_LEGACY_%28BL%29_China.jpg/1280px-SUBARU_FORESTER_%28SG%29_%26_SUBARU_LEGACY_%28BL%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/subaru/forester/subaru_forester_SG_1_SUBARU_FORESTER_SG_SUBARU_LEGACY_BL_China.jpg",
+          "file_size_bytes": 282915,
+          "sha256": "d3311fdd0062dd0a2f92bb34bee9f7498ab198e5d095c63986edf80b1f82e340"
+        }
+      ]
+    },
+    {
+      "series_code": "SH",
+      "generation_name": "Forester 3rd Generation (inc. S-Edition)",
+      "years": {
+        "start": 2008,
+        "end": 2013
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Subaru SH",
+      "ancap_rating": "5 stars",
+      "summary": "Full transition to true medium SUV dimensions with double-wishbone rear suspension, 2.0L Boxer Diesel, and the sensational 193kW Forester S-Edition with WRX STI hardware.",
+      "engines": [
+        {
+          "engine_code": "FB25",
+          "name": "Subaru FB25 2.5L DOHC Boxer",
+          "displacement_cc": 2498,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 126.0,
+          "power_rpm": "5800",
+          "torque_nm": 235.0,
+          "torque_rpm": "4100",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS",
+          "notes": "Chain-driven double overhead cam FB engine introduced in 2011."
+        },
+        {
+          "engine_code": "EJ255-SE",
+          "name": "Subaru EJ255 2.5L Turbo Boxer (S-Edition)",
+          "displacement_cc": 2457,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Turbocharged Intercooled (STI Turbo)",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 193.0,
+          "power_rpm": "6000",
+          "torque_nm": 347.0,
+          "torque_rpm": "2800-4800",
+          "compression_ratio": "8.4:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS",
+          "notes": "WRX STI turbocharger and 5-speed paddle shift automatic with VTD-AWD."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "X / XS",
+          "years": {
+            "start": 2008,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Symmetrical AWD",
+          "transmissions": [
+            "5-speed manual with dual-range",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 30490,
+          "msrp_aud_max": 39990,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "6 airbags standard",
+            "Vehicle Dynamics Control (VDC)",
+            "16 or 17-inch alloys",
+            "Roof rails",
+            "Hill start assist"
+          ],
+          "notes": "Mainstream family SUV volume seller."
+        },
+        {
+          "badge_name": "S-Edition",
+          "years": {
+            "start": 2011,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Variable Torque Distribution (VTD) AWD",
+          "transmissions": [
+            "5-speed sports automatic with paddle shifters"
+          ],
+          "msrp_aud_min": 50990,
+          "msrp_aud_max": 50990,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1560,
+          "standard_features": [
+            "193kW STI-turbo engine",
+            "17-inch high-luster STI-style alloys",
+            "Sports suspension tune",
+            "Alcantara/leather seats with blue S-Edition logos",
+            "VTD AWD with 45:55 rear-biased torque split"
+          ],
+          "notes": "0-100 km/h in 6.5s; fastest factory Forester sold in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Forester S-Edition Turbo Auto",
+          "body_style": "5-door SUV",
+          "engine_code": "EJ255-SE",
+          "transmission": "5-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2011,
+          "years_end": 2013,
+          "msrp_aud": 50990,
+          "power_kw": 193.0,
+          "torque_nm": 347.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1400,
+          "notes": "193kW STI-turbocharged flagship."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SH",
+          "category": "exterior",
+          "caption": "Subaru Forester in Frankfurt",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Subaru_Forester%2C_Frankfurt_am_Main_%28P1032726%29.jpg/1280px-Subaru_Forester%2C_Frankfurt_am_Main_%28P1032726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Matti Blume)",
+          "local_path": "media/pictures/subaru/forester/subaru_forester_SH_1_Subaru_Forester_Frankfurt_am_Main_P1032726_.jpg",
+          "file_size_bytes": 250299,
+          "sha256": "1b0ac5a4a101e417e87b50110ea96d1d8db5b8503338948ed506c815b6f59e89"
+        }
+      ]
+    },
+    {
+      "series_code": "SJ",
+      "generation_name": "Forester 4th Generation (inc. XT DIT)",
+      "years": {
+        "start": 2013,
+        "end": 2018
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Subaru SJ",
+      "ancap_rating": "5 stars",
+      "summary": "Introduced EyeSight driver assist stereo cameras, X-Mode off-road traction control, and the direct-injection turbo 2.0L FA20DIT in the XT (177kW/350Nm).",
+      "engines": [
+        {
+          "engine_code": "FA20DIT",
+          "name": "Subaru FA20DIT 2.0L Direct Injection Turbo",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Twin-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 177.0,
+          "power_rpm": "5600",
+          "torque_nm": 350.0,
+          "torque_rpm": "2400-3600",
+          "compression_ratio": "10.6:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS",
+          "notes": "Direct injection twin-scroll turbo paired with high-torque Lineartronic CVT."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "2.5i-L / 2.5i-S",
+          "years": {
+            "start": 2013,
+            "end": 2018
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Symmetrical AWD with X-Mode",
+          "transmissions": [
+            "6-speed manual",
+            "Lineartronic CVT"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 41490,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 1520,
+          "standard_features": [
+            "X-Mode with hill descent control",
+            "EyeSight stereo camera safety system",
+            "Reversing camera",
+            "Touchscreen multimedia",
+            "Roof rails"
+          ],
+          "notes": "Core family model."
+        },
+        {
+          "badge_name": "2.0XT / XT Premium",
+          "years": {
+            "start": 2013,
+            "end": 2018
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Symmetrical AWD with SI-Drive",
+          "transmissions": [
+            "Lineartronic CVT with 8-speed manual mode"
+          ],
+          "msrp_aud_min": 43490,
+          "msrp_aud_max": 50490,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "177kW FA20DIT turbo engine",
+            "SI-Drive (Intelligent, Sport, Sport Sharp)",
+            "18-inch two-tone alloys",
+            "Harman Kardon 8-speaker audio",
+            "Leather upholstery (Premium)",
+            "Power tailgate"
+          ],
+          "notes": "The final turbocharged Forester generation."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Forester 2.0XT Premium",
+          "body_style": "5-door SUV",
+          "engine_code": "FA20DIT",
+          "transmission": "Lineartronic CVT",
+          "drivetrain": "AWD",
+          "years_start": 2013,
+          "years_end": 2018,
+          "msrp_aud": 50490,
+          "power_kw": 177.0,
+          "torque_nm": 350.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 1800,
+          "notes": "0-100 km/h in 7.5 seconds with SI-Drive."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SJ",
+          "category": "exterior",
+          "caption": "2015-2018 Subaru Forester 2.0XT EyeSight",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015-2018_Subaru_Forester_XT.jpg/1280px-2015-2018_Subaru_Forester_XT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (TTTNIS)",
+          "local_path": "media/pictures/subaru/forester/subaru_forester_SJ_1_2015-2018_Subaru_Forester_XT.jpg",
+          "file_size_bytes": 190191,
+          "sha256": "bb0502032f2efce0a544c5448248d294df0660001a19ba913931b0d071472157"
+        }
+      ]
+    },
+    {
+      "series_code": "SK",
+      "generation_name": "Forester 5th Generation & Hybrid",
+      "years": {
+        "start": 2018,
+        "end": 2024
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Subaru Global Platform (SGP)",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the rigid Subaru Global Platform. Features Driver Monitoring System with facial recognition, standard EyeSight, direct-injection 2.5L engine, and e-Boxer Hybrid.",
+      "engines": [
+        {
+          "engine_code": "FB25D",
+          "name": "Subaru FB25D 2.5L Direct Injection Boxer",
+          "displacement_cc": 2498,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 136.0,
+          "power_rpm": "5800",
+          "torque_nm": 239.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS Direct Injection",
+          "notes": "90% redesigned parts with direct cylinder injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "2.5i-L / 2.5i-Premium / 2.5i-S",
+          "years": {
+            "start": 2018,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Symmetrical AWD with Dual-Function X-Mode",
+          "transmissions": [
+            "Lineartronic CVT"
+          ],
+          "msrp_aud_min": 35990,
+          "msrp_aud_max": 46340,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1570,
+          "standard_features": [
+            "Driver Monitoring System (DMS)",
+            "Dual-Function X-Mode (Snow/Dirt & Deep Snow/Mud)",
+            "EyeSight 4.0 safety",
+            "Apple CarPlay & Android Auto",
+            "Harman Kardon audio (2.5i-S)"
+          ],
+          "notes": "Benchmark family safety credentials."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Forester 2.5i-S AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "FB25D",
+          "transmission": "Lineartronic CVT",
+          "drivetrain": "AWD",
+          "years_start": 2018,
+          "years_end": 2024,
+          "msrp_aud": 46340,
+          "power_kw": 136.0,
+          "torque_nm": 239.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1800,
+          "notes": "Subaru Global Platform safety and handling."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SK",
+          "category": "exterior",
+          "caption": "SUBARU FORESTER (SK) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/SUBARU_FORESTER_%28SK%29_China_%288%29.jpg/1280px-SUBARU_FORESTER_%28SK%29_China_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/subaru/forester/subaru_forester_SK_1_SUBARU_FORESTER_SK_China_8_.jpg",
+          "file_size_bytes": 256455,
+          "sha256": "9bbe2910665a712a684961b018172c1fed7b19ef2ec3fd3a56b2d6223a112389"
+        }
+      ]
+    },
+    {
+      "series_code": "SL",
+      "generation_name": "Forester 6th Generation",
+      "years": {
+        "start": 2025,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Subaru Global Platform (Enhanced)",
+      "ancap_rating": "5 stars (expected)",
+      "summary": "Next-generation model featuring 10% stiffer chassis, full-inner-frame construction, portrait 11.6-inch infotainment, wide-angle mono camera EyeSight, and refined 2.5L boxer.",
+      "engines": [
+        {
+          "engine_code": "FB25-SL",
+          "name": "Subaru FB25 2.5L Direct Injection Boxer",
+          "displacement_cc": 2498,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 134.0,
+          "power_rpm": "5800",
+          "torque_nm": 241.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS",
+          "notes": "Refined for lower NVH and smoother torque curve."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "2.5i / 2.5i-L / Sport / Touring",
+          "years": {
+            "start": 2025,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Symmetrical AWD with Dual-Function X-Mode",
+          "transmissions": [
+            "Lineartronic CVT"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 49990,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 1610,
+          "standard_features": [
+            "11.6-inch portrait multimedia touchscreen",
+            "Wireless Apple CarPlay & Android Auto",
+            "Triple-camera EyeSight system with wide-angle mono camera",
+            "Hands-free power tailgate",
+            "19-inch dark alloy wheels (Sport)"
+          ],
+          "notes": "Refined next-generation family adventurer."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Forester Touring AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "FB25-SL",
+          "transmission": "Lineartronic CVT",
+          "drivetrain": "AWD",
+          "years_start": 2025,
+          "years_end": "Present",
+          "msrp_aud": 49990,
+          "power_kw": 134.0,
+          "torque_nm": 241.0,
+          "fuel_l_100km": 7.5,
+          "towing_braked_kg": 1800,
+          "notes": "11.6-inch portrait touchscreen and upgraded EyeSight."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SL",
+          "category": "exterior",
+          "caption": "Subaru Forester (SL) e-BOXER at Automobil Messe Bietigheim 2025",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Subaru_Forester_%28SL%29_e-BOXER_DSC_8809.jpg/1280px-Subaru_Forester_%28SL%29_e-BOXER_DSC_8809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/subaru/forester/subaru_forester_SL_1_Subaru_Forester_SL_e-BOXER_DSC_8809.jpg",
+          "file_size_bytes": 357947,
+          "sha256": "ec3aa9391a12dc7456dde90d5665fa0be0091f977ae103d38c9e865a27f088eb"
+        }
+      ]
+    }
+  ]
+}

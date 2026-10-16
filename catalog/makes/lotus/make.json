@@ -1,0 +1,68 @@
+{
+  "make_slug": "lotus",
+  "name": "Lotus",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1960,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Colin Chapman's 'simplify, then add lightness' philosophy in Australia, from classic Elan and Esprit to the Elise, Exige, and bonded aluminium Emira.",
+  "australian_history": "Lotus cars have been actively raced and driven in Australia since the 1960s with the Lotus Seven, Cortina, and Europa. The mid-engine Esprit became a 1980s icon. In the late 1990s, the bonded extruded-aluminium Elise revolutionized lightweight sports car engineering, establishing a vibrant Club Lotus Australia community. Sydney-based Simply Sports Cars served as national distributor before Lotus Cars Australia unified factory operations. The 2022 Emira represents the brand's final internal-combustion sports car, ushering in the Eletre electric hyper-SUV.",
+  "models_catalog": [
+    {
+      "model_slug": "elise-exige",
+      "name": "Elise / Exige",
+      "vehicle_type": "Roadster / Coupe",
+      "segment": "Lightweight Sports Car",
+      "years_sold_au": {
+        "start": 1997,
+        "end": "2021"
+      },
+      "locally_built": false,
+      "overview": "Bonded aluminium featherweights weighing under 900kg, celebrated for peerless chassis telepathy and track weapon capability.",
+      "generations": [
+        {
+          "series_code": "Series-1-2-3",
+          "generation_name": "Elise & Exige S1, S2 & S3",
+          "years": {
+            "start": 1997,
+            "end": 2021
+          },
+          "body_styles": [
+            "2-door roadster",
+            "2-door coupe"
+          ],
+          "summary": "Rover K-series 1.8L; Toyota 1.8L VVTL-i supercharged (Exige S); S3 supercharged 3.5L Toyota V6 (up to 320kW Cup 430)."
+        }
+      ]
+    },
+    {
+      "model_slug": "emira",
+      "name": "Emira",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Lotus's sensational final internal-combustion sports car, offering hydraulic steering, 6-speed manual V6, or AMG 2.0-litre turbo.",
+      "generations": [
+        {
+          "series_code": "Type 131",
+          "generation_name": "Emira",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "3.5L Supercharged V6 (298kW) with manual/auto, and 268kW AMG 2.0L Turbo with 8-speed DCT."
+        }
+      ]
+    }
+  ]
+}

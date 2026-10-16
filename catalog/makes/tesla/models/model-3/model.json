@@ -1,0 +1,320 @@
+{
+  "make_slug": "tesla",
+  "model_slug": "model-3",
+  "name": "Model 3",
+  "vehicle_type": "Sedan",
+  "segment": "Medium Electric Car",
+  "years_sold_au": {
+    "start": 2019,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The electric vehicle that opened the floodgates for mass EV adoption in Australia. Built in Shanghai for the Australian market, the Model 3 transformed automotive sales by outselling traditional petrol luxury sedans like the BMW 3 Series and Mercedes C-Class.",
+  "australian_market_notes": "First delivered in Australia in August 2019. Rapidly captured top spots in state and federal vehicle sales charts, aided by State government electric vehicle rebates and federal FBT exemptions. The 'Highland' facelift arrived in late 2023, introducing superior sound isolation, ventilated seats, and revised suspension tuning.",
+  "manuals": [
+    {
+      "title": "Tesla Model 3 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2019,
+      "language": "en",
+      "source_url": "local://catalog/makes/tesla/models/model-3/model.json",
+      "local_path": "media/manuals/tesla/model-3/tesla_model-3_au_technical_manual.pdf",
+      "file_size_bytes": 4091,
+      "sha256": "f21398660e3d88aae7d6491c433696f6f2c22c04073dfe8fda3fd575734abaa3",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Tesla Model 3 Owners Manual 车主手册",
+      "year": 2022,
+      "source_url": "https://archive.org/details/owners-manual_20220921",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/tesla/model-3/tesla_model-3_manual_Tesla_Model_3_Owners_Manual.html",
+      "file_size_bytes": 212292,
+      "sha256": "95e1d895b8b8f1b30909ae1bcff6a5911f742a17b689776bd770e837c56beb92"
+    },
+    {
+      "title": "TESLA MODEL 3 Owners Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/tesla-model-3-owners-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/tesla/model-3/tesla_model-3_manual_TESLA_MODEL_3_Owners_Manual.html",
+      "file_size_bytes": 186588,
+      "sha256": "edfe123b5aea10cc19cb82ab90b5e661b9cfff097c5c4dc8ee33769c7e2b7574"
+    },
+    {
+      "title": "Tesla Model 3 Owners Manual 车主手册",
+      "year": 2022,
+      "source_url": "https://archive.org/details/owners-manual_202209",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/tesla/model-3/tesla_model-3_manual_Tesla_Model_3_Owners_Manual.html",
+      "file_size_bytes": 219520,
+      "sha256": "7a1b970905108d8163cb91e1330cd405eda7e775e484e1595e807239f7e9ce34"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Tesla Model 3 charging at Caiguna Roadhouse, Western Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tesla_Model_3_charging_at_Caiguna_Roadhouse%2C_Western_Australia.jpg/1280px-Tesla_Model_3_charging_at_Caiguna_Roadhouse%2C_Western_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Chuq)",
+      "local_path": "media/pictures/tesla/model-3/tesla_model-3_hero_1_Tesla_Model_3_charging_at_Caiguna_Roadhouse_Western_Australia.jpg",
+      "file_size_bytes": 493757,
+      "sha256": "9cc3f8321dd03c7855b36f63d7e10180f8b2aafd6a172f739e795b5a421e5fa8"
+    },
+    {
+      "category": "exterior",
+      "caption": "Tesla Model 3 charging at Discovery Parks Woodman Point, Western Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tesla_Model_3_charging_at_Discovery_Parks_Woodman_Point%2C_Western_Australia_01.jpg/1280px-Tesla_Model_3_charging_at_Discovery_Parks_Woodman_Point%2C_Western_Australia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Chuq)",
+      "local_path": "media/pictures/tesla/model-3/tesla_model-3_hero_2_Tesla_Model_3_charging_at_Discovery_Parks_Woodman_Point_Western_Australia_01.jpg",
+      "file_size_bytes": 636973,
+      "sha256": "df04d40f772387bf78e8d98bd4d9b7b2cd7ceeeca4cc43c7b3b1e7441852c5fc"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Model-3-Pre-Highland",
+      "generation_name": "Model 3 (Original & Refresh)",
+      "years": {
+        "start": 2019,
+        "end": "2023"
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Tesla Model 3 platform",
+      "ancap_rating": "5 stars",
+      "summary": "Original launch model with glass roof, 15-inch landscape touchscreen, heat pump (from 2021), and LFP battery transition for Standard Range Plus / RWD.",
+      "engines": [
+        {
+          "engine_code": "3D1/3D6 Rear Motor",
+          "name": "Single Permanent Magnet Rear Motor",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Single Electric Motor",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 208,
+          "power_rpm": "Electric",
+          "torque_nm": 420,
+          "torque_rpm": "0-4000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Paired with 60kWh LFP (Lithium Iron Phosphate) battery pack built in Giga Shanghai."
+        },
+        {
+          "engine_code": "Dual Motor Performance",
+          "name": "Dual Electric Motors (Performance)",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Dual Electric Motors",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 357,
+          "power_rpm": "Electric",
+          "torque_nm": 660,
+          "torque_rpm": "0-5000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Induction motor front and permanent magnet motor rear; 82kWh nickel-manganese-cobalt battery pack."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RWD (Standard Range)",
+          "years": {
+            "start": 2019,
+            "end": "2023"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 57400,
+          "msrp_aud_max": 66900,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1752,
+          "standard_features": [
+            "15-inch touchscreen",
+            "Panoramic glass roof",
+            "Autopilot suite",
+            "Power tailgate",
+            "Wireless phone charging pads",
+            "Heated front and rear seats"
+          ],
+          "notes": "491km WLTP range; Australia's top-selling EV."
+        },
+        {
+          "badge_name": "Performance AWD",
+          "years": {
+            "start": 2019,
+            "end": "2023"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 83400,
+          "msrp_aud_max": 99900,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1844,
+          "standard_features": [
+            "20-inch Uberturbine wheels",
+            "Performance brakes with red callipers",
+            "Carbon-fibre rear spoiler",
+            "Lowered suspension",
+            "Track Mode V2",
+            "Aluminium pedals"
+          ],
+          "notes": "0-100 km/h in 3.3 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RWD (Standard Range)",
+          "body_style": "4-door sedan",
+          "engine_code": "3D1/3D6 Rear Motor",
+          "transmission": "Single-speed reduction gear",
+          "drivetrain": "RWD",
+          "years_start": 2021,
+          "years_end": "2023",
+          "msrp_aud": 61900,
+          "power_kw": 208,
+          "torque_nm": 420,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 1000,
+          "notes": "60kWh LFP battery with 170kW DC Supercharging."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "Model-3-Highland",
+      "generation_name": "Model 3 (Highland Update)",
+      "years": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Tesla Model 3 Highland",
+      "ancap_rating": "5 stars",
+      "summary": "Highland redesign bringing 360-degree acoustic glass, rear 8-inch screen, ambient lighting, ventilated seats, deleted indicator stalks, and 343kW Performance with adaptive damping.",
+      "engines": [
+        {
+          "engine_code": "Highland Performance Dual Motor",
+          "name": "Highland Performance Dual Electric Motors",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Dual Electric Motors",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 343,
+          "power_rpm": "Electric",
+          "torque_nm": 741,
+          "torque_rpm": "0-6000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Next-gen 4D2 rear drive unit; adaptive damping suspension."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RWD Highland",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 58900,
+          "msrp_aud_max": 61900,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1765,
+          "standard_features": [
+            "Rear 8.0-inch passenger display",
+            "Ventilated front seats",
+            "Steering wheel buttons for indicators",
+            "17-speaker audio system",
+            "Blind-spot camera indicator LED",
+            "513km WLTP range"
+          ],
+          "notes": "Benchmark aerodynamic drag coefficient of 0.219 Cd."
+        },
+        {
+          "badge_name": "Performance Highland",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 80900,
+          "msrp_aud_max": 83900,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1851,
+          "standard_features": [
+            "Adaptive damping system",
+            "Bespoke sports bucket seats",
+            "20-inch Warp forged wheels",
+            "Carbon-fibre front splitter and rear diffuser",
+            "Track Mode V3"
+          ],
+          "notes": "0-100 km/h in 3.1 seconds; 528km range."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Performance Highland",
+          "body_style": "4-door sedan",
+          "engine_code": "Highland Performance Dual Motor",
+          "transmission": "Single-speed reduction gear",
+          "drivetrain": "AWD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 80900,
+          "power_kw": 343,
+          "torque_nm": 741,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 1000,
+          "notes": "Adaptive damping with 3.1s 0-100 km/h."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Model-3-Highland",
+          "category": "exterior",
+          "caption": "2024 Tesla Model 3 Highland Performance AWD in Siam Paragon, Pathumwan, Bangkok, Thailand.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2024_Tesla_Model_3_Highland_Performance_AWD.jpg/1280px-2024_Tesla_Model_3_Highland_Performance_AWD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Chanokchon)",
+          "local_path": "media/pictures/tesla/model-3/tesla_model-3_Model-3-Highland_1_2024_Tesla_Model_3_Highland_Performance_AWD.jpg",
+          "file_size_bytes": 130488,
+          "sha256": "a342abb9d320550c63f5731228cad43555474c1bb0f41c6a45f19fdbf82d509b"
+        }
+      ]
+    }
+  ]
+}

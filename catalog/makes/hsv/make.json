@@ -1,0 +1,310 @@
+{
+  "make_slug": "hsv",
+  "name": "Holden Special Vehicles (HSV)",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1987,
+    "end": 2020
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Holden Special Vehicles (HSV) was established in 1987 in Clayton, Victoria as a high-performance joint venture between General Motors-Holden and Scottish racing icon Tom Walkinshaw (Tom Walkinshaw Racing). Born from the ashes of Holden's split with Peter Brock's HDT, HSV elevated Australian muscle cars to world-class engineering standards. Over three decades, HSV developed legendary performance nameplates including the ClubSport, GTS, Senator, and Maloo ute. From the wild aerodynamic composite aero of the 1988 VL Walkinshaw Group A SV to the fire-breathing 375kW 7.0L W427 and the pinnacle 2017 GTSR W1 (474kW supercharged dry-sump LS9), HSV built Australia's most sought-after and collectible high-performance road and track weapons.",
+  "australian_history": "Following GM-Holden's public fallout with Peter Brock in February 1987 over the Energy Polarizer and Director, Holden formed a joint venture with Tom Walkinshaw Racing (TWR) to establish Holden Special Vehicles (HSV) at Cross Street, Brookvale, quickly relocating to Clayton, Victoria under managing director John Crennan. HSV's inaugural project was the 1988 VL SS Group A SV ('Walkinshaw'), built to homologate Holden's fuel-injected 5.0L V8 for Group A touring car racing. With its radical wind-tunnel-designed aerodynamic body kit and twin-throttle-body EFI engine producing 180kW, the Walkinshaw won the 1990 Bathurst 1000 with Allan Grice and Win Percy.\n\nIn 1990, HSV introduced the ClubSport with the VN series—a badge that would become HSV's core breadwinner. The 1992 VP GTS debuted four-bolt mains and independent rear suspension, while the 1994 VR GTS introduced the 215kW Harrop-developed 5.7L 'Stroker' V8. In 1996, HSV released the outrageous VS GTS-R in 'XU3 Yellah' with carbon-fibre wing and blueprint engine option. The 1999 VT Series II marked a technological revolution with the introduction of the all-alloy Gen III LS1 5.7L Chevrolet V8, followed in 2000 by the bespoke 300kW Callaway-tuned C4B V8 in the GTS.\n\nIn 2006, HSV released the E-Series on Holden's new Zeta platform, pioneering Magnetic Ride Control (MRC) active dampers and the LS2 6.0L / LS3 6.2L V8s. To mark HSV's 20th anniversary in 2008, HSV shoehorned the Corvette Z06's hand-built 7.0-litre LS7 V8 into the Commodore body to create the 375kW HSV W427. In 2013, the GEN-F series brought the supercharged 6.2L LSA V8 (430kW/740Nm) to the GTS. HSV saved its finest hour for the closure of Australian manufacturing in 2017 with the GTSR W1: powered by the Corvette ZR1's 474kW (636 bhp) supercharged 6.2L dry-sump LS9 V8, mated to a Tremec TR-6060 close-ratio manual and bespoke Australian Supashock racing dampers, only 275 were built, instantly becoming Australia's ultimate muscle car icon. Following factory closure, HSV evolved into Walkinshaw Automotive Group.",
+  "models_catalog": [
+    {
+      "model_slug": "vl-walkinshaw",
+      "name": "HSV VL SS Group A SV",
+      "vehicle_type": "Sedan",
+      "segment": "Homologation Special / Muscle Car",
+      "years_sold_au": {
+        "start": 1988,
+        "end": 1988
+      },
+      "locally_built": true,
+      "overview": "The foundational car of HSV. A wild wind-tunnel-developed Group A homologation special finished in Panorama Silver with twin-throttle 5.0L V8.",
+      "generations": [
+        {
+          "series_code": "VL-Group-A",
+          "generation_name": "VL SS Group A SV Walkinshaw",
+          "years": {
+            "start": 1988,
+            "end": 1988
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "5.0L V8 (180kW/380Nm), twin throttle-body intake, T5 5-speed manual, 750 homologation units produced; won 1990 Bathurst 1000."
+        }
+      ]
+    },
+    {
+      "model_slug": "clubsport-gts",
+      "name": "HSV ClubSport & GTS",
+      "vehicle_type": "Sedan",
+      "segment": "Performance / Muscle Car",
+      "years_sold_au": {
+        "start": 1990,
+        "end": 2017
+      },
+      "locally_built": true,
+      "overview": "The core of the HSV legend. Spanning VN through GEN-F2, from the early 5.0L Holden V8s to the Callaway C4B, LS3, and the supercharged 474kW GTSR W1.",
+      "generations": [
+        {
+          "series_code": "VN-VP",
+          "generation_name": "VN & VP Series (ClubSport & GTS)",
+          "years": {
+            "start": 1990,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "summary": "Holden 5.0L EFI V8 (180kW VN ClubSport; 200kW VP GTS with 4-bolt mains and IRS)."
+        },
+        {
+          "series_code": "VR-VS",
+          "generation_name": "VR & VS Series (ClubSport, GTS, GTS-R)",
+          "years": {
+            "start": 1993,
+            "end": 1997
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "summary": "185kW 5.0L and 215kW 5.7L Harrop Stroker V8; iconic 1996 VS GTS-R in XU-3 Yellah."
+        },
+        {
+          "series_code": "VT-VX",
+          "generation_name": "VT & VX Series (LS1 & Callaway C4B)",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "summary": "Transition to Gen III 5.7L LS1 V8 (250kW-255kW) and bespoke 300kW Callaway C4B GTS."
+        },
+        {
+          "series_code": "VY-VZ",
+          "generation_name": "VY & VZ Series (ClubSport & GTS)",
+          "years": {
+            "start": 2002,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "summary": "285kW LS1 V8 and 297kW 6.0L LS2 V8; AP Racing brakes."
+        },
+        {
+          "series_code": "E-Series",
+          "generation_name": "E-Series (E1, E2, E3)",
+          "years": {
+            "start": 2006,
+            "end": 2013
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "summary": "Zeta platform; 307kW LS2 and 317kW/325kW LS3 V8s; Magnetic Ride Control (MRC) suspension."
+        },
+        {
+          "series_code": "GEN-F",
+          "generation_name": "GEN-F & GEN-F2 (GTS, GTSR, W1)",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door performance sedan"
+          ],
+          "summary": "Supercharged 6.2L LSA V8 (430kW/740Nm), GTSR (435kW), and the ultimate GTSR W1 with 474kW LS9 dry-sump V8 and Supashock dampers."
+        }
+      ]
+    },
+    {
+      "model_slug": "senator",
+      "name": "HSV Senator",
+      "vehicle_type": "Sedan",
+      "segment": "Prestige Performance",
+      "years_sold_au": {
+        "start": 1992,
+        "end": 2017
+      },
+      "locally_built": true,
+      "overview": "HSV's executive express, combining luxury appointments, premium leather, discreet aerodynamic styling, and potent V8 powertrains.",
+      "generations": [
+        {
+          "series_code": "VP-GEN-F",
+          "generation_name": "Senator Evolution (VP through GEN-F2)",
+          "years": {
+            "start": 1992,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door luxury sports sedan"
+          ],
+          "summary": "Senator 5000i, Senator Signature, 5.7L Stroker, LS1, LS2, LS3, and final supercharged 400kW Senator Signature LSA."
+        }
+      ]
+    },
+    {
+      "model_slug": "maloo",
+      "name": "HSV Maloo",
+      "vehicle_type": "Coupe Utility",
+      "segment": "Performance Ute",
+      "years_sold_au": {
+        "start": 1990,
+        "end": 2017
+      },
+      "locally_built": true,
+      "overview": "The world's fastest production utility. Named from the Indigenous Australian word for 'thunder', the Maloo set Guinness World Records for ute speed.",
+      "generations": [
+        {
+          "series_code": "VG-GEN-F",
+          "generation_name": "Maloo Evolution (VG through GEN-F2)",
+          "years": {
+            "start": 1990,
+            "end": 2017
+          },
+          "body_styles": [
+            "2-door coupe utility"
+          ],
+          "summary": "From 180kW VG Maloo to 400kW Maloo R8 LSA and ultra-limited GEN-F2 GTSR Maloo."
+        }
+      ]
+    },
+    {
+      "model_slug": "grange",
+      "name": "HSV Grange",
+      "vehicle_type": "Sedan",
+      "segment": "Long-Wheelbase Luxury Performance",
+      "years_sold_au": {
+        "start": 1996,
+        "end": 2016
+      },
+      "locally_built": true,
+      "overview": "Flagship performance limousine built on the long-wheelbase Statesman and Caprice bodies, named after Penfolds Grange Hermitage.",
+      "generations": [
+        {
+          "series_code": "VS-WN",
+          "generation_name": "Grange (VS, WH, WK, WL, WM, WN)",
+          "years": {
+            "start": 1996,
+            "end": 2016
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "summary": "215kW 5.7L Stroker, LS1 250kW, LS2 297kW, and WM/WN 325kW/340kW LS3 with Magnetic Ride Control."
+        }
+      ]
+    },
+    {
+      "model_slug": "coupe-gto-gts",
+      "name": "HSV Coupe GTO & Coupe GTS",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Coupe / Muscle Car",
+      "years_sold_au": {
+        "start": 2001,
+        "end": 2006
+      },
+      "locally_built": true,
+      "overview": "Sensational performance coupes crafted on the third-generation Holden Monaro body, featuring aggressive styling and up to 300kW Callaway C4B power.",
+      "generations": [
+        {
+          "series_code": "V2-VZ",
+          "generation_name": "Coupe GTO & Coupe GTS",
+          "years": {
+            "start": 2001,
+            "end": 2006
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "GTO (255kW-285kW LS1, 297kW LS2) and Coupe GTS (300kW Callaway C4B V8, AP Racing brakes)."
+        }
+      ]
+    },
+    {
+      "model_slug": "avalanche",
+      "name": "HSV Avalanche & Avalanche XUV",
+      "vehicle_type": "AWD Wagon / Dual-Cab Ute",
+      "segment": "Performance AWD Crossover",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2005
+      },
+      "locally_built": true,
+      "overview": "High-performance all-wheel-drive crossover wagon and XUV dual-cab utility based on the Adventra/Crewman platform with Cross Trac AWD and 5.7L LS1 V8.",
+      "generations": [
+        {
+          "series_code": "VY-VZ",
+          "generation_name": "Avalanche Series",
+          "years": {
+            "start": 2003,
+            "end": 2005
+          },
+          "body_styles": [
+            "5-door AWD wagon",
+            "4-door dual-cab AWD utility (XUV)"
+          ],
+          "summary": "5.7L LS1 V8 (270kW/475Nm), permanent Cross Trac AWD with 62% rear bias, 18-inch wheels, AP Racing brakes."
+        }
+      ]
+    },
+    {
+      "model_slug": "w427",
+      "name": "HSV W427",
+      "vehicle_type": "Sedan",
+      "segment": "Supercar / Limited Edition",
+      "years_sold_au": {
+        "start": 2008,
+        "end": 2009
+      },
+      "locally_built": true,
+      "overview": "HSV's 20th anniversary masterpiece. Hand-assembled at Clayton with the Corvette Z06's dry-sump 7.0-litre (427ci) LS7 V8, producing 375kW and 640Nm.",
+      "generations": [
+        {
+          "series_code": "E-Series",
+          "generation_name": "HSV W427",
+          "years": {
+            "start": 2008,
+            "end": 2009
+          },
+          "body_styles": [
+            "4-door supercar sedan"
+          ],
+          "summary": "7.0L LS7 V8 (375kW/640Nm), dry sump lubrication, Tremec TR-6060 manual, 6-piston AP brakes, 137 units produced."
+        }
+      ]
+    },
+    {
+      "model_slug": "sportscat",
+      "name": "HSV Colorado SportsCat",
+      "vehicle_type": "Ute",
+      "segment": "Performance 4WD Dual-Cab",
+      "years_sold_au": {
+        "start": 2018,
+        "end": 2020
+      },
+      "locally_built": true,
+      "overview": "Re-engineered Holden Colorado dual-cab 4WD featuring MTV dampers or Supashock suspension, Cooper Zeon tyres, and AP Racing 4-piston brakes.",
+      "generations": [
+        {
+          "series_code": "RG",
+          "generation_name": "SportsCat & SportsCat+",
+          "years": {
+            "start": 2018,
+            "end": 2020
+          },
+          "body_styles": [
+            "4-door dual-cab 4WD"
+          ],
+          "summary": "2.8L Duramax turbo-diesel (147kW/500Nm), Supashock dampers, de-coupling rear anti-roll bar, AP Racing front brakes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "make_slug": "nissan",
+  "model_slug": "patrol",
+  "name": "Patrol",
+  "vehicle_type": "4WD Wagon / Cab Chassis",
+  "segment": "Upper Large 4WD",
+  "years_sold_au": {
+    "start": 1962,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Nissan Patrol is an Australian outback giant. In 1962, the G60 Patrol made history as the first motor vehicle to cross the Simpson Desert. Across MQ, GQ, GU, and the V8-powered Y62, it has matched the LandCruiser blow for blow across Australia's harshest terrain.",
+  "australian_market_notes": "The coil-sprung GQ Patrol (also sold as the Ford Maverick under the Button Plan) revolutionized off-road wheel travel and touring comfort in 1987. The TD42 4.2L diesel earned unkillable folklore status, while the modern Y62 with its 298kW 5.6L V8 and Premcar-engineered Warrior editions represents the ultimate heavy tow vehicle.",
+  "manuals": [
+    {
+      "title": "Nissan Patrol Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1962,
+      "language": "en",
+      "source_url": "local://catalog/makes/nissan/models/patrol/model.json",
+      "local_path": "media/manuals/nissan/patrol/nissan_patrol_au_technical_manual.pdf",
+      "file_size_bytes": 6511,
+      "sha256": "7b757d15afa9cff56cb29e9208236903b8032169f1c80d52d92b10fa074be69d",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Installation manual Model: NISSAN Patrol 3 dv Skid plate for",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6913084",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/patrol/nissan_patrol_manual_Installation_manual_Model_NISSAN_Patrol_3_dv_Skid_plate_for.html",
+      "file_size_bytes": 201600,
+      "sha256": "8ac9ce082b538004f5d7c6c05d3e7911a2140f91bb3d4142185f3d149b7607a7"
+    },
+    {
+      "title": "18638 - Nissan Patrol 4x4 Installation Manual LAMPA",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6880781",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/patrol/nissan_patrol_manual_18638_-_Nissan_Patrol_4x4_Installation_Manual_LAMPA.html",
+      "file_size_bytes": 201652,
+      "sha256": "97ae9403bc8bf02ffe3c8cb2a1a56b8ee36b114415b35b1376f9967639eb26e3"
+    },
+    {
+      "title": "Nissan-Patrol-Y61-1999-2005",
+      "year": null,
+      "source_url": "https://archive.org/details/manualesnissan-patrol-y61-1999-2005",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/patrol/nissan_patrol_manual_Nissan-Patrol-Y61-1999-2005.html",
+      "file_size_bytes": 185315,
+      "sha256": "5d43330f3b7f645dba93806f7e8d5cb3b5fd0c15719c4cd6bb609b0bd7f1bd7e"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "This was apparently imported in 1987, most likely from Australia. Now running a 5,735 cc V8, which sounds like a Chev small block to me.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1978_Nissan_Patrol_%2819894168679%29.jpg/1280px-1978_Nissan_Patrol_%2819894168679%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/nissan/patrol/nissan_patrol_hero_1_1978_Nissan_Patrol_19894168679_.jpg",
+      "file_size_bytes": 474627,
+      "sha256": "1e4c5cb0df4fdd6176b4d7972b3643e43daf976f217ea883486c9906e620ae4e"
+    },
+    {
+      "category": "exterior",
+      "caption": "The 4th generation of the Nissan Patrol, the GQ was built from 1987-97, the 1st Patrol to have coil suspension, standard front and rear on the short and long wheelbase wagons and optional on this, the cab chassis, leaves on the rear were al",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/1994_Nissan_Patrol_%28GQ_II%29_ST_cab_chassis_%2814349607734%29.jpg/1280px-1994_Nissan_Patrol_%28GQ_II%29_ST_cab_chassis_%2814349607734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/nissan/patrol/nissan_patrol_hero_2_1994_Nissan_Patrol_GQ_II_ST_cab_chassis_14349607734_.jpg",
+      "file_size_bytes": 304542,
+      "sha256": "bd47fedd577c206276416e522ab73fea38ba6a1d03d88c1178a6ebb3e3c65703"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "G60",
+      "generation_name": "Patrol G60",
+      "years": {
+        "start": 1962,
+        "end": "1980"
+      },
+      "body_styles": [
+        "SWB Soft-top",
+        "SWB Hardtop",
+        "LWB Wagon",
+        "Cab Chassis"
+      ],
+      "platform": "Nissan 60 Series",
+      "ancap_rating": "Untested",
+      "summary": "Historic heavy-duty 4x4. The Sprigg family drove an Australian G60 across the Simpson Desert in 1962, cementing Nissan's rugged reputation.",
+      "engines": [
+        {
+          "engine_code": "P40",
+          "name": "Nissan P40 4.0L",
+          "displacement_cc": 3956,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 107.0,
+          "power_rpm": "3800",
+          "torque_nm": 319.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "7.8:1",
+          "valvetrain": "OHV 12-valve",
+          "notes": "Low-compression heavy truck-derived inline-6."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Hardtop",
+          "years": {
+            "start": 1962,
+            "end": "1980"
+          },
+          "body_styles": [
+            "SWB Hardtop"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "3-speed manual",
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 2990,
+          "msrp_aud_max": 7500,
+          "fuel_consumption_l_100km": 17.5,
+          "kerb_weight_kg": 1680,
+          "standard_features": [
+            "Solid beam axles",
+            "Leaf springs",
+            "Dual-range transfer case",
+            "Manual locking hubs"
+          ],
+          "notes": "Simpson Desert crossing pioneer."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Hardtop",
+          "body_style": "SWB Hardtop",
+          "engine_code": "P40",
+          "transmission": "4-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1968,
+          "years_end": "1980",
+          "msrp_aud": 4200,
+          "power_kw": 107.0,
+          "torque_nm": 319.0,
+          "fuel_l_100km": 17.5,
+          "towing_braked_kg": 2000,
+          "notes": "G60 Short Wheelbase."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "G60",
+          "category": "exterior",
+          "caption": "The 1st generation of the Nissan Patrol. \nThe 4W60, with a similar look to the Willys Jeep, was introduced in 1951. It had the 3.7 litre NAK Nissan Bus engine.\nThe update in 1955, the 4W61 got the better NB engine, still 3.7 litre, some chr",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1958_Nissan_Patrol_4W61_%2812942588693%29.jpg/1280px-1958_Nissan_Patrol_4W61_%2812942588693%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/nissan/patrol/nissan_patrol_G60_1_1958_Nissan_Patrol_4W61_12942588693_.jpg",
+          "file_size_bytes": 384956,
+          "sha256": "a5e4e40a6200d8e2914611790db67c2cfc9e6f48fd932e61b4f421900a8e3b93"
+        }
+      ]
+    },
+    {
+      "series_code": "GQ/Y60",
+      "generation_name": "Patrol GQ",
+      "years": {
+        "start": 1987,
+        "end": "1997"
+      },
+      "body_styles": [
+        "SWB 3-door Hardtop",
+        "LWB 5-door Wagon",
+        "Cab Chassis Ute"
+      ],
+      "platform": "Nissan Y60",
+      "ancap_rating": "Untested",
+      "summary": "Pioneered coil springs on live solid axles front and rear, transforming outback off-road wheel articulation and comfort. Home to the legendary TD42 'Silver Top' diesel.",
+      "engines": [
+        {
+          "engine_code": "TD42",
+          "name": "Nissan TD42 4.2L Diesel",
+          "displacement_cc": 4169,
+          "displacement_litres": 4.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 85.0,
+          "power_rpm": "4000",
+          "torque_nm": 264.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "22.7:1",
+          "valvetrain": "OHV 12-valve with gear-driven timing",
+          "notes": "Gear-driven camshaft, iron block and head; legendary million-kilometre reliability."
+        },
+        {
+          "engine_code": "TB42",
+          "name": "Nissan TB42 4.2L Petrol",
+          "displacement_cc": 4169,
+          "displacement_litres": 4.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "4200",
+          "torque_nm": 325.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "OHV 12-valve (carburetted and EFI TB42E)",
+          "notes": "Strong, torquey petrol inline-6."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST",
+          "years": {
+            "start": 1987,
+            "end": "1997"
+          },
+          "body_styles": [
+            "LWB 5-door Wagon"
+          ],
+          "drivetrain": "Part-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 47500,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 2180,
+          "standard_features": [
+            "7-passenger seating",
+            "All-coil suspension",
+            "Wide wheelarch flares",
+            "Power windows and mirrors",
+            "Air conditioning",
+            "Limited slip differential"
+          ],
+          "notes": "The high-volume choice of Australian outback tourers; also sold as Ford Maverick."
+        },
+        {
+          "badge_name": "Ti",
+          "years": {
+            "start": 1987,
+            "end": "1997"
+          },
+          "body_styles": [
+            "LWB 5-door Wagon"
+          ],
+          "drivetrain": "Part-time 4WD",
+          "transmissions": [
+            "4-speed automatic",
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 45000,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 2240,
+          "standard_features": [
+            "Electric glass sunroof",
+            "Alloy wheels",
+            "Velour upholstery",
+            "Dual air conditioning",
+            "Rear seat cooler box"
+          ],
+          "notes": "Flagship luxury wagon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "ST TD42",
+          "body_style": "LWB 5-door Wagon",
+          "engine_code": "TD42",
+          "transmission": "5-speed manual",
+          "drivetrain": "Part-time 4WD",
+          "years_start": 1988,
+          "years_end": "1997",
+          "msrp_aud": 38990,
+          "power_kw": 85.0,
+          "torque_nm": 264.0,
+          "fuel_l_100km": 12.0,
+          "towing_braked_kg": 2500,
+          "notes": "Classic GQ TD42 wagon."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "GQ/Y60",
+          "category": "exterior",
+          "caption": "Nissan Patrol",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/1988_Nissan_Patrol_%28GQ%29_DX_wagon_%282012-08-07%29_02.jpg/1280px-1988_Nissan_Patrol_%28GQ%29_DX_wagon_%282012-08-07%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (FotoSleuth)",
+          "local_path": "media/pictures/nissan/patrol/nissan_patrol_GQ_Y60_1_1988_Nissan_Patrol_GQ_DX_wagon_2012-08-07_02.jpg",
+          "file_size_bytes": 411532,
+          "sha256": "d1022bfbef9096dfe9dbbc889dedf722a604b838582125d36acfa15e5f0117bc"
+        }
+      ]
+    },
+    {
+      "series_code": "GU/Y61",
+      "generation_name": "Patrol GU",
+      "years": {
+        "start": 1997,
+        "end": "2016"
+      },
+      "body_styles": [
+        "5-door Wagon",
+        "Single Cab Chassis",
+        "Dual Cab Chassis"
+      ],
+      "platform": "Nissan Y61",
+      "ancap_rating": "3 to 4 Stars",
+      "summary": "Heavy-duty live-axle icon produced for nearly 20 years. Offered with TD42T turbo-diesel, ZD30 common-rail, and the 185kW 4.8L TB48DE inline-6 petrol.",
+      "engines": [
+        {
+          "engine_code": "TD42T",
+          "name": "Nissan TD42T 4.2L Turbo-Diesel",
+          "displacement_cc": 4169,
+          "displacement_litres": 4.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged (Factory Turbo)",
+          "fuel_type": "Diesel",
+          "power_kw": 114.0,
+          "power_rpm": "3600",
+          "torque_nm": 330.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "22.7:1",
+          "valvetrain": "OHV 12-valve",
+          "notes": "Factory-turbocharged TD42 (upgraded to intercooled TD42Ti 114kW/360Nm in 2003)."
+        },
+        {
+          "engine_code": "ZD30DDTi",
+          "name": "Nissan ZD30 3.0L Turbo-Diesel",
+          "displacement_cc": 2953,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 118.0,
+          "power_rpm": "3200",
+          "torque_nm": 380.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "17.9:1",
+          "valvetrain": "DOHC 16-valve Common-Rail (CRD from 2007)",
+          "notes": "Common-rail upgrade in 2007 restored strong durability reputation."
+        },
+        {
+          "engine_code": "TB48DE",
+          "name": "Nissan TB48DE 4.8L Petrol",
+          "displacement_cc": 4779,
+          "displacement_litres": 4.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 185.0,
+          "power_rpm": "4800",
+          "torque_nm": 400.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 24-valve VVT",
+          "notes": "High-performance twin-cam petrol inline-6 paired with 5-speed tiptronic auto."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST",
+          "years": {
+            "start": 1997,
+            "end": "2016"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Part-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto",
+            "5-speed auto"
+          ],
+          "msrp_aud_min": 46990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 2350,
+          "standard_features": [
+            "Dual fuel tanks (125L total)",
+            "Sub-tank transfer system",
+            "Front and rear live beam axles",
+            "Air conditioning",
+            "Power windows",
+            "ABS brakes"
+          ],
+          "notes": "The definition of an Australian heavy-duty touring wagon."
+        },
+        {
+          "badge_name": "Legend Edition",
+          "years": {
+            "start": 2016,
+            "end": "2016"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Part-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 57990,
+          "msrp_aud_max": 60990,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 2420,
+          "standard_features": [
+            "Heavy-duty steel bullbar with winch",
+            "Snorkel",
+            "Roof rack with cargo tray",
+            "Towbar",
+            "Rear-view camera and satellite navigation",
+            "Final run of 300 units"
+          ],
+          "notes": "Celebrated the end of GU Patrol wagon production after 19 years."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "ST TD42Ti",
+          "body_style": "5-door Wagon",
+          "engine_code": "TD42T",
+          "transmission": "5-speed manual",
+          "drivetrain": "Part-time 4WD",
+          "years_start": 2003,
+          "years_end": "2007",
+          "msrp_aud": 56990,
+          "power_kw": 114.0,
+          "torque_nm": 360.0,
+          "fuel_l_100km": 12.0,
+          "towing_braked_kg": 3500,
+          "notes": "GU Series III/IV TD42Ti intercooled."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "GU/Y61",
+          "category": "exterior",
+          "caption": "1997–2000 Nissan Patrol (GU) Ti 5-door wagon. Photographed in Audley, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/1997-2000_Nissan_Patrol_%28GU%29_Ti_4.5i_01.jpg/1280px-1997-2000_Nissan_Patrol_%28GU%29_Ti_4.5i_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/nissan/patrol/nissan_patrol_GU_Y61_1_1997-2000_Nissan_Patrol_GU_Ti_4.5i_01.jpg",
+          "file_size_bytes": 308565,
+          "sha256": "58dea7d00216705c1baec601255c47c0539cddbb28801ac301de22371a317668"
+        }
+      ]
+    },
+    {
+      "series_code": "Y62",
+      "generation_name": "Patrol Y62 (V8 Powerhouse)",
+      "years": {
+        "start": 2013,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door Wagon (7 or 8 seats)"
+      ],
+      "platform": "Nissan Y62",
+      "ancap_rating": "5 Stars",
+      "summary": "Powered by the roaring 5.6L VK56VD V8 producing 298kW and 560Nm. Fitted with Hydraulic Body Motion Control (HBMC) and re-engineered in Melbourne by Premcar into the rugged Patrol Warrior.",
+      "engines": [
+        {
+          "engine_code": "VK56VD",
+          "name": "Nissan 5.6L V8 Direct Injection",
+          "displacement_cc": 5552,
+          "displacement_litres": 5.6,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 298.0,
+          "power_rpm": "5800",
+          "torque_nm": 560.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 32-valve VVEL Direct Injection",
+          "notes": "Massive 298kW output, 7-speed automatic, and roaring V8 soundtrack."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Ti",
+          "years": {
+            "start": 2013,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon (8 seats)"
+          ],
+          "drivetrain": "All-Mode 4WD",
+          "transmissions": [
+            "7-speed automatic"
+          ],
+          "msrp_aud_min": 78990,
+          "msrp_aud_max": 84900,
+          "fuel_consumption_l_100km": 14.4,
+          "kerb_weight_kg": 2750,
+          "standard_features": [
+            "Hydraulic Body Motion Control (HBMC)",
+            "All-Mode 4WD with low range and rear diff lock",
+            "140-litre fuel tank",
+            "18-inch alloy wheels",
+            "Tri-zone climate control",
+            "3500kg towing"
+          ],
+          "notes": "Australia's favourite V8 caravan hauler."
+        },
+        {
+          "badge_name": "Warrior (by Premcar)",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon (8 seats)"
+          ],
+          "drivetrain": "All-Mode 4WD",
+          "transmissions": [
+            "7-speed automatic"
+          ],
+          "msrp_aud_min": 101160,
+          "msrp_aud_max": 105000,
+          "fuel_consumption_l_100km": 14.4,
+          "kerb_weight_kg": 2884,
+          "standard_features": [
+            "Premcar engineered suspension with re-valved HBMC (+50mm lift)",
+            "Bi-modal side-exit exhaust system",
+            "Custom 18-inch forged alloy wheels with Yokohama Geolandar AT tyres",
+            "Red bash plate",
+            "Wider track (+40mm)",
+            "Black exterior styling pack"
+          ],
+          "notes": "Re-engineered in Melbourne by Premcar specifically for Australian outback touring."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Warrior by Premcar",
+          "body_style": "5-door Wagon",
+          "engine_code": "VK56VD",
+          "transmission": "7-speed automatic",
+          "drivetrain": "All-Mode 4WD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 101160,
+          "power_kw": 298.0,
+          "torque_nm": 560.0,
+          "fuel_l_100km": 14.4,
+          "towing_braked_kg": 3500,
+          "notes": "Australian Premcar Patrol Warrior."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Y62",
+          "category": "exterior",
+          "caption": "NISSAN PATROL Y62 China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/NISSAN_PATROL_Y62_China_%2816%29.jpg/1280px-NISSAN_PATROL_Y62_China_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/nissan/patrol/nissan_patrol_Y62_1_NISSAN_PATROL_Y62_China_16_.jpg",
+          "file_size_bytes": 221495,
+          "sha256": "1f51f7674b1ac4d0d4be5d117346a5b2016443c66616c6cd4b1999798f35c46a"
+        }
+      ]
+    }
+  ]
+}

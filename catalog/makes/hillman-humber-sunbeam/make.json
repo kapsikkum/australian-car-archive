@@ -1,0 +1,70 @@
+{
+  "make_slug": "hillman-humber-sunbeam",
+  "name": "Hillman / Humber / Sunbeam (Rootes Group)",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1946,
+    "end": "1979"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Rootes Group Australia manufactured Hillmans, Humbers, and Sunbeams at Salmon Street, Port Melbourne, scoring an immortal international victory in the 1968 London to Sydney Marathon with an Australian-built Hillman Hunter.",
+  "australian_history": "Rootes Group established Australian assembly operations at Salmon Street, Port Melbourne in 1946. Hillman Minx, Super Minx, and the rear-engine Hillman Imp were suburban driveway staples. The stately Humber Super Snipe served as premier government limousines. In 1968, an Australian-assembled Hillman Hunter driven by Andrew Cowan, Colin Malkin, and Brian Coyle famously won the 10,000-mile London to Sydney Marathon outright, shocking factory teams worldwide. Chrysler Australia acquired Rootes Group in 1965-66, integrating the Port Melbourne plant and continuing Hunter and Sunbeam production before transitioning the facility to Chrysler Valiant Galant assembly.",
+  "models_catalog": [
+    {
+      "model_slug": "hillman-hunter",
+      "name": "Hillman Hunter / Arrow",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Medium Family Car",
+      "years_sold_au": {
+        "start": 1967,
+        "end": "1973"
+      },
+      "locally_built": true,
+      "overview": "Assembled at Port Melbourne VIC, celebrated for winning the grueling 1968 London to Sydney Marathon.",
+      "generations": [
+        {
+          "series_code": "Arrow-Series",
+          "generation_name": "Hillman Hunter",
+          "years": {
+            "start": 1967,
+            "end": 1973
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Safari wagon"
+          ],
+          "summary": "1725cc five-bearing engine with alloy cylinder head, Hunter GL, Safari wagon, and Hustler sports sedan."
+        }
+      ]
+    },
+    {
+      "model_slug": "hillman-minx",
+      "name": "Hillman Minx",
+      "vehicle_type": "Sedan / Wagon / Ute",
+      "segment": "Small / Medium Car",
+      "years_sold_au": {
+        "start": 1946,
+        "end": "1967"
+      },
+      "locally_built": true,
+      "overview": "One of Australia's most ubiquitous post-war family cars, assembled in Melbourne with local coupe utility derivatives.",
+      "generations": [
+        {
+          "series_code": "Phase-I-Series-VI",
+          "generation_name": "Hillman Minx & Super Minx",
+          "years": {
+            "start": 1946,
+            "end": 1967
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Coupe utility",
+            "Estate wagon"
+          ],
+          "summary": "Side-valve 1185cc to overhead-valve 1390cc, 1494cc, and 1592cc engines, including Audax Series."
+        }
+      ]
+    }
+  ]
+}

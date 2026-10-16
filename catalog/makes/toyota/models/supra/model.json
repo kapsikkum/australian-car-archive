@@ -1,0 +1,563 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "supra",
+  "name": "Supra",
+  "vehicle_type": "Sports Coupe",
+  "segment": "Sports Performance",
+  "years_sold_au": {
+    "start": 1983,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota Supra is a halo sports grand tourer with an indelible legacy in Australian motorsport and enthusiast culture. From early Celica Supra models through the twin-turbo 2JZ-GTE JZA80 supercar killer to the modern B58-powered GR Supra, it represents Toyota's front-engine rear-drive inline-six performance pinnacle.",
+  "australian_market_notes": "First sold locally in 1983 as the Celica Supra MA61, the nameplate reached motorsport fame when Peter Williamson campaigned the MA70 Turbo in the Australian Touring Car Championship. While the iconic JZA80 Mk IV twin-turbo was primarily imported as a low-volume/grey-market legend in Australia, the GR Supra returned officially in 2019.",
+  "manuals": [
+    {
+      "title": "Toyota Supra Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1983,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/supra/model.json",
+      "local_path": "media/manuals/toyota/supra/toyota_supra_au_technical_manual.pdf",
+      "file_size_bytes": 6462,
+      "sha256": "5ba10b12d97c477192b950653183df98ef1c22a590744f8c1750c54603be74e7",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Toyota Celica Supra (A60) Brochure (1984)",
+      "year": 1984,
+      "source_url": "https://archive.org/details/toyota-celica-supra-a60-brochure-1984-australia",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/supra/toyota_supra_manual_Toyota_Celica_Supra_A60_Brochure_1984.html",
+      "file_size_bytes": 214682,
+      "sha256": "1dec6a26ddd8b1f42d8dd8489034c09e3c78ec0fdf675dca07662823680146de"
+    },
+    {
+      "title": "Toyota Celica Supra (A60) Brochure (1982)",
+      "year": 1982,
+      "source_url": "https://archive.org/details/toyota-celica-supra-brochure-1982",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/supra/toyota_supra_manual_Toyota_Celica_Supra_A60_Brochure_1982.html",
+      "file_size_bytes": 213818,
+      "sha256": "25fa0f47c5d4158b8e5290c9f2cc857a2a5061521b23d6cf58c99549b9a53e46"
+    },
+    {
+      "title": "Toyota Celica Supra (A60) Brochure (1984)",
+      "year": 1984,
+      "source_url": "https://archive.org/details/toyota-celica-supra-a60-brochure-1984-france",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/supra/toyota_supra_manual_Toyota_Celica_Supra_A60_Brochure_1984.html",
+      "file_size_bytes": 214651,
+      "sha256": "13a19a0588c927ea87eb1f525849bbf40ab09f695f653de197a5d12730155589"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Type 89 Lotus Excel, built from 1982 to 1992, is a front-engined, rear-wheel drive sports car designed and built by Lotus. It was based on the design of the earlier Lotus Eclat, which itself was based on the earlier Lotus Elite II. Toyo",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/1989_Lotus_Excel_Sports_%2845737799781%29.jpg/1280px-1989_Lotus_Excel_Sports_%2845737799781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/toyota/supra/toyota_supra_hero_1_1989_Lotus_Excel_Sports_45737799781_.jpg",
+      "file_size_bytes": 464809,
+      "sha256": "4fcbcb3f31225056fc73cf1b565d8cc43c1a3969539933a47cd301f700f4e934"
+    },
+    {
+      "category": "exterior",
+      "caption": "A proposal submitted to T&amp;HWP Command to a scheme they had years ago with a VP Commodore V8 drag car",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Operation_Drag_Toyota_Supra_Turbo_-_Flickr_-_Highway_Patrol_Images.jpg/1280px-Operation_Drag_Toyota_Supra_Turbo_-_Flickr_-_Highway_Patrol_Images.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Highway Patrol Images)",
+      "local_path": "media/pictures/toyota/supra/toyota_supra_hero_2_Operation_Drag_Toyota_Supra_Turbo_-_Flickr_-_Highway_Patrol_Images.jpg",
+      "file_size_bytes": 251102,
+      "sha256": "bab893de3e3cd14ca4d9d2b3451590101ebd3ad0e5a707f6a44def35390a5b8e"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "MA61",
+      "generation_name": "Celica Supra Mk II",
+      "years": {
+        "start": 1983,
+        "end": 1986
+      },
+      "body_styles": [
+        "3-door Liftback"
+      ],
+      "platform": "Toyota A60",
+      "ancap_rating": "Untested",
+      "summary": "First Supra sold in Australia, featuring pop-up headlamps, flared wheel arches, Lotus-tuned independent rear suspension, and 2.8L 5M-E inline-six power.",
+      "engines": [
+        {
+          "engine_code": "5M-E",
+          "name": "Toyota 5M-E 2.8L EFI SOHC Inline-6",
+          "displacement_cc": 2759,
+          "displacement_litres": 2.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 105.0,
+          "power_rpm": "5200",
+          "torque_nm": 210.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Bosch L-Jetronic fuel injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Celica Supra 2.8i",
+          "years": {
+            "start": 1983,
+            "end": 1986
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 28500,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "14-inch alloy wheels",
+            "Independent rear suspension",
+            "Digital dash (option)",
+            "Power windows",
+            "Sunroof"
+          ],
+          "notes": "Pioneered luxury GT performance for Toyota in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica Supra Manual",
+          "body_style": "3-door Liftback",
+          "engine_code": "5M-E",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1983,
+          "years_end": 1986,
+          "msrp_aud": 24990,
+          "power_kw": 105.0,
+          "torque_nm": 210.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 1200,
+          "notes": "First official Supra badge in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "MA61",
+          "category": "exterior",
+          "caption": "Toyota Celica GT Liftback RA64 and Supra 2800 MA61",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ToyotaCelicaandSupra.jpg/1280px-ToyotaCelicaandSupra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (dave_7)",
+          "local_path": "media/pictures/toyota/supra/toyota_supra_MA61_1_ToyotaCelicaandSupra.jpg",
+          "file_size_bytes": 403502,
+          "sha256": "d56f94ec20b7c76797a9742411eec52397273c4a70af88438768ba6bc5f4c903"
+        }
+      ]
+    },
+    {
+      "series_code": "MA70",
+      "generation_name": "Supra Mk III",
+      "years": {
+        "start": 1986,
+        "end": 1993
+      },
+      "body_styles": [
+        "3-door Liftback Coupe",
+        "Targa Sport Roof"
+      ],
+      "platform": "Toyota A70",
+      "ancap_rating": "Untested",
+      "summary": "Separated from Celica as a dedicated model on double-wishbone suspension, offering the 3.0L 7M-GE and Australia's first factory turbocharged Supra, the 7M-GTE.",
+      "engines": [
+        {
+          "engine_code": "7M-GE",
+          "name": "Toyota 7M-GE 3.0L DOHC Inline-6",
+          "displacement_cc": 2954,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 149.0,
+          "power_rpm": "6000",
+          "torque_nm": 254.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "9.1:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Silky smooth naturally aspirated 3.0-litre."
+        },
+        {
+          "engine_code": "7M-GTE",
+          "name": "Toyota 7M-GTE 3.0L Turbo DOHC Inline-6",
+          "displacement_cc": 2954,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 173.0,
+          "power_rpm": "5600",
+          "torque_nm": 344.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.4:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "CT26 turbocharger; raced in Group A Australian Touring Cars."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Supra 3.0i",
+          "years": {
+            "start": 1986,
+            "end": 1993
+          },
+          "body_styles": [
+            "3-door Liftback",
+            "Targa Sport Roof"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 41990,
+          "msrp_aud_max": 52000,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1520,
+          "standard_features": [
+            "Pop-up headlights",
+            "TEMS electronic damper control",
+            "Power seats",
+            "Climate control",
+            "16-inch alloy wheels"
+          ],
+          "notes": "Naturally aspirated grand tourer."
+        },
+        {
+          "badge_name": "Supra Turbo",
+          "years": {
+            "start": 1987,
+            "end": 1993
+          },
+          "body_styles": [
+            "3-door Liftback",
+            "Targa Sport Roof"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 56990,
+          "msrp_aud_max": 68000,
+          "fuel_consumption_l_100km": 12.0,
+          "kerb_weight_kg": 1590,
+          "standard_features": [
+            "LSD differential",
+            "Turbo boost gauge",
+            "ABS brakes standard",
+            "Sport roof (removable targa panel)"
+          ],
+          "notes": "Flagship Japanese supercar alternative in late 1980s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Supra Turbo Targa",
+          "body_style": "Targa Sport Roof",
+          "engine_code": "7M-GTE",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1987,
+          "years_end": 1993,
+          "msrp_aud": 64990,
+          "power_kw": 173.0,
+          "torque_nm": 344.0,
+          "fuel_l_100km": 12.0,
+          "towing_braked_kg": 1400,
+          "notes": "0-100 km/h in 6.8 seconds."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "MA70",
+          "category": "exterior",
+          "caption": "1986 Toyota Supra (MA70) liftback. Photographed in Fitzroy North, Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1986_Toyota_Supra_%28MA70%29_liftback_%282015-07-14%29_01.jpg/1280px-1986_Toyota_Supra_%28MA70%29_liftback_%282015-07-14%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/toyota/supra/toyota_supra_MA70_1_1986_Toyota_Supra_MA70_liftback_2015-07-14_01.jpg",
+          "file_size_bytes": 309964,
+          "sha256": "1b8d5e9cf3281de90d73081f1550713e65074bcfa0f6fc11bbb5ac15a3430245"
+        }
+      ]
+    },
+    {
+      "series_code": "JZA80",
+      "generation_name": "Supra Mk IV",
+      "years": {
+        "start": 1993,
+        "end": "2002"
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "Aerotop"
+      ],
+      "platform": "Toyota A80",
+      "ancap_rating": "Untested",
+      "summary": "Legendary Japanese supercar featuring the bulletproof 2JZ-GTE sequential twin-turbo inline-six, aluminium double-wishbone suspension, huge rear wing, and 6-speed Getrag manual.",
+      "engines": [
+        {
+          "engine_code": "2JZ-GE",
+          "name": "Toyota 2JZ-GE 3.0L DOHC Inline-6",
+          "displacement_cc": 2997,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 165.0,
+          "power_rpm": "5800",
+          "torque_nm": 284.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Found in SZ and SZ-R grades."
+        },
+        {
+          "engine_code": "2JZ-GTE",
+          "name": "Toyota 2JZ-GTE 3.0L Sequential Twin-Turbo Inline-6",
+          "displacement_cc": 2997,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 243.0,
+          "power_rpm": "5600",
+          "torque_nm": 451.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Cast-iron block revered worldwide for extreme tuning headroom (up to 1,000+ hp)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SZ / SZ-R",
+          "years": {
+            "start": 1993,
+            "end": 2002
+          },
+          "body_styles": [
+            "Coupe",
+            "Aerotop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 65000,
+          "msrp_aud_max": 75000,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 1450,
+          "standard_features": [
+            "16-inch or 17-inch alloys",
+            "Cloth sports bucket seats",
+            "Bilstein dampers (SZ-R)",
+            "Limited slip differential"
+          ],
+          "notes": "Naturally aspirated grade."
+        },
+        {
+          "badge_name": "RZ / GZ Twin Turbo",
+          "years": {
+            "start": 1993,
+            "end": 2002
+          },
+          "body_styles": [
+            "Coupe",
+            "Aerotop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed Getrag manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 89000,
+          "msrp_aud_max": 110000,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1570,
+          "standard_features": [
+            "Sequential twin turbos",
+            "Active front spoiler",
+            "Iconic high rear wing",
+            "Brembo/Toyota 4-pot brakes",
+            "Torsen LSD"
+          ],
+          "notes": "Cult status supercar killer with 0-100 km/h in 4.9 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Supra RZ Twin Turbo",
+          "body_style": "Coupe",
+          "engine_code": "2JZ-GTE",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1993,
+          "years_end": 2002,
+          "msrp_aud": 95000,
+          "power_kw": 243.0,
+          "torque_nm": 451.0,
+          "fuel_l_100km": 11.8,
+          "towing_braked_kg": 0,
+          "notes": "One of the most celebrated Japanese sports cars ever imported to Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "JZA80",
+          "category": "exterior",
+          "caption": "Taken at the Toyota Automobile Museum in Aichi, Nagoya, Japan.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1993_Toyota_Supra_%28JZA80%29_Coupe.jpg/1280px-1993_Toyota_Supra_%28JZA80%29_Coupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 4.0 (Coolalabright)",
+          "local_path": "media/pictures/toyota/supra/toyota_supra_JZA80_1_1993_Toyota_Supra_JZA80_Coupe.jpg",
+          "file_size_bytes": 261970,
+          "sha256": "8ad060d5b68cce05f37039d7be8174d23f27e9c1a66ca521ed0a3ceb98d179c0"
+        }
+      ]
+    },
+    {
+      "series_code": "J29/DB",
+      "generation_name": "GR Supra Mk V",
+      "years": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "BMW/Toyota CLAR-based sports platform",
+      "ancap_rating": "Untested",
+      "summary": "Co-developed with BMW and built by Magna Steyr in Austria. Features BMW's B58 3.0L twin-scroll turbocharged inline-six (up to 285kW/500Nm) with 50:50 weight distribution and 6-speed manual option.",
+      "engines": [
+        {
+          "engine_code": "B58B30O1",
+          "name": "BMW/Toyota B58 3.0L Turbo Inline-6",
+          "displacement_cc": 2998,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Twin-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 285.0,
+          "power_rpm": "5800-6500",
+          "torque_nm": 500.0,
+          "torque_rpm": "1800-5000",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24-valve Double-VANOS and Valvetronic",
+          "notes": "Launched at 250kW in 2019; upgraded to 285kW in late 2020."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 84900,
+          "msrp_aud_max": 87000,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 1495,
+          "standard_features": [
+            "18-inch alloy wheels",
+            "Active differential",
+            "Adaptive variable suspension",
+            "Dual-zone climate control"
+          ],
+          "notes": "High performance sports car entry."
+        },
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 94900,
+          "msrp_aud_max": 97000,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 1500,
+          "standard_features": [
+            "19-inch forged alloy wheels",
+            "Brembo 4-piston front brakes",
+            "Head-up display",
+            "JBL 12-speaker audio"
+          ],
+          "notes": "Top-specification variant; 6-speed manual added in 2022."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GR Supra GTS Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "B58B30O1",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 97000,
+          "power_kw": 285.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 0,
+          "notes": "0-100 km/h in 4.4 seconds with iMT rev-matching manual."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "J29/DB",
+          "category": "exterior",
+          "caption": "“Toyota Supra” lettering on the rear of a Toyota GR Supra (in the showroom of Auto Bertels) in Dülmen, North Rhine-Westphalia, Germany",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/D%C3%BClmen%2C_Auto_Bertels%2C_Toyota_GR_Supra_--_2021_--_9568.jpg/1280px-D%C3%BClmen%2C_Auto_Bertels%2C_Toyota_GR_Supra_--_2021_--_9568.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dietmar Rabich)",
+          "local_path": "media/pictures/toyota/supra/toyota_supra_J29_DB_1_D_lmen_Auto_Bertels_Toyota_GR_Supra_--_2021_--_9568.jpg",
+          "file_size_bytes": 129234,
+          "sha256": "6858fb2dcca3a8e9deb2275c72735362ee2d26b082f723a07d920638a0650cae"
+        }
+      ]
+    }
+  ]
+}

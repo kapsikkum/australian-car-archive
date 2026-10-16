@@ -1,0 +1,45 @@
+{
+  "make_slug": "oka",
+  "name": "OKA Motor Company",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1986,
+    "end": 2011
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "OKA Motor Company was established in 1986 in Bibra Lake, Perth, Western Australia to engineer and manufacture an uncompromising, severe-duty all-terrain four-wheel-drive commercial vehicle. Designed to conquer the harshest Australian outback conditions for mining companies, outback tour operators, and emergency services, the OKA featured a massive perimeter steel box-section chassis, heavy-duty Dana 60 front and Dana 70 rear live axles, a bulletproof New Process / Spicer transfer case, and Perkins 4-cylinder (Phaser 110MT) or Cummins 5.9L ISBe turbo-diesel engines. Available across LT, XT, and NT series in single-cab, dual-cab, multicab, bus, and van configurations, the OKA earned legendary status throughout the Kimberley, Pilbara, and Red Centre as an unyielding off-road machine capable of crossing rivers and sand dunes where standard 4WDs perished.",
+  "australian_history": "The OKA story began in 1986 when a consortium of Western Australian mining, engineering, and transport executives sought a vehicle capable of transporting personnel and heavy cargo across remote unsealed washboard tracks, sand dunes, and boulder-strewn creek beds. Conventional commercial 4WDs (such as LandCruisers and Land Rovers) suffered chassis failures when heavily laden, while medium 4x4 trucks were too heavy and cumbersome. Engineering began at Bibra Lake, Perth, focused on extreme structural rigidity and serviceability in remote bush workshops.\n\nThe resulting chassis was constructed from heavy-gauge rectangular hollow-section steel, with full hot-dip galvanizing options. Heavy-duty Dana 60 front and Dana 70 rear rigid drive axles on long semi-elliptic leaf springs offered exceptional wheel articulation and ground clearance. The powertrain selected was the indestructible Perkins Phaser 110MT 4.0-litre four-cylinder turbo-diesel, mated to a Spicer 5-speed manual gearbox and New Process dual-range transfer case.\n\nOKA offered the platform in versatile body options: Single Cab chassis, Dual Cab, Multicab (seating up to 8), high-roof Commuter Bus (seating up to 14 tourists), and Panel Van. The cab styling was brutally functional, featuring flat glass panels that could be replaced easily in the Outback. OKAs quickly became standard equipment for Rio Tinto and BHP in the Pilbara, Telstra line maintenance in the Northern Territory, outback safari tours, and rural fire services. The XT series introduced mechanical refinements, and the NT series integrated Cummins 5.9-litre common-rail turbo-diesel engines. Around 500 OKAs were built before manufacturing ceased in 2011, remaining among Australia's most rugged and prized expedition vehicles.",
+  "models_catalog": [
+    {
+      "model_slug": "4x4-truck",
+      "name": "OKA 4x4 (LT, XT, NT)",
+      "vehicle_type": "Cab Chassis / Van / Bus",
+      "segment": "Heavy-Duty All-Terrain Commercial",
+      "years_sold_au": {
+        "start": 1986,
+        "end": 2011
+      },
+      "locally_built": true,
+      "overview": "Western Australian severe-duty 4WD truck and bus featuring box-section chassis, Dana axles, and Perkins/Cummins turbo-diesel power.",
+      "generations": [
+        {
+          "series_code": "LT-XT-NT",
+          "generation_name": "OKA 4x4 Range (LT, XT, NT)",
+          "years": {
+            "start": 1986,
+            "end": 2011
+          },
+          "body_styles": [
+            "Single Cab",
+            "Dual Cab",
+            "Multicab",
+            "Commuter Bus",
+            "Van"
+          ],
+          "summary": "Perkins 4.0L Phaser turbo-diesel (82kW/353Nm) and Cummins 5.9L ISBe; Dana 60/70 axles, dual-range 4WD, 5.5-tonne GVM."
+        }
+      ]
+    }
+  ]
+}

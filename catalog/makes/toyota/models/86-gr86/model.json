@@ -1,0 +1,289 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "86-gr86",
+  "name": "86 / GR86",
+  "vehicle_type": "Sports Coupe",
+  "segment": "Sports Car",
+  "years_sold_au": {
+    "start": 2012,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota 86 and GR86 re-energized accessible rear-wheel-drive sports motoring in Australia. Developed jointly with Subaru (who built the cars at the Gunma Main Plant), the 86 combined a low center of gravity boxer engine, lightweight chassis, razor-sharp steering, and rear-drive dynamics at an accessible price point.",
+  "australian_market_notes": "Launched in June 2012 with an audacious starting price of $29,990 AUD for the GT manual, the 86 created an immediate showroom storm and lengthy waiting lists across Australia. The GR86 arrived in September 2022 under the Gazoo Racing banner with a punchier 2.4-litre engine fixing the predecessor's mid-range torque dip.",
+  "manuals": [
+    {
+      "title": "Toyota 86 / GR86 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2012,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/86-gr86/model.json",
+      "local_path": "media/manuals/toyota/86-gr86/toyota_86-gr86_au_technical_manual.pdf",
+      "file_size_bytes": 3959,
+      "sha256": "5e0a60a262b6345b73a595467211ec932581e6623ed3751fed15858e8a2b1d3e",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Front right quarter view of a Toyota GR86 at the 2023 Denver Auto Show.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2023_Denver_Auto_Show_Toyota_86_%28ZN8%29_front_quarter.jpg/1280px-2023_Denver_Auto_Show_Toyota_86_%28ZN8%29_front_quarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (Corqe)",
+      "local_path": "media/pictures/toyota/86-gr86/toyota_86-gr86_hero_1_2023_Denver_Auto_Show_Toyota_86_ZN8_front_quarter.jpg",
+      "file_size_bytes": 318551,
+      "sha256": "0f1e62aed7568193d764343b9dfd452c4602e21e89b6fdaaa78542786e1ca895"
+    },
+    {
+      "category": "exterior",
+      "caption": "23 Toyota GR 86 10th Anniversary Edition - Shot at AutoSavvy in Gilbert AZ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/23_Toyota_GR_86_10th_Anniversary_Edition.jpg/1280px-23_Toyota_GR_86_10th_Anniversary_Edition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (HJUdall)",
+      "local_path": "media/pictures/toyota/86-gr86/toyota_86-gr86_hero_2_23_Toyota_GR_86_10th_Anniversary_Edition.jpg",
+      "file_size_bytes": 413607,
+      "sha256": "350d5babccaabee8bdeda3cecb2d0a5283c296dd144e036d972a1a0788fe4bc6"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "ZN6",
+      "generation_name": "86 1st Generation",
+      "years": {
+        "start": 2012,
+        "end": 2021
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Subaru/Toyota ZN6",
+      "ancap_rating": "5 stars",
+      "summary": "Original lightweight rear-drive sports coupe featuring Subaru's FA20 flat-four with Toyota D-4S direct and port injection, 6-speed manual or auto, and Torsen LSD.",
+      "engines": [
+        {
+          "engine_code": "FA20 / 4U-GSE",
+          "name": "Subaru/Toyota FA20 / 4U-GSE 2.0L Boxer-4",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 147.0,
+          "power_rpm": "7000",
+          "torque_nm": 205.0,
+          "torque_rpm": "6400-6600",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS",
+          "notes": "Upgraded in late 2016 facelift to 152kW/212Nm for 6-speed manual variants with red aluminium intake manifold."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 34180,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 1222,
+          "standard_features": [
+            "16-inch alloy wheels",
+            "Torsen limited-slip differential",
+            "Air conditioning",
+            "Cruise control",
+            "7 airbags"
+          ],
+          "notes": "Disruptive $29,990 launch price point."
+        },
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 35490,
+          "msrp_aud_max": 39680,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 1257,
+          "standard_features": [
+            "17-inch alloys",
+            "Leather/Alcantara heated seats",
+            "Keyless smart entry",
+            "Dual-zone climate control",
+            "HID headlamps",
+            "Rear spoiler"
+          ],
+          "notes": "Premium grade; later offered with Sachs dampers and Brembo brakes package."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "86 GTS Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "FA20 / 4U-GSE",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2012,
+          "years_end": 2021,
+          "msrp_aud": 35490,
+          "power_kw": 147.0,
+          "torque_nm": 205.0,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 0,
+          "notes": "Benchmark driver's coupe in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZN6",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 2-door fastback coupe, 3BA-ZN8-B2E8 RZ version. Installed some customize GR parts(example, the wheels of early type of ZN6 86 GT).\n\nc/n unknown. This is 4-door fastback sedan, BLTARVLV37HDA---CC 350GT HYBRID Type P vers",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Toyota_3BA-ZN8_GR86_RZ_-_Nissan_DAA-HV37_Skyline_350GT_Type_P_%2823020415163%29.jpg/1280px-Toyota_3BA-ZN8_GR86_RZ_-_Nissan_DAA-HV37_Skyline_350GT_Type_P_%2823020415163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (先従隗始)",
+          "local_path": "media/pictures/toyota/86-gr86/toyota_86-gr86_ZN6_1_Toyota_3BA-ZN8_GR86_RZ_-_Nissan_DAA-HV37_Skyline_350GT_Type_P_23020415163_.jpg",
+          "file_size_bytes": 177844,
+          "sha256": "2a5e2f976973fd5c59a787980c1871934726a84f4dc4f864a77ae14cd17785ed"
+        }
+      ]
+    },
+    {
+      "series_code": "ZN8",
+      "generation_name": "GR86 2nd Generation",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Toyota/Subaru ZN8",
+      "ancap_rating": "Untested",
+      "summary": "Gazoo Racing developed second-generation coupe with larger 2.4L FA24 boxer engine delivering 174kW and 250Nm, curing the previous torque curve dip, with 50% stiffer torsional rigidity.",
+      "engines": [
+        {
+          "engine_code": "FA24D",
+          "name": "Subaru/Toyota FA24D 2.4L Boxer-4",
+          "displacement_cc": 2387,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Horizontally Opposed Boxer-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 174.0,
+          "power_rpm": "7000",
+          "torque_nm": 250.0,
+          "torque_rpm": "3700",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "DOHC 16-valve Dual AVCS",
+          "notes": "Peak torque arrives at just 3,700rpm compared to 6,400rpm on predecessor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 43240,
+          "msrp_aud_max": 45390,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 1287,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Torsen LSD",
+            "8-inch touchscreen",
+            "7-inch digital cluster",
+            "LED headlights",
+            "Track mode ESC"
+          ],
+          "notes": "Entry enthusiast specification."
+        },
+        {
+          "badge_name": "GTS",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 45390,
+          "msrp_aud_max": 47540,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 1306,
+          "standard_features": [
+            "18-inch matte black alloys with Michelin Pilot Sport 4 tyres",
+            "Ultrasuede and leather heated seats",
+            "Aluminium sports pedals",
+            "Blind-spot monitoring"
+          ],
+          "notes": "Top-selling model in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GR86 GTS Manual",
+          "body_style": "2-door Coupe",
+          "engine_code": "FA24D",
+          "transmission": "6-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 45390,
+          "power_kw": 174.0,
+          "torque_nm": 250.0,
+          "fuel_l_100km": 8.8,
+          "towing_braked_kg": 0,
+          "notes": "0-100 km/h in 6.3 seconds."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZN8",
+          "category": "exterior",
+          "caption": "Front right quarter view of a Toyota GR86 at the 2023 Denver Auto Show.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2023_Denver_Auto_Show_Toyota_86_%28ZN8%29_front_quarter.jpg/1280px-2023_Denver_Auto_Show_Toyota_86_%28ZN8%29_front_quarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Corqe)",
+          "local_path": "media/pictures/toyota/86-gr86/toyota_86-gr86_ZN8_1_2023_Denver_Auto_Show_Toyota_86_ZN8_front_quarter.jpg",
+          "file_size_bytes": 318551,
+          "sha256": "0f1e62aed7568193d764343b9dfd452c4602e21e89b6fdaaa78542786e1ca895"
+        }
+      ]
+    }
+  ]
+}

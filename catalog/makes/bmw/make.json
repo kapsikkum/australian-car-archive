@@ -1,0 +1,365 @@
+{
+  "make_slug": "bmw",
+  "name": "BMW",
+  "country_of_origin": "Germany",
+  "years_active_au": {
+    "start": 1960,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The Ultimate Driving Machine in Australia, renowned for sports sedans, touring car dominance at Mount Panorama, and pioneering luxury X-series SUVs.",
+  "australian_history": "BMW vehicles were first imported to Australia by independent distributors such as Capitol Motors in Sydney and Ron Hodgson in the 1960s. In 1979, BMW Australia Pty Ltd was established as a wholly owned subsidiary based in Mulgrave, Victoria. BMW built immense Australian sporting credibility through motorsport: Frank Gardner's JPS Team BMW dominated the Australian Touring Car Championship (ATCC) in the 1980s with Jim Richards driving the sleek black-and-gold 635CSi (1985 ATCC winner) and E30 M3 (1987 ATCC winner). Tony Longhurst and Richards claimed the Bathurst 1000 in 1991 and 1992 in Class B with M3s. Australia quickly became one of BMW's highest-penetration markets globally for M performance vehicles and X-series Sports Activity Vehicles, with models like the 3 Series, 5 Series, X3, and X5 maintaining top-tier status.",
+  "models_catalog": [
+    {
+      "model_slug": "3-series",
+      "name": "3 Series",
+      "vehicle_type": "Sedan / Coupe / Wagon / Convertible",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1976,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The benchmark luxury sports sedan in Australia across seven generations from E21 to G20, including legendary M3 high-performance iterations.",
+      "generations": [
+        {
+          "series_code": "E21",
+          "generation_name": "3 Series E21",
+          "years": {
+            "start": 1976,
+            "end": 1983
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "summary": "Pioneered the compact executive sports sedan with 318, 320, and fuel-injected 323i inline-six."
+        },
+        {
+          "series_code": "E30",
+          "generation_name": "3 Series E30",
+          "years": {
+            "start": 1983,
+            "end": 1991
+          },
+          "body_styles": [
+            "2-door sedan",
+            "4-door sedan",
+            "Convertible",
+            "Touring"
+          ],
+          "summary": "Cult classic in Australia; 318i, 320i, 323i, 325i, and Group A homologation M3 with S14 2.3L."
+        },
+        {
+          "series_code": "E36",
+          "generation_name": "3 Series E36",
+          "years": {
+            "start": 1991,
+            "end": 1998
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe",
+            "Convertible",
+            "Compact",
+            "Touring"
+          ],
+          "summary": "Z-axle multi-link rear suspension, 318is, 325i, 328i, and 3.0L/3.2L M3 (up to 236kW)."
+        },
+        {
+          "series_code": "E46",
+          "generation_name": "3 Series E46",
+          "years": {
+            "start": 1998,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe",
+            "Convertible",
+            "Touring",
+            "Compact"
+          ],
+          "summary": "Widely regarded as design peak; 318i to 330i, and iconic 252kW M3 with high-revving S54 3.2L inline-six."
+        },
+        {
+          "series_code": "E90",
+          "generation_name": "3 Series E90 / E92",
+          "years": {
+            "start": 2005,
+            "end": 2012
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe",
+            "Convertible",
+            "Touring"
+          ],
+          "summary": "Run-flat tyres, iDrive, twin-turbo 335i (N54/N55), and 309kW 4.0L S65 V8 M3."
+        },
+        {
+          "series_code": "F30",
+          "generation_name": "3 Series F30",
+          "years": {
+            "start": 2012,
+            "end": 2019
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring"
+          ],
+          "summary": "Turbocharged 4-cylinder and inline-6 (320i, 328i, 330i, 340i B58) and twin-turbo S55 M3."
+        },
+        {
+          "series_code": "G20",
+          "generation_name": "3 Series G20",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring"
+          ],
+          "summary": "Stiffer CLAR architecture, 320i, 330i, M340i xDrive (285kW), M3 (353kW/375kW), and M3 Touring."
+        }
+      ]
+    },
+    {
+      "model_slug": "5-series",
+      "name": "5 Series",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1973,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "BMW's executive express, defining executive sports saloons from E12 and E28 through E39 and modern G60.",
+      "generations": [
+        {
+          "series_code": "E12-E28",
+          "generation_name": "5 Series E12 & E28",
+          "years": {
+            "start": 1973,
+            "end": 1988
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Established BMW's 6-cylinder executive dominance; 520, 528i, 535i, and first M5."
+        },
+        {
+          "series_code": "E34-E39",
+          "generation_name": "5 Series E34 & E39",
+          "years": {
+            "start": 1988,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring"
+          ],
+          "summary": "E39 considered benchmark executive chassis; 523i, 528i, 540i V8, and 294kW S62 V8 M5."
+        },
+        {
+          "series_code": "E60-F10-G30",
+          "generation_name": "5 Series E60, F10 & G30",
+          "years": {
+            "start": 2003,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring"
+          ],
+          "summary": "V10 M5 (S85 373kW), twin-turbo V8 M5, and modern mild-hybrid/i5 electric G60."
+        }
+      ]
+    },
+    {
+      "model_slug": "x5",
+      "name": "X5",
+      "vehicle_type": "Large Luxury SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2000,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The vehicle that redefined the luxury SUV category in Australia. Originating in 2000 as the world's first true Sports Activity Vehicle (SAV) with monocoque construction and car-like handling, the BMW X5 has dominated Australian luxury SUV sales across four generations.",
+      "generations": [
+        {
+          "series_code": "E53",
+          "generation_name": "X5 First Generation (E53)",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Pioneered car-like monocoque SUV chassis dynamics. Offered with 3.0i petrol, 3.0d turbo-diesel, 4.4i V8, and the high-output 4.6is / 4.8is performance flagships with 265kW."
+        },
+        {
+          "series_code": "E70",
+          "generation_name": "X5 Second Generation (E70)",
+          "years": {
+            "start": 2007,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door SUV",
+            "7-seat SUV"
+          ],
+          "summary": "Introduced available third-row 7-seat packaging, Adaptive Drive active anti-roll bars, iDrive, and the inaugural BMW X5 M powered by a 408kW 4.4L twin-turbo V8."
+        },
+        {
+          "series_code": "G05",
+          "generation_name": "X5 Fourth Generation (G05)",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Built on CLAR platform with optional two-axle air suspension, off-road package, xDrive30d, plug-in hybrid xDrive45e/50e, M50i/M60i V8, and the mighty 460kW X5 M Competition."
+        }
+      ]
+    },
+    {
+      "model_slug": "m3",
+      "name": "M3",
+      "vehicle_type": "Coupe / Sedan / Wagon",
+      "segment": "Sports Performance",
+      "years_sold_au": {
+        "start": 1987,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The iconic high-performance sports benchmark in Australia with ATCC championship victories and high-revving motorsport powertrains.",
+      "generations": [
+        {
+          "series_code": "E30-E36",
+          "generation_name": "M3 E30 & E36",
+          "years": {
+            "start": 1987,
+            "end": 1999
+          },
+          "body_styles": [
+            "Coupe",
+            "Sedan",
+            "Convertible"
+          ],
+          "summary": "E30 2.3L 4-cylinder touring car hero; E36 3.0L (210kW) and 3.2L (236kW) inline-six."
+        },
+        {
+          "series_code": "E46-E90",
+          "generation_name": "M3 E46 & E90/E92",
+          "years": {
+            "start": 2001,
+            "end": 2013
+          },
+          "body_styles": [
+            "Coupe",
+            "Sedan",
+            "Convertible"
+          ],
+          "summary": "E46 252kW S54 screamers (including lightweight CSL); E90/92 with 309kW 4.0L S65 V8."
+        },
+        {
+          "series_code": "F80-G80",
+          "generation_name": "M3 F80 & G80",
+          "years": {
+            "start": 2014,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Touring"
+          ],
+          "summary": "Twin-turbo S55 (F80) and S58 (G80 up to 405kW CS), introducing M xDrive and M3 Touring."
+        }
+      ]
+    },
+    {
+      "model_slug": "5-series-m5",
+      "name": "5 Series & M5",
+      "vehicle_type": "Sedan / Touring Wagon",
+      "segment": "Large Luxury Executive Sedan",
+      "years_sold_au": {
+        "start": 1973,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The definitive executive express in Australia across eight generations. The 5 Series established BMW's benchmark rear-wheel-drive chassis dynamics, silky inline-sixes, and thunderous V8s, culminating in the peerless BMW M5 from the high-revving S38, naturally aspirated V8 S62, screaming V10 S85, to the twin-turbo V8 M xDrive M5 Competition.",
+      "generations": [
+        {
+          "series_code": "E28",
+          "generation_name": "5 Series E28 & M535i",
+          "years": {
+            "start": 1981,
+            "end": 1988
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "The shark-nose executive sports sedan; 520i, 528i, and halo M535i engineered by BMW Motorsport with 3.4L M30 big-six, M-Technic suspension, and limited-slip differential."
+        },
+        {
+          "series_code": "E34",
+          "generation_name": "5 Series E34 & M5",
+          "years": {
+            "start": 1988,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring wagon"
+          ],
+          "summary": "Classic Claus Luthe design. Featured multi-link rear suspension, 24V M50 sixes, the muscular 540i 4.0L V8, and the hand-built S38-powered BMW M5."
+        },
+        {
+          "series_code": "E39",
+          "generation_name": "5 Series E39 & M5",
+          "years": {
+            "start": 1996,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring wagon"
+          ],
+          "summary": "Widely heralded as one of the finest sedans ever built. Featured all-aluminium suspension, 528i/530i inline-sixes, 540i V8, and the iconic E39 M5 with 294kW S62 4.9L V8, 6-speed manual, and limited-slip differential."
+        },
+        {
+          "series_code": "E60",
+          "generation_name": "5 Series E60 & M5 V10",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring wagon"
+          ],
+          "summary": "Chris Bangle flame-surfacing design with aluminum front chassis structure. Highlighted by the Formula 1-inspired BMW M5 powered by the magnificent 373kW 5.0L V10 S85 engine revving to 8,250rpm."
+        },
+        {
+          "series_code": "G30/F90",
+          "generation_name": "5 Series G30 & M5 Competition",
+          "years": {
+            "start": 2017,
+            "end": 2023
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Touring wagon"
+          ],
+          "summary": "Built on the lightweight CLAR carbon core platform. Lineup featured the 530i, 540i xDrive, M550i V8, and the ferocious F90 M5 Competition packing a 460kW 4.4L twin-turbo V8 and switchable M xDrive AWD."
+        }
+      ]
+    }
+  ]
+}

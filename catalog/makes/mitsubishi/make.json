@@ -1,0 +1,751 @@
+{
+  "make_slug": "mitsubishi",
+  "name": "Mitsubishi",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1980,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "From manufacturing over 1.1 million cars at Tonsley Park, South Australia to dominating outback tracks with the Pajero and Triton, Mitsubishi is embedded in Australia's automotive fabric.",
+  "australian_history": "Mitsubishi's connection with Australia began in the 1960s through Chrysler Australia, which sold the Colt 1000 and, in 1971, introduced the Galant. In 1977, Chrysler Australia launched the Chrysler Sigma (based on the Japanese Galant), assembled at Chrysler's Tonsley Park plant in Adelaide, South Australia. The Sigma became an instant national sensation, dominating the 4-cylinder market.\n\nIn 1980, Mitsubishi Motors Corporation acquired Chrysler Australia, establishing Mitsubishi Motors Australia Limited (MMAL). MMAL invested heavily in South Australia, operating vehicle assembly at Tonsley Park and an engine casting foundry at Lonsdale. In 1985, MMAL launched the groundbreaking TM Magna. Engineered specifically for Australian family motoring, MMAL took the Japanese Galant and widened the body by 66mm to create a spacious mid-to-large car perfectly suited to Australian wide-open spaces. Powered by the locally made 2.6L Astron II engine, the Magna won the 1985 Wheels Car of the Year.\n\nIn 1991, MMAL launched the second-generation TR Magna and luxury KR Verada, introducing a 3.0L V6. The Australian-developed Magna wagon and sedan were exported in huge numbers to the United States (as the Mitsubishi Diamante), Japan, and the UK, demonstrating world-class Australian manufacturing capability. In 1996, the third-generation TE Magna won Wheels Car of the Year again. In 2002, MMAL created the Magna Ralliart (180kW hand-built 3.5L V6) and the world-first Magna All-Wheel Drive (AWD) utilizing the QuadTec system. In 2005, the Magna was replaced by the 380 sedan (DB series) following a $600M plant overhaul. However, shifting consumer demand away from large local sedans led MMAL to close Tonsley Park on March 27, 2008.\n\nFollowing the end of domestic manufacturing, Mitsubishi successfully pivoted to a 100% imported range focused on SUVs and utes. The Pajero established legendary 4WD status across four generations (1983-2021). The Triton ute became one of Australia's top three light commercial vehicles. In 2014, the Outlander PHEV pioneered affordable plug-in hybrid technology in Australia, remaining the nation's best-selling PHEV SUV.",
+  "models_catalog": [
+    {
+      "model_slug": "sigma",
+      "name": "Sigma",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 1977,
+        "end": 1987
+      },
+      "locally_built": true,
+      "overview": "The car that transformed Tonsley Park; originally sold under Chrysler, then Mitsubishi from 1980.",
+      "generations": [
+        {
+          "series_code": "GE/GH",
+          "generation_name": "Chrysler Sigma 1st Gen",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "1.6L Saturn, 1.85L and 2.0L Astron engines; Galant-based Australian family favourite."
+        },
+        {
+          "series_code": "GJ/GK/GN",
+          "generation_name": "Mitsubishi Sigma 2nd Gen",
+          "years": {
+            "start": 1980,
+            "end": 1987
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.0L and 2.6L Astron engines, Peter Wherrett special edition, 5-speed manual; Tonsley Park built."
+        }
+      ]
+    },
+    {
+      "model_slug": "magna",
+      "name": "Magna",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Car",
+      "years_sold_au": {
+        "start": 1985,
+        "end": 2005
+      },
+      "locally_built": true,
+      "overview": "Australia's widebody family car triumph, manufactured across three generations at Tonsley Park, South Australia.",
+      "generations": [
+        {
+          "series_code": "TM/TN/TP",
+          "generation_name": "Magna 1st Gen",
+          "years": {
+            "start": 1985,
+            "end": 1991
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.6L Astron II (carburetted and EFI), widebody Galant platform, Wheels COTY 1985; GLX, SE, Elite."
+        },
+        {
+          "series_code": "TR/TS",
+          "generation_name": "Magna 2nd Gen",
+          "years": {
+            "start": 1991,
+            "end": 1996
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.6L 4-cyl and 3.0L 6G72 V6; Executive, SE, Elite; exported globally as Diamante wagon."
+        },
+        {
+          "series_code": "TE-TW",
+          "generation_name": "Magna 3rd Gen",
+          "years": {
+            "start": 1996,
+            "end": 2005
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "3.0L and 3.5L 6G74 V6; Wheels COTY 1996; Magna Ralliart (180kW) and Magna AWD (QuadTec)."
+        }
+      ]
+    },
+    {
+      "model_slug": "verada",
+      "name": "Verada",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1991,
+        "end": 2005
+      },
+      "locally_built": true,
+      "overview": "Tonsley Park-built luxury derivative of the Magna, featuring extended equipment, V6 power, and exported as the Diamante.",
+      "generations": [
+        {
+          "series_code": "KR/KS",
+          "generation_name": "Verada 1st Gen",
+          "years": {
+            "start": 1991,
+            "end": 1996
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "3.0L 6G72 V6, 4-speed automatic, electronic suspension, ABS, Ei and Xi grades."
+        },
+        {
+          "series_code": "KE-KW",
+          "generation_name": "Verada 2nd Gen",
+          "years": {
+            "start": 1996,
+            "end": 2005
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "3.5L 6G74 V6, leather trim, premium audio, AWD option (Verada AWD); Ei, Xi, GTV."
+        }
+      ]
+    },
+    {
+      "model_slug": "380",
+      "name": "380",
+      "vehicle_type": "Sedan",
+      "segment": "Large Car",
+      "years_sold_au": {
+        "start": 2005,
+        "end": 2008
+      },
+      "locally_built": true,
+      "overview": "The final car manufactured by Mitsubishi in Australia at Tonsley Park, praised for exceptional chassis dynamics and 3.8L V6 power.",
+      "generations": [
+        {
+          "series_code": "DB",
+          "generation_name": "380 Series I-III",
+          "years": {
+            "start": 2005,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "3.8L 6G75 V6 (175kW), 5-speed auto/manual; Base, SX, VRX, GT, LX; final car built 27 Mar 2008."
+        }
+      ]
+    },
+    {
+      "model_slug": "colt",
+      "name": "Colt",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light / Small Car",
+      "years_sold_au": {
+        "start": 1982,
+        "end": 2012
+      },
+      "locally_built": true,
+      "overview": "Compact city car, built at Tonsley Park in the 1980s and re-introduced in the 2000s including the Colt Ralliart Turbo.",
+      "generations": [
+        {
+          "series_code": "RB-RE",
+          "generation_name": "Colt (Local Build)",
+          "years": {
+            "start": 1982,
+            "end": 1990
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "1.4L and 1.6L Saturn engines, Twin-Stick dual-range manual, assembled in Adelaide."
+        },
+        {
+          "series_code": "RG",
+          "generation_name": "Colt (Imported)",
+          "years": {
+            "start": 2004,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "Cabriolet"
+          ],
+          "summary": "1.5L 4A91 petrol, CVT; Ralliart version with 1.5L 4G15 Turbo 113kW, 5-speed manual."
+        }
+      ]
+    },
+    {
+      "model_slug": "mirage",
+      "name": "Mirage",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1996,
+        "end": 2021
+      },
+      "locally_built": false,
+      "overview": "Affordable 3-door hatch in the 1990s and later a fuel-efficient 5-door micro car.",
+      "generations": [
+        {
+          "series_code": "CE",
+          "generation_name": "Mirage 1st Gen (AU)",
+          "years": {
+            "start": 1996,
+            "end": 2004
+          },
+          "body_styles": [
+            "3-door Hatch"
+          ],
+          "summary": "1.5L 4G15 64kW, sporty budget 3-door hatchback, popular first car in Australia."
+        },
+        {
+          "series_code": "LA/LB",
+          "generation_name": "Mirage 2nd Gen (AU)",
+          "years": {
+            "start": 2013,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "1.2L 3-cylinder 3A92 engine, 4.6L/100km fuel economy; ES, LS, GT."
+        }
+      ]
+    },
+    {
+      "model_slug": "lancer",
+      "name": "Lancer",
+      "vehicle_type": "Sedan / Hatchback / Coupe / Wagon",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1977,
+        "end": 2019
+      },
+      "locally_built": false,
+      "overview": "A cornerstone of Australia's small car market for four decades, renowned for bulletproof reliability and the legendary Evolution rally series.",
+      "generations": [
+        {
+          "series_code": "A70/LC",
+          "generation_name": "Lancer 1st/2nd Gen",
+          "years": {
+            "start": 1977,
+            "end": 1983
+          },
+          "body_styles": [
+            "2-door Sedan",
+            "4-door Sedan",
+            "Hatchback"
+          ],
+          "summary": "1.4L and 1.6L Saturn engines, rear-wheel drive, Southern Cross Rally heritage."
+        },
+        {
+          "series_code": "CA/CB/CC",
+          "generation_name": "Lancer 3rd/4th Gen",
+          "years": {
+            "start": 1989,
+            "end": 1996
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Coupe",
+            "Wagon"
+          ],
+          "summary": "1.5L 4G15, 1.6L, 1.8L DOHC GSR Turbo AWD 141kW; GL, GLXi, Executive."
+        },
+        {
+          "series_code": "CE",
+          "generation_name": "Lancer 5th Gen",
+          "years": {
+            "start": 1996,
+            "end": 2003
+          },
+          "body_styles": [
+            "Coupe",
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "1.5L, 1.8L 4G93; GLi, GLXi, MR; foundation for Evolution IV-VI Australian rally dominance."
+        },
+        {
+          "series_code": "CG/CH",
+          "generation_name": "Lancer 6th Gen",
+          "years": {
+            "start": 2002,
+            "end": 2007
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.0L 4G94 and 2.4L 4G69 MIVEC in VR-X; official Australian imports of Evolution VII-IX."
+        },
+        {
+          "series_code": "CJ/CF",
+          "generation_name": "Lancer 7th Gen",
+          "years": {
+            "start": 2007,
+            "end": 2019
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportback Hatch"
+          ],
+          "summary": "Shark-nose styling, 2.0L 4B11, 2.4L 4B12 (VRX), 177kW Ralliart Turbo AWD, and 217kW Evolution X."
+        }
+      ]
+    },
+    {
+      "model_slug": "pajero",
+      "name": "Pajero",
+      "vehicle_type": "4WD Wagon",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 1983,
+        "end": 2021
+      },
+      "locally_built": false,
+      "overview": "Multi-time Dakar Rally champion that defined the multi-purpose family 4WD wagon in Australia for nearly four decades.",
+      "generations": [
+        {
+          "series_code": "NA-NG",
+          "generation_name": "Pajero 1st Gen",
+          "years": {
+            "start": 1983,
+            "end": 1991
+          },
+          "body_styles": [
+            "SWB 3-door",
+            "LWB 5-door"
+          ],
+          "summary": "2.6L 4G54 petrol, 2.5L 4D56 turbo-diesel, 3.0L V6; rear leaf springs, dual-range 4WD."
+        },
+        {
+          "series_code": "NH-NL",
+          "generation_name": "Pajero 2nd Gen",
+          "years": {
+            "start": 1991,
+            "end": 2000
+          },
+          "body_styles": [
+            "SWB 3-door",
+            "LWB 5-door"
+          ],
+          "summary": "Super Select 4WD pioneer, 3.0L/3.5L V6, 2.8L turbo-diesel; GL, GLS, Exceed."
+        },
+        {
+          "series_code": "NM-NP",
+          "generation_name": "Pajero 3rd Gen",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "SWB 3-door",
+            "LWB 5-door"
+          ],
+          "summary": "Monocoque body with integrated chassis, IRS, 3.2L 4M41 Di-D diesel and 3.5L/3.8L V6."
+        },
+        {
+          "series_code": "NS-NX",
+          "generation_name": "Pajero 4th Gen",
+          "years": {
+            "start": 2006,
+            "end": 2021
+          },
+          "body_styles": [
+            "SWB 3-door",
+            "LWB 5-door"
+          ],
+          "summary": "3.2L common-rail Di-D diesel (147kW/441Nm), Super Select II; concluded with 2021 Final Edition."
+        }
+      ]
+    },
+    {
+      "model_slug": "pajero-sport",
+      "name": "Pajero Sport",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Triton-based 7-seat 4WD wagon with coil-spring rear suspension and Super Select II 4WD.",
+      "generations": [
+        {
+          "series_code": "QE/QF",
+          "generation_name": "Pajero Sport 1st Gen (AU)",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "summary": "2.4L 4N15 MIVEC turbo-diesel 133kW/430Nm, 8-speed automatic, 3100kg towing; GLX, GLS, Exceed, GSR."
+        }
+      ]
+    },
+    {
+      "model_slug": "challenger",
+      "name": "Challenger",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 1998,
+        "end": 2015
+      },
+      "locally_built": false,
+      "overview": "Predecessor to the Pajero Sport, offering Triton-based rugged 4WD wagon capability.",
+      "generations": [
+        {
+          "series_code": "PA",
+          "generation_name": "Challenger 1st Gen",
+          "years": {
+            "start": 1998,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "summary": "3.0L 6G72 V6 petrol engine, dual-range 4WD, ladder frame chassis."
+        },
+        {
+          "series_code": "PB/PC",
+          "generation_name": "Challenger 2nd Gen",
+          "years": {
+            "start": 2009,
+            "end": 2015
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "summary": "2.5L 4D56 High-Power turbo-diesel 131kW/400Nm, Super Select 4WD, 5 or 7 seats."
+        }
+      ]
+    },
+    {
+      "model_slug": "triton",
+      "name": "Triton",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1979,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "From the original L200 to modern dual-cabs, Triton has been an Australian tradie and 4WD touring hero.",
+      "generations": [
+        {
+          "series_code": "ME-MK",
+          "generation_name": "Triton 1st/2nd Gen (AU)",
+          "years": {
+            "start": 1986,
+            "end": 2006
+          },
+          "body_styles": [
+            "Single Cab",
+            "Club Cab",
+            "Double Cab"
+          ],
+          "summary": "2.6L 4G54 petrol, 2.8L 4M40 diesel, 3.0L V6; GL, GLX, GLS."
+        },
+        {
+          "series_code": "ML/MN",
+          "generation_name": "Triton 4th Gen",
+          "years": {
+            "start": 2006,
+            "end": 2015
+          },
+          "body_styles": [
+            "Single Cab",
+            "Club Cab",
+            "Double Cab"
+          ],
+          "summary": "Curved J-line cabin styling, 3.2L 4M41 and 2.5L 4D56 diesel, 3.5L V6; GLX-R."
+        },
+        {
+          "series_code": "MQ/MR",
+          "generation_name": "Triton 5th Gen",
+          "years": {
+            "start": 2015,
+            "end": 2023
+          },
+          "body_styles": [
+            "Single Cab",
+            "Club Cab",
+            "Double Cab"
+          ],
+          "summary": "2.4L 4N15 MIVEC turbo-diesel 133kW/430Nm, Dynamic Shield styling, Super Select II; GLS, GSR."
+        },
+        {
+          "series_code": "MV",
+          "generation_name": "Triton 6th Gen",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Double Cab",
+            "Club Cab"
+          ],
+          "summary": "All-new wider ladder chassis, 2.4L 4N16 bi-turbo diesel 150kW/470Nm, 3500kg towing."
+        }
+      ]
+    },
+    {
+      "model_slug": "asx",
+      "name": "ASX",
+      "vehicle_type": "SUV",
+      "segment": "Small SUV",
+      "years_sold_au": {
+        "start": 2010,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "One of Australia's longest-running and highest-selling compact SUVs, celebrated for honest value and space.",
+      "generations": [
+        {
+          "series_code": "XA/XB/XC",
+          "generation_name": "ASX 1st Gen",
+          "years": {
+            "start": 2010,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L 4B11 and 2.4L 4B12 petrol, 1.8L/2.2L turbo-diesel; ES, MR, LS, GSR, Exceed."
+        }
+      ]
+    },
+    {
+      "model_slug": "outlander",
+      "name": "Outlander",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Versatile 5 and 7-seat family SUV that pioneered mass-market plug-in hybrid motoring in Australia.",
+      "generations": [
+        {
+          "series_code": "ZE/ZF",
+          "generation_name": "Outlander 1st Gen",
+          "years": {
+            "start": 2003,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.4L 4G69 MIVEC engine, AWD, sporty crossover styling; LS and XLS."
+        },
+        {
+          "series_code": "ZG/ZH",
+          "generation_name": "Outlander 2nd Gen",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.4L 4-cyl and 3.0L 6B31 V6, split fold-down tailgate, available 7 seats."
+        },
+        {
+          "series_code": "ZJ/ZK/ZL",
+          "generation_name": "Outlander 3rd Gen",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L/2.4L petrol, 2.2L diesel, and revolutionary 2014 Outlander PHEV (first mainstream PHEV SUV in AU)."
+        },
+        {
+          "series_code": "ZM",
+          "generation_name": "Outlander 4th Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "CMF-C/D platform, 2.5L petrol and 2.4L PHEV with 20kWh battery and twin electric motors (S-AWC)."
+        }
+      ]
+    },
+    {
+      "model_slug": "eclipse-cross",
+      "name": "Eclipse Cross",
+      "vehicle_type": "SUV",
+      "segment": "Small / Medium SUV",
+      "years_sold_au": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Coupe-SUV styling with turbo and plug-in hybrid options, slotting between ASX and Outlander.",
+      "generations": [
+        {
+          "series_code": "YA",
+          "generation_name": "Eclipse Cross 1st Gen",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.5L 4B40 Turbo petrol 110kW and 2.4L PHEV twin-motor AWD; ES, LS, Aspire, Exceed."
+        }
+      ]
+    },
+    {
+      "model_slug": "lancer-evolution",
+      "name": "Lancer Evolution & Ralliart",
+      "vehicle_type": "Sports Sedan / Hatchback",
+      "segment": "Rally Performance / Sports Car",
+      "years_sold_au": {
+        "start": 1992,
+        "end": 2015
+      },
+      "locally_built": false,
+      "overview": "The Mitsubishi Lancer Evolution and Ralliart models represent one of the greatest chapters in modern Australian performance car folklore. Born directly from World Rally Championshi",
+      "generations": [
+        {
+          "series_code": "CC GSR",
+          "generation_name": "Lancer GSR 4WD (The Pre-Evo Blueprint)",
+          "years": {
+            "start": 1992,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Hatchback"
+          ],
+          "summary": "Pioneered the turbocharged all-wheel-drive rally-replica formula in Australia. Powered by the 141kW 1.8L 4G93T DOHC 16-v"
+        },
+        {
+          "series_code": "CP9A",
+          "generation_name": "Evolution VI & Tommi Makinen Edition (TME)",
+          "years": {
+            "start": 1999,
+            "end": 2001
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "summary": "100 official Australian-delivered TME models imported by Ralliart Australia. 206kW 4G63T with titanium turbine wheel, lo"
+        },
+        {
+          "series_code": "CT9A",
+          "generation_name": "Evolution VIII & IX",
+          "years": {
+            "start": 2004,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "summary": "First full-scale official Australian dealer distribution. Super Active Yaw Control (S-AYC), Active Centre Differential ("
+        },
+        {
+          "series_code": "CZ4A",
+          "generation_name": "Evolution X & Ralliart",
+          "years": {
+            "start": 2008,
+            "end": 2015
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Sportback (Ralliart)"
+          ],
+          "summary": "All-aluminium 4B11T turbocharged engine, Super All-Wheel Control (S-AWC), 6-speed Twin Clutch SST transmission or 5-spee"
+        }
+      ]
+    },
+    {
+      "model_slug": "starion-cordia",
+      "name": "Starion & Cordia Turbo",
+      "vehicle_type": "Sports Coupe / Liftback",
+      "segment": "Sports Coupe",
+      "years_sold_au": {
+        "start": 1982,
+        "end": 1989
+      },
+      "locally_built": false,
+      "overview": "The Mitsubishi Starion Turbo and Cordia GSR Turbo were the trailblazers of Japanese factory turbocharging in 1980s Australia. From the front-wheel drive Cordia GSR with its mind-be",
+      "generations": [
+        {
+          "series_code": "AA/AB/AC",
+          "generation_name": "Cordia GSR Turbo",
+          "years": {
+            "start": 1983,
+            "end": 1989
+          },
+          "body_styles": [
+            "3-door Hatchback Coupe"
+          ],
+          "summary": "1980s cult icon. AA series (1.6L 4G32T Turbo 75kW with 4x2 Super Shift twin-stick transmission), upgraded in AB and AC s"
+        },
+        {
+          "series_code": "JA/JB/JD",
+          "generation_name": "Starion Turbo",
+          "years": {
+            "start": 1982,
+            "end": 1989
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "summary": "Rear-wheel drive grand touring sports coupe. JA series (2.0L 4G63T Sirius Turbo 125kW), JB (unleaded), and final widebod"
+        }
+      ]
+    }
+  ]
+}

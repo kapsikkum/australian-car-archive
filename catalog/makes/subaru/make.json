@@ -1,0 +1,607 @@
+{
+  "make_slug": "subaru",
+  "name": "Subaru",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1973,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Subaru built a fiercely loyal following in Australia through boxer engines, symmetrical all-wheel drive, outback rally dominance, and rugged crossover utility.",
+  "australian_history": "Subaru's official presence in Australia commenced in 1973 when Frank O'Brien established Subaru Motor Imports (later acquired by global automotive distributor Inchcape in 1992). The early Leone 1400 4WD wagons demonstrated that a compact passenger car could conquer Australian dirt roads and river crossings without the bulk of a heavy truck.\n\nIn 1978, Subaru introduced the Brumby (MV ute), a front-engine, selectable-4WD light utility powered by a 1.6L and later 1.8L boxer engine. The Brumby became an instant rural icon across Australian farms, sheep stations, and country towns, celebrated for its lightweight agility, incredible fuel efficiency, and near-indestructible mechanicals.\n\nIn 1989, Subaru moved upmarket with the Liberty (known globally as the Legacy), which won the prestigious Wheels Car of the Year award in 1994 and 1998. The compact Impreza arrived in 1993, followed in February 1994 by the revolutionary Impreza WRX. With a 2.0L turbocharged boxer engine and permanent symmetrical all-wheel drive, the WRX democratized supercar performance for under $40,000. New Zealander Peter 'Possum' Bourne piloted the WRX to seven consecutive Australian Rally Championship (ARC) titles from 1996 to 2002, cementing the WRX and STI as performance legends.\n\nIn 1996, Subaru created the modern crossover category with the Liberty Outback (later simply Outback), lifting the suspension and adding rugged body cladding. The Forester arrived in 1997, quickly becoming one of Australia's favourite family SUVs. In 1998, Subaru Australia made the bold decision to make All-Wheel Drive standard across its entire passenger car lineup in Australia (excluding subsequent joint-venture rear-drive coupes like the BRZ), a unique market positioning that propelled the brand to record sales. Today, Subaru Australia remains headquartered in Baulkham Hills, NSW under Inchcape Australia.",
+  "models_catalog": [
+    {
+      "model_slug": "brumby",
+      "name": "Brumby",
+      "vehicle_type": "Ute",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1978,
+        "end": "1994"
+      },
+      "locally_built": false,
+      "overview": "Cult-status compact 4WD utility loved by Australian farmers and rural communities for 16 continuous years.",
+      "generations": [
+        {
+          "series_code": "MV",
+          "generation_name": "Brumby (AU)",
+          "years": {
+            "start": 1978,
+            "end": 1994
+          },
+          "body_styles": [
+            "2-door Ute"
+          ],
+          "summary": "1.6L EA71 and 1.8L EA81 boxer engines, selectable dual-range 4WD, rear tray jump seats in early models."
+        }
+      ]
+    },
+    {
+      "model_slug": "liberty",
+      "name": "Liberty",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 1989,
+        "end": "2020"
+      },
+      "locally_built": false,
+      "overview": "Named Liberty specifically for Australia to avoid conflicts with Legacy clubs; multiple Wheels COTY winner.",
+      "generations": [
+        {
+          "series_code": "BC/BF",
+          "generation_name": "Liberty 1st Gen",
+          "years": {
+            "start": 1989,
+            "end": 1993
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.2L EJ22 boxer engine, FWD and AWD, RS Turbo rally homologation model."
+        },
+        {
+          "series_code": "BD/BG",
+          "generation_name": "Liberty 2nd Gen",
+          "years": {
+            "start": 1994,
+            "end": 1998
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.0L, 2.2L, and 2.5L EJ25 engines; Wheels COTY 1994; spawned the original Outback."
+        },
+        {
+          "series_code": "BE/BH",
+          "generation_name": "Liberty 3rd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2003
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Wheels COTY 1998; 2.5L 4-cylinder and 3.0L EZ30 H6 6-cylinder engine (B4 twin-turbo imported)."
+        },
+        {
+          "series_code": "BL/BP",
+          "generation_name": "Liberty 4th Gen",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Frameless windows, 2.0L/2.5L, 2.5L Turbo GT (180kW-194kW), 3.0R H6, and tuned by STI special editions."
+        },
+        {
+          "series_code": "BM/BR",
+          "generation_name": "Liberty 5th Gen",
+          "years": {
+            "start": 2009,
+            "end": 2014
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Larger body dimensions, framed doors, 2.5L CVT, 2.5L Turbo GT, and 3.6L EZ36 H6."
+        },
+        {
+          "series_code": "BN/BS",
+          "generation_name": "Liberty 6th Gen",
+          "years": {
+            "start": 2014,
+            "end": 2020
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Final Australian Liberty sedan; 2.5i and 3.6R H6; standard EyeSight driver assist."
+        }
+      ]
+    },
+    {
+      "model_slug": "outback",
+      "name": "Outback",
+      "vehicle_type": "Crossover Wagon",
+      "segment": "Large SUV / Crossover",
+      "years_sold_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The original elevated all-wheel-drive adventure wagon, tailored for long-distance touring and country roads.",
+      "generations": [
+        {
+          "series_code": "BG",
+          "generation_name": "Outback 1st Gen",
+          "years": {
+            "start": 1996,
+            "end": 1998
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "Liberty-based, raised ground clearance 200mm, 2.5L EJ25 boxer, two-tone lower body cladding."
+        },
+        {
+          "series_code": "BH",
+          "generation_name": "Outback 2nd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2003
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "2.5L 4-cyl and 3.0L EZ30 6-cyl (H6 3.0); VDC stability control; strong regional sales."
+        },
+        {
+          "series_code": "BP",
+          "generation_name": "Outback 3rd Gen",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "2.5i, 2.5XT Turbo, and 3.0R H6; introduced 2.0L boxer turbodiesel in 2008."
+        },
+        {
+          "series_code": "BR",
+          "generation_name": "Outback 4th Gen",
+          "years": {
+            "start": 2009,
+            "end": 2014
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "Expanded interior room, 2.5i Lineartronic CVT, 2.0D diesel, 3.6R 6-cylinder."
+        },
+        {
+          "series_code": "BS",
+          "generation_name": "Outback 5th Gen",
+          "years": {
+            "start": 2014,
+            "end": 2020
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "X-Mode off-road traction, 2.5i, 2.0D diesel, 3.6R petrol; EyeSight safety standard."
+        },
+        {
+          "series_code": "BT",
+          "generation_name": "Outback 6th Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "Subaru Global Platform, 2.5L direct-injected and 2.4L Turbo FA24F (183kW/350Nm); Sport, Touring, XT."
+        }
+      ]
+    },
+    {
+      "model_slug": "forester",
+      "name": "Forester",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 1997,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Beloved compact all-wheel-drive SUV offering wagon-like dynamics, class-leading visibility, and genuine dirt-road ability.",
+      "generations": [
+        {
+          "series_code": "SF",
+          "generation_name": "Forester 1st Gen",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L EJ20 petrol and 2.0L Turbo GT (125kW); GX, Limited, GT."
+        },
+        {
+          "series_code": "SG",
+          "generation_name": "Forester 2nd Gen",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.5L EJ25 and 2.5L Turbo XT (155kW-169kW); X, XS, XT; iconic bonnet scoop."
+        },
+        {
+          "series_code": "SH",
+          "generation_name": "Forester 3rd Gen",
+          "years": {
+            "start": 2008,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Traditional SUV proportions, double-wishbone rear suspension, 2.5L petrol, 2.0L diesel, and 2.5L Turbo XT."
+        },
+        {
+          "series_code": "SJ",
+          "generation_name": "Forester 4th Gen",
+          "years": {
+            "start": 2013,
+            "end": 2018
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "FB25 2.5L petrol, 2.0L DIT direct-injection turbo (XT 177kW), X-Mode, EyeSight."
+        },
+        {
+          "series_code": "SK",
+          "generation_name": "Forester 5th Gen",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Subaru Global Platform, 2.5L direct-injected FB25 and 2.0L e-BOXER hybrid; 2.5i, 2.5i-L, 2.5i-S, Sport."
+        }
+      ]
+    },
+    {
+      "model_slug": "impreza",
+      "name": "Impreza",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1993,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Subaru's compact passenger car and foundation for the WRX, offering standard AWD since 1998.",
+      "generations": [
+        {
+          "series_code": "GC/GF",
+          "generation_name": "Impreza 1st Gen",
+          "years": {
+            "start": 1993,
+            "end": 2000
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "summary": "1.6L, 1.8L, and 2.0L EJ20; LX, GX, Sport; standard AWD from 1998."
+        },
+        {
+          "series_code": "GD/GG",
+          "generation_name": "Impreza 2nd Gen",
+          "years": {
+            "start": 2000,
+            "end": 2007
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Bugeye (2000), Blobeye (2003), Hawkeye (2005) facelifts; 2.0L and 2.5L EJ25; 2.0i, 2.5i, RV."
+        },
+        {
+          "series_code": "GE/GH",
+          "generation_name": "Impreza 3rd Gen",
+          "years": {
+            "start": 2007,
+            "end": 2011
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "Framed windows, double-wishbone rear, 2.0L EJ20; 2.0i, RX."
+        },
+        {
+          "series_code": "GP/GJ",
+          "generation_name": "Impreza 4th Gen",
+          "years": {
+            "start": 2011,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "New FB20 2.0L chain-drive DOHC boxer, Lineartronic CVT, stop-start system."
+        },
+        {
+          "series_code": "GK/GT",
+          "generation_name": "Impreza 5th Gen",
+          "years": {
+            "start": 2016,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "First vehicle on Subaru Global Platform, 2.0L direct injection 115kW, standard EyeSight."
+        },
+        {
+          "series_code": "GU",
+          "generation_name": "Impreza 6th Gen",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "Hatch-only lineup, 2.0L boxer, 11.6-inch tablet touchscreen, 2.0L, 2.0R, 2.0S."
+        }
+      ]
+    },
+    {
+      "model_slug": "wrx",
+      "name": "WRX",
+      "vehicle_type": "Sedan / Hatchback / Wagon",
+      "segment": "Sports Performance",
+      "years_sold_au": {
+        "start": 1994,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Rally-bred performance icon that redefined high-performance motoring in Australia with AWD grip and turbo boxer punch.",
+      "generations": [
+        {
+          "series_code": "GC8",
+          "generation_name": "WRX 1st Gen",
+          "years": {
+            "start": 1994,
+            "end": 2000
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "summary": "EJ20G/EJ205 2.0L Turbo (155kW-160kW); Possum Bourne ARC dominator; 1999 STI official import."
+        },
+        {
+          "series_code": "GD/GG",
+          "generation_name": "WRX 2nd Gen",
+          "years": {
+            "start": 2000,
+            "end": 2007
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Bugeye, Blobeye, Hawkeye; 2.0L then 2.5L EJ255 (169kW); STI with DCCD 206kW; iconic WR Blue & gold rims."
+        },
+        {
+          "series_code": "GE/GH/GR/GV",
+          "generation_name": "WRX 3rd Gen",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Widebody styling from 2010; 2.5L EJ255 195kW in WRX; 2.5L EJ257 221kW in STI."
+        },
+        {
+          "series_code": "VA",
+          "generation_name": "WRX 4th Gen",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "2.0L FA20F twin-scroll DIT 197kW/350Nm; WRX STI retained EJ257 221kW with hydraulic steering."
+        },
+        {
+          "series_code": "VB",
+          "generation_name": "WRX 5th Gen",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportswagon"
+          ],
+          "summary": "SGP platform, 2.4L FA24F turbo boxer 202kW/350Nm; 6-speed manual or Subaru Performance Transmission."
+        }
+      ]
+    },
+    {
+      "model_slug": "brz",
+      "name": "BRZ",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2012,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Pure rear-wheel-drive sports coupe co-developed with Toyota, praised for textbook chassis balance and steering feel.",
+      "generations": [
+        {
+          "series_code": "ZC6",
+          "generation_name": "BRZ 1st Gen",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "2.0L FA20 naturally aspirated boxer 147kW/152kW, Torsen LSD, initial online-only sales sell-out."
+        },
+        {
+          "series_code": "ZD8",
+          "generation_name": "BRZ 2nd Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "2.4L FA24 naturally aspirated boxer 174kW/250Nm, aluminum roof/fenders; Coupe and Coupe S."
+        }
+      ]
+    },
+    {
+      "model_slug": "liberty-outback",
+      "name": "Liberty & Outback",
+      "vehicle_type": "Sedan / Wagon / All-Terrain Crossover",
+      "segment": "Medium / Large Car",
+      "years_sold_au": {
+        "start": 1989,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The Subaru Liberty (Legacy globally) and Outback revolutionized Australian family and touring motoring. Spanning seven generations, the Liberty delivered rally-bred AWD performance",
+      "generations": [
+        {
+          "series_code": "BC/BF",
+          "generation_name": "Liberty 1st Gen (inc. RS Turbo)",
+          "years": {
+            "start": 1989,
+            "end": 1994
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Wagon"
+          ],
+          "summary": "Introduced the modern EJ boxer engine family to Australia. The rally-bred RS Turbo AWD (147kW EJ20G) gave Possum Bourne "
+        },
+        {
+          "series_code": "BD/BG",
+          "generation_name": "Liberty 2nd Gen & Original Outback",
+          "years": {
+            "start": 1994,
+            "end": 1999
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Wagon",
+            "Outback All-Terrain Wagon"
+          ],
+          "summary": "1994 Wheels Car of the Year (Liberty). In 1996, the Liberty Outback was launched in Australia with 200mm ground clearanc"
+        },
+        {
+          "series_code": "BE/BH",
+          "generation_name": "Liberty 3rd Gen & B4 Twin Turbo",
+          "years": {
+            "start": 1998,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Wagon",
+            "Outback Wagon"
+          ],
+          "summary": "Multi-link rear suspension. Produced the 190kW sequential twin-turbo Liberty B4 sports sedan and the first six-cylinder "
+        },
+        {
+          "series_code": "BL/BP",
+          "generation_name": "Liberty 4th Gen & Outback 3rd Gen (inc. GT Spec.B)",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Wagon",
+            "Outback Wagon"
+          ],
+          "summary": "2003 Wheels Car of the Year winner. Frameless windows, lightweight aluminium body components, silky 3.0R Spec.B with 6-s"
+        },
+        {
+          "series_code": "BM/BR",
+          "generation_name": "Liberty 5th Gen & Outback 4th Gen",
+          "years": {
+            "start": 2009,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Wagon",
+            "Outback Wagon"
+          ],
+          "summary": "Substantially larger cabin, framed door windows, 3.6L flat-six EZ36 engine (191kW), GT Premium 2.5L Turbo (195kW), and 2"
+        },
+        {
+          "series_code": "BN/BS",
+          "generation_name": "Liberty 6th Gen & Outback 5th Gen",
+          "years": {
+            "start": 2014,
+            "end": 2020
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "Outback Wagon"
+          ],
+          "summary": "Final generation of the Liberty sedan in Australia (retired in 2020 after 31 years). Outback continued as a standalone f"
+        },
+        {
+          "series_code": "BT",
+          "generation_name": "Outback 6th Generation & XT Turbo",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Outback All-Terrain Wagon"
+          ],
+          "summary": "Built on the Subaru Global Platform. Reintroduced turbo power in 2023 with the 183kW/350Nm 2.4L FA24F Turbo in the Outba"
+        }
+      ]
+    }
+  ]
+}

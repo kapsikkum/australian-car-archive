@@ -1,0 +1,512 @@
+{
+  "make_slug": "holden",
+  "model_slug": "fe-fc-fb-ek",
+  "name": "Holden FE / FC / FB / EK",
+  "vehicle_type": "Sedan / Station Sedan / Utility / Panel Van",
+  "segment": "Large",
+  "years_sold_au": {
+    "start": 1956,
+    "end": 1962
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Dandenong, Victoria",
+    "Woodville, South Australia",
+    "Pagewood, New South Wales",
+    "The Valley (Fortitude Valley), Queensland",
+    "Mosman Park, Western Australia"
+  ],
+  "overview": "The second and third generation post-war Holdens represented major leaps forward in Australian automotive engineering and design. Launched in July 1956, the FE introduced a completely modern, longer, lower body with wrap-around windscreen, 12-volt electrical architecture, recirculating ball steering, and Holden's very first factory station wagon—marketed as the 'Station Sedan'. The May 1958 FC refined the formula with an egg-crate grille and became the first car in Australian history to sell over 100,000 units in a calendar year. In January 1960, the FB adopted American fin-tail styling and a larger 138ci Grey motor, followed in May 1961 by the EK, which brought the historic introduction of the 3-speed Hydra-Matic automatic transmission to Holden. Across all four series, over 740,000 vehicles were built.",
+  "australian_market_notes": "The FE-EK era cemented Holden's absolute supremacy in Australian motoring, securing over 50% total market share. The Station Sedan revolutionized family holidays and outback travel, while the EK Hydra-Matic made two-pedal driving accessible to middle Australia. The Dandenong (Victoria) assembly plant opened during the FE era to meet soaring national demand, while exports expanded across 46 overseas markets throughout Africa, Southeast Asia, and the Pacific.",
+  "manuals": [
+    {
+      "title": "Holden Holden FE / FC / FB / EK Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1956,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/fe-fc-fb-ek/model.json",
+      "local_path": "media/manuals/holden/fe-fc-fb-ek/holden_fe-fc-fb-ek_au_technical_manual.pdf",
+      "file_size_bytes": 7441,
+      "sha256": "e65280f18e10b2330e5224550419235cafc1ab7943bc0bc2e83b8929d914578e",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1958–1960 Holden FC Standard sedan (New Zealand Police), photographed in New Zealand.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/1958-1960_Holden_FC_Standard_sedan_%28New_Zealand_Police%29_01.jpg/1280px-1958-1960_Holden_FC_Standard_sedan_%28New_Zealand_Police%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (111 Emergency)",
+      "local_path": "media/pictures/holden/fe-fc-fb-ek/holden_fe-fc-fb-ek_hero_1958-1960_Holden_FC_Standard_sedan_New_Zealand_Police_01.jpg.jpg",
+      "file_size_bytes": 491415,
+      "sha256": "e96d72f86cd6926e5b50cf91b630088bb780aa96ef81a48496f72bf183c8a384"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "FE",
+      "generation_name": "FE Series",
+      "years": {
+        "start": 1956,
+        "end": 1958
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H second generation unibody",
+      "ancap_rating": null,
+      "summary": "First clean-sheet redesign of the Holden. Introduced 12-volt electrics, wrap-around windscreen, pendant clutch and brake pedals, and the first factory Station Sedan.",
+      "engines": [
+        {
+          "engine_code": "Grey-132-FE",
+          "name": "Holden Grey 132.5ci (2.16L) OHV Inline-6",
+          "displacement_cc": 2160,
+          "displacement_litres": 2.16,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 52.0,
+          "power_rpm": "4000",
+          "torque_nm": 149.0,
+          "torque_rpm": "1200",
+          "compression_ratio": "6.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Upgraded with larger valves, higher compression, 12-volt electrical system, developing 70 bhp."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FE Special Sedan",
+          "years": {
+            "start": 1956,
+            "end": 1958
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1840,
+          "msrp_aud_max": 1960,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1080,
+          "standard_features": [
+            "Two-tone exterior paint",
+            "Stainless body side chrome",
+            "12-volt electrical system",
+            "Wrap-around windscreen and rear window",
+            "Dual sunvisors and cigarette lighter"
+          ],
+          "notes": "Model FE-225 flagship passenger sedan."
+        },
+        {
+          "badge_name": "FE Special Station Sedan",
+          "years": {
+            "start": 1957,
+            "end": 1958
+          },
+          "body_styles": [
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1990,
+          "msrp_aud_max": 2120,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1130,
+          "standard_features": [
+            "Fold-down rear seat creating flat cargo floor",
+            "Wind-down tailgate rear window",
+            "Two-tone station wagon styling",
+            "Heavy-duty rear suspension"
+          ],
+          "notes": "Introduced in March 1957 as Holden's first factory station wagon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "FE Special Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Grey-132-FE",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1840,
+          "power_kw": 52.0,
+          "torque_nm": 149.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 750,
+          "notes": "Modern family sedan with 12V electricals."
+        },
+        {
+          "badge_name": "FE Special Station Sedan",
+          "body_style": "Station Sedan",
+          "engine_code": "Grey-132-FE",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1990,
+          "power_kw": 52.0,
+          "torque_nm": 149.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 850,
+          "notes": "Holden's first factory wagon configuration."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FE",
+          "category": "exterior",
+          "caption": "1956–1958 Holden FE Special sedan, photographed in Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/1956-1958_Holden_FE_Special_sedan_01.jpg/1280px-1956-1958_Holden_FE_Special_sedan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Chris Keating from Melbourne, Victoria, Australia.)",
+          "local_path": "media/pictures/holden/fe-fc-fb-ek/holden_fe-fc-fb-ek_FE_1956-1958_Holden_FE_Special_sedan_01.jpg.jpg",
+          "file_size_bytes": 452011,
+          "sha256": "fc96b5061d5a618415ec0a31980c1ad0a90aa537b7f7fe29a02193d974ea0d32"
+        }
+      ]
+    },
+    {
+      "series_code": "FC",
+      "generation_name": "FC Series",
+      "years": {
+        "start": 1958,
+        "end": 1960
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H second generation unibody",
+      "ancap_rating": null,
+      "summary": "Refinement of the FE with bold egg-crate grille, revised chrome fins, improved steering gear, and increased 72 bhp power output. Over 191,000 produced.",
+      "engines": [
+        {
+          "engine_code": "Grey-132-FC",
+          "name": "Holden Grey 132.5ci (2.16L) OHV Inline-6",
+          "displacement_cc": 2160,
+          "displacement_litres": 2.16,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 54.0,
+          "power_rpm": "4000",
+          "torque_nm": 149.0,
+          "torque_rpm": "1200",
+          "compression_ratio": "7.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "72 bhp rating with redesigned camshaft profile and 7.0:1 compression ratio."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FC Special Sedan",
+          "years": {
+            "start": 1958,
+            "end": 1960
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1890,
+          "msrp_aud_max": 2010,
+          "fuel_consumption_l_100km": 9.7,
+          "kerb_weight_kg": 1090,
+          "standard_features": [
+            "Cast-metal egg-crate grille",
+            "Sweeping side body chrome molding",
+            "Two-tone exterior color schemes",
+            "Recirculating ball steering box"
+          ],
+          "notes": "Model FC-225; reached over 50% total market share in 1958-59."
+        },
+        {
+          "badge_name": "FC Special Station Sedan",
+          "years": {
+            "start": 1958,
+            "end": 1960
+          },
+          "body_styles": [
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 2040,
+          "msrp_aud_max": 2180,
+          "fuel_consumption_l_100km": 10.1,
+          "kerb_weight_kg": 1140,
+          "standard_features": [
+            "Long flat cargo deck",
+            "Split folding rear bench",
+            "Roll-down rear tailgate window",
+            "High-capacity luggage bay"
+          ],
+          "notes": "Model FC-229."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "FC Special Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Grey-132-FC",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1890,
+          "power_kw": 54.0,
+          "torque_nm": 149.0,
+          "fuel_l_100km": 9.7,
+          "towing_braked_kg": 750,
+          "notes": "Record-breaking 100,000-sales-a-year family sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FC",
+          "category": "exterior",
+          "caption": "CARnivale, Australia Day, Sydney 2015",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Holden_FC_Special_%2816199601720%29.jpg/1280px-Holden_FC_Special_%2816199601720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/holden/fe-fc-fb-ek/holden_fe-fc-fb-ek_FC_Holden_FC_Special_16199601720_.jpg.jpg",
+          "file_size_bytes": 293692,
+          "sha256": "abd4b7c4a63c93e6a226989dca14d9fe512e6e98d2b20d728338d3e92b18875f"
+        }
+      ]
+    },
+    {
+      "series_code": "FB",
+      "generation_name": "FB Series",
+      "years": {
+        "start": 1960,
+        "end": 1961
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H third generation unibody",
+      "ancap_rating": null,
+      "summary": "Introduced prominent American-style tailfins, panoramic wrap-around windscreen with forward-slanted 'dogleg' A-pillars, lower roofline, and an enlarged 138ci Grey motor.",
+      "engines": [
+        {
+          "engine_code": "Grey-138-FB",
+          "name": "Holden Grey 138ci (2.26L) OHV Inline-6",
+          "displacement_cc": 2262,
+          "displacement_litres": 2.26,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 56.0,
+          "power_rpm": "4200",
+          "torque_nm": 163.0,
+          "torque_rpm": "1400",
+          "compression_ratio": "7.25:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Enlarged bore from 3.0 to 3.0625 inches, lifting output to 75 bhp and torque to 120 lb-ft."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FB Special Sedan",
+          "years": {
+            "start": 1960,
+            "end": 1961
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1950,
+          "msrp_aud_max": 2080,
+          "fuel_consumption_l_100km": 10.0,
+          "kerb_weight_kg": 1120,
+          "standard_features": [
+            "Panoramic wrap-around front glass",
+            "Fin-tail rear wings",
+            "138ci Grey motor",
+            "New acrylic lacquer paint"
+          ],
+          "notes": "Model FB-225; 147,747 units built."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "FB Special Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Grey-138-FB",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1950,
+          "power_kw": 56.0,
+          "torque_nm": 163.0,
+          "fuel_l_100km": 10.0,
+          "towing_braked_kg": 800,
+          "notes": "American-finned styling with 138ci Grey power."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FB",
+          "category": "exterior",
+          "caption": "Holden FB Special Sedan 1960 Moora Park Shorncliffe",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Holden_FB_Sedan_1960_Moora_Park_Shorncliffe_P1070905.jpg/1280px-Holden_FB_Sedan_1960_Moora_Park_Shorncliffe_P1070905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (John Robert McPherson)",
+          "local_path": "media/pictures/holden/fe-fc-fb-ek/holden_fe-fc-fb-ek_FB_Holden_FB_Sedan_1960_Moora_Park_Shorncliffe_P1070905.jpg.jpg",
+          "file_size_bytes": 609595,
+          "sha256": "198f1346fb2883563226058113173126754615dfba458928ac00864391fc4dc2"
+        }
+      ]
+    },
+    {
+      "series_code": "EK",
+      "generation_name": "EK Series",
+      "years": {
+        "start": 1961,
+        "end": 1962
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H third generation unibody",
+      "ancap_rating": null,
+      "summary": "Historic introduction of Holden's first automatic transmission: the 3-speed Hydra-Matic. Added electric windscreen wipers, updated side chrome, and new interior trim. 150,214 built.",
+      "engines": [
+        {
+          "engine_code": "Grey-138-EK",
+          "name": "Holden Grey 138ci (2.26L) OHV Inline-6",
+          "displacement_cc": 2262,
+          "displacement_litres": 2.26,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 56.0,
+          "power_rpm": "4200",
+          "torque_nm": 163.0,
+          "torque_rpm": "1400",
+          "compression_ratio": "7.25:1",
+          "valvetrain": "OHV 12V",
+          "notes": "75 bhp output; equipped with specialized vacuum ports and oil cooler plumbing for Hydra-Matic models."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "EK Special Sedan",
+          "years": {
+            "start": 1961,
+            "end": 1962
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "3-speed Hydra-Matic automatic"
+          ],
+          "msrp_aud_min": 1980,
+          "msrp_aud_max": 2230,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1135,
+          "standard_features": [
+            "Optional 3-speed Hydra-Matic automatic transmission",
+            "Electric windscreen wipers replacing vacuum units",
+            "Fresh air heater/demister option",
+            "Two-tone Magic-Mirror acrylic lacquer"
+          ],
+          "notes": "Model EK-225; first automatic Holden passenger sedan."
+        },
+        {
+          "badge_name": "EK Special Station Sedan",
+          "years": {
+            "start": 1961,
+            "end": 1962
+          },
+          "body_styles": [
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "3-speed Hydra-Matic automatic"
+          ],
+          "msrp_aud_min": 2150,
+          "msrp_aud_max": 2390,
+          "fuel_consumption_l_100km": 10.6,
+          "kerb_weight_kg": 1190,
+          "standard_features": [
+            "3-speed Hydra-Matic automatic option",
+            "Cargo bay length of 1,850 mm with seat folded",
+            "Tailgate roll-down rear window",
+            "Heavy-duty rear suspension"
+          ],
+          "notes": "Model EK-229."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "EK Special Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Grey-138-EK",
+          "transmission": "3-speed Hydra-Matic automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 2230,
+          "power_kw": 56.0,
+          "torque_nm": 163.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 850,
+          "notes": "First automatic-equipped Holden family car."
+        },
+        {
+          "badge_name": "EK Special Station Sedan",
+          "body_style": "Station Sedan",
+          "engine_code": "Grey-138-EK",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 2150,
+          "power_kw": 56.0,
+          "torque_nm": 163.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 850,
+          "notes": "Spacious family station wagon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "EK",
+          "category": "exterior",
+          "caption": "1961–1962 Holden EK Special sedan, photographed in Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/1961-1962_Holden_EK_Special_sedan_02.jpg/1280px-1961-1962_Holden_EK_Special_sedan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Chris Keating from Melbourne, Victoria, Australia.)",
+          "local_path": "media/pictures/holden/fe-fc-fb-ek/holden_fe-fc-fb-ek_EK_1961-1962_Holden_EK_Special_sedan_02.jpg.jpg",
+          "file_size_bytes": 380503,
+          "sha256": "984634b3551824754e2e783b0c7e7facad7efe209c2907b1272110a83235e867"
+        }
+      ]
+    }
+  ]
+}

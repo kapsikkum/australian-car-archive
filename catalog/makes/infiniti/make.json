@@ -1,0 +1,94 @@
+{
+  "make_slug": "infiniti",
+  "name": "Infiniti",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 2012,
+    "end": 2020
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Nissan's premium performance division sold rear-wheel-drive luxury sedans, coupes, and SUVs through flagship retail centers in Australia.",
+  "australian_history": "Nissan initially tested the Australian luxury market in 1993 with a small batch of Infiniti Q45 flagships sold via select Nissan dealerships. In September 2012, Nissan officially launched Infiniti as a standalone brand in Australia, investing tens of millions in lavish 'Infiniti Centers' in Sydney, Melbourne, and Brisbane.\n\nThe launch range showcased performance rear-drive and all-wheel-drive platforms: the FX luxury crossover (FX37 V6, FX50 290kW 5.0L V8, and FX30d V6 diesel), the M luxury sedan (M37, M56 V8, and M35h hybrid), and the G37 sports coupe and convertible. In 2014, Infiniti adopted the Q/QX naming convention and launched the Q50 mid-size sports sedan, which introduced steer-by-wire Direct Adaptive Steering.\n\nIn 2016, Infiniti introduced the Mercedes-Benz GLA-based Q30 hatchback and QX30 crossover, alongside the massive 5.6L V8 QX80 4WD wagon. Despite praise for styling and powertrain performance (notably the 298kW VR30 twin-turbo V6 in the Q50 Red Sport and Q60 Red Sport), brand recognition remained low against entrenched European marques. In September 2019, Infiniti announced its withdrawal from Western Europe and Australia, officially closing sales in late 2020 with Nissan Australia assuming long-term warranty and parts support.",
+  "models_catalog": [
+    {
+      "model_slug": "q50",
+      "name": "Q50",
+      "vehicle_type": "Sedan",
+      "segment": "Medium Luxury Sedan",
+      "years_sold_au": {
+        "start": 2014,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Rear-wheel-drive sports sedan featuring world-first steer-by-wire and the 298kW Red Sport twin-turbo V6.",
+      "generations": [
+        {
+          "series_code": "V37",
+          "generation_name": "Q50",
+          "years": {
+            "start": 2014,
+            "end": 2020
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "2.0L Turbo, 2.2L diesel, 3.5L Hybrid (268kW), and 3.0L Twin-Turbo V6 Red Sport 400 (298kW)."
+        }
+      ]
+    },
+    {
+      "model_slug": "q60",
+      "name": "Q60",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Luxury Coupe",
+      "years_sold_au": {
+        "start": 2013,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Sculpted luxury sports coupe offering 298kW twin-turbo V6 performance and active dynamic suspension.",
+      "generations": [
+        {
+          "series_code": "CV36/CV37",
+          "generation_name": "Q60",
+          "years": {
+            "start": 2013,
+            "end": 2020
+          },
+          "body_styles": [
+            "Coupe",
+            "Convertible"
+          ],
+          "summary": "3.7L V6 (CV36), then stunning CV37 with 2.0L Turbo and 298kW VR30DDTT V6 (Red Sport)."
+        }
+      ]
+    },
+    {
+      "model_slug": "qx70",
+      "name": "QX70 / FX",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2012,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Bionic cheetah-styled sports crossover built on the FM rear-wheel-drive platform with available V8 power.",
+      "generations": [
+        {
+          "series_code": "S51",
+          "generation_name": "FX / QX70",
+          "years": {
+            "start": 2012,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "FX37 (3.7L V6), FX30d (3.0L V6 diesel), and FX50 (5.0L VK50VE V8 287kW); rebadged QX70 in 2014."
+        }
+      ]
+    }
+  ]
+}

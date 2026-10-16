@@ -1,0 +1,69 @@
+{
+  "make_slug": "rambler-amc",
+  "name": "Rambler / AMC",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 1960,
+    "end": "1977"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Manufactured at Port Melbourne by Australian Motor Industries (AMI) from 1960 to 1977, producing right-hand drive Classic, Rebel, Matador, Hornet, and rare Javelin muscle cars.",
+  "australian_history": "American Motors Corporation (AMC) partnered with Australian Motor Industries (AMI) in Port Melbourne, Victoria in 1960 to assemble Rambler passenger cars from CKD kits. AMI assembled the Rambler Classic, American, Rebel, and Matador sedans and wagons with right-hand drive, heavy-duty suspension, and Australian local content. In 1969-70, AMI assembled the sleek AMC Javelin muscle car—building 24 rare factory RHD Javelins with 343 and 390 V8 engines, which are today among the most valuable Australian collector muscle cars. AMI also assembled the compact AMC Hornet sedan with 258 inline-six and 304 V8 engines before AMC operations concluded in 1977.",
+  "models_catalog": [
+    {
+      "model_slug": "rebel-matador",
+      "name": "Rebel / Matador",
+      "vehicle_type": "Sedan / Wagon / Coupe",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1967,
+        "end": "1977"
+      },
+      "locally_built": true,
+      "overview": "Assembled at AMI Port Melbourne, offering smooth American V8 luxury and robust towing capability for Australian conditions.",
+      "generations": [
+        {
+          "series_code": "Rebel-Matador-Series",
+          "generation_name": "Rambler Rebel & Matador",
+          "years": {
+            "start": 1967,
+            "end": "1977"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Station wagon",
+            "Matador X coupe"
+          ],
+          "summary": "AMI-assembled; 343ci and 360ci V8, Borg-Warner Shift-Command automatic, and distinctive Matador X fastback coupe."
+        }
+      ]
+    },
+    {
+      "model_slug": "javelin",
+      "name": "Javelin",
+      "vehicle_type": "Coupe",
+      "segment": "Muscle Car",
+      "years_sold_au": {
+        "start": 1969,
+        "end": "1974"
+      },
+      "locally_built": true,
+      "overview": "Ultra-rare Australian muscle car assembled at Port Melbourne from CKD packs, featuring bulging wheel arches and high-output AMC V8s.",
+      "generations": [
+        {
+          "series_code": "Javelin-AMI",
+          "generation_name": "AMC Javelin (Australian Assembled)",
+          "years": {
+            "start": 1969,
+            "end": "1974"
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "Assembled by AMI in Port Melbourne; 343ci, 360ci, and 401ci V8 engines; highly prized Australian collector car."
+        }
+      ]
+    }
+  ]
+}

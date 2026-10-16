@@ -1,0 +1,675 @@
+{
+  "make_slug": "nissan",
+  "model_slug": "pulsar",
+  "name": "Pulsar",
+  "vehicle_type": "Hatchback / Sedan",
+  "segment": "Small Car / Hot Hatch",
+  "years_sold_au": {
+    "start": 1980,
+    "end": 2017
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria (Nissan Motor Manufacturing Australia)"
+  ],
+  "overview": "The Nissan Pulsar is one of Australia's most historic small-car badges. Manufactured locally at Nissan's Clayton plant in Victoria through the 1980s and early 1990s, the Pulsar sired genuine Australian performance legends, from the local 1980s Pulsar Turbo ET to the iconic N14/N15 Pulsar SSS with its high-revving 2.0-litre SR20DE engine and the rally-homologated N14 GTI-R.",
+  "australian_market_notes": "First sold in 1980, the Clayton-built N12 series gave Australia its first mass-market factory turbocharged hatchback: the 1984 Pulsar Turbo ET. The Clayton plant also built the N12 and N13 Pulsar for Holden as the Astra under the Button Car Plan. Following local factory closure in 1992, fully imported Japanese N14 and N15 Pulsar SSS hatchbacks became beloved Aussie performance benchmarks. The badge returned with the B17/C12 series in 2013, highlighted by the 140kW DIG-Turbo SSS hatch.",
+  "manuals": [
+    {
+      "title": "Nissan Pulsar Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1980,
+      "language": "en",
+      "source_url": "local://catalog/makes/nissan/models/pulsar/model.json",
+      "local_path": "media/manuals/nissan/pulsar/nissan_pulsar_au_technical_manual.pdf",
+      "file_size_bytes": 8315,
+      "sha256": "3208e6f07b80ad1c51df6f75e2fa5e07a9a23c9b0c6fdf17fa9d4c4dd5cfaa2c",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Chilton Book Company repair manual. Datsun/Nissan F10.310, Stanza, Pulsar, 1976-88 : all U.S. and Canadian models of F10, 310, Stanza, Pulsar",
+      "year": 1989,
+      "source_url": "https://archive.org/details/chiltonbookcompa0000unse_o3h4",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/pulsar/nissan_pulsar_manual_Chilton_Book_Company_repair_manual._Datsun_Nissan_F10.310_Stanza_Pulsar_1976-88_all_U.S._and_Canadi.html",
+      "file_size_bytes": 218991,
+      "sha256": "3b4c24c26b2a163bb9fbea1c355b75bcea1b422e36c437a6f8e26cd31a99aa73"
+    },
+    {
+      "title": "Chilton's Nissan Sentra, Pulsar, 1982-92 repair manual",
+      "year": 1992,
+      "source_url": "https://archive.org/details/chiltonsnissanse0000unse",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/pulsar/nissan_pulsar_manual_Chilton_s_Nissan_Sentra_Pulsar_1982-92_repair_manual.html",
+      "file_size_bytes": 219078,
+      "sha256": "4b998063adf3bc94d9824caa145d2a3f14d0018c290d64351c008ce35df78241"
+    },
+    {
+      "title": "1984 Nissan Pulsar Brochure. Japan, 6 1984",
+      "year": null,
+      "source_url": "https://archive.org/details/1984-nissan-pulsar-brochure.-japan-6-1984-compressed",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/pulsar/nissan_pulsar_manual_1984_Nissan_Pulsar_Brochure._Japan_6_1984.html",
+      "file_size_bytes": 251091,
+      "sha256": "1c838d57070836b61680392bc18ded12676d309451e42a12abc7f182f97bf95e"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Pulsar was a front wheel drive compact car first built by Nissan in 1978, Phased out in Japan in 2000 in Japan, but not until 2005 in Australia and New Zealand  (when replaced by the Tiida)\nThe 1982-86 second generation N12 Pulsar was a",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1983_Nissan_Pulsar_N12_EXA_Coupe.jpg/1280px-1983_Nissan_Pulsar_N12_EXA_Coupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Cars Down Under)",
+      "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_hero_1_1983_Nissan_Pulsar_N12_EXA_Coupe.jpg",
+      "file_size_bytes": 385498,
+      "sha256": "b3be6b5ea2d7cad7b74baebd607c7ddc8a5967611368d34ba4dcfc863be4711c"
+    },
+    {
+      "category": "exterior",
+      "caption": "1988 Nissan Pulsar (N13) Vector GXE sedan. I wouldn't even glance twice at one of these here in NZ, but this was a bit more special as it is a Pulsar Vector, which was the Australian version of the Pulsar/Sunny/Sentra with completely restyl",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/1988_Nissan_Pulsar_%28N13%29_Vector_GXE_sedan_%288251035877%29.jpg/1280px-1988_Nissan_Pulsar_%28N13%29_Vector_GXE_sedan_%288251035877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_hero_2_1988_Nissan_Pulsar_N13_Vector_GXE_sedan_8251035877_.jpg",
+      "file_size_bytes": 336082,
+      "sha256": "7f0dcdabc0665e1aded53dbc7b04c719121ccec4e3cb1aecfbcfc886c19b665c"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "N10/N12",
+      "generation_name": "Pulsar 1st & 2nd Gen (inc. Turbo ET)",
+      "years": {
+        "start": 1980,
+        "end": 1987
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "5-door Hatch",
+        "4-door Sedan"
+      ],
+      "platform": "Nissan N10/N12",
+      "ancap_rating": "Untested",
+      "summary": "Clayton-built N12 launched Australia's first affordable hot hatch in 1984: the Pulsar Turbo ET with a 77kW turbocharged 1.5L E15ET engine, also badge-engineered as the Holden Astra LB/LC.",
+      "engines": [
+        {
+          "engine_code": "E15ET",
+          "name": "Nissan E15ET 1.5L Turbo",
+          "displacement_cc": 1488,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged (Garrett T2)",
+          "fuel_type": "Petrol",
+          "power_kw": 77.0,
+          "power_rpm": "5600",
+          "torque_nm": 140.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.0:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Australia's first locally assembled production turbocharged hatchback."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Turbo ET",
+          "years": {
+            "start": 1984,
+            "end": 1987
+          },
+          "body_styles": [
+            "3-door Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 11990,
+          "msrp_aud_max": 13990,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 890,
+          "standard_features": [
+            "Turbo ET decals and striping",
+            "Sports seats",
+            "Boost light",
+            "Four-wheel disc brakes",
+            "Alloy wheels"
+          ],
+          "notes": "Clayton VIC assembled; 1980s pocket rocket."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Pulsar Turbo ET Hatch",
+          "body_style": "3-door Hatch",
+          "engine_code": "E15ET",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1984,
+          "years_end": 1987,
+          "msrp_aud": 12990,
+          "power_kw": 77.0,
+          "torque_nm": 140.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 600,
+          "notes": "Australia's original turbo hot hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "N13",
+      "generation_name": "Pulsar 3rd Generation (Clayton-built)",
+      "years": {
+        "start": 1987,
+        "end": 1991
+      },
+      "body_styles": [
+        "5-door Hatch",
+        "4-door Sedan (Vector)"
+      ],
+      "platform": "Nissan N13",
+      "ancap_rating": "Untested",
+      "summary": "Clayton-built N13 series featuring Holden-supplied Family II 1.6L and 1.8L engines under the UAA joint venture. Introduced the Vector luxury sedan and sporting SSS hatch.",
+      "engines": [
+        {
+          "engine_code": "20LE",
+          "name": "GM-Holden Family II 1.8L EFI (20LE)",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Unleaded Petrol",
+          "power_kw": 79.0,
+          "power_rpm": "5600",
+          "torque_nm": 151.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 8-valve EFI",
+          "notes": "Holden-sourced engine used in Pulsar SSS and Vector."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Vector / SSS",
+          "years": {
+            "start": 1987,
+            "end": 1991
+          },
+          "body_styles": [
+            "Hatch",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 23500,
+          "fuel_consumption_l_100km": 8.2,
+          "kerb_weight_kg": 1050,
+          "standard_features": [
+            "1.8L engine",
+            "Sports body kit (SSS)",
+            "Velour trim",
+            "Power steering",
+            "Four-wheel disc brakes"
+          ],
+          "notes": "Also sold as Holden Astra LD."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Pulsar SSS 1.8 Hatch",
+          "body_style": "5-door Hatch",
+          "engine_code": "20LE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1988,
+          "years_end": 1991,
+          "msrp_aud": 19990,
+          "power_kw": 79.0,
+          "torque_nm": 151.0,
+          "fuel_l_100km": 8.2,
+          "towing_braked_kg": 800,
+          "notes": "Clayton assembled sports hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "N13",
+          "category": "exterior",
+          "caption": "Nissan Pulsar N13 Vector Ti",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/1989_Nissan_Pulsar_%28N13%29_Vector_Ti_sedan_%2822608990664%29.jpg/1280px-1989_Nissan_Pulsar_%28N13%29_Vector_Ti_sedan_%2822608990664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_N13_1_1989_Nissan_Pulsar_N13_Vector_Ti_sedan_22608990664_.jpg",
+          "file_size_bytes": 255186,
+          "sha256": "5302741f6f24a41c8ab48d19191979d4afbcaf645f9947fa66de98e880931f39"
+        }
+      ]
+    },
+    {
+      "series_code": "N14",
+      "generation_name": "Pulsar 4th Gen (SSS & GTI-R)",
+      "years": {
+        "start": 1991,
+        "end": 1995
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "5-door Hatch",
+        "4-door Sedan"
+      ],
+      "platform": "Nissan N14",
+      "ancap_rating": "Untested",
+      "summary": "Introduced the redtop SR20DE 2.0L engine to the Pulsar SSS hatch, alongside the homologation titan Pulsar GTI-R (SR20DET 169kW with ATTESA AWD).",
+      "engines": [
+        {
+          "engine_code": "SR20DE-N14",
+          "name": "Nissan SR20DE 2.0L Twin Cam 16V",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 105.0,
+          "power_rpm": "6400",
+          "torque_nm": 179.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "High-revving naturally aspirated SR20 with 7,500rpm limiter."
+        },
+        {
+          "engine_code": "SR20DET-GTIR",
+          "name": "Nissan SR20DET 2.0L Turbo (GTI-R)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled (Garrett T28)",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 169.0,
+          "power_rpm": "6400",
+          "torque_nm": 284.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "8.3:1",
+          "valvetrain": "DOHC 16-valve (quad-throttle bodies)",
+          "notes": "Individual throttle bodies (ITB) and top-mount intercooler beneath massive bonnet scoop."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SSS Hatch",
+          "years": {
+            "start": 1991,
+            "end": 1995
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD with viscous LSD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 27990,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 1100,
+          "standard_features": [
+            "SR20DE 105kW engine",
+            "Viscous limited-slip differential",
+            "14-inch sports alloys",
+            "Sports bucket seats",
+            "Rear spoiler"
+          ],
+          "notes": "Aussie hot hatch benchmark."
+        },
+        {
+          "badge_name": "GTI-R",
+          "years": {
+            "start": 1991,
+            "end": 1993
+          },
+          "body_styles": [
+            "3-door Hatch"
+          ],
+          "drivetrain": "ATTESA Full-Time AWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 44990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1220,
+          "standard_features": [
+            "169kW turbo engine with ITBs",
+            "ATTESA AWD with viscous centre and rear LSD",
+            "Large bonnet nostrils and scoop",
+            "High rear wing",
+            "0-100 km/h in 5.4s"
+          ],
+          "notes": "Group A rally homologation special; grey import and enthusiast cult legend."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Pulsar SSS Hatch Manual",
+          "body_style": "5-door Hatch",
+          "engine_code": "SR20DE-N14",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1991,
+          "years_end": 1995,
+          "msrp_aud": 25990,
+          "power_kw": 105.0,
+          "torque_nm": 179.0,
+          "fuel_l_100km": 8.7,
+          "towing_braked_kg": 1000,
+          "notes": "Iconic Australian hot hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "N14",
+          "category": "exterior",
+          "caption": "Nissan Pulsar N14 GLi",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/1991_Nissan_Pulsar_%28N14_ES%29_GLi_sedan_%2826122800903%29.jpg/1280px-1991_Nissan_Pulsar_%28N14_ES%29_GLi_sedan_%2826122800903%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_N14_1_1991_Nissan_Pulsar_N14_ES_GLi_sedan_26122800903_.jpg",
+          "file_size_bytes": 335205,
+          "sha256": "9f734f43160c29cc14a6ecc171f400c0717aed29e10a9ed2ee4d342afca7fe71"
+        }
+      ]
+    },
+    {
+      "series_code": "N15",
+      "generation_name": "Pulsar 5th Gen (SR20DE SSS)",
+      "years": {
+        "start": 1995,
+        "end": 2000
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "5-door Hatch",
+        "4-door Sedan"
+      ],
+      "platform": "Nissan N15",
+      "ancap_rating": "3 stars",
+      "summary": "The definitive Australian hot hatch of the late 1990s. Powered by the high-revving 105kW 2.0L SR20DE engine with multi-link beam rear suspension and viscous LSD.",
+      "engines": [
+        {
+          "engine_code": "SR20DE-N15",
+          "name": "Nissan SR20DE 2.0L Twin Cam",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 105.0,
+          "power_rpm": "6400",
+          "torque_nm": 179.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Silver-top SR20 with revised intake plenum and distributor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SSS Hatch",
+          "years": {
+            "start": 1995,
+            "end": 2000
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD with viscous LSD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 26990,
+          "msrp_aud_max": 29990,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1130,
+          "standard_features": [
+            "15-inch alloy wheels",
+            "Viscous limited-slip differential",
+            "White-face sports dials (Series II)",
+            "Rear spoiler",
+            "Sports bucket seats",
+            "Four-wheel disc brakes with ABS"
+          ],
+          "notes": "Widely regarded as one of the best naturally aspirated front-wheel drive chassis of the 1990s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Pulsar SSS N15 Manual",
+          "body_style": "5-door Hatch",
+          "engine_code": "SR20DE-N15",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1995,
+          "years_end": 2000,
+          "msrp_aud": 27990,
+          "power_kw": 105.0,
+          "torque_nm": 179.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 1000,
+          "notes": "0-100 km/h in 8.2 seconds with LSD standard."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "N15",
+          "category": "exterior",
+          "caption": "1998 Nissan Pulsar (N15) Plus 5-door hatchback. Photographed in Sutherland, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/1997-1998_Nissan_Pulsar_%28N15%29_Plus_5-door_hatchback_%282009-11-17%29.jpg/1280px-1997-1998_Nissan_Pulsar_%28N15%29_Plus_5-door_hatchback_%282009-11-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_N15_1_1997-1998_Nissan_Pulsar_N15_Plus_5-door_hatchback_2009-11-17_.jpg",
+          "file_size_bytes": 296349,
+          "sha256": "02dbdfa1ec304d8ac6c8f3f5a0f3b9e5354f29ceeb8f5dbfe971cbb8fbbe67e4"
+        }
+      ]
+    },
+    {
+      "series_code": "N16",
+      "generation_name": "Pulsar 6th Generation",
+      "years": {
+        "start": 2000,
+        "end": 2006
+      },
+      "body_styles": [
+        "5-door Hatch",
+        "4-door Sedan"
+      ],
+      "platform": "Nissan MS platform",
+      "ancap_rating": "4 stars",
+      "summary": "Conservative family commuter offering 1.8L QG18DE engine, standard dual airbags, and spacious sedan and hatch packaging.",
+      "engines": [
+        {
+          "engine_code": "QG18DE",
+          "name": "Nissan QG18DE 1.8L DOHC",
+          "displacement_cc": 1769,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 92.0,
+          "power_rpm": "5600",
+          "torque_nm": 161.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Variable valve timing on intake cam."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST / Q",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 24990,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Dual front airbags",
+            "Air conditioning",
+            "Power front windows",
+            "CD player",
+            "Remote keyless entry"
+          ],
+          "notes": "Mainstream private and fleet runabout."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Pulsar Q 1.8 Hatch",
+          "body_style": "5-door Hatch",
+          "engine_code": "QG18DE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2000,
+          "years_end": 2006,
+          "msrp_aud": 22490,
+          "power_kw": 92.0,
+          "torque_nm": 161.0,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 1000,
+          "notes": "Popular small family hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "N16",
+          "category": "exterior",
+          "caption": "2003–2005 Nissan Pulsar (N16 S2) Q sedan. Photographed in Sutherland, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2003-2005_Nissan_Pulsar_%28N16_S2%29_Q_sedan_%282009-08-21%29.jpg/1280px-2003-2005_Nissan_Pulsar_%28N16_S2%29_Q_sedan_%282009-08-21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_N16_1_2003-2005_Nissan_Pulsar_N16_S2_Q_sedan_2009-08-21_.jpg",
+          "file_size_bytes": 219703,
+          "sha256": "cc551b48344b8ff56cd273219c162944cc6555eab0ee8d0789bd6cd2d95a5b1d"
+        }
+      ]
+    },
+    {
+      "series_code": "B17/C12",
+      "generation_name": "Pulsar 7th Gen (inc. DIG-Turbo SSS)",
+      "years": {
+        "start": 2013,
+        "end": 2017
+      },
+      "body_styles": [
+        "4-door Sedan (B17)",
+        "5-door Hatch (C12)"
+      ],
+      "platform": "Nissan V-platform",
+      "ancap_rating": "5 stars",
+      "summary": "Revival of the Pulsar name in Australia. B17 sedan offered class-leading rear legroom, while C12 SSS hatch revived the hero badge with a 140kW 1.6L DIG-Turbo engine.",
+      "engines": [
+        {
+          "engine_code": "MR16DDT",
+          "name": "Nissan MR16DDT 1.6L DIG-Turbo",
+          "displacement_cc": 1618,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 140.0,
+          "power_rpm": "5600",
+          "torque_nm": 240.0,
+          "torque_rpm": "2000-5200",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve Direct Injection",
+          "notes": "Direct-injection turbo with 240Nm across wide rev band."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SSS Hatch",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "Xtronic CVT"
+          ],
+          "msrp_aud_min": 26990,
+          "msrp_aud_max": 29990,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 1300,
+          "standard_features": [
+            "140kW turbo engine",
+            "17-inch sports alloys",
+            "Xenon headlights with washers",
+            "Sports aero body kit",
+            "Leather-accented seats",
+            "Satellite navigation"
+          ],
+          "notes": "0-100 km/h in 7.3s; outstanding turbo performance value."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Pulsar SSS Turbo Manual",
+          "body_style": "5-door Hatch",
+          "engine_code": "MR16DDT",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2013,
+          "years_end": 2017,
+          "msrp_aud": 26990,
+          "power_kw": 140.0,
+          "torque_nm": 240.0,
+          "fuel_l_100km": 7.7,
+          "towing_braked_kg": 1200,
+          "notes": "Final Australian Pulsar SSS."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "B17/C12",
+          "category": "exterior",
+          "caption": "The C12 Series Nissan Pulsar hatch and the B17 Series Nissan Pulsar sedan.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2014_Nissan_Pulsar_ST_sedan_%26_Nissan_Pulsar_ST_hatch_%2815849597953%29.jpg/1280px-2014_Nissan_Pulsar_ST_sedan_%26_Nissan_Pulsar_ST_hatch_%2815849597953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+          "local_path": "media/pictures/nissan/pulsar/nissan_pulsar_B17_C12_1_2014_Nissan_Pulsar_ST_sedan_Nissan_Pulsar_ST_hatch_15849597953_.jpg",
+          "file_size_bytes": 289736,
+          "sha256": "20296eb89dede8cb64322008b69e6c841e4a16becd765c90f51da1201e631b49"
+        }
+      ]
+    }
+  ]
+}

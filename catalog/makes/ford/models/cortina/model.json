@@ -1,0 +1,386 @@
+{
+  "make_slug": "ford",
+  "model_slug": "cortina",
+  "name": "Ford Cortina",
+  "vehicle_type": "Sedan / Station Wagon",
+  "segment": "Compact / Mid-size",
+  "years_sold_au": {
+    "start": 1962,
+    "end": 1982
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Broadmeadows, Victoria",
+    "Homebush, New South Wales",
+    "Geelong, Victoria (engines and stampings)"
+  ],
+  "overview": "The Ford Cortina held a distinguished two-decade tenure in Australia, evolving from a nimble British compact into a uniquely Australian six-cylinder muscle sedan. Assembled locally from 1962 (Mk1 and Mk2), the Cortina achieved legendary status when the Bob Jane / Harry Firth Cortina GT500 won the 1965 Armstrong 500 at Mount Panorama, Bathurst. In 1971, Ford Australia undertook a daring local engineering feat with the TC and TD Cortina: modifying the British 'Coke-bottle' body with an elongated front structure to accommodate Ford Australia's heavy 200ci (3.3L) and 250ci (4.1L) Falcon inline-six engines. The European-styled TE (1977) and TF (1980) brought crisp lines, Ghia luxury, and the sporty X-Pack before being succeeded by the Mazda-based Telstar in 1982.",
+  "australian_market_notes": "The 6-cylinder Cortina TC/TD was a uniquely Australian phenomenon. Packing the Falcon's big 250ci (4.1L) engine into a lightweight 1,100 kg body gave it exceptional straight-line acceleration, running 0-100 km/h in 8.5 seconds—faster than many contemporary V8s. Local engineers developed heavier front springs, upgraded disc brakes, and reinforced front crossmembers to handle Australian conditions.",
+  "manuals": [
+    {
+      "title": "Ford Ford Cortina Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1962,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/cortina/model.json",
+      "local_path": "media/manuals/ford/cortina/ford_cortina_au_technical_manual.pdf",
+      "file_size_bytes": 5926,
+      "sha256": "3ba57c02641a71758b68dacbe4244cc13b8d91906f16aba89a4bc0b72c65bcef",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Foulis' overhaul manual: Ford Cortina Mark II",
+      "year": 1973,
+      "source_url": "https://archive.org/details/foulisoverhaulma0000orga",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/cortina/ford_cortina_manual_Foulis_overhaul_manual_Ford_Cortina_Mark_II.html",
+      "file_size_bytes": 217457,
+      "sha256": "6dd2641faa9176079e03071bf1192f0a90075ef0cb9ea97879cd2bbccbf2d2c0"
+    },
+    {
+      "title": "Ford Cortina Mk IV 1.3 owners workshop manual",
+      "year": 1985,
+      "source_url": "https://archive.org/details/fordcortinamkiv10000hayn_j9b5",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/cortina/ford_cortina_manual_Ford_Cortina_Mk_IV_1.3_owners_workshop_manual.html",
+      "file_size_bytes": 217993,
+      "sha256": "5bf9ba4f1466414c8af983c469a63f2e0859d1d65365dadd9cc3a16993ba4e33"
+    },
+    {
+      "title": "1981 Ford Cortina 4 Brochure. Australia, September 1980",
+      "year": null,
+      "source_url": "https://archive.org/details/1981-ford-cortina-4-brochure.-australia-september-1980",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/cortina/ford_cortina_manual_1981_Ford_Cortina_4_Brochure._Australia_September_1980.html",
+      "file_size_bytes": 231763,
+      "sha256": "f28a5d52133aff600721d13f7c7b96d693db7a14b57150e465258572595607ac"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Now running a 2.0 litre engine, probably from a Mk3 or 4 Cortina.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/1963_Ford_Cortina_%2832425251611%29.jpg/1280px-1963_Ford_Cortina_%2832425251611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/ford/cortina/ford_cortina_hero_1_1963_Ford_Cortina_32425251611_.jpg",
+      "file_size_bytes": 257359,
+      "sha256": "8505fce1fece3358e7b8527fa8141e3a0b01f7d6ad1637de1e49027042d0f011"
+    },
+    {
+      "category": "exterior",
+      "caption": "IMG_0481",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ford_Cortina_%2815714824866%29.jpg/1280px-Ford_Cortina_%2815714824866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/ford/cortina/ford_cortina_hero_2_Ford_Cortina_15714824866_.jpg",
+      "file_size_bytes": 313982,
+      "sha256": "240f9e22744240e864a1a52a02f39aa860bbbd1df3c3ddb217a121a2f8fe69a0"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Mk1-Mk2",
+      "generation_name": "Mk1 & Mk2 Cortina",
+      "years": {
+        "start": 1962,
+        "end": 1971
+      },
+      "body_styles": [
+        "2-door sedan",
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Ford UK Cortina unibody",
+      "ancap_rating": null,
+      "summary": "Australian assembly at Broadmeadows and Homebush. Won 1965 Bathurst 500 with the homologated Cortina GT500, featuring twin fuel tanks and Weber carburation.",
+      "engines": [
+        {
+          "engine_code": "Kent-1500-GT500",
+          "name": "Ford 1.5L High-Performance OHV Inline-4",
+          "displacement_cc": 1498,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 68.0,
+          "power_rpm": "6000",
+          "torque_nm": 132.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Twin-choke Weber carburettor, competition camshaft; homologated for Bathurst."
+        },
+        {
+          "engine_code": "Kent-1600-Crossflow",
+          "name": "Ford Kent 1.6L Crossflow OHV Inline-4",
+          "displacement_cc": 1599,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 56.0,
+          "power_rpm": "5300",
+          "torque_nm": 125.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Crossflow cylinder head introduced on Mk2 in 1968."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cortina GT",
+          "years": {
+            "start": 1963,
+            "end": 1971
+          },
+          "body_styles": [
+            "2-door sedan",
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 2190,
+          "msrp_aud_max": 2490,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 880,
+          "standard_features": [
+            "GT sports instrumentation with tachometer",
+            "Front bucket seats",
+            "Front disc brakes",
+            "Lowered sports suspension"
+          ],
+          "notes": "Armstrong 500 race winner."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cortina GT",
+          "body_style": "2-door sedan",
+          "engine_code": "Kent-1500-GT500",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 2250,
+          "power_kw": 68.0,
+          "torque_nm": 132.0,
+          "fuel_l_100km": 9.2,
+          "towing_braked_kg": 750,
+          "notes": "1965 Bathurst 500 winner specification."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Mk1-Mk2",
+          "category": "exterior",
+          "caption": "Ford Cortina Mk2 South Africa",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Ford_Cortina_Mk1_South_Africa_01.jpg/1280px-Ford_Cortina_Mk1_South_Africa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Sherwin)",
+          "local_path": "media/pictures/ford/cortina/ford_cortina_Mk1-Mk2_1_Ford_Cortina_Mk1_South_Africa_01.jpg",
+          "file_size_bytes": 452584,
+          "sha256": "513bca3873a6661c9d21d5019a7217fe77c10ba208672127e372b503e4cb62ea"
+        }
+      ]
+    },
+    {
+      "series_code": "TC-TD",
+      "generation_name": "TC / TD Cortina (6-Cylinder)",
+      "years": {
+        "start": 1971,
+        "end": 1977
+      },
+      "body_styles": [
+        "2-door sedan",
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Ford TC platform (Australian lengthened)",
+      "ancap_rating": null,
+      "summary": "Australian-engineered 'Big Six' Cortina. Front chassis extended to swallow Ford Australia's 200ci (3.3L) and 250ci (4.1L) Falcon straight-six engines.",
+      "engines": [
+        {
+          "engine_code": "Falcon-200-I6",
+          "name": "Ford Falcon 200ci (3.3L) OHV Inline-6",
+          "displacement_cc": 3277,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 86.0,
+          "power_rpm": "4400",
+          "torque_nm": 258.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Australian Falcon six-cylinder powerplant."
+        },
+        {
+          "engine_code": "Falcon-250-I6",
+          "name": "Ford Falcon 250ci (4.1L) OHV Inline-6",
+          "displacement_cc": 4089,
+          "displacement_litres": 4.1,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 116.0,
+          "power_rpm": "4400",
+          "torque_nm": 325.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Big 4.1-litre Falcon six; gave Cortina devastating acceleration."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cortina XLE 250",
+          "years": {
+            "start": 1973,
+            "end": 1977
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed automatic Borg-Warner 35",
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 3790,
+          "msrp_aud_max": 4290,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1145,
+          "standard_features": [
+            "250ci 4.1L Falcon inline-six standard",
+            "Vinyl roof and full side bodyside moldings",
+            "Woodgrain dash and sports console",
+            "Cloth/vinyl bucket seats and sports steering wheel",
+            "Power front disc brakes and sports road wheels"
+          ],
+          "notes": "Australian luxury muscle sleeper."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cortina XLE 250",
+          "body_style": "Sedan",
+          "engine_code": "Falcon-250-I6",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 3890,
+          "power_kw": 116.0,
+          "torque_nm": 325.0,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 1200,
+          "notes": "4.1L 6-cylinder pocket muscle car."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "TC-TD",
+          "category": "exterior",
+          "caption": "The Cortina got a new coke bottle shape in 1971, the Mk III, the 3rd generation. Not only built in England but in Australia too. In Australia the first of the Mk IIIs was known as the TC, with downward sloping dash and round headlights, the",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1972_Ford_Cortina_TC_XLE_250_%2815811470013%29.jpg/1280px-1972_Ford_Cortina_TC_XLE_250_%2815811470013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/ford/cortina/ford_cortina_TC-TD_1_1972_Ford_Cortina_TC_XLE_250_15811470013_.jpg",
+          "file_size_bytes": 286610,
+          "sha256": "2a2c29d2f2ca23b9220bd6d00a26d05e3edf7c1df095d5a8a86815dd0a51da72"
+        }
+      ]
+    },
+    {
+      "series_code": "TE-TF",
+      "generation_name": "TE / TF Cortina",
+      "years": {
+        "start": 1977,
+        "end": 1982
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Ford Taunus / Cortina Mk IV/V",
+      "ancap_rating": null,
+      "summary": "Crisp European styling fitted with Australian Crossflow 3.3L and 4.1L sixes alongside 2.0L Pinto four. Ghia luxury appointments and X-Pack sports option.",
+      "engines": [
+        {
+          "engine_code": "Crossflow-4.1-I6",
+          "name": "Ford Crossflow 4.1L (250ci) Inline-6",
+          "displacement_cc": 4089,
+          "displacement_litres": 4.1,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 98.0,
+          "power_rpm": "4000",
+          "torque_nm": 298.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Aluminium cylinder head Crossflow six (from 1980)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cortina Ghia",
+          "years": {
+            "start": 1977,
+            "end": 1982
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed automatic",
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 6890,
+          "msrp_aud_max": 8290,
+          "fuel_consumption_l_100km": 12.4,
+          "kerb_weight_kg": 1210,
+          "standard_features": [
+            "4.1L Crossflow engine standard",
+            "Velour seats and cut-pile carpet",
+            "Tinted glass and digital clock",
+            "Cast alloy wheels",
+            "Power steering and intermittent wipers"
+          ],
+          "notes": "Top-tier luxury specification."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cortina Ghia",
+          "body_style": "Sedan",
+          "engine_code": "Crossflow-4.1-I6",
+          "transmission": "3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 7490,
+          "power_kw": 98.0,
+          "torque_nm": 298.0,
+          "fuel_l_100km": 12.4,
+          "towing_braked_kg": 1200,
+          "notes": "4.1L Crossflow automatic Ghia saloon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "TE-TF",
+          "category": "exterior",
+          "caption": "The Mk IV TE Cortina got a facelift in 1979, the Mk V TF, it got a wider slatted grille, revised headlights, larger slatted tail lights, flatter roof and slimmer C pillar. It was available in Base, L, GL Ghia and S pac. The S pac got the dr",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1980_Ford_Cortina_Mk_V_TF_S_pac.jpg/1280px-1980_Ford_Cortina_Mk_V_TF_S_pac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/ford/cortina/ford_cortina_TE-TF_1_1980_Ford_Cortina_Mk_V_TF_S_pac.jpg",
+          "file_size_bytes": 395468,
+          "sha256": "0e2bd2bd4abd24f60a7c3b9640a9708ec7d3b6b84d7ef6461d69bdac23572a45"
+        }
+      ]
+    }
+  ]
+}

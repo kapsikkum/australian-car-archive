@@ -1,0 +1,300 @@
+{
+  "make_slug": "peugeot",
+  "model_slug": "205-308-gti",
+  "name": "205, 306, 208 & 308 GTi",
+  "vehicle_type": "Hot Hatchback",
+  "segment": "Light / Small Performance Car",
+  "years_sold_au": {
+    "start": 1987,
+    "end": 2020
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The aristocrats of French hot hatch engineering. For more than three decades in Australia, Peugeot's GTi lineage defined what a front-wheel drive performance car could achieve. From the featherweight, razor-sharp 205 GTi 1.9 that reset international benchmarks, through the passive rear-steering 306 GTi-6 with its class-first six-speed manual, to the Peugeot Sport-engineered 308 GTi 270 with Torsen LSD and massive Alcon brakes.",
+  "australian_market_notes": "The 205 GTi arrived in Australia in October 1987. Despite strict Australian design rules mandating lower compression for unleaded fuel, its pure 880kg chassis, communicative unassisted steering, and adjustability on throttle lift-off won instant acclaim. The 306 GTi-6 followed in 1997, and the 208/308 GTi by Peugeot Sport concluded a golden era in 2020.",
+  "manuals": [
+    {
+      "title": "Peugeot 205, 306, 208 & 308 GTi Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1987,
+      "language": "en",
+      "source_url": "local://catalog/makes/peugeot/models/205-308-gti/model.json",
+      "local_path": "media/manuals/peugeot/205-308-gti/peugeot_205-308-gti_au_technical_manual.pdf",
+      "file_size_bytes": 5336,
+      "sha256": "28f7386fc9fe0cdd68af70db44148fd992270887ea99b8f2fd9a9c9d2a067f88",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "205 GTi",
+      "generation_name": "Peugeot 205 GTi 1.9",
+      "years": {
+        "start": 1987,
+        "end": 1994
+      },
+      "body_styles": [
+        "3-door hatchback"
+      ],
+      "platform": "Peugeot 205",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Universally heralded as one of the purest hot hatches ever created. Weighing just 880kg with all-independent trailing-arm rear suspension, 15-inch Speedline alloys, and an eager 1.9L all-alloy engine.",
+      "engines": [
+        {
+          "engine_code": "XU9JA/DKZ",
+          "name": "1.9L SOHC 8V Petrol (XU9)",
+          "displacement_cc": 1905,
+          "displacement_litres": 1.9,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 75,
+          "power_rpm": "6000",
+          "torque_nm": 142,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.4:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "ADR catalytic converter tune (75kW-88kW in Australian delivery)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "205 GTi 1.9",
+          "years": {
+            "start": 1987,
+            "end": 1994
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 29500,
+          "msrp_aud_max": 33990,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 880,
+          "standard_features": [
+            "15-inch Speedline 'pepper-pot' alloys",
+            "Red carpet and red dash accents",
+            "Half-leather sport seats",
+            "Four-wheel disc brakes"
+          ],
+          "notes": "The holy grail hot hatch in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "205 GTi 1.9",
+          "body_style": "3-door hatchback",
+          "engine_code": "XU9JA/DKZ",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1987,
+          "years_end": 1994,
+          "msrp_aud": 31500,
+          "power_kw": 75,
+          "torque_nm": 142,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 750,
+          "notes": "Featherweight 880kg hot hatch benchmark."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "205 GTi",
+          "category": "exterior",
+          "caption": "1986 Peugeot 205 GTI",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/1986_Peugeot_205_GTI_rear.jpg/1280px-1986_Peugeot_205_GTI_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (TTTNIS)",
+          "local_path": "media/pictures/peugeot/205-308-gti/peugeot_205-308-gti_205_GTi_1_1986_Peugeot_205_GTI_rear.jpg",
+          "file_size_bytes": 216756,
+          "sha256": "22f65959bd89ad45cc66df2cc1ae2fd21a04dc07001fd44643aa2caeb0a580be"
+        }
+      ]
+    },
+    {
+      "series_code": "306 GTi-6",
+      "generation_name": "Peugeot 306 S16 & GTi-6",
+      "years": {
+        "start": 1994,
+        "end": 2001
+      },
+      "body_styles": [
+        "3-door hatchback"
+      ],
+      "platform": "Peugeot 306",
+      "ancap_rating": "3 stars",
+      "summary": "Pininfarina-styled masterpiece featuring a high-revving 120kW 2.0L 16V engine, passive rear-wheel steering rear axle, and the first close-ratio 6-speed manual gearbox fitted to a mass-production hot hatch.",
+      "engines": [
+        {
+          "engine_code": "XU10J4RS",
+          "name": "2.0L DOHC 16V Petrol",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 120,
+          "power_rpm": "6500",
+          "torque_nm": 193,
+          "torque_rpm": "5500",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "High-lift camshafts, tuned 4-2-1 stainless exhaust manifold; 7200rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "306 GTi-6",
+          "years": {
+            "start": 1997,
+            "end": 2001
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1215,
+          "standard_features": [
+            "15-inch 'Cyclone' alloy wheels",
+            "Close-ratio 6-speed gearbox",
+            "Alcantara/leather sport seats",
+            "Rear roof spoiler",
+            "Rain sensing wipers"
+          ],
+          "notes": "0-100km/h in 7.9s. Revered for telepathic chassis response."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "306 GTi-6",
+          "body_style": "3-door hatchback",
+          "engine_code": "XU10J4RS",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1997,
+          "years_end": 2001,
+          "msrp_aud": 39990,
+          "power_kw": 120,
+          "torque_nm": 193,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 1000,
+          "notes": "First 6-speed manual hot hatch in Australia."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "306 GTi-6",
+          "category": "exterior",
+          "caption": "Peugeot 306",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/1999_Peugeot_306_GTi.jpg/1280px-1999_Peugeot_306_GTi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Calreyn88)",
+          "local_path": "media/pictures/peugeot/205-308-gti/peugeot_205-308-gti_306_GTi-6_1_1999_Peugeot_306_GTi.jpg",
+          "file_size_bytes": 451803,
+          "sha256": "9b3f78aeded79756eda9c2937fc7702f2ac3cb4cb7f1ec8c2f43ddb8566a48f8"
+        }
+      ]
+    },
+    {
+      "series_code": "308 GTi",
+      "generation_name": "Peugeot 308 GTi by Peugeot Sport (250 & 270)",
+      "years": {
+        "start": 2016,
+        "end": 2020
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "PSA EMP2",
+      "ancap_rating": "5 stars",
+      "summary": "Engineered directly by Peugeot Sport. Ultra-lightweight 1,205kg EMP2 platform, 1.6L THP engine developing up to 200kW (270hp), mechanical Torsen limited-slip differential, and massive Alcon 380mm four-piston front brakes.",
+      "engines": [
+        {
+          "engine_code": "EP6FDTR",
+          "name": "1.6L THP 270 Turbo Petrol",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 200,
+          "power_rpm": "6000",
+          "torque_nm": 330,
+          "torque_rpm": "1900-5000",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Mahle forged pistons, twin-scroll turbocharger with 2.5 bar boost pressure."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "308 GTi 270 by Peugeot Sport",
+          "years": {
+            "start": 2016,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 49990,
+          "msrp_aud_max": 51990,
+          "fuel_consumption_l_100km": 6.0,
+          "kerb_weight_kg": 1205,
+          "standard_features": [
+            "Torsen mechanical limited-slip differential",
+            "Alcon 380mm front discs with 4-piston calipers",
+            "19-inch 'Carbone' reverse-drop alloys",
+            "Peugeot Sport bucket seats with red stitching",
+            "Coupe Franche two-tone paint option"
+          ],
+          "notes": "0-100km/h in 6.0s. Feathery 1205kg lightweight giant killer."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "308 GTi 270 by Peugeot Sport",
+          "body_style": "5-door hatchback",
+          "engine_code": "EP6FDTR",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2016,
+          "years_end": 2020,
+          "msrp_aud": 49990,
+          "power_kw": 200,
+          "torque_nm": 330,
+          "fuel_l_100km": 6.0,
+          "towing_braked_kg": 1200,
+          "notes": "200kW mechanical LSD track hero."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "308 GTi",
+          "category": "exterior",
+          "caption": "2017 Peugeot 308 GTi (1.6 270 hp) at Chalon sur Saone",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Peugeot_308_GTI_%2829096437967%29.jpg/1280px-Peugeot_308_GTI_%2829096437967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Guillaume Vachey from Chalon sur Saone, France)",
+          "local_path": "media/pictures/peugeot/205-308-gti/peugeot_205-308-gti_308_GTi_1_Peugeot_308_GTI_29096437967_.jpg",
+          "file_size_bytes": 428816,
+          "sha256": "d15d182cb8066236e02ce6ac238f236591961af2cb5c500016b9b7709923d43d"
+        }
+      ]
+    }
+  ]
+}

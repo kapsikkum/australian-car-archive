@@ -1,0 +1,447 @@
+{
+  "make_slug": "jaguar",
+  "model_slug": "xj-xjs",
+  "name": "XJ & XJ-S",
+  "vehicle_type": "Large Luxury Sedan / Grand Tourer Coupe",
+  "segment": "Upper Large Luxury Car",
+  "years_sold_au": {
+    "start": 1969,
+    "end": "2019"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The apex of British automotive grandeur and motorsport glory. Sir William Lyons' XJ6 was declared the finest riding saloon in the world upon its Australian release, while the V12 XJ12 and XJ-S grand tourer achieved immortality when Tom Walkinshaw Racing's Jaguar XJS V12 conquered Mount Panorama to win the 1985 Bathurst 1000. Evolved through supercharged XJR flagships to the bonded-aluminium X350 and avant-garde X351.",
+  "australian_market_notes": "First sold in Australia in 1969 (XJ6 Series I). In October 1985, John Goss and Armin Hahne drove the TWR Jaguar XJ-S V12 to an iconic outright victory in the James Hardie 1000 at Bathurst, breaking Australian V8 dominance. Australia has consistently been one of Jaguar's most passionate markets for supercharged XJR models.",
+  "manuals": [
+    {
+      "title": "Jaguar XJ & XJ-S Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1969,
+      "language": "en",
+      "source_url": "local://catalog/makes/jaguar/models/xj-xjs/model.json",
+      "local_path": "media/manuals/jaguar/xj-xjs/jaguar_xj-xjs_au_technical_manual.pdf",
+      "file_size_bytes": 6714,
+      "sha256": "497bc4652875db851a4f28839478590e59ccdec0eaa1df87afe66a81c91527d1",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The XJ-S replaced the E-type and was based on the XJ Saloon. It was built from 1975-96 with a facelift in 1991. It was a competent grand tourer, and more aerodynamic than the E-Type.\nFrom 1982 it was known as the XJS HE (HE for High Efficie",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1985_Jaguar_XJ-S_TWR_Coupe_Race_car_%2823564281561%29.jpg/1280px-1985_Jaguar_XJ-S_TWR_Coupe_Race_car_%2823564281561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/jaguar/xj-xjs/jaguar_xj-xjs_hero_1_1985_Jaguar_XJ-S_TWR_Coupe_Race_car_23564281561_.jpg",
+      "file_size_bytes": 375611,
+      "sha256": "4bc1127816e24d7d5d4878080cfc23bffae1cbf5ffe89da8e06a6289b985cd25"
+    },
+    {
+      "category": "exterior",
+      "caption": "The XJ-S replaced the E-type and was based on the XJ Saloon. It was built from 1975-96 with a facelift in 1991, the rear side windows appeared larger and a new more aerodynamic bumper. The engine sizes were also increased, the V12 from 5.3 ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1988_Jaguar_XJ-S_V12_Convertible.jpg/1280px-1988_Jaguar_XJ-S_V12_Convertible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/jaguar/xj-xjs/jaguar_xj-xjs_hero_2_1988_Jaguar_XJ-S_V12_Convertible.jpg",
+      "file_size_bytes": 440384,
+      "sha256": "c276af0171d5f5adfcedbe3939dd40d20aed04ce12a52503fd0f4f929d2bfa58"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Series I-III",
+      "generation_name": "Jaguar XJ6 & XJ12 (Series I, II, III)",
+      "years": {
+        "start": 1969,
+        "end": 1992
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Jaguar XJ",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Sir William Lyons' masterpiece. Revered for its sublime ride and handling balance, independent rear suspension isolated in rubber subframe, 4.2L XK straight-six, and the legendary 5.3L V12 (1972 world's first mass-produced 12-cylinder 4-door sedan).",
+      "engines": [
+        {
+          "engine_code": "XK 4.2",
+          "name": "4.2L DOHC Inline-6",
+          "displacement_cc": 4235,
+          "displacement_litres": 4.2,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 153,
+          "power_rpm": "5000",
+          "torque_nm": 384,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.7:1",
+          "valvetrain": "DOHC 12-valve",
+          "notes": "Twin SU / Zenith-Stromberg carburettors; later Bosch-Lucas L-Jetronic."
+        },
+        {
+          "engine_code": "Jaguar V12 5.3",
+          "name": "5.3L SOHC 24V V12 (XJ12)",
+          "displacement_cc": 5343,
+          "displacement_litres": 5.3,
+          "cylinders": 12,
+          "configuration": "V12",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 213,
+          "power_rpm": "5750",
+          "torque_nm": 412,
+          "torque_rpm": "3500",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC per bank 24-valve",
+          "notes": "All-aluminium 60-degree V12 of turbine-like smoothness."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XJ6 / Sovereign 4.2",
+          "years": {
+            "start": 1969,
+            "end": 1987
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual with overdrive",
+            "3-speed BorgWarner automatic"
+          ],
+          "msrp_aud_min": 8990,
+          "msrp_aud_max": 74900,
+          "fuel_consumption_l_100km": 14.8,
+          "kerb_weight_kg": 1740,
+          "standard_features": [
+            "Connolly leather seating",
+            "Burr walnut veneer",
+            "Power steering",
+            "Twin fuel tanks with changeover switch"
+          ],
+          "notes": "The benchmark luxury saloon in Australia."
+        },
+        {
+          "badge_name": "XJ12 / Double Six",
+          "years": {
+            "start": 1972,
+            "end": 1992
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed automatic (GM TH400)"
+          ],
+          "msrp_aud_min": 14500,
+          "msrp_aud_max": 115000,
+          "fuel_consumption_l_100km": 17.5,
+          "kerb_weight_kg": 1860,
+          "standard_features": [
+            "5.3L V12 engine",
+            "Air conditioning",
+            "Chrome wire wheels option",
+            "Fluted grille",
+            "Independent rear suspension"
+          ],
+          "notes": "Aristocratic 12-cylinder flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XJ12 / Double Six",
+          "body_style": "4-door sedan",
+          "engine_code": "Jaguar V12 5.3",
+          "transmission": "3-speed automatic (GM TH400)",
+          "drivetrain": "RWD",
+          "years_start": 1972,
+          "years_end": 1992,
+          "msrp_aud": 89000,
+          "power_kw": 213,
+          "torque_nm": 412,
+          "fuel_l_100km": 17.5,
+          "towing_braked_kg": 1500,
+          "notes": "5.3L V12 luxury sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Series I-III",
+          "category": "exterior",
+          "caption": "Jaguar XJS Series III, License plate modifyed",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/01-XJS-Series3.jpg/1280px-01-XJS-Series3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Matthias v.d. Elbe)",
+          "local_path": "media/pictures/jaguar/xj-xjs/jaguar_xj-xjs_Series_I-III_1_01-XJS-Series3.jpg",
+          "file_size_bytes": 253457,
+          "sha256": "9d494fa6fcefe9267ff6d162224de2496d78b7c5513d821dd920c0bb58e3e8c7"
+        }
+      ]
+    },
+    {
+      "series_code": "XJ-S / XJS",
+      "generation_name": "Jaguar XJ-S & XJS V12 (Bathurst 1000 Winner)",
+      "years": {
+        "start": 1976,
+        "end": 1996
+      },
+      "body_styles": [
+        "2-door coupe",
+        "2-door cabriolet"
+      ],
+      "platform": "Jaguar XJ-S",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Iconic British grand tourer with flying buttress aerodynamic pillars, 5.3L / 6.0L HE V12, and 4.0L AJ6 inline-six. Etched into Australian motorsport history when Tom Walkinshaw Racing's Jaguar XJ-S V12 driven by John Goss and Armin Hahne scored outright victory in the 1985 Bathurst 1000.",
+      "engines": [
+        {
+          "engine_code": "V12-HE",
+          "name": "5.3L High Efficiency V12",
+          "displacement_cc": 5343,
+          "displacement_litres": 5.3,
+          "cylinders": 12,
+          "configuration": "V12",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 220,
+          "power_rpm": "5500",
+          "torque_nm": 430,
+          "torque_rpm": "3000",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "SOHC per bank 24-valve",
+          "notes": "May fireball high-compression swirl combustion chambers; 360kW+ in TWR Group A race guise."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XJ-S V12 Coupe",
+          "years": {
+            "start": 1976,
+            "end": 1996
+          },
+          "body_styles": [
+            "2-door coupe",
+            "2-door cabriolet"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed GM400 automatic",
+            "4-speed GM4L80-E automatic"
+          ],
+          "msrp_aud_min": 31500,
+          "msrp_aud_max": 195000,
+          "fuel_consumption_l_100km": 15.8,
+          "kerb_weight_kg": 1780,
+          "standard_features": [
+            "Flying buttress C-pillars",
+            "Connolly leather sports seats",
+            "Starfish alloy wheels",
+            "Climate control",
+            "Burr elm/walnut veneer"
+          ],
+          "notes": "Won the 1985 Bathurst 1000 with John Goss and Armin Hahne."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XJ-S V12 Coupe",
+          "body_style": "2-door coupe",
+          "engine_code": "V12-HE",
+          "transmission": "3-speed GM400 automatic",
+          "drivetrain": "RWD",
+          "years_start": 1981,
+          "years_end": 1991,
+          "msrp_aud": 98500,
+          "power_kw": 220,
+          "torque_nm": 430,
+          "fuel_l_100km": 15.8,
+          "towing_braked_kg": 1500,
+          "notes": "5.3-litre HE V12 grand tourer."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "XJ-S / XJS",
+          "category": "exterior",
+          "caption": "Jaguar XJS photographed at the 2008 Hudson British Auto Show.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jaguar_XJ-S_Convertible_%28Hudson%29.JPG/1280px-Jaguar_XJ-S_Convertible_%28Hudson%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (Bull-Doser)",
+          "local_path": "media/pictures/jaguar/xj-xjs/jaguar_xj-xjs_XJ-S_XJS_1_Jaguar_XJ-S_Convertible_Hudson_.JPG",
+          "file_size_bytes": 149634,
+          "sha256": "68caff76e82fdc10b7faff2b61b1cd3e312c520ec565269ca29283c345c31ef6"
+        }
+      ]
+    },
+    {
+      "series_code": "X300/X308 XJR",
+      "generation_name": "Jaguar XJR Supercharged (X300 & X308)",
+      "years": {
+        "start": 1994,
+        "end": "2003"
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Jaguar X300 / X308",
+      "ancap_rating": "4 stars",
+      "summary": "Introduced factory supercharging to Jaguar. The X300 XJR (1994-1997) featured the 240kW 4.0L Eaton-supercharged AJ16 straight-six, while the X308 XJR (1998-2003) unleashed the 276kW (370hp) AJ-V8 supercharged engine.",
+      "engines": [
+        {
+          "engine_code": "AJ26S",
+          "name": "4.0L Supercharged 32V V8 (X308 XJR)",
+          "displacement_cc": 3996,
+          "displacement_litres": 4.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol",
+          "power_kw": 276,
+          "power_rpm": "6150",
+          "torque_nm": 525,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Eaton M112 roots supercharger with dual air-to-water intercoolers."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XJR Supercharged",
+          "years": {
+            "start": 1998,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed Mercedes 5G-Tronic automatic"
+          ],
+          "msrp_aud_min": 178000,
+          "msrp_aud_max": 189000,
+          "fuel_consumption_l_100km": 12.9,
+          "kerb_weight_kg": 1775,
+          "standard_features": [
+            "Mesh front grille in body color",
+            "18-inch Asteroid alloys",
+            "Sport tuned CATS active suspension",
+            "Dark stained bird's eye maple veneer",
+            "Brembo brake package option"
+          ],
+          "notes": "0-100km/h in 5.3s. Supercharged sports saloon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XJR Supercharged",
+          "body_style": "4-door sedan",
+          "engine_code": "AJ26S",
+          "transmission": "5-speed Mercedes 5G-Tronic automatic",
+          "drivetrain": "RWD",
+          "years_start": 1998,
+          "years_end": 2003,
+          "msrp_aud": 182000,
+          "power_kw": 276,
+          "torque_nm": 525,
+          "fuel_l_100km": 12.9,
+          "towing_braked_kg": 1900,
+          "notes": "276kW supercharged V8 super-sedan."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "X350/X351",
+      "generation_name": "Jaguar XJ Aluminum Era (X350 & X351)",
+      "years": {
+        "start": 2003,
+        "end": "2019"
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Long Wheelbase (LWB)"
+      ],
+      "platform": "Jaguar Aluminium Monocoque",
+      "ancap_rating": "5 stars",
+      "summary": "Riveted and bonded aerospace aluminium monocoque reducing weight by 200kg. Progressed to the dramatic Ian Callum-designed X351, culminating in the ferocious XJR575 with 423kW (575hp) 5.0L supercharged V8.",
+      "engines": [
+        {
+          "engine_code": "AJ133S",
+          "name": "5.0L Supercharged V8 (XJR575)",
+          "displacement_cc": 5000,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol",
+          "power_kw": 423,
+          "power_rpm": "6500",
+          "torque_nm": 700,
+          "torque_rpm": "3500-5000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 32-valve variable camshaft timing",
+          "notes": "Twin-vortex Roots-type supercharger; 0-100km/h in 4.4 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XJR / XJR575",
+          "years": {
+            "start": 2013,
+            "end": 2019
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Long Wheelbase (LWB)"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "8-speed ZF automatic"
+          ],
+          "msrp_aud_min": 298000,
+          "msrp_aud_max": 315000,
+          "fuel_consumption_l_100km": 11.6,
+          "kerb_weight_kg": 1875,
+          "standard_features": [
+            "20-inch Farallon gloss black alloys",
+            "Active electronic differential",
+            "Red brake calipers with 380mm front discs",
+            "Quilted leather sport seats with 575 embroidery",
+            "Meridian 825W surround sound"
+          ],
+          "notes": "The 575hp grand finale of the petrol XJ lineage."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XJR / XJR575",
+          "body_style": "4-door sedan",
+          "engine_code": "AJ133S",
+          "transmission": "8-speed ZF automatic",
+          "drivetrain": "RWD",
+          "years_start": 2017,
+          "years_end": 2019,
+          "msrp_aud": 305000,
+          "power_kw": 423,
+          "torque_nm": 700,
+          "fuel_l_100km": 11.6,
+          "towing_braked_kg": 2000,
+          "notes": "423kW 5.0L supercharged V8 limousine."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "X350/X351",
+          "category": "exterior",
+          "caption": "The Jaguar XJ (X351) is the latest Jaguar XJ luxury saloon from Jaguar Cars. Completely new styling combines with underpinnings based on the previous X350 version.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Jaguar_XJ_%28X351%29_%285220369516%29.jpg/1280px-Jaguar_XJ_%28X351%29_%285220369516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.0 (Christian Flores from Carlsbad / Encinitas, United States of America)",
+          "local_path": "media/pictures/jaguar/xj-xjs/jaguar_xj-xjs_X350_X351_1_Jaguar_XJ_X351_5220369516_.jpg",
+          "file_size_bytes": 200715,
+          "sha256": "a6958111212ac03ec2f35ab0566688e87f7e63acfe7aaa6f5dfbdf773b486b2d"
+        }
+      ]
+    }
+  ]
+}

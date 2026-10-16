@@ -1,0 +1,333 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "rav4",
+  "name": "RAV4",
+  "vehicle_type": "SUV",
+  "segment": "Medium SUV",
+  "years_sold_au": {
+    "start": 1994,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota RAV4 created the compact car-based recreational SUV category in 1994. Across five generations, it grew into Australia's favourite SUV, with the XA50 Hybrid triggering unprecedented multi-month waitlists.",
+  "australian_market_notes": "Launched in Australia in 1994 as a quirky 3-door with Celica underpinnings, the RAV4 revolutionized Australian motoring by providing high ride height without the truck-like penalties of traditional body-on-frame 4WDs. The introduction of the XA50 Hybrid in 2019 transformed it into Australia's best-selling SUV outright.",
+  "manuals": [
+    {
+      "title": "Toyota RAV4 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1994,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/rav4/model.json",
+      "local_path": "media/manuals/toyota/rav4/toyota_rav4_au_technical_manual.pdf",
+      "file_size_bytes": 3902,
+      "sha256": "10bda1cf1b773ccf0b41cf3e71b9533271861c7292d59a7bbb869a1b5b1393fd",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Toyota RAV4 Car Brochure (2012)",
+      "year": 2011,
+      "source_url": "https://archive.org/details/toyota-rav-4-car-brochure-2012",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/rav4/toyota_rav4_manual_Toyota_RAV4_Car_Brochure_2012.html",
+      "file_size_bytes": 217142,
+      "sha256": "64fe297920738bafdcfbfdad8f988dcf0b907697d21041e5621dcfdd90cf57b3"
+    },
+    {
+      "title": "Toyota RAV4 Car Brochure (2006)",
+      "year": 2005,
+      "source_url": "https://archive.org/details/toyota-rav4-car-brochure-2006",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/rav4/toyota_rav4_manual_Toyota_RAV4_Car_Brochure_2006.html",
+      "file_size_bytes": 217830,
+      "sha256": "1fd6e158e19cb221f43c225b648fe6b890f549109da577a4803dc6ecfa688cc8"
+    },
+    {
+      "title": "Toyota Rav4 Car Brochure (2009)",
+      "year": 2008,
+      "source_url": "https://archive.org/details/toyota-rav4-car-brochure-2009",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/rav4/toyota_rav4_manual_Toyota_Rav4_Car_Brochure_2009.html",
+      "file_size_bytes": 216416,
+      "sha256": "ac848b74d9ce39ce6cae04c1bf990abc4a02df12ec3ad0a849796f7239ceef3f"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Toyota RAV4 SXA10R",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/1998_Toyota_RAV4_%28SXA10R%29_Cruiser_hardtop_%2822112628900%29.jpg/1280px-1998_Toyota_RAV4_%28SXA10R%29_Cruiser_hardtop_%2822112628900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/toyota/rav4/toyota_rav4_hero_1_1998_Toyota_RAV4_SXA10R_Cruiser_hardtop_22112628900_.jpg",
+      "file_size_bytes": 350474,
+      "sha256": "02af522ce5e05c19eed9198176908cf2e3a7f320d9bcce09f92d70b17125df0d"
+    },
+    {
+      "category": "exterior",
+      "caption": "An open invitation to a Coronavirus party spray painted onto the side of a car. (The uploader stated no location information; his first uploaded photo was from Newcastle, New South Wales, Australia.)",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Coronavirus_%28COVID-19%29_Party.jpg/1280px-Coronavirus_%28COVID-19%29_Party.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (UnitedB1)",
+      "local_path": "media/pictures/toyota/rav4/toyota_rav4_hero_2_Coronavirus_COVID-19_Party.jpg",
+      "file_size_bytes": 807061,
+      "sha256": "cf9ea79904f2c96331b37bbf8ca4e4c4241f03ad5514c5a98108107b45210151"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "XA10",
+      "generation_name": "RAV4 1st Generation",
+      "years": {
+        "start": 1994,
+        "end": 2000
+      },
+      "body_styles": [
+        "3-door SUV",
+        "5-door SUV"
+      ],
+      "platform": "Toyota XA10",
+      "ancap_rating": "Untested",
+      "summary": "Pioneered the monocoque lifestyle SUV market in Australia in 1994, blending car comfort, quirky styling, and permanent all-wheel drive.",
+      "engines": [
+        {
+          "engine_code": "3S-FE",
+          "name": "Toyota 3S-FE 2.0L",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 89.0,
+          "power_rpm": "5400",
+          "torque_nm": 176.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Shared with the Celica and Camry."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cruiser",
+          "years": {
+            "start": 1994,
+            "end": 2000
+          },
+          "body_styles": [
+            "3-door SUV",
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 28990,
+          "msrp_aud_max": 35500,
+          "fuel_consumption_l_100km": 9.4,
+          "kerb_weight_kg": 1220,
+          "standard_features": [
+            "Dual sunroofs on 3-door",
+            "16-inch alloy wheels",
+            "Power windows and mirrors",
+            "Center locking differential"
+          ],
+          "notes": "Pioneered beach and urban lifestyle crossover driving."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cruiser 5-Door",
+          "body_style": "5-door SUV",
+          "engine_code": "3S-FE",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 1995,
+          "years_end": 2000,
+          "msrp_aud": 32900,
+          "power_kw": 89.0,
+          "torque_nm": 176.0,
+          "fuel_l_100km": 9.2,
+          "towing_braked_kg": 1500,
+          "notes": "Classic 1st-gen 5-door RAV4."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XA10",
+          "category": "exterior",
+          "caption": "Toyota RAV4 (XA10) in Stuttgart",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Toyota_RAV4_%28XA10%29_IMG_1260.jpg/1280px-Toyota_RAV4_%28XA10%29_IMG_1260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/toyota/rav4/toyota_rav4_XA10_1_Toyota_RAV4_XA10_IMG_1260.jpg",
+          "file_size_bytes": 274476,
+          "sha256": "09911bc28c66701516cf656189d3bb409176c296b2b07a9beed23734d06a8643"
+        }
+      ]
+    },
+    {
+      "series_code": "XA50",
+      "generation_name": "RAV4 5th Generation",
+      "years": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Toyota TNGA-K",
+      "ancap_rating": "5 Stars",
+      "summary": "Built on TNGA-K, this generation became Australia's best-selling SUV and repeatedly the country's #1 selling passenger vehicle outright led by high-demand Hybrid e-Four variants.",
+      "engines": [
+        {
+          "engine_code": "A25A-FXS",
+          "name": "Toyota Dynamic Force 2.5L Hybrid",
+          "displacement_cc": 2487,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Hybrid Petrol/Electric",
+          "power_kw": 163.0,
+          "power_rpm": "5700",
+          "torque_nm": 221.0,
+          "torque_rpm": "3600-5200",
+          "compression_ratio": "14.0:1",
+          "valvetrain": "DOHC 16-valve VVT-iE",
+          "notes": "160kW in 2WD and 163kW with electric rear axle E-Four AWD; 4.7L/100km."
+        },
+        {
+          "engine_code": "M20A-FKS",
+          "name": "Toyota Dynamic Force 2.0L Petrol",
+          "displacement_cc": 1987,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 127.0,
+          "power_rpm": "6600",
+          "torque_nm": 203.0,
+          "torque_rpm": "4400-4900",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve D-4S",
+          "notes": "2WD entry-level petrol engine paired with 10-speed direct shift CVT."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "2WD or AWD",
+          "transmissions": [
+            "10-speed CVT",
+            "e-CVT (Hybrid)"
+          ],
+          "msrp_aud_min": 30640,
+          "msrp_aud_max": 42500,
+          "fuel_consumption_l_100km": 4.7,
+          "kerb_weight_kg": 1600,
+          "standard_features": [
+            "Toyota Safety Sense (AEB, Lane Trace, Adaptive Cruise, Speed Sign Recognition)",
+            "8-inch touchscreen with Apple CarPlay/Android Auto",
+            "LED headlights",
+            "17-inch alloy wheels"
+          ],
+          "notes": "Entry specification."
+        },
+        {
+          "badge_name": "Cruiser",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "2WD or AWD",
+          "transmissions": [
+            "e-CVT (Hybrid)",
+            "10-speed CVT"
+          ],
+          "msrp_aud_min": 39140,
+          "msrp_aud_max": 48750,
+          "fuel_consumption_l_100km": 4.8,
+          "kerb_weight_kg": 1690,
+          "standard_features": [
+            "Leather accented heated/ventilated seats",
+            "JBL 9-speaker audio",
+            "Tilt-and-slide moonroof",
+            "Power tailgate",
+            "18-inch chrome alloys",
+            "360-degree panoramic camera"
+          ],
+          "notes": "Australia's most sought-after hybrid family SUV."
+        },
+        {
+          "badge_name": "Edge",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Mechanical AWD or e-Four",
+          "transmissions": [
+            "8-speed automatic",
+            "e-CVT (Hybrid)"
+          ],
+          "msrp_aud_min": 47140,
+          "msrp_aud_max": 56650,
+          "fuel_consumption_l_100km": 4.8,
+          "kerb_weight_kg": 1740,
+          "standard_features": [
+            "Rugged off-road body styling and grille",
+            "19-inch matte alloys",
+            "SofTex water-resistant seats with orange accents",
+            "Multi-Terrain Select with Mud & Sand/Rock & Dirt modes",
+            "Torque-vectoring AWD"
+          ],
+          "notes": "Adventure-focused flagship grade."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cruiser Hybrid e-Four",
+          "body_style": "5-door SUV",
+          "engine_code": "A25A-FXS",
+          "transmission": "e-CVT (Hybrid)",
+          "drivetrain": "AWD",
+          "years_start": 2019,
+          "years_end": "Present",
+          "msrp_aud": 48750,
+          "power_kw": 163.0,
+          "torque_nm": 221.0,
+          "fuel_l_100km": 4.8,
+          "towing_braked_kg": 1500,
+          "notes": "The defining Australian family crossover of the 2020s."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XA50",
+          "category": "exterior",
+          "caption": "Toyota RAV4 Plug-in Hybrid GR Sport at Automobil Messe Bietigheim",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9891.jpg/1280px-Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/toyota/rav4/toyota_rav4_XA50_1_Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9891.jpg",
+          "file_size_bytes": 364631,
+          "sha256": "6545e1f3bc1acc070ca0243629c03fc44c3908b683751d40677ce462ccced58b"
+        }
+      ]
+    }
+  ]
+}

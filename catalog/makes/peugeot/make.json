@@ -1,0 +1,174 @@
+{
+  "make_slug": "peugeot",
+  "name": "Peugeot",
+  "country_of_origin": "France",
+  "years_active_au": {
+    "start": 1949,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Historic French marque immortalized in Australian outback rallying and local CKD assembly of 403, 404, 504, and 505 models at Heidelberg and Clayton, Victoria.",
+  "australian_history": "Peugeot's legendary Australian reputation was forged in 1953 when Ken Tubman and John Marshall won the grueling 6,500-mile Redex Round Australia Reliability Trial in an unpretentious Peugeot 203, astounding the nation. Demand surged, leading to local assembly at Martin & King (Clayton) and later Renault's Heidelberg plant in Melbourne. The 403, 404, 504, and 505 were all assembled locally with high Australian content. The 504 won Wheels Car of the Year in 1969 and became famous for absorbing horrific Australian corrugations thanks to its long-travel independent suspension. Local assembly concluded in 1986. Distribution transitioned through Ateco, Sime Darby, and Inchcape. Modern Peugeot excels with the 208, 308, 2008, 3008, and 5008 SUVs.",
+  "models_catalog": [
+    {
+      "model_slug": "504-505",
+      "name": "504 / 505",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Family Car",
+      "years_sold_au": {
+        "start": 1969,
+        "end": "1993"
+      },
+      "locally_built": true,
+      "overview": "Locally assembled at Heidelberg and Clayton VIC, renowned for unmatched ride compliance, rally toughness, and Wheels Car of the Year honors.",
+      "generations": [
+        {
+          "series_code": "504",
+          "generation_name": "Peugeot 504",
+          "years": {
+            "start": 1969,
+            "end": 1983
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "Ute"
+          ],
+          "summary": "1.8L and 2.0L carburettor and mechanical Kugelfischer injection (TI), 2.3 Diesel, and rugged 7-seat Familiale."
+        },
+        {
+          "series_code": "505",
+          "generation_name": "Peugeot 505",
+          "years": {
+            "start": 1980,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "Assembled locally until 1986; GR, SR, STI, GTI (2.2L all-alloy OHC), Turbo Diesel, and GTi Turbo."
+        }
+      ]
+    },
+    {
+      "model_slug": "206-208",
+      "name": "206 / 207 / 208",
+      "vehicle_type": "Hatchback / CC",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1999,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Peugeot's stylish city hatchbacks, including folding hardtop 206 CC and thrilling 208 GTi hot hatches.",
+      "generations": [
+        {
+          "series_code": "206-207",
+          "generation_name": "Peugeot 206 & 207",
+          "years": {
+            "start": 1999,
+            "end": 2012
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch",
+            "Coupe-Cabriolet CC",
+            "Wagon"
+          ],
+          "summary": "Wildly successful 206 XR, XT, GTi 138/180; followed by larger 207 with 1.6 VTi and GTi Turbo."
+        },
+        {
+          "series_code": "208",
+          "generation_name": "Peugeot 208",
+          "years": {
+            "start": 2012,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch"
+          ],
+          "summary": "Introduced Peugeot i-Cockpit, 147kW-153kW 208 GTi, and second-gen pure-electric e-208."
+        }
+      ]
+    },
+    {
+      "model_slug": "3008",
+      "name": "3008",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2010,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Distinctive European SUV that evolved from a crossover MPV into a sleek, avant-garde design award winner.",
+      "generations": [
+        {
+          "series_code": "T84-P84",
+          "generation_name": "Peugeot 3008 1st & 2nd Gen",
+          "years": {
+            "start": 2010,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "First-gen split tailgate crossover; second-gen P84 European Car of the Year with i-Cockpit, Allure, GT, and GT Sport PHEV."
+        }
+      ]
+    },
+    {
+      "model_slug": "205-308-gti",
+      "name": "205, 306, 208 & 308 GTi",
+      "vehicle_type": "Hot Hatchback",
+      "segment": "Light / Small Performance Car",
+      "years_sold_au": {
+        "start": 1987,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "The aristocrats of French hot hatch engineering. For more than three decades in Australia, Peugeot's GTi lineage defined what a front-wheel drive performance car could achieve. From the featherweight, razor-sharp 205 GTi 1.9 that reset international benchmarks, through the passive rear-steering 306 GTi-6 with its class-first six-speed manual, to the Peugeot Sport-engineered 308 GTi 270 with Torsen LSD and massive Alcon brakes.",
+      "generations": [
+        {
+          "series_code": "205 GTi",
+          "generation_name": "Peugeot 205 GTi 1.9",
+          "years": {
+            "start": 1987,
+            "end": 1994
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "Universally heralded as one of the purest hot hatches ever created. Weighing just 880kg with all-independent trailing-arm rear suspension, 15-inch Speedline alloys, and an eager 1.9L all-alloy engine."
+        },
+        {
+          "series_code": "306 GTi-6",
+          "generation_name": "Peugeot 306 S16 & GTi-6",
+          "years": {
+            "start": 1994,
+            "end": 2001
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "Pininfarina-styled masterpiece featuring a high-revving 120kW 2.0L 16V engine, passive rear-wheel steering rear axle, and the first close-ratio 6-speed manual gearbox fitted to a mass-production hot hatch."
+        },
+        {
+          "series_code": "308 GTi",
+          "generation_name": "Peugeot 308 GTi by Peugeot Sport (250 & 270)",
+          "years": {
+            "start": 2016,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "Engineered directly by Peugeot Sport. Ultra-lightweight 1,205kg EMP2 platform, 1.6L THP engine developing up to 200kW (270hp), mechanical Torsen limited-slip differential, and massive Alcon 380mm four-piston front brakes."
+        }
+      ]
+    }
+  ]
+}

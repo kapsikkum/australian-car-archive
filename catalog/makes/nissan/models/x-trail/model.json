@@ -1,0 +1,553 @@
+{
+  "make_slug": "nissan",
+  "model_slug": "x-trail",
+  "name": "X-Trail",
+  "vehicle_type": "Medium SUV",
+  "segment": "Medium SUV",
+  "years_sold_au": {
+    "start": 2001,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Nissan X-Trail is an Australian compact and medium SUV institution. Famous for combining utilitarian practicality—such as wipe-clean waterproof cargo floors, cooled cup holders, and multi-tier drawers—with genuine soft-road capability via Nissan's All-Mode 4x4, it remains one of Australia's most consistently popular family crossovers.",
+  "australian_market_notes": "Launched in October 2001, the boxy T30 X-Trail quickly captured a dedicated following among outdoor adventurers, families, and dog owners thanks to its washable cargo area. The T32 generation added 7-seat capability, while the fourth-generation T33 brought Nissan's innovative e-POWER variable-compression electric drive system with e-4ORCE twin-motor AWD.",
+  "manuals": [
+    {
+      "title": "Nissan X-Trail Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2001,
+      "language": "en",
+      "source_url": "local://catalog/makes/nissan/models/x-trail/model.json",
+      "local_path": "media/manuals/nissan/x-trail/nissan_x-trail_au_technical_manual.pdf",
+      "file_size_bytes": 6631,
+      "sha256": "cfcc04933e57b39d824410cf34523e36dffded0a86bddefa4a26a8f3ac326bc2",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "WinCE OEM Car Radio Nissan X-Trail 2018",
+      "year": 2017,
+      "source_url": "https://archive.org/details/WinCEOEMCarRadioNissanX-Trail2018",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/x-trail/nissan_x-trail_manual_WinCE_OEM_Car_Radio_Nissan_X-Trail_2018.html",
+      "file_size_bytes": 210508,
+      "sha256": "bb83b204035ae8ab47144d2cfc1f4ec92ad2559ac45201ef427ed48f15930ccc"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2011 Nissan X-Trail (T31) ST wagon. Photographed in Tasmania, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2011_Nissan_X-Trail_%28T31%29_ST_wagon_%282013-08-14%29.jpg/1280px-2011_Nissan_X-Trail_%28T31%29_ST_wagon_%282013-08-14%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.0 (Jon; edited by EurovisionNim)",
+      "local_path": "media/pictures/nissan/x-trail/nissan_x-trail_hero_1_2011_Nissan_X-Trail_T31_ST_wagon_2013-08-14_.jpg",
+      "file_size_bytes": 268861,
+      "sha256": "fd04414e2228e6ab53552c07909b7f17f4b8e9ba97af8804339b9b6f6f5685d8"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "T30",
+      "generation_name": "X-Trail 1st Generation",
+      "years": {
+        "start": 2001,
+        "end": 2007
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Nissan FF-S",
+      "ancap_rating": "4 stars",
+      "summary": "Utilitarian pioneer with central instrument binnacle, washable plastic cargo lining, heated/cooled dashboard drink holders, and All-Mode 4x4 with 2.5L QR25DE power.",
+      "engines": [
+        {
+          "engine_code": "QR25DE-T30",
+          "name": "Nissan QR25DE 2.5L DOHC 16V",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 132.0,
+          "power_rpm": "6000",
+          "torque_nm": 245.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve CVTC",
+          "notes": "Punchy 132kW four-cylinder with twin balance shafts."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST / ST-S",
+          "years": {
+            "start": 2001,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "All-Mode 4x4",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 35490,
+          "fuel_consumption_l_100km": 9.6,
+          "kerb_weight_kg": 1435,
+          "standard_features": [
+            "All-Mode 4x4 (2WD, Auto, Lock)",
+            "Washable composite luggage floor",
+            "Air-conditioned front cup holders",
+            "Central instrument cluster",
+            "16-inch alloy wheels (ST-S)"
+          ],
+          "notes": "Recreational lifestyle benchmark."
+        },
+        {
+          "badge_name": "Ti / Ti-L",
+          "years": {
+            "start": 2001,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "All-Mode 4x4",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 43990,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 1485,
+          "standard_features": [
+            "Huge panoramic electric sunroof",
+            "Leather upholstery",
+            "Climate control",
+            "16-inch alloys",
+            "Fog lamps"
+          ],
+          "notes": "Luxury compact 4x4."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "X-Trail ST 4x4 Auto",
+          "body_style": "5-door SUV",
+          "engine_code": "QR25DE-T30",
+          "transmission": "4-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2001,
+          "years_end": 2007,
+          "msrp_aud": 33990,
+          "power_kw": 132.0,
+          "torque_nm": 245.0,
+          "fuel_l_100km": 9.9,
+          "towing_braked_kg": 2000,
+          "notes": "Australia's favourite recreational compact SUV of the early 2000s."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T30",
+          "category": "exterior",
+          "caption": "NISSAN X-TRAIL T30 China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NISSAN_X-TRAIL_T30_China.jpg/1280px-NISSAN_X-TRAIL_T30_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/nissan/x-trail/nissan_x-trail_T30_1_NISSAN_X-TRAIL_T30_China.jpg",
+          "file_size_bytes": 303645,
+          "sha256": "243c3b8a163c54141b7b577f69e4b64e918c7945652d831302dc0195e408c76b"
+        }
+      ]
+    },
+    {
+      "series_code": "T31",
+      "generation_name": "X-Trail 2nd Generation",
+      "years": {
+        "start": 2007,
+        "end": 2014
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Nissan C platform",
+      "ancap_rating": "4 stars",
+      "summary": "Moved instruments back in front of driver. Added clever double-decker sliding cargo drawer, Xtronic CVT, and 2.0L M9R turbodiesel with 360Nm.",
+      "engines": [
+        {
+          "engine_code": "QR25DE-T31",
+          "name": "Nissan QR25DE 2.5L",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "6000",
+          "torque_nm": 226.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve CVTC",
+          "notes": "Paired with 6-speed manual or Xtronic CVT."
+        },
+        {
+          "engine_code": "M9R",
+          "name": "Nissan/Renault M9R 2.0L dCi Turbo Diesel",
+          "displacement_cc": 1995,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Variable Geometry Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 127.0,
+          "power_rpm": "3750",
+          "torque_nm": 360.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "15.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "360Nm turbodiesel paired with 6-speed auto or manual."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST / ST-L",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD (from 2011) or All-Mode 4x4-i",
+          "transmissions": [
+            "6-speed manual",
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 28490,
+          "msrp_aud_max": 38490,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1515,
+          "standard_features": [
+            "All-Mode 4x4-i with Hill Start and Hill Descent",
+            "Underfloor cargo drawer",
+            "Bluetooth",
+            "17-inch alloys"
+          ],
+          "notes": "Core family spec."
+        },
+        {
+          "badge_name": "Ti / TL Diesel",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "All-Mode 4x4-i",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 45490,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "Heated leather seats",
+            "Panoramic glass sunroof",
+            "Xenon headlights",
+            "Reversing camera in rear-view mirror"
+          ],
+          "notes": "High specification diesel and petrol."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "X-Trail ST-L 4x4-i CVT",
+          "body_style": "5-door SUV",
+          "engine_code": "QR25DE-T31",
+          "transmission": "CVT automatic",
+          "drivetrain": "AWD",
+          "years_start": 2007,
+          "years_end": 2014,
+          "msrp_aud": 36490,
+          "power_kw": 125.0,
+          "torque_nm": 226.0,
+          "fuel_l_100km": 9.1,
+          "towing_braked_kg": 2000,
+          "notes": "2,000kg towing capacity with clever cargo drawers."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T31",
+          "category": "exterior",
+          "caption": "NISSAN X-TRAIL (T31) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/NISSAN_X-TRAIL_%28T31%29_China.jpg/1280px-NISSAN_X-TRAIL_%28T31%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/nissan/x-trail/nissan_x-trail_T31_1_NISSAN_X-TRAIL_T31_China.jpg",
+          "file_size_bytes": 214613,
+          "sha256": "a39cb4972ffd98ca3fad106441ac028cee165e5f29733072482f07fe8386a9cd"
+        }
+      ]
+    },
+    {
+      "series_code": "T32",
+      "generation_name": "X-Trail 3rd Generation",
+      "years": {
+        "start": 2014,
+        "end": 2022
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Renault-Nissan CMF-CD",
+      "ancap_rating": "5 stars",
+      "summary": "Shifted to sleek contemporary styling on CMF-CD platform. Added 7-seat versatility, EZ-Flex seating, 360-degree Around View Monitor, and active ride control.",
+      "engines": [
+        {
+          "engine_code": "QR25DE-T32",
+          "name": "Nissan QR25DE 2.5L",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 126.0,
+          "power_rpm": "6000",
+          "torque_nm": 226.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve CVTC",
+          "notes": "Mainstay volume engine across ST, ST-L, and Ti."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST (5 or 7 seats)",
+          "years": {
+            "start": 2014,
+            "end": 2022
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed manual",
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 27990,
+          "msrp_aud_max": 34990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1500,
+          "standard_features": [
+            "Reversing camera",
+            "Keyless entry & start",
+            "EZ-Flex 2nd row seating",
+            "Autonomous emergency braking (from 2017)"
+          ],
+          "notes": "Available in 7-seat FWD or 5-seat AWD."
+        },
+        {
+          "badge_name": "ST-L / Ti",
+          "years": {
+            "start": 2014,
+            "end": 2022
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 36190,
+          "msrp_aud_max": 45490,
+          "fuel_consumption_l_100km": 8.3,
+          "kerb_weight_kg": 1600,
+          "standard_features": [
+            "Around View 360-degree monitor",
+            "Leather-accented seats",
+            "Bose 8-speaker audio (Ti)",
+            "Motion-activated power tailgate (Ti)",
+            "Panoramic sunroof (Ti)"
+          ],
+          "notes": "Top-selling specification."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "X-Trail ST-L 7-seater FWD",
+          "body_style": "5-door SUV",
+          "engine_code": "QR25DE-T32",
+          "transmission": "CVT automatic",
+          "drivetrain": "FWD",
+          "years_start": 2014,
+          "years_end": 2022,
+          "msrp_aud": 38700,
+          "power_kw": 126.0,
+          "torque_nm": 226.0,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 1500,
+          "notes": "Affordable 7-seater family configuration."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T32",
+          "category": "exterior",
+          "caption": "2017-2020 Nissan X-Trail 20X",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2017-2020_Nissan_X-Trail_20X.jpg/1280px-2017-2020_Nissan_X-Trail_20X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (TTTNIS)",
+          "local_path": "media/pictures/nissan/x-trail/nissan_x-trail_T32_1_2017-2020_Nissan_X-Trail_20X.jpg",
+          "file_size_bytes": 168538,
+          "sha256": "de1f500f44caaa84f985033a6adb8813e3a9924331c8a3960dcf636a20a80d88"
+        }
+      ]
+    },
+    {
+      "series_code": "T33",
+      "generation_name": "X-Trail 4th Gen & e-POWER e-4ORCE",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "CMF-C",
+      "ancap_rating": "5 stars",
+      "summary": "Major leap in refinement. Introduces revolutionary e-POWER electric motor drive where a 1.5L VC-Turbo variable compression engine acts as a pure on-board generator, powering twin electric motors with e-4ORCE AWD.",
+      "engines": [
+        {
+          "engine_code": "PR25DD-X",
+          "name": "Nissan PR25DD 2.5L Direct Injection",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 135.0,
+          "power_rpm": "6000",
+          "torque_nm": 244.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 16-valve direct injection",
+          "notes": "Upgraded 135kW standard engine."
+        },
+        {
+          "engine_code": "KR15DDT-ePower",
+          "name": "Nissan 1.5L VC-Turbo e-POWER e-4ORCE",
+          "displacement_cc": 1497,
+          "displacement_litres": 1.5,
+          "cylinders": 3,
+          "configuration": "Inline-3 Variable Compression + Twin Electric Motors",
+          "aspiration": "Turbocharged Variable Compression + Dual Motors",
+          "fuel_type": "Petrol Hybrid Electric",
+          "power_kw": 157.0,
+          "power_rpm": "Electric Drive",
+          "torque_nm": 330.0,
+          "torque_rpm": "Instant",
+          "compression_ratio": "8.0:1 to 14.0:1 variable",
+          "valvetrain": "DOHC 12-valve VC-Turbo",
+          "notes": "100% electric motor wheel drive (150kW front + 100kW rear motor, combined 157kW system power)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST / ST-L",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 37250,
+          "msrp_aud_max": 46790,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1540,
+          "standard_features": [
+            "ProPILOT semi-autonomous driving",
+            "8.0 or 12.3-inch touchscreen",
+            "Wireless Apple CarPlay",
+            "Reversing camera",
+            "Full safety shield"
+          ],
+          "notes": "Available in 5 or 7 seats."
+        },
+        {
+          "badge_name": "Ti / Ti-L e-POWER with e-4ORCE",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "e-4ORCE Twin-Motor AWD",
+          "transmissions": [
+            "Electric drive reduction"
+          ],
+          "msrp_aud_min": 54690,
+          "msrp_aud_max": 57690,
+          "fuel_consumption_l_100km": 6.1,
+          "kerb_weight_kg": 1880,
+          "standard_features": [
+            "e-POWER electric drive",
+            "e-Pedal Step regenerative braking",
+            "Nappa leather seating (Ti-L)",
+            "Bose 10-speaker premium audio",
+            "10.8-inch head-up display",
+            "Panoramic sunroof"
+          ],
+          "notes": "Silky EV acceleration feel without plugging in."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "X-Trail Ti-L e-POWER e-4ORCE",
+          "body_style": "5-door SUV",
+          "engine_code": "KR15DDT-ePower",
+          "transmission": "Single-speed electric reduction",
+          "drivetrain": "AWD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 57690,
+          "power_kw": 157.0,
+          "torque_nm": 330.0,
+          "fuel_l_100km": 6.1,
+          "towing_braked_kg": 1650,
+          "notes": "Twin-motor e-4ORCE all-wheel electric drive."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T33",
+          "category": "exterior",
+          "caption": "Nissan X-Trail (T33) in Stuttgart",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Nissan_X-Trail_%28T33%29_1X7A7179.jpg/1280px-Nissan_X-Trail_%28T33%29_1X7A7179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/nissan/x-trail/nissan_x-trail_T33_1_Nissan_X-Trail_T33_1X7A7179.jpg",
+          "file_size_bytes": 333410,
+          "sha256": "20c07d8dd324667d5281da5731cce371b42d4f553171c025c9752556c8383c12"
+        }
+      ]
+    }
+  ]
+}

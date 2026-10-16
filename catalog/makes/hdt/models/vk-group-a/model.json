@@ -1,0 +1,111 @@
+{
+  "make_slug": "hdt",
+  "model_slug": "vk-group-a",
+  "name": "HDT VK SS Group A ('Blue Meanie')",
+  "vehicle_type": "Sedan",
+  "segment": "Homologation Special / Muscle Car",
+  "years_sold_au": {
+    "start": 1985,
+    "end": 1985
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Port Melbourne, Victoria"
+  ],
+  "overview": "The HDT VK SS Group A, universally affectionately known as the 'Blue Meanie', is the most revered homologation muscle car in Australian touring car racing history. Built by Peter Brock's Holden Dealer Team Special Vehicles at 124 Bertie Street, Port Melbourne in 1985, the Group A was created to homologate the Commodore under international FIA Group A racing regulations. All 500 cars were painted in striking Formula Blue, featuring a de-stroked 4.9-litre (4987cc) V8 with Crane cam and roller rockers, M21 4-speed manual gearbox, Scheel velour bucket seats, and distinctive white 16-inch Aero alloy wheels.",
+  "australian_market_notes": "Under FIA Group A regulations, engine capacity determined vehicle minimum racing weight. The traditional Holden 308ci (5044cc) placed the Commodore into the heavy over-5,000cc weight division. HDT and Holden engineer Larry Perkins de-stroked the engine crankshaft by 0.040 inches, reducing capacity to 4,987cc (304ci) to slip beneath the 5,000cc limit and shed over 100 kg of required racing ballast. The 500 road cars were snapped up instantly by collectors and racers.",
+  "manuals": [
+    {
+      "title": "Hdt HDT VK SS Group A ('Blue Meanie') Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1985,
+      "language": "en",
+      "source_url": "local://catalog/makes/hdt/models/vk-group-a/model.json",
+      "local_path": "media/manuals/hdt/vk-group-a/hdt_vk-group-a_au_technical_manual.pdf",
+      "file_size_bytes": 3416,
+      "sha256": "0b3f528d5dd2d4595cde39c713dc72c866052b8878bedd349f284ec90f91edce",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "VK-Group-A",
+      "generation_name": "VK SS Group A & Group 3",
+      "years": {
+        "start": 1985,
+        "end": 1985
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "GM V-body modified by HDT",
+      "ancap_rating": null,
+      "summary": "500 homologation specials finished in Formula Blue; 4,987cc V8 (196kW/418Nm), Crane cam, roller rockers, Scheel interior, white 16-inch Aero wheels.",
+      "engines": [
+        {
+          "engine_code": "HDT-4.9L-Group-A",
+          "name": "HDT/Holden 4.9L (4987cc) Group A V8",
+          "displacement_cc": 4987,
+          "displacement_litres": 4.9,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 196.0,
+          "power_rpm": "5200",
+          "torque_nm": 418.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 16V with Crane Roller Rockers and High-Lift Cam",
+          "notes": "Rochester 4-barrel carburettor; port-matched high-flow intake manifold; heavy-duty double-row timing chain."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SS Group A",
+          "years": {
+            "start": 1985,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (M21)"
+          ],
+          "msrp_aud_min": 21950,
+          "msrp_aud_max": 24500,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1340,
+          "standard_features": [
+            "Formula Blue paint",
+            "HDT Group A aerodynamic grille, air dam, and rear spoiler",
+            "16x7 inch white Aero wheels",
+            "Scheel high-bolstered velour seats",
+            "Momo steering wheel and gear knob",
+            "Heavy-duty Bilstein gas suspension"
+          ],
+          "notes": "500 numbered homologation cars produced."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SS Group A",
+          "body_style": "4-door sedan",
+          "engine_code": "HDT-4.9L-Group-A",
+          "transmission": "4-speed manual (M21)",
+          "drivetrain": "RWD",
+          "msrp_aud": 21950,
+          "power_kw": 196.0,
+          "torque_nm": 418.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 1200,
+          "notes": "0-100 km/h in 6.9s; top speed 230 km/h; Peter Brock's most iconic road car."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

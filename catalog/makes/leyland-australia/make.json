@@ -1,0 +1,375 @@
+{
+  "make_slug": "leyland-australia",
+  "name": "Leyland / BMC Australia",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1950,
+    "end": 1982
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "The British Motor Corporation (Australia) and later Leyland Australia was a major domestic automotive manufacturer operating from its sprawling, integrated 60-acre manufacturing plant at Victoria Park / Zetland in Sydney, New South Wales. In the 1950s and 1960s, BMC Australia was the third major force in Australian motoring, engineering unique local adaptations like the Morris Major, Austin Freeway, Austin 1800 'Landcrab' and Ute, and the iconic Australian-designed Mini Moke. In the early 1970s, under managing director Peter North, Leyland Australia invested $21 million to take on Holden and Ford directly with a clean-sheet Australian full-size car: the Leyland P76. Designed by Michelotti with an advanced all-alloy 4.4-litre V8, McPherson strut suspension, and a boot capable of swallowing a 44-gallon drum, the P76 won the 1973 Wheels Car of the Year. However, quality issues during early production, component supply strikes, the 1973 oil crisis, and parent company British Leyland's UK collapse forced the closure of Zetland in late 1974, ending one of Australia's most daring manufacturing chapters.",
+  "australian_history": "BMC's Australian presence solidified in 1952 when the British Motor Corporation was formed by the merger of Austin and Morris. BMC took over the former Victoria Park racecourse in Zetland, Sydney, transforming it into a complete vehicle production complex with press shops, engine machining, and assembly lines. BMC Australia developed vehicles specifically for harsh local conditions, debuting the Morris Major and Austin Lancer in 1958, and the 1962 Austin Freeway powered by a local 2.4-litre 'Blue Streak' six-cylinder derived from the B-series.\n\nZetland also built the legendary Alec Issigonis-designed Mini from 1961, with local innovations including wind-up windows (long before the UK), rotating front quarter-vent windows, and cable-operated door openers on the Mini K ('Kangaroo'). The Zeta plant was the sole global production site for the Mini Moke from 1966 to 1982, developing the larger-wheeled 13-inch Moke Californian for Australian outback conditions.\n\nIn 1969, following British mergers, BMC Australia became Leyland Motor Corporation of Australia. Seeking to break the Holden-Ford-Chrysler stranglehold on the large-car market, Leyland embarked on 'Project P76'. Styled by Italian master Giovanni Michelotti, the P76 was wider and roomier than the HQ Holden, offering superior handling and safety (side-impact door intrusion bars and front disc brakes standard). Under the bonnet was an enlarged 4.4-litre (269ci) all-aluminium derivative of the Rover V8, weighing less than the six-cylinder cast-iron engines of rivals. In late 1973, the P76 won Wheels Car of the Year and an endurance rally victory in the 1974 World Cup Rally across the Sahara.\n\nHowever, the P76's launch coincided with severe supplier strikes, early assembly rattles, and the October 1973 global oil embargo. In the UK, parent company British Leyland slipped into insolvency and was nationalized. In October 1974, Leyland announced the closure of the Zetland factory, with the site acquired by the Australian Commonwealth for naval stores. The sensational 2-door coupe variant, the Force 7, was scrapped with only around 10 pre-production models escaping to collectors. Leyland Australia continued for several years as an importer of Rover, Triumph, and Jaguar before dissolving.",
+  "models_catalog": [
+    {
+      "model_slug": "morris-minor",
+      "name": "Morris Minor",
+      "vehicle_type": "Sedan / Tourer / Van / Ute",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 1949,
+        "end": 1962
+      },
+      "locally_built": true,
+      "overview": "Alec Issigonis's brilliant small car, assembled at Zetland with high local content in sedan, convertible, commercial van, and uniquely Australian coupe utility forms.",
+      "generations": [
+        {
+          "series_code": "MM-1000",
+          "generation_name": "Morris Minor MM, Series II, 1000",
+          "years": {
+            "start": 1949,
+            "end": 1962
+          },
+          "body_styles": [
+            "2-door sedan",
+            "4-door sedan",
+            "Tourer",
+            "Coupe utility",
+            "Van"
+          ],
+          "summary": "Torsion bar front suspension, rack-and-pinion steering, side-valve 918cc followed by 803cc, 948cc, and 1098cc A-Series engines."
+        }
+      ]
+    },
+    {
+      "model_slug": "morris-major",
+      "name": "Morris Major",
+      "vehicle_type": "Sedan",
+      "segment": "Compact",
+      "years_sold_au": {
+        "start": 1958,
+        "end": 1964
+      },
+      "locally_built": true,
+      "overview": "Australian-unique compact car developed by BMC Australia at Zetland from the Wolseley 1500, tailored with heavy-duty suspension for Australian country roads.",
+      "generations": [
+        {
+          "series_code": "Series-I-Elite",
+          "generation_name": "Major Series I, Series II, Elite",
+          "years": {
+            "start": 1958,
+            "end": 1964
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "BMC 1.5L and 1.6L B-Series OHV engines, high ground clearance, robust unibody construction."
+        }
+      ]
+    },
+    {
+      "model_slug": "austin-lancer",
+      "name": "Austin Lancer",
+      "vehicle_type": "Sedan",
+      "segment": "Compact",
+      "years_sold_au": {
+        "start": 1958,
+        "end": 1962
+      },
+      "locally_built": true,
+      "overview": "The Austin-badged twin of the Morris Major featuring a traditional Austin chrome crinkle grille and horseshoe motif.",
+      "generations": [
+        {
+          "series_code": "Series-I-II",
+          "generation_name": "Lancer Series I & Series II",
+          "years": {
+            "start": 1958,
+            "end": 1962
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "1,489cc B-Series 4-cylinder engine, 4-speed manual gearbox, distinct Austin styling cues."
+        }
+      ]
+    },
+    {
+      "model_slug": "austin-freeway",
+      "name": "Austin Freeway",
+      "vehicle_type": "Sedan / Station Wagon",
+      "segment": "Medium / Large",
+      "years_sold_au": {
+        "start": 1962,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "BMC Australia's contender against the Holden EJ and Falcon XK, created by stretching the Cambridge body and fitting the local 2.4L 'Blue Streak' inline-six.",
+      "generations": [
+        {
+          "series_code": "Mk-I-II",
+          "generation_name": "Freeway Mark I & Mark II",
+          "years": {
+            "start": 1962,
+            "end": 1965
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door station wagon"
+          ],
+          "summary": "2,433cc Blue Streak six-cylinder engine (80 bhp), Borg-Warner 35 automatic option, heavy-duty Australian suspension."
+        }
+      ]
+    },
+    {
+      "model_slug": "mini",
+      "name": "Morris / BMC Mini",
+      "vehicle_type": "Sedan / Van",
+      "segment": "Micro / Small",
+      "years_sold_au": {
+        "start": 1961,
+        "end": 1978
+      },
+      "locally_built": true,
+      "overview": "The revolutionary front-wheel-drive transverse marvel, built at Zetland with Australian-developed innovations including wind-up windows, Mini K, and Cooper S (1966 Bathurst 1-2-3-4-5-6-7-8-9 finish).",
+      "generations": [
+        {
+          "series_code": "Mini-AU",
+          "generation_name": "Australian Mini (850, Cooper, Cooper S, Mini K, Clubman)",
+          "years": {
+            "start": 1961,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door sedan",
+            "Panel van"
+          ],
+          "summary": "848cc, 998cc, 1098cc, and 1275cc Cooper S engines; Hydrolastic suspension; clean sweep of the 1966 Bathurst 500."
+        }
+      ]
+    },
+    {
+      "model_slug": "moke",
+      "name": "Morris / Leyland Mini Moke",
+      "vehicle_type": "Open Utility / Recreational",
+      "segment": "Recreational Utility",
+      "years_sold_au": {
+        "start": 1966,
+        "end": 1982
+      },
+      "locally_built": true,
+      "overview": "The cheerful open-air doorless beach utility. When UK production ended in 1968, Australia became the worldwide manufacturing home, creating the 13-inch wheel Californian.",
+      "generations": [
+        {
+          "series_code": "Moke-AU",
+          "generation_name": "Australian Moke & Californian",
+          "years": {
+            "start": 1966,
+            "end": 1982
+          },
+          "body_styles": [
+            "Open utility with soft top"
+          ],
+          "summary": "998cc and 1275cc A-Series engines, 13-inch road wheels for ground clearance, tubular bullbars, denim seat covers."
+        }
+      ]
+    },
+    {
+      "model_slug": "morris-1100-1500-nomad",
+      "name": "Morris 1100 / 1500 / Nomad",
+      "vehicle_type": "Sedan / Hatchback",
+      "segment": "Small / Compact",
+      "years_sold_au": {
+        "start": 1964,
+        "end": 1972
+      },
+      "locally_built": true,
+      "overview": "Advanced Pininfarina-styled front-wheel-drive family car featuring Hydrolastic interconnected fluid suspension, culminating in the Australian-exclusive 1500 OHC engine and 5-door Nomad hatchback.",
+      "generations": [
+        {
+          "series_code": "1100-Nomad",
+          "generation_name": "Morris 1100, 1500 & Nomad",
+          "years": {
+            "start": 1964,
+            "end": 1972
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door hatchback (Nomad)"
+          ],
+          "summary": "1,098cc A-Series and Australian 1,485cc E-Series OHC engine with 5-speed manual gearbox; pioneering 5-door hatchback configuration."
+        }
+      ]
+    },
+    {
+      "model_slug": "austin-1800",
+      "name": "Austin 1800 (Landcrab & Ute)",
+      "vehicle_type": "Sedan / Utility",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 1965,
+        "end": 1971
+      },
+      "locally_built": true,
+      "overview": "Cavernous Alec Issigonis front-wheel-drive sedan ('Landcrab') with extraordinary torsional rigidity, winning 1965 European COTY and spawning a unique Australian coupe utility.",
+      "generations": [
+        {
+          "series_code": "Mk-I-II",
+          "generation_name": "Austin 1800 Mark I & II",
+          "years": {
+            "start": 1965,
+            "end": 1971
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe utility"
+          ],
+          "summary": "1,798cc B-Series engine, Hydrolastic suspension, remarkable cabin space, Australian-designed utility version."
+        }
+      ]
+    },
+    {
+      "model_slug": "austin-kimberley-tasman",
+      "name": "Austin Kimberley & Tasman (X6)",
+      "vehicle_type": "Sedan",
+      "segment": "Mid-size / Large",
+      "years_sold_au": {
+        "start": 1970,
+        "end": 1973
+      },
+      "locally_built": true,
+      "overview": "Australian-styled evolution of the 1800 platform (Project X6) powered by an Australian-developed transverse 2.2L E-Series overhead-cam six-cylinder engine.",
+      "generations": [
+        {
+          "series_code": "X6",
+          "generation_name": "Kimberley & Tasman X6",
+          "years": {
+            "start": 1970,
+            "end": 1973
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "2,227cc transverse 6-cylinder OHC engine (single carb Tasman, twin-carb Kimberley), front-wheel drive, Hydrolastic suspension."
+        }
+      ]
+    },
+    {
+      "model_slug": "leyland-marina",
+      "name": "Leyland Marina",
+      "vehicle_type": "Sedan / Coupe",
+      "segment": "Compact / Mid-size",
+      "years_sold_au": {
+        "start": 1972,
+        "end": 1975
+      },
+      "locally_built": true,
+      "overview": "Rear-wheel-drive compact car built at Zetland, uniquely adapted for Australia with the 2.6L OHC E-series six-cylinder ('Marina Red Six').",
+      "generations": [
+        {
+          "series_code": "Marina-AU",
+          "generation_name": "Leyland Marina (4-cyl & Six)",
+          "years": {
+            "start": 1972,
+            "end": 1975
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe"
+          ],
+          "summary": "1.5L and 1.75L OHC 4-cylinders and the heavy 2,622cc 6-cylinder in the Marina Six."
+        }
+      ]
+    },
+    {
+      "model_slug": "leyland-p76",
+      "name": "Leyland P76",
+      "vehicle_type": "Sedan",
+      "segment": "Full-size",
+      "years_sold_au": {
+        "start": 1973,
+        "end": 1975
+      },
+      "locally_built": true,
+      "overview": "Australia's great tragic masterpiece. Designed by Michelotti to beat Holden and Ford, featuring an all-alloy 4.4L V8, standard front disc brakes, cavernous boot, and 1973 Wheels Car of the Year crown.",
+      "generations": [
+        {
+          "series_code": "P76",
+          "generation_name": "Leyland P76 Series",
+          "years": {
+            "start": 1973,
+            "end": 1975
+          },
+          "body_styles": [
+            "4-door full-size sedan"
+          ],
+          "summary": "Deluxe, Super, and Executive trims; 2.6L OHC six and 4,416cc all-aluminium V8; MacPherson strut front suspension; rack-and-pinion steering."
+        }
+      ]
+    },
+    {
+      "model_slug": "leyland-force-7",
+      "name": "Leyland Force 7",
+      "vehicle_type": "Hatchback Coupe",
+      "segment": "Sports Coupe",
+      "years_sold_au": {
+        "start": 1974,
+        "end": 1974
+      },
+      "locally_built": true,
+      "overview": "Sensational 2-door hatchback coupe variant of the P76 with full rear tailgate and 4.4L V8. Almost all were crushed when Zetland closed, making surviving cars among the rarest Australian collector vehicles.",
+      "generations": [
+        {
+          "series_code": "Force-7",
+          "generation_name": "Force 7 & Force 7V",
+          "years": {
+            "start": 1974,
+            "end": 1974
+          },
+          "body_styles": [
+            "2-door hatchback coupe"
+          ],
+          "summary": "Pioneering large hatchback coupe styling; 4.4L all-alloy V8 and 4-speed manual; only ~10 survived the crusher."
+        }
+      ]
+    },
+    {
+      "model_slug": "morris-major-freeway",
+      "name": "Morris Major / Austin Freeway & Wolseley 24/80",
+      "vehicle_type": "4-door Sedan / 5-door Station Wagon",
+      "segment": "Compact / Mid-size",
+      "years_sold_au": {
+        "start": 1958,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "The Morris Major and Austin Freeway family was BMC Australia's dedicated endeavor to engineer vehicles specifically for Australian motoring conditions at the Victoria Park plant in Zetland, Sydney. Commencing in 1958 as the Morris Major (and sibling Austin Lancer), it adapted the Wolseley 1500 body ...",
+      "generations": [
+        {
+          "series_code": "Major-Series-I-II-Elite",
+          "generation_name": "Morris Major (Series I, II & Elite)",
+          "years": {
+            "start": 1958,
+            "end": 1964
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Australian-developed 4-cylinder compact sedan. Higher ride clearance, heavy-duty suspension, 1.5L B-Series engine, followed by 1.6L Elite with finned rear wings."
+        },
+        {
+          "series_code": "Freeway-Wolseley-24-80",
+          "generation_name": "Austin Freeway & Wolseley 24/80 (6-Cylinder)",
+          "years": {
+            "start": 1962,
+            "end": 1965
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "First Australian-designed mass-production inline-six: the 2.4L 'Blue Streak' six. Austin Freeway sedan and wagon, and prestige Wolseley 24/80 with burr walnut dash."
+        }
+      ]
+    }
+  ]
+}

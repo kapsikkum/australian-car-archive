@@ -1,0 +1,67 @@
+{
+  "make_slug": "polestar",
+  "name": "Polestar",
+  "country_of_origin": "Sweden",
+  "years_active_au": {
+    "start": 2021,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Born from Volvo's touring car racing team and performance arm, Polestar launched Australia as an early pilot market before establishing an independent pure-electric luxury brand.",
+  "australian_history": "Polestar has a special connection to Australia. In 2013, Australia was chosen as the sole global test market for the first factory-built Polestar road car: the Volvo S60 Polestar (50 limited-edition 257kW turbo inline-six sedans). Following its spin-off as a standalone electric performance brand jointly owned by Volvo and Geely, Polestar launched in Australia in late 2021 with the Polestar 2 liftback. Operating an online sales model with Polestar Spaces in Sydney, Melbourne, and Brisbane, the brand quickly established itself among Australia's leading premium EV sellers.",
+  "models_catalog": [
+    {
+      "model_slug": "polestar-2",
+      "name": "Polestar 2",
+      "vehicle_type": "Liftback Sedan",
+      "segment": "Medium Luxury EV",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Pure-electric performance fastback featuring Google Android Automotive OS and Öhlins dual-flow damping.",
+      "generations": [
+        {
+          "series_code": "P8",
+          "generation_name": "Polestar 2",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door liftback"
+          ],
+          "summary": "Standard Range Single Motor, Long Range Single Motor (RWD facelift), and 350kW Long Range Dual Motor Performance Pack."
+        }
+      ]
+    },
+    {
+      "model_slug": "polestar-3",
+      "name": "Polestar 3",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury EV SUV",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Aerodynamic luxury electric SUV featuring dual-chamber air suspension and 380kW dual-motor AWD.",
+      "generations": [
+        {
+          "series_code": "P3",
+          "generation_name": "Polestar 3",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "111kWh battery, 610km range, torque-vectoring dual clutch, and SmartZone front sensor cluster."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "make_slug": "audi",
+  "model_slug": "a3-s3-rs3",
+  "name": "A3, S3 & RS3",
+  "vehicle_type": "Hatchback (Sportback) / Sedan / Cabriolet",
+  "segment": "Small Luxury Sports Car",
+  "years_sold_au": {
+    "start": 1996,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The pioneer of the premium compact segment in Australia. Spanning four generations (8L, 8P, 8V, and 8Y), the A3 introduced luxury hatchback packaging and quattro all-wheel drive, reaching high-performance zeniths with the S3 quattro and the spine-tingling 2.5-litre turbocharged inline-5 Audi RS3 producing 294kW.",
+  "australian_market_notes": "First sold in Australia in 1996 (8L). The first-generation S3 arrived in 2000, quickly winning enthusiast admiration. The RS3 arrived in 2012 (8P Sportback) with Audi's iconic turbocharged five-cylinder engine, whose heritage traces directly to the legendary Group B Audi quattro rally cars. Australia remains one of the largest global markets for S3 and RS3 models per capita.",
+  "manuals": [
+    {
+      "title": "Audi A3, S3 & RS3 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1996,
+      "language": "en",
+      "source_url": "local://catalog/makes/audi/models/a3-s3-rs3/model.json",
+      "local_path": "media/manuals/audi/a3-s3-rs3/audi_a3-s3-rs3_au_technical_manual.pdf",
+      "file_size_bytes": 6780,
+      "sha256": "efed99cb75073d4cb20fa8b90fdb928f95e7ba67f0375f907b64d8253c860e35",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "8L",
+      "generation_name": "A3 & S3 First Generation (Typ 8L)",
+      "years": {
+        "start": 1996,
+        "end": 2003
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group PQ34",
+      "ancap_rating": "4 stars",
+      "summary": "Introduced premium German finish to the compact class. Highlighted by the original S3 quattro powered by a 1.8-litre 20-valve turbo with Haldex AWD and flared front and rear arches.",
+      "engines": [
+        {
+          "engine_code": "APY/BAM",
+          "name": "1.8L 20V Turbo Petrol (S3)",
+          "displacement_cc": 1781,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 154,
+          "power_rpm": "5800",
+          "torque_nm": 270,
+          "torque_rpm": "2100-5000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 20-valve (5 valves per cylinder)",
+          "notes": "Twin intercoolers, K04 turbocharger; upgraded to 165kW BAM in late models."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "S3 quattro",
+          "years": {
+            "start": 2000,
+            "end": 2003
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 65900,
+          "msrp_aud_max": 69900,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1375,
+          "standard_features": [
+            "17-inch Avus alloys",
+            "Recaro electric leather sports seats",
+            "Bose sound system",
+            "quattro all-wheel drive"
+          ],
+          "notes": "The original compact executive pocket rocket."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "S3 quattro",
+          "body_style": "3-door hatchback",
+          "engine_code": "APY/BAM",
+          "transmission": "6-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 2000,
+          "years_end": 2003,
+          "msrp_aud": 67900,
+          "power_kw": 154,
+          "torque_nm": 270,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 1400,
+          "notes": "1.8T 20V manual quattro hot hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "8L",
+          "category": "exterior",
+          "caption": "Audi S3",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2002_Audi_S3_%288L_MY02%29_quattro_3-door_hatchback_%282013-08-12%29_02.jpg/1280px-2002_Audi_S3_%288L_MY02%29_quattro_3-door_hatchback_%282013-08-12%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (FotoSleuth)",
+          "local_path": "media/pictures/audi/a3-s3-rs3/audi_a3-s3-rs3_8L_1_2002_Audi_S3_8L_MY02_quattro_3-door_hatchback_2013-08-12_02.jpg",
+          "file_size_bytes": 335173,
+          "sha256": "57866de923d1f6f548e67da3ec42f373c6fdd51280d03e5c203c8c67892ca2fa"
+        }
+      ]
+    },
+    {
+      "series_code": "8P",
+      "generation_name": "A3, S3 & RS3 Second Generation (Typ 8P)",
+      "years": {
+        "start": 2003,
+        "end": 2012
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door Sportback",
+        "Cabriolet"
+      ],
+      "platform": "Volkswagen Group PQ35",
+      "ancap_rating": "4 stars",
+      "summary": "Pioneered the Sportback body style and dual-clutch S tronic transmission. Featured 2.0 TFSI, 3.2 VR6, S3 quattro (188kW), and the debut of the RS3 Sportback with the 250kW 2.5L 5-cylinder turbo.",
+      "engines": [
+        {
+          "engine_code": "BHZ/CDLC",
+          "name": "2.0L TFSI Turbo Petrol (S3)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 188,
+          "power_rpm": "6000",
+          "torque_nm": 330,
+          "torque_rpm": "2400-5200",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA113 iron-block engine with reinforced conrods and K04 turbo."
+        },
+        {
+          "engine_code": "CEPA",
+          "name": "2.5L TFSI Inline-5 Turbo (RS3)",
+          "displacement_cc": 2480,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 250,
+          "power_rpm": "5400-6500",
+          "torque_nm": 450,
+          "torque_rpm": "1600-5300",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 20-valve",
+          "notes": "Compacted graphite iron (CGI) block; 1-2-4-5-3 firing order soundtrack."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "S3 quattro",
+          "years": {
+            "start": 2007,
+            "end": 2012
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed S tronic"
+          ],
+          "msrp_aud_min": 65500,
+          "msrp_aud_max": 72900,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1455,
+          "standard_features": [
+            "18-inch S-design alloys",
+            "quattro AWD",
+            "Flat-bottom sports steering wheel",
+            "Silk Nappa leather"
+          ],
+          "notes": "High-revving 188kW Australian benchmark."
+        },
+        {
+          "badge_name": "RS3 Sportback",
+          "years": {
+            "start": 2012,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed S tronic"
+          ],
+          "msrp_aud_min": 99900,
+          "msrp_aud_max": 105000,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1575,
+          "standard_features": [
+            "19-inch Rotor alloys",
+            "Carbon-fibre reinforced front fenders",
+            "Brembo 4-piston front brakes",
+            "quattro sport diff"
+          ],
+          "notes": "0-100km/h in 4.6s. Five-cylinder icon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RS3 Sportback",
+          "body_style": "5-door Sportback",
+          "engine_code": "CEPA",
+          "transmission": "7-speed S tronic",
+          "drivetrain": "AWD",
+          "years_start": 2012,
+          "years_end": 2012,
+          "msrp_aud": 99900,
+          "power_kw": 250,
+          "torque_nm": 450,
+          "fuel_l_100km": 9.1,
+          "towing_braked_kg": 1500,
+          "notes": "First generation 250kW 5-cylinder RS3 Sportback."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "8P",
+          "category": "exterior",
+          "caption": "Audi A3",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Audi_A3_S-Line_silver.JPG/1280px-Audi_A3_S-Line_silver.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Thomas doerfer)",
+          "local_path": "media/pictures/audi/a3-s3-rs3/audi_a3-s3-rs3_8P_1_Audi_A3_S-Line_silver.JPG",
+          "file_size_bytes": 274063,
+          "sha256": "9883b5eeab066e9ba6292e702502132dcd5eb25ba502480e4b12a8ef416a77fb"
+        }
+      ]
+    },
+    {
+      "series_code": "8V",
+      "generation_name": "A3, S3 & RS3 Third Generation (Typ 8V)",
+      "years": {
+        "start": 2012,
+        "end": 2020
+      },
+      "body_styles": [
+        "5-door Sportback",
+        "4-door Sedan",
+        "Cabriolet"
+      ],
+      "platform": "Volkswagen Group MQB",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the MQB platform, introducing the wildly popular A3/S3/RS3 Sedan body style. S3 delivered 206kW-228kW, while the RS3 featured the all-aluminium DAZA 2.5L five-cylinder pumping out 294kW and 480Nm.",
+      "engines": [
+        {
+          "engine_code": "CJXB/DJHA",
+          "name": "2.0L TFSI Turbo Petrol (S3)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 213,
+          "power_rpm": "5400-6500",
+          "torque_nm": 380,
+          "torque_rpm": "1850-5300",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Australian hot-climate spec 206kW up to 213kW/228kW."
+        },
+        {
+          "engine_code": "DAZA",
+          "name": "2.5L TFSI 5-Cylinder Turbo (RS3)",
+          "displacement_cc": 2480,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 294,
+          "power_rpm": "5850-7000",
+          "torque_nm": 480,
+          "torque_rpm": "1700-5850",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 20-valve",
+          "notes": "All-aluminium crankcase saving 26kg; 400hp Five-Cylinder powerhouse."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "S3 Sedan / Sportback",
+          "years": {
+            "start": 2013,
+            "end": 2020
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed S tronic",
+            "7-speed S tronic"
+          ],
+          "msrp_aud_min": 59990,
+          "msrp_aud_max": 65800,
+          "fuel_consumption_l_100km": 6.9,
+          "kerb_weight_kg": 1445,
+          "standard_features": [
+            "Virtual Cockpit display",
+            "quattro AWD",
+            "18-inch alloys",
+            "Nappa sports seats",
+            "Audi magnetic ride"
+          ],
+          "notes": "One of Australia's top-selling performance sedans."
+        },
+        {
+          "badge_name": "RS3 Sedan / Sportback",
+          "years": {
+            "start": 2015,
+            "end": 2020
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed S tronic"
+          ],
+          "msrp_aud_min": 78900,
+          "msrp_aud_max": 86500,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 1515,
+          "standard_features": [
+            "19-inch Blade alloys",
+            "RS sports exhaust with oval tips",
+            "8-piston front brakes with wave discs",
+            "Virtual Cockpit with RS screens"
+          ],
+          "notes": "0-100km/h in 4.1s. Modern performance legend."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RS3 Sedan / Sportback",
+          "body_style": "4-door Sedan",
+          "engine_code": "DAZA",
+          "transmission": "7-speed S tronic",
+          "drivetrain": "AWD",
+          "years_start": 2017,
+          "years_end": 2020,
+          "msrp_aud": 84900,
+          "power_kw": 294,
+          "torque_nm": 480,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 1600,
+          "notes": "294kW 400hp all-aluminium 5-cylinder RS3 sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "8V",
+          "category": "exterior",
+          "caption": "Audi RS3, IAA 2017",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Audi_RS3%2C_IAA_2017%2C_Frankfurt_%281Y7A2878%29.jpg/1280px-Audi_RS3%2C_IAA_2017%2C_Frankfurt_%281Y7A2878%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Matti Blume)",
+          "local_path": "media/pictures/audi/a3-s3-rs3/audi_a3-s3-rs3_8V_1_Audi_RS3_IAA_2017_Frankfurt_1Y7A2878_.jpg",
+          "file_size_bytes": 267526,
+          "sha256": "e59767735309cc25973d8f3085d0618ebbe86c2e0cc30ada90df486f409e5d36"
+        }
+      ]
+    },
+    {
+      "series_code": "8Y",
+      "generation_name": "A3, S3 & RS3 Fourth Generation (Typ 8Y)",
+      "years": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door Sportback",
+        "4-door Sedan"
+      ],
+      "platform": "Volkswagen Group MQB evo",
+      "ancap_rating": "5 stars",
+      "summary": "Built on MQB evo with sharp polygonal styling. Features the 228kW S3 and the flagship RS3 armed with 294kW, 500Nm, and the revolutionary RS Torque Splitter rear differential with RS Torque Rear drift mode.",
+      "engines": [
+        {
+          "engine_code": "DNFB",
+          "name": "2.0L TFSI Turbo Petrol (S3)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 228,
+          "power_rpm": "5450-6500",
+          "torque_nm": 400,
+          "torque_rpm": "2000-5450",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA888 evo4 high-output powertrain."
+        },
+        {
+          "engine_code": "DNWA",
+          "name": "2.5L TFSI 5-Cylinder Turbo (RS3)",
+          "displacement_cc": 2480,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 294,
+          "power_rpm": "5600-7000",
+          "torque_nm": 500,
+          "torque_rpm": "2250-5600",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 20-valve",
+          "notes": "500Nm torque output; paired with dual multi-plate clutch RS Torque Splitter."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "S3 Sedan / Sportback",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed S tronic"
+          ],
+          "msrp_aud_min": 70700,
+          "msrp_aud_max": 73200,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1500,
+          "standard_features": [
+            "19-inch 5-arm alloys",
+            "Matrix LED headlights",
+            "Audi Virtual Cockpit Plus",
+            "quattro AWD"
+          ],
+          "notes": "0-100km/h in 4.8 seconds."
+        },
+        {
+          "badge_name": "RS3 Sedan / Sportback",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed S tronic"
+          ],
+          "msrp_aud_min": 91400,
+          "msrp_aud_max": 96900,
+          "fuel_consumption_l_100km": 8.3,
+          "kerb_weight_kg": 1570,
+          "standard_features": [
+            "RS Torque Splitter with drift mode",
+            "19-inch graphic RS alloys",
+            "Matrix LED headlights with checkered-flag animation",
+            "RS sport seats in Fine Nappa leather"
+          ],
+          "notes": "0-100km/h in 3.8s. Nurburgring compact lap record holder."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RS3 Sedan / Sportback",
+          "body_style": "4-door Sedan",
+          "engine_code": "DNWA",
+          "transmission": "7-speed S tronic",
+          "drivetrain": "AWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 93900,
+          "power_kw": 294,
+          "torque_nm": 500,
+          "fuel_l_100km": 8.3,
+          "towing_braked_kg": 1600,
+          "notes": "500Nm RS Torque Splitter drift-capable 5-cylinder sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "8Y",
+          "category": "exterior",
+          "caption": "Audi RS3 8Y in Stuttgart",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Audi_RS3_8Y_IMG_8400.jpg/1280px-Audi_RS3_8Y_IMG_8400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/audi/a3-s3-rs3/audi_a3-s3-rs3_8Y_1_Audi_RS3_8Y_IMG_8400.jpg",
+          "file_size_bytes": 309535,
+          "sha256": "424c5e19f662d01faf34d08494187cba64c26d06a0d21328e5d75d6aa7dfe1cf"
+        }
+      ]
+    }
+  ]
+}

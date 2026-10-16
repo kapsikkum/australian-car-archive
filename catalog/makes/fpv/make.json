@@ -1,0 +1,156 @@
+{
+  "make_slug": "fpv",
+  "name": "Ford Performance Vehicles (FPV)",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 2002,
+    "end": 2014
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Ford Performance Vehicles (FPV) was established in 2002 in Campbellfield, Victoria as a high-performance joint venture between Ford Australia and British racing powerhouse Prodrive, succeeding Tickford Vehicle Engineering (TVE). FPV engineered the most devastating performance Falcons ever created. FPV became renowned for its hand-assembled 'Boss' quad-cam 32-valve 5.4-litre V8s (Boss 290, 302, 315) and the revolutionary turbocharged 'Barra' 4.0-litre twin-cam six in the F6 Typhoon and Tornado (yielding a massive 565Nm of torque). In 2010, FPV introduced the Australian-developed 'Miami' 5.0-litre supercharged V8, crowning its legacy with the limited-edition 2014 FG GT-F 351 (capable of over 400kW on overboost), before operations concluded in late 2014.",
+  "australian_history": "FPV was born from the rich heritage of Tickford Vehicle Engineering (TVE), established in 1991 to create the Falcon XR6 and XR8. In 2002, Ford and Prodrive established Ford Performance Vehicles at Campbellfield, directly opposite Ford's main plant. Under chief engineer Bryan Mears and Prodrive boss David Flint, FPV launched the BA GT and GT-P in early 2003, featuring the Boss 290—a unique Australian creation pairing an American modular 5.4L cast-iron block with quad-cam 32-valve cylinder heads from the Mustang Cobra R.\n\nIn late 2004, FPV launched the F6 Typhoon sedan and F6 Tornado ute, powered by a high-boost version of the Barra 4.0-litre inline-six developing 270kW and 550Nm of torque. The F6 out-accelerated contemporary V8s and earned legendary status as one of Australia's greatest performance engines.\n\nIn 2008, the FG series introduced the Boss 315 V8 and the F6 310 (310kW/565Nm) featuring an enormous front-mount intercooler and Garrett GT3576R turbocharger. In late 2010, under 'Project Panther', FPV invested $40 million to develop the supercharged 'Miami' 5.0-litre V8 based on Ford's Coyote engine, incorporating a top-mounted Harrop HTV 1900 supercharger with integrated water-to-air intercooling. In 2012, Ford bought out Prodrive's stake in FPV, integrating production directly into Ford Broadmeadows. FPV signed off in June 2014 with the GT-F 351 (351kW / 570Nm, paying tribute to the 351 Cleveland), with 500 numbered sedans built for Australia.",
+  "models_catalog": [
+    {
+      "model_slug": "gt-f6",
+      "name": "FPV GT & F6",
+      "vehicle_type": "Sedan",
+      "segment": "Performance / Muscle Car",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2014
+      },
+      "locally_built": true,
+      "overview": "The twin pillars of FPV: the thunderous quad-cam and supercharged V8 GT (GT, GT-P, GT-E, GT-F 351) and the devastating Barra turbo F6 Typhoon.",
+      "generations": [
+        {
+          "series_code": "BA",
+          "generation_name": "BA Series (Boss 290 & F6 Typhoon)",
+          "years": {
+            "start": 2003,
+            "end": 2005
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Boss 290 5.4L quad-cam V8 (290kW/520Nm), Tremec T56 6-speed; F6 Typhoon with Barra 270T (270kW/550Nm)."
+        },
+        {
+          "series_code": "BF",
+          "generation_name": "BF & BF Mk II Series",
+          "years": {
+            "start": 2005,
+            "end": 2008
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "ZF 6-speed automatic transmission, Brembo 6-piston brakes, Force 6 and Force 8 luxury executive models."
+        },
+        {
+          "series_code": "FG-I",
+          "generation_name": "FG Series I (Boss 315 & F6 310)",
+          "years": {
+            "start": 2008,
+            "end": 2010
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Boss 315 V8 (315kW/551Nm) and legendary F6 (310kW/565Nm, 0-100 in 4.9s)."
+        },
+        {
+          "series_code": "FG-II",
+          "generation_name": "FG Series II & GT-F 351 (Supercharged Miami V8)",
+          "years": {
+            "start": 2010,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Supercharged 5.0L Miami V8 (335kW/570Nm), launch control, and final GT-F 351 with over 400kW transient overboost."
+        }
+      ]
+    },
+    {
+      "model_slug": "pursuit-super-pursuit",
+      "name": "FPV Pursuit & Super Pursuit",
+      "vehicle_type": "Coupe Utility",
+      "segment": "Performance Utility",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2014
+      },
+      "locally_built": true,
+      "overview": "FPV's high-performance utes packing Boss V8, supercharged Miami V8, and F6 Tornado turbo six firepower.",
+      "generations": [
+        {
+          "series_code": "BA-FG",
+          "generation_name": "FPV Ute Evolution (BA through FG)",
+          "years": {
+            "start": 2003,
+            "end": 2014
+          },
+          "body_styles": [
+            "2-door coupe utility"
+          ],
+          "summary": "Pursuit, Super Pursuit, and F6 Tornado; leaf-sprung performance workhorses packing up to 335kW."
+        }
+      ]
+    },
+    {
+      "model_slug": "f6x",
+      "name": "FPV F6X",
+      "vehicle_type": "SUV",
+      "segment": "High-Performance SUV",
+      "years_sold_au": {
+        "start": 2008,
+        "end": 2009
+      },
+      "locally_built": true,
+      "overview": "Australia's fastest SUV at launch. Engineered from the Ford Territory with the 270kW Barra Turbo six, full-time AWD, and Brembo six-piston brakes.",
+      "generations": [
+        {
+          "series_code": "SY",
+          "generation_name": "FPV F6X 270",
+          "years": {
+            "start": 2008,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door performance SUV"
+          ],
+          "summary": "Barra 270T 4.0L Turbo I6 (270kW/550Nm), full-time AWD, ZF 6-speed auto, Brembo brakes, 0-100 in 5.9s; 229 units built."
+        }
+      ]
+    },
+    {
+      "model_slug": "gs",
+      "name": "FPV GS",
+      "vehicle_type": "Sedan / Utility",
+      "segment": "Performance Muscle Car",
+      "years_sold_au": {
+        "start": 2009,
+        "end": 2014
+      },
+      "locally_built": true,
+      "overview": "Accessible FPV entry point introduced in 2009 with Boss 302 V8 and upgraded in 2010 to a 302kW version of the supercharged Miami 5.0L V8.",
+      "generations": [
+        {
+          "series_code": "FG",
+          "generation_name": "FPV GS Sedan & Ute",
+          "years": {
+            "start": 2009,
+            "end": 2014
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe utility"
+          ],
+          "summary": "Boss 302 (302kW) followed by supercharged Miami 5.0L V8 (302kW/540Nm), historic GS side stripes."
+        }
+      ]
+    }
+  ]
+}

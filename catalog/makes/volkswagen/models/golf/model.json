@@ -1,0 +1,589 @@
+{
+  "make_slug": "volkswagen",
+  "model_slug": "golf",
+  "name": "Golf",
+  "vehicle_type": "Hatchback / Wagon",
+  "segment": "Small Car",
+  "years_sold_au": {
+    "start": 1976,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria (1976-1982)"
+  ],
+  "overview": "The benchmark European hatchback in Australia across eight generations. The Golf introduced front-wheel drive hatchback dynamics to Australia, initially assembled locally at Clayton, Victoria, and evolved into Australia's favorite hot hatchback through the legendary Golf GTI and all-wheel-drive Golf R.",
+  "australian_market_notes": "First assembled at Clayton, Victoria in 1976 with 1.6-litre petrol and 1.5-litre diesel engines. The Golf GTI was formally introduced in 1990 (Mk2) and took off rapidly in Mk4 and Mk5 eras, with Australia becoming one of the top per-capita markets for the GTI and Golf R globally.",
+  "manuals": [
+    {
+      "title": "Volkswagen Golf Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1976,
+      "language": "en",
+      "source_url": "local://catalog/makes/volkswagen/models/golf/model.json",
+      "local_path": "media/manuals/volkswagen/golf/volkswagen_golf_au_technical_manual.pdf",
+      "file_size_bytes": 6302,
+      "sha256": "ab04d99ec0a41fc997352c453a419fe3e11ea1563c2bb25a503afa5c63b7aba7",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Volkswagen Golf R Car Brochure (2013)",
+      "year": 2012,
+      "source_url": "https://archive.org/details/volkswagen-golf-r-car-brochure-2013",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/golf/volkswagen_golf_manual_Volkswagen_Golf_R_Car_Brochure_2013.html",
+      "file_size_bytes": 211214,
+      "sha256": "fcf65508d174f88e3542dd478e7d4053f4079f8b9d46808f443dc3029f0db05a"
+    },
+    {
+      "title": "Volkswagen Golf Car Brochure (2011)",
+      "year": 2010,
+      "source_url": "https://archive.org/details/volkswagen-golf-car-brochure-2011",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/golf/volkswagen_golf_manual_Volkswagen_Golf_Car_Brochure_2011.html",
+      "file_size_bytes": 217082,
+      "sha256": "6ff26c890acc4470f5c346a33477793f68cb76fa33e4faa081700359d76f364e"
+    },
+    {
+      "title": "Volkswagen 1995 Volkswagen Golf III GL Repair manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzz-id-1092253",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/golf/volkswagen_golf_manual_Volkswagen_1995_Volkswagen_Golf_III_GL_Repair_manual.html",
+      "file_size_bytes": 209423,
+      "sha256": "404f250dc9a8832b8c847de52878567301215c42048db7540556fe7056a17ed9"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Volkswagen Golf Mk1 GLS",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/1977_Volkswagen_Golf_Mk1_GLS_%2818040964549%29.jpg/1280px-1977_Volkswagen_Golf_Mk1_GLS_%2818040964549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/volkswagen/golf/volkswagen_golf_hero_1_1977_Volkswagen_Golf_Mk1_GLS_18040964549_.jpg",
+      "file_size_bytes": 376279,
+      "sha256": "14228cc809dba94eafa1b78dbd40c4b1a9b6b9843079a5c989b5e7d8ced288ba"
+    },
+    {
+      "category": "exterior",
+      "caption": "Volkswagen Golf",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Volkswagen_Golf_%2815537864429%29.jpg/1280px-Volkswagen_Golf_%2815537864429%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/volkswagen/golf/volkswagen_golf_hero_2_Volkswagen_Golf_15537864429_.jpg",
+      "file_size_bytes": 327954,
+      "sha256": "186aa15884f071f09ffae57a0ca41ec2b43b0c80245434cf857c2f96d5b3312f"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Mk1",
+      "generation_name": "Golf Mark 1 (Typ 17)",
+      "years": {
+        "start": 1976,
+        "end": 1982
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group A1",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Assembled locally at Clayton, Victoria by Motor Producers Limited. Transformed the Australian market from rear-wheel drive sedans to front-wheel drive hatchback packaging.",
+      "engines": [
+        {
+          "engine_code": "FP",
+          "name": "1.6L SOHC Petrol",
+          "displacement_cc": 1588,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 55,
+          "power_rpm": "5600",
+          "torque_nm": 117,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Single Solex carburettor tuned for Australian regular unleaded/leaded fuel."
+        },
+        {
+          "engine_code": "CK",
+          "name": "1.5L Diesel",
+          "displacement_cc": 1471,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 37,
+          "power_rpm": "5000",
+          "torque_nm": 80,
+          "torque_rpm": "3000",
+          "compression_ratio": "23.5:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "One of the earliest passenger car diesel offerings in Australia, achieving sub-5.0L/100km economy."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GLS 1.6",
+          "years": {
+            "start": 1976,
+            "end": 1982
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 4995,
+          "msrp_aud_max": 7250,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 850,
+          "standard_features": [
+            "Cloth trim",
+            "Heated rear window",
+            "Brake booster",
+            "Reclining front seats"
+          ],
+          "notes": "Clayton-assembled top-trim launch model."
+        },
+        {
+          "badge_name": "GL Diesel",
+          "years": {
+            "start": 1979,
+            "end": 1982
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 6890,
+          "msrp_aud_max": 7990,
+          "fuel_consumption_l_100km": 5.2,
+          "kerb_weight_kg": 875,
+          "standard_features": [
+            "Glow plug indicator",
+            "High-economy gearing",
+            "Tinted glass"
+          ],
+          "notes": "Economy leader during the late 70s oil crises."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GLS 1.6",
+          "body_style": "5-door hatchback",
+          "engine_code": "FP",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1976,
+          "years_end": "1982",
+          "msrp_aud": 5495,
+          "power_kw": 55,
+          "torque_nm": 117,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 800,
+          "notes": "Australian local production run."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Mk1",
+          "category": "exterior",
+          "caption": "A Volkswagen Golf Mk1 Convertible Sportline at a petrol station",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Volkswagen_Golf_Mk1_Convertible_Sportline.jpg/1280px-Volkswagen_Golf_Mk1_Convertible_Sportline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (ContextCreator)",
+          "local_path": "media/pictures/volkswagen/golf/volkswagen_golf_Mk1_1_Volkswagen_Golf_Mk1_Convertible_Sportline.jpg",
+          "file_size_bytes": 272995,
+          "sha256": "2533c7b3a5a308baea3fb9287cf9beb84a35f2a936a713918bafdc76506aa241"
+        }
+      ]
+    },
+    {
+      "series_code": "Mk5",
+      "generation_name": "Golf Mark 5 (Typ 1K)",
+      "years": {
+        "start": 2004,
+        "end": 2009
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group PQ35",
+      "ancap_rating": "5 stars",
+      "summary": "Transformed the Golf with multi-link rear suspension, high structural rigidity, 6-speed DSG dual-clutch transmission, and ignited the modern Australian Golf GTI phenomenon.",
+      "engines": [
+        {
+          "engine_code": "AXX/BWA",
+          "name": "2.0L Turbo FSI (GTI)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 147,
+          "power_rpm": "5100-6000",
+          "torque_nm": 280,
+          "torque_rpm": "1800-5000",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Direct injection turbo engine; defined modern hot hatch drivability."
+        },
+        {
+          "engine_code": "BUB",
+          "name": "3.2L VR6 (R32)",
+          "displacement_cc": 3189,
+          "displacement_litres": 3.2,
+          "cylinders": 6,
+          "configuration": "VR6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 184,
+          "power_rpm": "6300",
+          "torque_nm": 320,
+          "torque_rpm": "2500-3000",
+          "compression_ratio": "10.9:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Narrow-angle VR6 with Haldex 4Motion all-wheel drive and dual centre exhaust."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GTI",
+          "years": {
+            "start": 2005,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed DSG"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 44990,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Interlagos tartan sports seats",
+            "Flat-bottom leather steering wheel",
+            "17-inch Denver alloys",
+            "Bi-xenon headlights",
+            "Dual-zone climate control"
+          ],
+          "notes": "Massive Australian sales hit, establishing a multi-month waiting list upon release."
+        },
+        {
+          "badge_name": "R32",
+          "years": {
+            "start": 2006,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed DSG"
+          ],
+          "msrp_aud_min": 54990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 10.7,
+          "kerb_weight_kg": 1530,
+          "standard_features": [
+            "Haldex 4Motion AWD",
+            "18-inch Zolder multi-spoke wheels",
+            "Centre-exit twin exhausts",
+            "Brushed aluminium grille",
+            "Recaro bucket seats"
+          ],
+          "notes": "Cult naturally aspirated halo hot hatch."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GTI",
+          "body_style": "5-door hatchback",
+          "engine_code": "AXX/BWA",
+          "transmission": "6-speed DSG",
+          "drivetrain": "FWD",
+          "years_start": 2005,
+          "years_end": "2009",
+          "msrp_aud": 42290,
+          "power_kw": 147,
+          "torque_nm": 280,
+          "fuel_l_100km": 8.0,
+          "towing_braked_kg": 1400,
+          "notes": "Flagship hot hatch with launch control."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Mk5",
+          "category": "exterior",
+          "caption": "Volkswagen Golf MK5 3-door In Taiwan",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Volkswagen_Golf_MK5_3-door_Taiwan_001.jpg/1280px-Volkswagen_Golf_MK5_3-door_Taiwan_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Jengtingchen)",
+          "local_path": "media/pictures/volkswagen/golf/volkswagen_golf_Mk5_1_Volkswagen_Golf_MK5_3-door_Taiwan_001.jpg",
+          "file_size_bytes": 377438,
+          "sha256": "dc5eb40ca394d0ad66ce1cc95cc32e4b4feb4d6f771f41e407e86e3d8808c34b"
+        }
+      ]
+    },
+    {
+      "series_code": "Mk7",
+      "generation_name": "Golf Mark 7 & 7.5 (Typ 5G)",
+      "years": {
+        "start": 2013,
+        "end": "2020"
+      },
+      "body_styles": [
+        "5-door hatchback",
+        "Wagon"
+      ],
+      "platform": "Volkswagen Group MQB",
+      "ancap_rating": "5 stars",
+      "summary": "MQB platform pioneer; lighter, stiffer, and technologically superior, winning 2013 Wheels Car of the Year. Spanned 90TSI/110TSI, 162kW-180kW GTI, and the 213kW Golf R.",
+      "engines": [
+        {
+          "engine_code": "EA888 Gen 3",
+          "name": "2.0L TSI (GTI / Golf R)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 213,
+          "power_rpm": "5400-6500",
+          "torque_nm": 380,
+          "torque_rpm": "1850-5300",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve, variable valve timing & lift",
+          "notes": "Golf R tune with reinforced block, larger turbocharger, and intercooler."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GTI",
+          "years": {
+            "start": 2013,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed DSG",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 41990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 6.6,
+          "kerb_weight_kg": 1350,
+          "standard_features": [
+            "Clark tartan seats",
+            "VAQ electronically controlled mechanical front diff lock",
+            "Adaptive Chassis Control (DCC)",
+            "8.0-inch/9.2-inch touchscreen with Apple CarPlay"
+          ],
+          "notes": "162kW (Mk7) up to 180kW (Mk7.5 Performance) with 7-speed wet-clutch DSG."
+        },
+        {
+          "badge_name": "R",
+          "years": {
+            "start": 2014,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed DSG",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 51990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 7.3,
+          "kerb_weight_kg": 1450,
+          "standard_features": [
+            "4Motion all-wheel drive",
+            "Quad exhaust outlets",
+            "Pretoria 19-inch alloys",
+            "Digital Cockpit virtual instrument cluster"
+          ],
+          "notes": "Top-selling performance all-rounder in Australia, capable of 0-100 km/h in 4.8 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "R",
+          "body_style": "5-door hatchback",
+          "engine_code": "EA888 Gen 3",
+          "transmission": "7-speed DSG",
+          "drivetrain": "AWD",
+          "years_start": 2017,
+          "years_end": "2020",
+          "msrp_aud": 55990,
+          "power_kw": 213,
+          "torque_nm": 380,
+          "fuel_l_100km": 7.2,
+          "towing_braked_kg": 0,
+          "notes": "Mk7.5 facelift with full digital cockpit and Pretoria alloys."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Mk7",
+          "category": "exterior",
+          "caption": "VOLKSWAGEN GOLF (Mk7, Typ 5G) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/VOLKSWAGEN_GOLF_%28Mk7%2C_Typ_5G%29_China_%2825%29.jpg/1280px-VOLKSWAGEN_GOLF_%28Mk7%2C_Typ_5G%29_China_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/volkswagen/golf/volkswagen_golf_Mk7_1_VOLKSWAGEN_GOLF_Mk7_Typ_5G_China_25_.jpg",
+          "file_size_bytes": 156118,
+          "sha256": "29bdca9e0450338c1eaea9504373cd3a72666a53650dcc9bb1d11c299b13e03e"
+        }
+      ]
+    },
+    {
+      "series_code": "Mk8",
+      "generation_name": "Golf Mark 8 & 8.5 (Typ CD1)",
+      "years": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door hatchback",
+        "Wagon"
+      ],
+      "platform": "Volkswagen Group MQB Evo",
+      "ancap_rating": "5 stars",
+      "summary": "Digitized cockpit, shift-by-wire controls, IQ.LIGHT LED matrix lighting, 180kW GTI, and 235kW Golf R with rear torque-vectoring drift mode.",
+      "engines": [
+        {
+          "engine_code": "EA888 Gen 4",
+          "name": "2.0L TSI (Golf R)",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 235,
+          "power_rpm": "5200-6500",
+          "torque_nm": 400,
+          "torque_rpm": "2000-5600",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "350-bar direct fuel injection; features R-Performance Torque Vectoring."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GTI",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 53300,
+          "msrp_aud_max": 56900,
+          "fuel_consumption_l_100km": 7.0,
+          "kerb_weight_kg": 1409,
+          "standard_features": [
+            "18-inch Richmond alloys",
+            "Innovision Cockpit",
+            "DCC Adaptive Damping",
+            "Scale Paper tartan seats",
+            "LED light bar in grille"
+          ],
+          "notes": "180kW/370Nm hot hatch flagship."
+        },
+        {
+          "badge_name": "R",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 68990,
+          "msrp_aud_max": 71990,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 1514,
+          "standard_features": [
+            "Torque Vectoring 4Motion",
+            "Drift and Special (Nurburgring) drive modes",
+            "19-inch Estoril alloys",
+            "Nappa leather bucket seats",
+            "Harman Kardon premium audio"
+          ],
+          "notes": "0-100 km/h in 4.7 seconds with R-Performance package standard in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "R",
+          "body_style": "5-door hatchback",
+          "engine_code": "EA888 Gen 4",
+          "transmission": "7-speed DSG",
+          "drivetrain": "AWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 68990,
+          "power_kw": 235,
+          "torque_nm": 400,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 1700,
+          "notes": "Features twin-clutch rear torque vectoring."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Mk8",
+          "category": "exterior",
+          "caption": "2020 Volkswagen Golf Style 1.5 Front Taken in Leamington Spa",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg/1280px-2020_Volkswagen_Golf_Style_1.5_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Vauxford)",
+          "local_path": "media/pictures/volkswagen/golf/volkswagen_golf_Mk8_1_2020_Volkswagen_Golf_Style_1.5_Front.jpg",
+          "file_size_bytes": 207831,
+          "sha256": "aecb45d4546d2c312838d3ba796384f28f82781508857c647497edc66cb230df"
+        }
+      ]
+    }
+  ]
+}

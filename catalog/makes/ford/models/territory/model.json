@@ -1,0 +1,369 @@
+{
+  "make_slug": "ford",
+  "model_slug": "territory",
+  "name": "Ford Territory",
+  "vehicle_type": "SUV",
+  "segment": "Medium / Large SUV",
+  "years_sold_au": {
+    "start": 2004,
+    "end": 2016
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Broadmeadows, Victoria"
+  ],
+  "overview": "The Ford Territory was the first and only sports utility vehicle (SUV) designed, engineered, and manufactured in Australia. Developed under the code-name 'E265' at a cost of $500 million, the Territory debuted in April 2004 and won the prestigious 2004 Wheels Car of the Year award. Available in 5- and 7-seat configurations, in rear-wheel drive and permanent all-wheel drive, the Territory combined car-like handling, Virtual Pivot Control front suspension, and generous interior packaging, spanning SX, SY, and SZ series with Barra I6, Barra Turbo, and 2.7L V6 turbo-diesel engines.",
+  "australian_market_notes": "Conceived under Ford Australia president Geoff Polites as Australian families began migrating from traditional large station wagons to high-riding SUVs, the Territory was engineered specifically for Australian family road trips, outback gravel touring, and boat towing. It featured 30 interior storage compartments, an independently opening tailgate glass window, and standard electronic stability control (ESC)—the first Australian-built car with standard ESC. Over 178,000 Territory SUVs were manufactured at Broadmeadows before local production concluded in October 2016.",
+  "manuals": [
+    {
+      "title": "Ford Ford Territory Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2004,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/territory/model.json",
+      "local_path": "media/manuals/ford/territory/ford_territory_au_technical_manual.pdf",
+      "file_size_bytes": 5820,
+      "sha256": "fe11565443bccf082ed160ae5c5f7bcdb2aa799fe2948f964559215bddbb8ca0",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Ford Territory Car Brochure (2008)",
+      "year": 2008,
+      "source_url": "https://archive.org/details/ford-territory-syi-brochure-200808",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/territory/ford_territory_manual_Ford_Territory_Car_Brochure_2008.html",
+      "file_size_bytes": 216779,
+      "sha256": "314790b31f7761c7ac5c820f75dc4fef0b7065ffe644334ef6e60987f359f434"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Cutaway of a 2004 Ford Territory (SX) TS wagon, revealing the rear seat and cargo area. Photographed at the Geelong Museum of Motoring and Industry, North Geelong, Victoria, Australia. The car has been cutaway to reveal the internal structu",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2004_Ford_Territory_%28SX%29_TS_wagon%2C_cutaway_%282015-01-01%29_07.jpg/1280px-2004_Ford_Territory_%28SX%29_TS_wagon%2C_cutaway_%282015-01-01%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/ford/territory/ford_territory_hero_1_2004_Ford_Territory_SX_TS_wagon_cutaway_2015-01-01_07.jpg",
+      "file_size_bytes": 214680,
+      "sha256": "412433a61943fbe4295eefe80ef4ea9fc38738690af4f08bc31d76a9ed677b1e"
+    },
+    {
+      "category": "exterior",
+      "caption": "2015 Ford Territory (SZ II) TX AWD wagon. Photographed in Fremantle, Western Australia, Australia. Note: Image is blurry, but a car was speeding towards me, so I had to avoid it.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2015_Ford_Territory_%28SZ_II%29_TX_AWD_wagon_%282018-09-17%29.jpg/1280px-2015_Ford_Territory_%28SZ_II%29_TX_AWD_wagon_%282018-09-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+      "local_path": "media/pictures/ford/territory/ford_territory_hero_2_2015_Ford_Territory_SZ_II_TX_AWD_wagon_2018-09-17_.jpg",
+      "file_size_bytes": 279940,
+      "sha256": "e374a2ff0d7a577a103d9562eca41b48bda3e7f95245188a4f11cb6b88ec658f"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "SX",
+      "generation_name": "Territory SX Series",
+      "years": {
+        "start": 2004,
+        "end": 2005
+      },
+      "body_styles": [
+        "5-door SUV (5 or 7 seats)"
+      ],
+      "platform": "Ford EA169 modified SUV platform",
+      "ancap_rating": "4 Stars",
+      "summary": "2004 Wheels Car of the Year winner; Barra 182 4.0L DOHC I6, Virtual Pivot Control front suspension, Control Blade rear IRS, TX, TS, Ghia.",
+      "engines": [
+        {
+          "engine_code": "Barra-182-Territory",
+          "name": "Barra 182 4.0L DOHC 24V Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 182.0,
+          "power_rpm": "5000",
+          "torque_nm": 380.0,
+          "torque_rpm": "3250",
+          "compression_ratio": "9.7:1",
+          "valvetrain": "DOHC 24V Dual Independent VCT",
+          "notes": "Specially calibrated torque curve for SUV towing."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "TX",
+          "years": {
+            "start": 2004,
+            "end": 2005
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "RWD / AWD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 42990,
+          "fuel_consumption_l_100km": 12.2,
+          "kerb_weight_kg": 2015,
+          "standard_features": [
+            "Air conditioning",
+            "4-wheel disc brakes with ABS",
+            "Electronic Stability Control (standard on AWD)",
+            "Dual airbags",
+            "30 interior storage compartments"
+          ],
+          "notes": "Entry family model."
+        },
+        {
+          "badge_name": "Ghia",
+          "years": {
+            "start": 2004,
+            "end": 2005
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "RWD / AWD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 49290,
+          "msrp_aud_max": 53290,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 2085,
+          "standard_features": [
+            "Leather upholstery",
+            "7-seat configuration",
+            "Dual-zone climate control",
+            "Rear-seat colour DVD screen",
+            "17-inch alloy wheels"
+          ],
+          "notes": "Luxury family hauler."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Ghia AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "Barra-182-Territory",
+          "transmission": "4-speed automatic",
+          "drivetrain": "AWD",
+          "msrp_aud": 53290,
+          "power_kw": 182.0,
+          "torque_nm": 380.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 2300,
+          "notes": "Wheels Car of the Year 2004."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "SX",
+          "category": "exterior",
+          "caption": "2005 Ford Territory (SX) TX wagon. Photographed on Fraser Island, Queensland, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2005_Ford_Territory_%28SX%29_TX_wagon_%282007-10-02%29_01.jpg/1280px-2005_Ford_Territory_%28SX%29_TX_wagon_%282007-10-02%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/ford/territory/ford_territory_SX_1_2005_Ford_Territory_SX_TX_wagon_2007-10-02_01.jpg",
+          "file_size_bytes": 285109,
+          "sha256": "0d707c43d37bccc1c01d8cea2b30dc58fb020d8969bdf9449f91e3b17756d5a4"
+        }
+      ]
+    },
+    {
+      "series_code": "SY",
+      "generation_name": "Territory SY & SY II Series",
+      "years": {
+        "start": 2005,
+        "end": 2011
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Ford EA169 modified SUV platform",
+      "ancap_rating": "4 Stars",
+      "summary": "Introduced the German ZF 6-speed automatic transmission, Barra 190 I6, and the blisteringly fast 245kW Territory Turbo and Turbo Ghia.",
+      "engines": [
+        {
+          "engine_code": "Barra-245T-Territory",
+          "name": "Barra 245T 4.0L DOHC 24V Turbo Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 245.0,
+          "power_rpm": "5250",
+          "torque_nm": 480.0,
+          "torque_rpm": "2000-4500",
+          "compression_ratio": "8.7:1",
+          "valvetrain": "DOHC 24V DIVCT Garrett Turbo",
+          "notes": "Fitted exclusively with AWD and ZF 6-speed auto; 0-100 km/h in 6.7 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Turbo / Turbo Ghia",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "ZF 6-speed automatic"
+          ],
+          "msrp_aud_min": 53990,
+          "msrp_aud_max": 65490,
+          "fuel_consumption_l_100km": 14.2,
+          "kerb_weight_kg": 2145,
+          "standard_features": [
+            "245kW Turbo engine",
+            "Bonnet scoop",
+            "18-inch alloys",
+            "High-performance brake package",
+            "Leather seating (Turbo Ghia)"
+          ],
+          "notes": "Fastest family SUV in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Turbo Ghia",
+          "body_style": "5-door SUV",
+          "engine_code": "Barra-245T-Territory",
+          "transmission": "ZF 6-speed automatic",
+          "drivetrain": "AWD",
+          "msrp_aud": 65490,
+          "power_kw": 245.0,
+          "torque_nm": 480.0,
+          "fuel_l_100km": 14.2,
+          "towing_braked_kg": 2300,
+          "notes": "High performance luxury family cruiser."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "SY",
+          "category": "exterior",
+          "caption": "2007 Ford Territory (SY) Ghia RWD wagon. Photographed at Dominelli Ford, Kirrawee, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2007_Ford_Territory_%28SY%29_Ghia_RWD_wagon_%282009-01-18%29.jpg/1280px-2007_Ford_Territory_%28SY%29_Ghia_RWD_wagon_%282009-01-18%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/ford/territory/ford_territory_SY_1_2007_Ford_Territory_SY_Ghia_RWD_wagon_2009-01-18_.jpg",
+          "file_size_bytes": 270190,
+          "sha256": "8b80f254ef8047f8901354a976c9a9b55ba1e908af76765b910ed9f5347b4df1"
+        }
+      ]
+    },
+    {
+      "series_code": "SZ",
+      "generation_name": "Territory SZ & SZ II Series",
+      "years": {
+        "start": 2011,
+        "end": 2016
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Ford Orion SUV platform",
+      "ancap_rating": "5 Stars",
+      "summary": "Major redesign introducing the long-awaited 2.7L Duratorq V6 Turbo Diesel (TDCi) with 440Nm of torque, 5-star ANCAP safety, electric power-assisted steering, and SYNC infotainment.",
+      "engines": [
+        {
+          "engine_code": "Duratorq-2.7-TDCi",
+          "name": "Ford Duratorq 2.7L V6 Turbo Diesel (TDCi)",
+          "displacement_cc": 2720,
+          "displacement_litres": 2.7,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 140.0,
+          "power_rpm": "4000",
+          "torque_nm": 440.0,
+          "torque_rpm": "1900",
+          "compression_ratio": "17.3:1",
+          "valvetrain": "DOHC 24V Variable Geometry Turbo",
+          "notes": "Compacted graphite iron (CGI) block; 8.2 L/100km (RWD) and 9.0 L/100km (AWD)."
+        },
+        {
+          "engine_code": "Barra-195-Territory",
+          "name": "Barra 195 4.0L DOHC Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 195.0,
+          "power_rpm": "6000",
+          "torque_nm": 391.0,
+          "torque_rpm": "3250",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 24V DIVCT",
+          "notes": "Standard petrol engine; matched with ZF 6-speed auto."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Titanium",
+          "years": {
+            "start": 2011,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "RWD / AWD",
+          "transmissions": [
+            "ZF 6-speed automatic (6R80 / 6HP26)"
+          ],
+          "msrp_aud_min": 54990,
+          "msrp_aud_max": 62740,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 2167,
+          "standard_features": [
+            "7 seats standard",
+            "Leather trim",
+            "Alpine ceiling-mounted DVD",
+            "8-inch touchscreen with navigation and SYNC2",
+            "18-inch alloy wheels",
+            "Reversing camera"
+          ],
+          "notes": "Top-of-the-range luxury family specification."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Titanium TDCi AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "Duratorq-2.7-TDCi",
+          "transmission": "ZF 6-speed automatic",
+          "drivetrain": "AWD",
+          "msrp_aud": 62740,
+          "power_kw": 140.0,
+          "torque_nm": 440.0,
+          "fuel_l_100km": 9.0,
+          "towing_braked_kg": 2700,
+          "notes": "Outstanding long-distance touring economy and towing."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "SZ",
+          "category": "exterior",
+          "caption": "Victoria Police Ford 2013 Territory in Melbourne",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2013_Ford_Territory_%28SZ%29_TX_RWD_wagon%2C_Victoria_Police_%282015-01-06%29.jpg/1280px-2013_Ford_Territory_%28SZ%29_TX_RWD_wagon%2C_Victoria_Police_%282015-01-06%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Zapacit)",
+          "local_path": "media/pictures/ford/territory/ford_territory_SZ_1_2013_Ford_Territory_SZ_TX_RWD_wagon_Victoria_Police_2015-01-06_.jpg",
+          "file_size_bytes": 275269,
+          "sha256": "8bbed3713e4efe543a62426765daf9c07bcd5fb18ed5b1eacc6c3d6558bf6a22"
+        }
+      ]
+    }
+  ]
+}

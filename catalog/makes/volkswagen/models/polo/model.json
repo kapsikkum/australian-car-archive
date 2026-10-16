@@ -1,0 +1,499 @@
+{
+  "make_slug": "volkswagen",
+  "model_slug": "polo",
+  "name": "Polo",
+  "vehicle_type": "Hatchback",
+  "segment": "Light Car",
+  "years_sold_au": {
+    "start": 1996,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "Volkswagen's premium compact hatchback in Australia. Across four generations from the 6N to the modern MQB AW, the Polo brought big-car refinement, solid German safety, and pocket-rocket performance through the beloved Polo GTI.",
+  "australian_market_notes": "First officially imported to Australia in 1996 with the 6N generation. The Polo GTI arrived in 2005 (9N3 1.8 20V Turbo), creating a loyal cult following among Australian driving enthusiasts that grew stronger through the twincharged 6R and 2.0-litre AW models.",
+  "manuals": [
+    {
+      "title": "Volkswagen Polo Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1996,
+      "language": "en",
+      "source_url": "local://catalog/makes/volkswagen/models/polo/model.json",
+      "local_path": "media/manuals/volkswagen/polo/volkswagen_polo_au_technical_manual.pdf",
+      "file_size_bytes": 6104,
+      "sha256": "2aa488875fa3aae05d523958087e8afef805761b25156f0d962fa784724ef039",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Volkswagen Polo Price and Specification Brochure (2020)",
+      "year": 2020,
+      "source_url": "https://archive.org/details/volkswagen-polo-price-and-specification-brochure-2020",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/polo/volkswagen_polo_manual_Volkswagen_Polo_Price_and_Specification_Brochure_2020.html",
+      "file_size_bytes": 217786,
+      "sha256": "5584c2f9a32b10093209a71ae2477fb5717ac147991c3919543d9bfdf3047393"
+    },
+    {
+      "title": "VOLKSWAGEN POLO 1995 - 2002 REPAIR MANUALS",
+      "year": null,
+      "source_url": "https://archive.org/details/vw-polo-1995-to-2002-repair-manuals",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/polo/volkswagen_polo_manual_VOLKSWAGEN_POLO_1995_-_2002_REPAIR_MANUALS.html",
+      "file_size_bytes": 1344734,
+      "sha256": "c1dac719c76f2db4e55fa25172da30c97b2bfc997a5c52957829523b044d6e8a"
+    },
+    {
+      "title": "Volkswagen POLO - Specifications",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7333558",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/polo/volkswagen_polo_manual_Volkswagen_POLO_-_Specifications.html",
+      "file_size_bytes": 214981,
+      "sha256": "4850df04fa96d282f95e447c98b6f6e3f50f99fe55d63df81c3d9fdf8fa11bae"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "VW Polo V auf Åland",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/18-09-01-Sch%C3%A4ren_westlich_von_L%C3%A5ngb%C3%A5dan_RRK7720.jpg/1280px-18-09-01-Sch%C3%A4ren_westlich_von_L%C3%A5ngb%C3%A5dan_RRK7720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "GFDL 1.2 (Ralf Roletschek)",
+      "local_path": "media/pictures/volkswagen/polo/volkswagen_polo_hero_1_18-09-01-Sch_ren_westlich_von_L_ngb_dan_RRK7720.jpg",
+      "file_size_bytes": 507883,
+      "sha256": "e9a45db770787e42fb567507b9053785c8ff5bed686a0d431bc64d412a75e0f1"
+    },
+    {
+      "category": "exterior",
+      "caption": "Volkswagen Polo Classic in Stuttgart-Vaihingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Volkswagen_Polo_II_Classic_IMG_4492.jpg/1280px-Volkswagen_Polo_II_Classic_IMG_4492.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/volkswagen/polo/volkswagen_polo_hero_2_Volkswagen_Polo_II_Classic_IMG_4492.jpg",
+      "file_size_bytes": 222383,
+      "sha256": "9388641d17ddcb63931c97b60ea32f111c5ae481c763c7943343d451a250e4ec"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "6N",
+      "generation_name": "Polo Third Generation (Typ 6N/6N2)",
+      "years": {
+        "start": 1996,
+        "end": 2002
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group A03",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Introduced the Polo nameplate to Australia in 1996. Features included galvanized steel body panels, dual airbags, 1.6L 8V engine, and the distinctive Open Air sliding fabric roof.",
+      "engines": [
+        {
+          "engine_code": "AEE",
+          "name": "1.6L SOHC Petrol",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 55,
+          "power_rpm": "5200",
+          "torque_nm": 135,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Multipoint fuel injection with torquey low-end delivery."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Polo 1.6 / Open Air",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 22990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 990,
+          "standard_features": [
+            "Dual front airbags",
+            "Power steering",
+            "Immobiliser",
+            "Full-length electric canvas roof (Open Air)"
+          ],
+          "notes": "Established the Polo as a premium light car in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Polo 1.6 / Open Air",
+          "body_style": "5-door hatchback",
+          "engine_code": "AEE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1996,
+          "years_end": 2002,
+          "msrp_aud": 18990,
+          "power_kw": 55,
+          "torque_nm": 135,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 800,
+          "notes": "Australian launch specification."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "6N",
+          "category": "exterior",
+          "caption": "A Polo 6N",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Polo_6N_%28Green%29.jpg/1280px-Polo_6N_%28Green%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Stefan-Xp)",
+          "local_path": "media/pictures/volkswagen/polo/volkswagen_polo_6N_1_Polo_6N_Green_.jpg",
+          "file_size_bytes": 501903,
+          "sha256": "6fa1004164f3172a1e53571d0a7199b09195ff8ed343bd6c8995911968358907"
+        }
+      ]
+    },
+    {
+      "series_code": "9N",
+      "generation_name": "Polo Fourth Generation (Typ 9N/9N3)",
+      "years": {
+        "start": 2002,
+        "end": 2010
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group PQ24",
+      "ancap_rating": "4 stars",
+      "summary": "Recognizable by its distinctive twin round headlights (facelifted in 2005 to 9N3 single units). Spawned the first Australian Polo GTI in 2005, powered by the 110kW 1.8L 20V turbo.",
+      "engines": [
+        {
+          "engine_code": "BJX",
+          "name": "1.8L 20V Turbo Petrol (GTI)",
+          "displacement_cc": 1781,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 110,
+          "power_rpm": "5800",
+          "torque_nm": 220,
+          "torque_rpm": "1950-4500",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 20-valve (5 valves per cylinder)",
+          "notes": "Legendary 20V turbo shared with Golf GTI Mk4 and Audi TT."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Polo GTI",
+          "years": {
+            "start": 2005,
+            "end": 2010
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 26990,
+          "msrp_aud_max": 28990,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 1160,
+          "standard_features": [
+            "16-inch 'Denver' alloys",
+            "Interlagos tartan cloth seats",
+            "Honeycombed GTI grille",
+            "Twin chrome exhaust tips"
+          ],
+          "notes": "Instant pocket-rocket sensation in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Polo GTI",
+          "body_style": "3-door hatchback",
+          "engine_code": "BJX",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2005,
+          "years_end": 2010,
+          "msrp_aud": 26990,
+          "power_kw": 110,
+          "torque_nm": 220,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 1000,
+          "notes": "1.8 20V Turbo hot hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "9N",
+          "category": "exterior",
+          "caption": "2002–2005 Volkswagen Polo (9N) 5-door hatchback. Photographed in Miranda, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2002-2005_Volkswagen_Polo_%289N%29_5-door_hatchback_01.jpg/1280px-2002-2005_Volkswagen_Polo_%289N%29_5-door_hatchback_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/volkswagen/polo/volkswagen_polo_9N_1_2002-2005_Volkswagen_Polo_9N_5-door_hatchback_01.jpg",
+          "file_size_bytes": 239008,
+          "sha256": "1408c578f35cd8ca20fff1efa2d453e9b54d588ddcbaac21347025993f08e04b"
+        }
+      ]
+    },
+    {
+      "series_code": "6R/6C",
+      "generation_name": "Polo Fifth Generation (Typ 6R/6C)",
+      "years": {
+        "start": 2010,
+        "end": 2018
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group PQ25",
+      "ancap_rating": "5 stars",
+      "summary": "Won 2010 World Car of the Year. Featured 77TSI turbo petrol engines and the GTI with 1.4 TSI twincharged (supercharged and turbocharged, 132kW), followed in the 6C facelift by the 1.8 TSI (141kW) with manual and 7-speed DSG options.",
+      "engines": [
+        {
+          "engine_code": "CAVE/CTHE",
+          "name": "1.4L TSI Twincharged Petrol",
+          "displacement_cc": 1390,
+          "displacement_litres": 1.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twincharged (Supercharged & Turbocharged)",
+          "fuel_type": "Petrol",
+          "power_kw": 132,
+          "power_rpm": "6200",
+          "torque_nm": 250,
+          "torque_rpm": "2000-4500",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Roots-type supercharger for low end plus turbocharger for high end."
+        },
+        {
+          "engine_code": "DAJA",
+          "name": "1.8L TSI Turbo Petrol (6C)",
+          "displacement_cc": 1798,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 141,
+          "power_rpm": "5400-6200",
+          "torque_nm": 320,
+          "torque_rpm": "1450-4200",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA888 Gen 3 turbo petrol with 320Nm in 6-speed manual guise."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "77TSI Comfortline",
+          "years": {
+            "start": 2010,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 19870,
+          "msrp_aud_max": 22370,
+          "fuel_consumption_l_100km": 5.5,
+          "kerb_weight_kg": 1110,
+          "standard_features": [
+            "15-inch alloys",
+            "Cruise control",
+            "Touchscreen audio",
+            "Hill start assist"
+          ],
+          "notes": "Australian Wheels Car of the Year finalist."
+        },
+        {
+          "badge_name": "Polo GTI",
+          "years": {
+            "start": 2010,
+            "end": 2018
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 27490,
+          "msrp_aud_max": 31990,
+          "fuel_consumption_l_100km": 6.1,
+          "kerb_weight_kg": 1189,
+          "standard_features": [
+            "17-inch Monza alloys",
+            "XDL electronic diff lock",
+            "Clark tartan sport seats",
+            "Red brake calipers"
+          ],
+          "notes": "0-100km/h in 6.7 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Polo GTI",
+          "body_style": "5-door hatchback",
+          "engine_code": "DAJA",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2015,
+          "years_end": 2018,
+          "msrp_aud": 27490,
+          "power_kw": 141,
+          "torque_nm": 320,
+          "fuel_l_100km": 6.0,
+          "towing_braked_kg": 1200,
+          "notes": "1.8 TSI manual 320Nm enthusiast specification."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "AW",
+      "generation_name": "Polo Sixth Generation (Typ AW)",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "Volkswagen Group MQB A0",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the MQB A0 platform, offering Golf-sized interior room, 351-litre boot, Digital Cockpit, and the Polo GTI armed with a full 2.0-litre EA888 turbo engine producing 147kW/152kW.",
+      "engines": [
+        {
+          "engine_code": "DKZC",
+          "name": "2.0L TSI 147TSI Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 147,
+          "power_rpm": "4400-6000",
+          "torque_nm": 320,
+          "torque_rpm": "1500-4400",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "2.0-litre EA888 engine providing hot hatch supremacy."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "85TSI Style",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 25990,
+          "msrp_aud_max": 31490,
+          "fuel_consumption_l_100km": 5.4,
+          "kerb_weight_kg": 1175,
+          "standard_features": [
+            "Digital Cockpit",
+            "Wireless Apple CarPlay",
+            "Front Assist AEB",
+            "Lane Assist"
+          ],
+          "notes": "Premium light hatchback."
+        },
+        {
+          "badge_name": "Polo GTI",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed DSG",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 40390,
+          "fuel_consumption_l_100km": 6.5,
+          "kerb_weight_kg": 1285,
+          "standard_features": [
+            "18-inch Milton alloys",
+            "Sport Select adaptive dampers",
+            "Clark tartan sport seats",
+            "Matrix LED headlights"
+          ],
+          "notes": "2.0L turbocharged flagship, 0-100km/h in 6.7 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Polo GTI",
+          "body_style": "5-door hatchback",
+          "engine_code": "DKZC",
+          "transmission": "6-speed DSG",
+          "drivetrain": "FWD",
+          "years_start": 2018,
+          "years_end": "Present",
+          "msrp_aud": 38790,
+          "power_kw": 147,
+          "torque_nm": 320,
+          "fuel_l_100km": 6.5,
+          "towing_braked_kg": 1200,
+          "notes": "2.0 TSI hot hatch with adaptive damping."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "AW",
+          "category": "exterior",
+          "caption": "TSI Comfortline",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/AW_POLO_TrendLine.jpg/1280px-AW_POLO_TrendLine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (SciroccoR2.0)",
+          "local_path": "media/pictures/volkswagen/polo/volkswagen_polo_AW_1_AW_POLO_TrendLine.jpg",
+          "file_size_bytes": 227796,
+          "sha256": "15b4b5fa524a400f7bfb9e59a8bc879000490c5e4c4822b72e6f5675bc37d1e1"
+        }
+      ]
+    }
+  ]
+}

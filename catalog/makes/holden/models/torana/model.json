@@ -1,0 +1,327 @@
+{
+  "make_slug": "holden",
+  "model_slug": "torana",
+  "name": "Holden Torana",
+  "vehicle_type": "Sedan / Coupe / Hatchback",
+  "segment": "Compact / Mid-size",
+  "years_sold_au": {
+    "start": 1967,
+    "end": 1980
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Dandenong, Victoria",
+    "Elizabeth, South Australia",
+    "Pagewood, New South Wales",
+    "Acacia Ridge, Queensland"
+  ],
+  "overview": "The Holden Torana (derived from an Aboriginal word meaning 'to fly') is one of Australian motorsport's greatest legends. Starting in 1967 as a modified Vauxhall Viva four-cylinder compact (HB), the Torana evolved into a giant-killing six-cylinder weapon in the LC and LJ series, highlighted by Peter Brock's rainy 1972 Bathurst 500 victory in the triple-carburettor LJ GTR XU-1. The LH and LX generations made Australian automotive history as the only car platform engineered to accommodate 4-, 6-, and 8-cylinder engines, culminating in the Bathurst-dominating SL/R 5000 and A9X option pack.",
+  "australian_market_notes": "In 1969, Holden chief engineer George Roberts and designer Leo Pruneau stretched the LC Torana's nose by four inches to package the full-size Holden Red six-cylinder engine into a lightweight compact body, creating the GTR and Harry Firth's GTR XU-1. In 1974, the all-Australian LH series debuted, offering exceptional interior packaging and the thunderous 5.0L SL/R 5000 and L34 homologation packages. In 1976, the LX introduced the stunning three-door Hatchback body style and the immortal A9X option pack (rear disc brakes, Salisbury axle, rear-facing bonnet scoop), which Peter Brock and Jim Richards famously piloted to a crushing six-lap victory at the 1979 Bathurst 1000, setting a lap record on the final lap.",
+  "manuals": [
+    {
+      "title": "Holden Holden Torana Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1967,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/torana/model.json",
+      "local_path": "media/manuals/holden/torana/holden_torana_au_technical_manual.pdf",
+      "file_size_bytes": 5458,
+      "sha256": "1c5bd7b69d77a59390958b4072e65bd03f7e0f32d08e9ecd10a0e1ee4fe923c3",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1976 Holden Torana SL Brochure. Australia, February 1976",
+      "year": null,
+      "source_url": "https://archive.org/details/1976-holden-torana-sl-brochure.-australia-february-1976",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/torana/holden_torana_manual_1976_Holden_Torana_SL_Brochure._Australia_February_1976.html",
+      "file_size_bytes": 229664,
+      "sha256": "6e9d46c76e90d27d9225cc92ec36e92bef646d207e6c71a665cccbf9dab5387f"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "GRAUSE\nMuscle cars aren't generally my thing, but anything from Aussie is cool in my eyes - especially these SLR 5000s! It's amazing what the Torana became when Holden 'tweaked' it...\n\nI recall reading that in Australia, these could only be",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/1976_Holden_Torana_SLR_5000_%288181508857%29.jpg/1280px-1976_Holden_Torana_SLR_5000_%288181508857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/holden/torana/holden_torana_hero_1_1976_Holden_Torana_SLR_5000_8181508857_.jpg",
+      "file_size_bytes": 283434,
+      "sha256": "168612a2d7ce3994d388de85e1a85e6473fb01aabed6d9643abd6f7b4b530d7a"
+    },
+    {
+      "category": "exterior",
+      "caption": "Holden Torana LX A9X",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Holden_Torana_LX_A9X_%2825836661314%29.jpg/1280px-Holden_Torana_LX_A9X_%2825836661314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/torana/holden_torana_hero_2_Holden_Torana_LX_A9X_25836661314_.jpg",
+      "file_size_bytes": 419983,
+      "sha256": "d51f5c8d0a99d4fb882715da002563656dc3e6e099dda7a37670aeb6602f9c15"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "LC-LJ",
+      "generation_name": "LC & LJ Series",
+      "years": {
+        "start": 1969,
+        "end": 1974
+      },
+      "body_styles": [
+        "2-door coupe",
+        "4-door sedan"
+      ],
+      "platform": "GM-H compact chassis",
+      "ancap_rating": null,
+      "summary": "Stretched nose housing the Red six-cylinder engine. Birth of the legendary GTR and Bathurst-winning GTR XU-1 with triple Stromberg carburettors.",
+      "engines": [
+        {
+          "engine_code": "Red-138",
+          "name": "Holden Red 138 (2.25L) Inline-6",
+          "displacement_cc": 2262,
+          "displacement_litres": 2.25,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 71.0,
+          "power_rpm": "4400",
+          "torque_nm": 182.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Standard six on LC."
+        },
+        {
+          "engine_code": "Red-202-XU1",
+          "name": "Holden Red 202 (3.3L) GTR XU-1",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 142.0,
+          "power_rpm": "5600",
+          "torque_nm": 270.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.25:1",
+          "valvetrain": "OHV 12V with performance cam and heavy-duty valve springs",
+          "notes": "Triple 1.75-inch CD175 Stromberg carburettors; Bathurst 1972 winner."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GTR",
+          "years": {
+            "start": 1969,
+            "end": 1974
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Aussie 4-speed)"
+          ],
+          "msrp_aud_min": 2778,
+          "msrp_aud_max": 3300,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1030,
+          "standard_features": [
+            "Front power disc brakes",
+            "GTR sports instrumentation",
+            "Fluted front guards",
+            "Rally road wheels"
+          ],
+          "notes": "Youth sports sensation."
+        },
+        {
+          "badge_name": "GTR XU-1",
+          "years": {
+            "start": 1970,
+            "end": 1973
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed close-ratio manual (M21)"
+          ],
+          "msrp_aud_min": 3105,
+          "msrp_aud_max": 3800,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1065,
+          "standard_features": [
+            "Triple Stromberg carburettors",
+            "Boot lid ducktail spoiler",
+            "Cast-iron exhaust headers",
+            "Limited slip differential"
+          ],
+          "notes": "Peter Brock's Bathurst 1972 giant-killer."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GTR XU-1",
+          "body_style": "2-door coupe",
+          "engine_code": "Red-202-XU1",
+          "transmission": "4-speed close-ratio manual (M21)",
+          "drivetrain": "RWD",
+          "msrp_aud": 3214,
+          "power_kw": 142.0,
+          "torque_nm": 270.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 900,
+          "notes": "0-100 km/h in 7.8s; top speed 210 km/h."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "LC-LJ",
+          "category": "exterior",
+          "caption": "Mustard. \nBuilt from Feb 1972-March 1974\nThe LC torana was facelifted in 1972, now the LJ with new HQ style grille and the engines were all improved. In GTR XU1 form, with great power to weight ratio, proved to be a good little race car.\nEn",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/1973_Holden_LJ_Torana_S_Sedan_%2822623725179%29.jpg/1280px-1973_Holden_LJ_Torana_S_Sedan_%2822623725179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/torana/holden_torana_LC-LJ_1_1973_Holden_LJ_Torana_S_Sedan_22623725179_.jpg",
+          "file_size_bytes": 356804,
+          "sha256": "dd9cbd90b83ea1f9cebb3fab22ea82d2c1902b29965c45406f273983ede64e7e"
+        }
+      ]
+    },
+    {
+      "series_code": "LH-LX",
+      "generation_name": "LH & LX Series",
+      "years": {
+        "start": 1974,
+        "end": 1978
+      },
+      "body_styles": [
+        "4-door sedan",
+        "3-door hatchback"
+      ],
+      "platform": "GM-H LH/LX mid-size platform",
+      "ancap_rating": null,
+      "summary": "Wider all-Australian body accommodating 4-, 6-, and 8-cylinder engines. Home to the SL/R 5000, L34, 3-door Hatchback, and the immortal Bathurst-dominating A9X option pack.",
+      "engines": [
+        {
+          "engine_code": "Holden-308-SLR5000",
+          "name": "Holden 5.0L (308ci) V8 (SL/R 5000)",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 179.0,
+          "power_rpm": "4800",
+          "torque_nm": 427.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel carburettor, dual exhaust."
+        },
+        {
+          "engine_code": "Holden-308-A9X",
+          "name": "Holden 5.0L (308ci) V8 (A9X Option)",
+          "displacement_cc": 5044,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 186.0,
+          "power_rpm": "5000",
+          "torque_nm": 434.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rear-facing functional bonnet scoop, Salisbury rear axle with rear disc brakes."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SL/R 5000",
+          "years": {
+            "start": 1974,
+            "end": 1977
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (M21)"
+          ],
+          "msrp_aud_min": 4410,
+          "msrp_aud_max": 5200,
+          "fuel_consumption_l_100km": 15.0,
+          "kerb_weight_kg": 1260,
+          "standard_features": [
+            "308ci V8 standard",
+            "Front and rear spoilers",
+            "Bolt-on wheel arch flares (L34)",
+            "SL/R instrumentation and steering wheel"
+          ],
+          "notes": "Iconic Australian touring car racer."
+        },
+        {
+          "badge_name": "SS Hatchback (A9X Option)",
+          "years": {
+            "start": 1977,
+            "end": 1978
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (M21)",
+            "Super T10"
+          ],
+          "msrp_aud_min": 7890,
+          "msrp_aud_max": 8900,
+          "fuel_consumption_l_100km": 15.5,
+          "kerb_weight_kg": 1285,
+          "standard_features": [
+            "Radial Tuned Suspension",
+            "Salisbury 10-bolt rear axle with rear disc brakes",
+            "Rear-facing bonnet scoop",
+            "Heavy-duty radiator and oil cooler"
+          ],
+          "notes": "1978 and 1979 Bathurst 1000 winner with Peter Brock; 405 units built."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SS Hatchback (A9X Option)",
+          "body_style": "3-door hatchback",
+          "engine_code": "Holden-308-A9X",
+          "transmission": "4-speed manual (M21)",
+          "drivetrain": "RWD",
+          "msrp_aud": 8150,
+          "power_kw": 186.0,
+          "torque_nm": 434.0,
+          "fuel_l_100km": 15.5,
+          "towing_braked_kg": 1100,
+          "notes": "The holy grail of Australian muscle cars."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "LH-LX",
+          "category": "exterior",
+          "caption": "1974–1976 Holden Torana (LH) SL/R sedan, photographed at the National Holden Motor Museum, Echuca, Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/1974-1976_Holden_Torana_%28LH%29_SLR_sedan_%282008-09-02%29_01.jpg/1280px-1974-1976_Holden_Torana_%28LH%29_SLR_sedan_%282008-09-02%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (Museumsfotografierer)",
+          "local_path": "media/pictures/holden/torana/holden_torana_LH-LX_1_1974-1976_Holden_Torana_LH_SLR_sedan_2008-09-02_01.jpg",
+          "file_size_bytes": 412397,
+          "sha256": "a399060f404137cb491b08b7198c730ad1ebd4180fc6d248655701da433be72c"
+        }
+      ]
+    }
+  ]
+}

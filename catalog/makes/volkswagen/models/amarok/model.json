@@ -1,0 +1,321 @@
+{
+  "make_slug": "volkswagen",
+  "model_slug": "amarok",
+  "name": "Amarok",
+  "vehicle_type": "Ute / Pickup Truck",
+  "segment": "Mid-size Dual-Cab Ute",
+  "years_sold_au": {
+    "start": 2011,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "Volkswagen's rugged mid-size commercial pickup truck, celebrated in Australia for full-time 4Motion all-wheel drive, class-leading tub width capable of carrying a full-sized Australian pallet between the wheel arches, and powerhouse 3.0-litre V6 TDI engines developed with Walkinshaw Automotive (W580).",
+  "australian_market_notes": "First arrived in 2011 with 2.0-litre bi-turbo diesel engines. Revolutionized the Australian ute market in 2016 with the introduction of the 3.0-litre V6 TDI (up to 200kW on overboost), offering car-like refinement and permanent AWD. The second generation (2023+) was co-developed with Ford on the updated T6 platform, retaining distinct Volkswagen steering, interior, and suspension tuning.",
+  "manuals": [
+    {
+      "title": "Volkswagen Amarok Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2011,
+      "language": "en",
+      "source_url": "local://catalog/makes/volkswagen/models/amarok/model.json",
+      "local_path": "media/manuals/volkswagen/amarok/volkswagen_amarok_au_technical_manual.pdf",
+      "file_size_bytes": 4212,
+      "sha256": "875d66c21a9c59e98682d69bfdf91c575e77379c501f88112c5b48047c508551",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Volkswagen Amarok Mk2 in Stuttgart-Vaihingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Volkswagen_Amarok_Mk2_1X7A0807.jpg/1280px-Volkswagen_Amarok_Mk2_1X7A0807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+      "local_path": "media/pictures/volkswagen/amarok/volkswagen_amarok_hero_1_Volkswagen_Amarok_Mk2_1X7A0807.jpg",
+      "file_size_bytes": 254335,
+      "sha256": "7ee6f45f5309448d4e1cead88f47841203377cef6f7b74d15b8d5dc9e9f4b3e6"
+    },
+    {
+      "category": "exterior",
+      "caption": "Volkswagen Amarok Mk2 in Stuttgart-Vaihingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Volkswagen_Amarok_Mk2_1X7A0808.jpg/1280px-Volkswagen_Amarok_Mk2_1X7A0808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+      "local_path": "media/pictures/volkswagen/amarok/volkswagen_amarok_hero_2_Volkswagen_Amarok_Mk2_1X7A0808.jpg",
+      "file_size_bytes": 266121,
+      "sha256": "6660f61cda3f582bf7159b089ab796719f886b0edefeda5ac8e8c7e0e56e458d"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "2H",
+      "generation_name": "Amarok First Generation",
+      "years": {
+        "start": 2011,
+        "end": 2022
+      },
+      "body_styles": [
+        "Dual-cab ute",
+        "Single-cab ute"
+      ],
+      "platform": "Volkswagen Group 2H",
+      "ancap_rating": "5 stars",
+      "summary": "Original German-designed ladder-frame ute, offering 2.0 Bi-TDI and legendary 3.0 V6 TDI with permanent 4Motion and Walkinshaw W580 tuning.",
+      "engines": [
+        {
+          "engine_code": "EA189 BiTDI",
+          "name": "2.0L Bi-Turbo Diesel",
+          "displacement_cc": 1968,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 132,
+          "power_rpm": "4000",
+          "torque_nm": 420,
+          "torque_rpm": "1500-2000",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Sequentially turbocharged common-rail diesel."
+        },
+        {
+          "engine_code": "EA897 V6 TDI",
+          "name": "3.0L V6 Turbo Diesel",
+          "displacement_cc": 2967,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 190,
+          "power_rpm": "3250-4500",
+          "torque_nm": 580,
+          "torque_rpm": "1400-3000",
+          "compression_ratio": "17.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "200kW overboost in Highline/Ultimate and W580 Walkinshaw editions."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "TDI580 Highline",
+          "years": {
+            "start": 2018,
+            "end": 2022
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 61990,
+          "msrp_aud_max": 65990,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 2150,
+          "standard_features": [
+            "Permanent 4Motion",
+            "18-inch Rawson alloys",
+            "Bi-xenon headlights",
+            "Rear mechanical diff lock",
+            "Apple CarPlay & Android Auto",
+            "3500kg tow pack"
+          ],
+          "notes": "Australia's top-selling V6 Amarok variant."
+        },
+        {
+          "badge_name": "W580S (Walkinshaw)",
+          "years": {
+            "start": 2021,
+            "end": 2022
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 79990,
+          "msrp_aud_max": 82990,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 2190,
+          "standard_features": [
+            "Walkinshaw-tuned MTV twin-tube dampers",
+            "20-inch forged Clayton alloy wheels",
+            "Twin side-exit exhaust",
+            "Bespoke sports bar and decal package",
+            "Vienna leather interior"
+          ],
+          "notes": "Developed and assembled in Clayton, Victoria by Walkinshaw Automotive."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "TDI580 Highline",
+          "body_style": "Dual-cab ute",
+          "engine_code": "EA897 V6 TDI",
+          "transmission": "8-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2018,
+          "years_end": "2022",
+          "msrp_aud": 61990,
+          "power_kw": 190,
+          "torque_nm": 580,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 3500,
+          "notes": "Permanent AWD with rear differential lock."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "2H",
+          "category": "exterior",
+          "caption": "2015 Volkswagen Amarok TDi340",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2015_Volkswagen_Amarok_%282H%29_TDI3400_4-door_utility_%2818001379856%29.jpg/1280px-2015_Volkswagen_Amarok_%282H%29_TDI3400_4-door_utility_%2818001379856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+          "local_path": "media/pictures/volkswagen/amarok/volkswagen_amarok_2H_1_2015_Volkswagen_Amarok_2H_TDI3400_4-door_utility_18001379856_.jpg",
+          "file_size_bytes": 228868,
+          "sha256": "9fdfb48ab970cde606e85a8684914d6c64a2defd116ace541ee7c189e28230c6"
+        }
+      ]
+    },
+    {
+      "series_code": "T1",
+      "generation_name": "Amarok Second Generation (Next-Gen)",
+      "years": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Dual-cab ute"
+      ],
+      "platform": "Ford/VW T6.2 platform",
+      "ancap_rating": "5 stars",
+      "summary": "Next-Gen Amarok co-developed with Ford, featuring Core, Life, Style, PanAmericana, and Aventura trims with 3.0L V6 TDI (184kW/600Nm) and 2.3L TSI turbo petrol (222kW).",
+      "engines": [
+        {
+          "engine_code": "Power Stroke 3.0 V6",
+          "name": "3.0L V6 Turbo Diesel",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 184,
+          "power_rpm": "3250",
+          "torque_nm": 600,
+          "torque_rpm": "1750-2250",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Paired with 10-speed automatic and 4A permanent all-wheel drive."
+        },
+        {
+          "engine_code": "EcoBoost 2.3 TSI",
+          "name": "2.3L Turbo Petrol",
+          "displacement_cc": 2261,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 222,
+          "power_rpm": "5900",
+          "torque_nm": 452,
+          "torque_rpm": "3350",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Exclusive to the flagship Amarok Aventura."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "PanAmericana V6",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 75990,
+          "msrp_aud_max": 78990,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 2240,
+          "standard_features": [
+            "Matte black exterior trim",
+            "18-inch black alloys with all-terrain tyres",
+            "12-inch vertical infotainment screen",
+            "Harmon Kardon 8-speaker sound",
+            "Spray-in bedliner",
+            "IQ.Light matrix LEDs"
+          ],
+          "notes": "Off-road luxury flagship with 3.0L V6 TDI."
+        },
+        {
+          "badge_name": "Aventura V6",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 79990,
+          "msrp_aud_max": 82990,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 2280,
+          "standard_features": [
+            "21-inch alloy wheels",
+            "Chrome exterior accents",
+            "Electric roll cover",
+            "Savona leather upholstery",
+            "Park Assist Plus"
+          ],
+          "notes": "Top-tier highway touring luxury."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "PanAmericana V6",
+          "body_style": "Dual-cab ute",
+          "engine_code": "Power Stroke 3.0 V6",
+          "transmission": "10-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 75990,
+          "power_kw": 184,
+          "torque_nm": 600,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 3500,
+          "notes": "Rugged off-road styling with dual-range full-time 4WD."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T1",
+          "category": "exterior",
+          "caption": "Toyota Desert race (2017 )7",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Toyota_Desert_race_%282017_%297.jpg/1280px-Toyota_Desert_race_%282017_%297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Mompati Dikunwane)",
+          "local_path": "media/pictures/volkswagen/amarok/volkswagen_amarok_T1_1_Toyota_Desert_race_2017_7.jpg",
+          "file_size_bytes": 131410,
+          "sha256": "49e5db1c163194ad7ec4260054f320b306b02a9d5954e890fbd8d14fc0019b99"
+        }
+      ]
+    }
+  ]
+}

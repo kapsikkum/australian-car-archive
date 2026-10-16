@@ -1,0 +1,426 @@
+{
+  "make_slug": "ford",
+  "model_slug": "focus",
+  "name": "Ford Focus",
+  "vehicle_type": "Hatchback / Sedan / Wagon",
+  "segment": "Small",
+  "years_sold_au": {
+    "start": 2002,
+    "end": 2022
+  },
+  "locally_built": false,
+  "assembly_plants_au": [
+    "Imported (Saarlouis, Germany)",
+    "Imported (Valencia, Spain)",
+    "Imported (Rayong, Thailand, LW 2012-2015)"
+  ],
+  "overview": "The Ford Focus replaced the Laser in 2002 and immediately established itself as Australia's benchmark dynamic driver's car in the compact segment thanks to its revolutionary 'Control Blade' multi-link rear suspension. Across four generations (LR, LT/LV, LW/LZ, and SA), the Focus earned critical acclaim. For Australian car enthusiasts, the Focus name was cemented by legendary performance flagships: the 2.0L high-revving LR ST170 (127 kW), the five-cylinder turbo LT/LV XR5 Turbo (166 kW 2.5L Volvo turbo) and limited-edition 224 kW Focus RS, the sensational 257 kW drift-mode AWD LZ Focus RS, and the nimble SA Focus ST.",
+  "australian_market_notes": "The LT/LV Focus XR5 Turbo achieved massive cult status in Australia, embraced for the thunderous 5-cylinder warble of its turbocharged engine and exceptional chassis composure. In 2016, the LZ Focus RS created a national sensation when all 500 Australian allocation units sold out in days, driven by its 257 kW twin-scroll turbo engine and headline-grabbing 'Drift Mode' all-wheel drive.",
+  "manuals": [
+    {
+      "title": "Ford Ford Focus Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2002,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/focus/model.json",
+      "local_path": "media/manuals/ford/focus/ford_focus_au_technical_manual.pdf",
+      "file_size_bytes": 6014,
+      "sha256": "a46b8f5ab4fbd9888ebd5f0774ee771f2dc1dd011dc15c22300c192813fbebb4",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Ford Focus Brochure (2001)",
+      "year": 2001,
+      "source_url": "https://archive.org/details/ford-focus-brochure-2001",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/focus/ford_focus_manual_Ford_Focus_Brochure_2001.html",
+      "file_size_bytes": 209955,
+      "sha256": "2071df1d1c7d68c090e9711a56c6a6d754a2e7131c569ff85040ad40477c1f9f"
+    },
+    {
+      "title": "Ford Focus Red and Black Edition Car Brochure (2015)",
+      "year": 2015,
+      "source_url": "https://archive.org/details/ford-focus-red-and-black-edition-car-brochure-2015",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/focus/ford_focus_manual_Ford_Focus_Red_and_Black_Edition_Car_Brochure_2015.html",
+      "file_size_bytes": 219213,
+      "sha256": "e2365d38ef29ba17afa059a2addcb35c106231c0b261b6c0e49cae2959991142"
+    },
+    {
+      "title": "Ford Focus Car Brochure (2015)",
+      "year": 2015,
+      "source_url": "https://archive.org/details/ford-focus-car-brochure-2015",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/focus/ford_focus_manual_Ford_Focus_Car_Brochure_2015.html",
+      "file_size_bytes": 216609,
+      "sha256": "bba860f6f6afd4fab8f1227c126ea8cdd156c571823ba6a45a68b7adaf750e91"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Colorado Red. \nThe for Focus was introduced in 1998, it replaced the Ford Escort in some markets and the Ford Laser in others.\nThe 2nd generation was built from 2004-10. \nIn 2005 Ford unveiled a hot hatch version of the Mk 2 Focus. Called F",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/2007_Ford_Focus_%28LT%29_XR5_Turbo_5-door_hatchback_%2824283312873%29.jpg/1280px-2007_Ford_Focus_%28LT%29_XR5_Turbo_5-door_hatchback_%2824283312873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/ford/focus/ford_focus_hero_1_2007_Ford_Focus_LT_XR5_Turbo_5-door_hatchback_24283312873_.jpg",
+      "file_size_bytes": 300147,
+      "sha256": "9e73168e178297c093b63b28c606a15344c70a9d1bcb333b84e976826cdd1893"
+    },
+    {
+      "category": "exterior",
+      "caption": "Ford Focus rally car at the 2009 Sydney Telstra 500 V8 Supercar event.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ford_Focus_%286349826016%29.jpg/1280px-Ford_Focus_%286349826016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Simon_sees from Australia)",
+      "local_path": "media/pictures/ford/focus/ford_focus_hero_2_Ford_Focus_6349826016_.jpg",
+      "file_size_bytes": 365391,
+      "sha256": "5f4eac862ebf7d3b75636b54a7c4a2f652860ecf6342dc2e957ff5f84ebf1446"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "LR",
+      "generation_name": "LR Focus & ST170",
+      "years": {
+        "start": 2002,
+        "end": 2005
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback",
+        "4-door sedan"
+      ],
+      "platform": "Ford C170 platform",
+      "ancap_rating": 4,
+      "summary": "First Australian Focus. Groundbreaking Control Blade independent rear suspension, sharp New Edge styling, and the acclaimed 127 kW ST170 hot hatch.",
+      "engines": [
+        {
+          "engine_code": "Duratec-ST-2.0L",
+          "name": "Ford Duratec ST 2.0L DOHC 16V Inline-4",
+          "displacement_cc": 1988,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 127.0,
+          "power_rpm": "7000",
+          "torque_nm": 196.0,
+          "torque_rpm": "5500",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 16V VVT",
+          "notes": "Cosworth-developed cylinder head, dual-stage intake manifold; paired with 6-speed Getrag manual."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST170",
+          "years": {
+            "start": 2003,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual Getrag MT285"
+          ],
+          "msrp_aud_min": 37000,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1280,
+          "standard_features": [
+            "127 kW 2.0L Duratec ST engine (7200 rpm redline)",
+            "17-inch multi-spoke alloy wheels",
+            "300mm front disc brakes",
+            "Half-leather sports bucket seats",
+            "Oil temperature and oil pressure auxiliary gauges"
+          ],
+          "notes": "Cosworth-engineered hot hatch benchmark."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "ST170",
+          "body_style": "3-door hatchback",
+          "engine_code": "Duratec-ST-2.0L",
+          "transmission": "6-speed manual Getrag MT285",
+          "drivetrain": "FWD",
+          "msrp_aud": 37000,
+          "power_kw": 127.0,
+          "torque_nm": 196.0,
+          "fuel_l_100km": 9.1,
+          "towing_braked_kg": 1200,
+          "notes": "127 kW 6-speed manual driver's car."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "LR",
+          "category": "exterior",
+          "caption": "2004 Ford Focus (LR MY03) CL sedan. Photographed in Cronulla, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2004_Ford_Focus_%28LR_MY03%29_CL_sedan_%282012-09-01%29.jpg/1280px-2004_Ford_Focus_%28LR_MY03%29_CL_sedan_%282012-09-01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/ford/focus/ford_focus_LR_1_2004_Ford_Focus_LR_MY03_CL_sedan_2012-09-01_.jpg",
+          "file_size_bytes": 240215,
+          "sha256": "6e5a453970528231c10455bf4a22e1a1e3c36a4ee1080817b4a70aeaf236e591"
+        }
+      ]
+    },
+    {
+      "series_code": "LT-LV",
+      "generation_name": "LT / LV Focus & XR5 Turbo / RS",
+      "years": {
+        "start": 2005,
+        "end": 2011
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback",
+        "4-door sedan"
+      ],
+      "platform": "Ford C1 platform",
+      "ancap_rating": 5,
+      "summary": "Second-generation Focus. Massive Australian success with the 166 kW 2.5L 5-cylinder turbo Focus XR5 Turbo and the 224 kW RevoKnuckle Focus RS.",
+      "engines": [
+        {
+          "engine_code": "Duratec-2.5T-Volvo",
+          "name": "Ford / Volvo 2.5L 20V DOHC Turbo Inline-5",
+          "displacement_cc": 2522,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 166.0,
+          "power_rpm": "6000",
+          "torque_nm": 320.0,
+          "torque_rpm": "1600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 20V VVT",
+          "notes": "BorgWarner K04 turbocharger; distinctive 5-cylinder warble; powers XR5 Turbo."
+        },
+        {
+          "engine_code": "Duratec-RS-2.5T",
+          "name": "Ford RS 2.5L 20V DOHC High-Output Turbo Inline-5",
+          "displacement_cc": 2522,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 224.0,
+          "power_rpm": "6500",
+          "torque_nm": 440.0,
+          "torque_rpm": "2300",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 20V",
+          "notes": "BorgWarner K16 turbocharger, 1.4 bar boost, Quaife automatic torque-biasing helical LSD; 224 kW (305 PS)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XR5 Turbo",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual M66"
+          ],
+          "msrp_aud_min": 35990,
+          "msrp_aud_max": 39990,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1442,
+          "standard_features": [
+            "166 kW 2.5L 5-cylinder turbo engine",
+            "Recaro two-tone sports bucket seats",
+            "Triple dash gauge pod (turbo boost, oil pressure, oil temperature)",
+            "18-inch 5-spoke alloy wheels and dual sports exhausts",
+            "Lowered sports chassis with ESP"
+          ],
+          "notes": "Legendary Australian hot hatch favorite."
+        },
+        {
+          "badge_name": "Focus RS",
+          "years": {
+            "start": 2010,
+            "end": 2010
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual M66 with Quaife LSD"
+          ],
+          "msrp_aud_min": 59990,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1467,
+          "standard_features": [
+            "224 kW (305 hp) high-boost 2.5L 5-cylinder turbo",
+            "RevoKnuckle front suspension eliminating torque steer",
+            "Quaife automatic torque-biasing limited-slip differential",
+            "19-inch 15-spoke RS alloy wheels and massive 336mm ventilated discs",
+            "Recaro motorsport shell bucket seats and twin-blade rear wing"
+          ],
+          "notes": "Extremely rare collector model; strictly 315 imported to Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XR5 Turbo",
+          "body_style": "5-door hatchback",
+          "engine_code": "Duratec-2.5T-Volvo",
+          "transmission": "6-speed manual M66",
+          "drivetrain": "FWD",
+          "msrp_aud": 35990,
+          "power_kw": 166.0,
+          "torque_nm": 320.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 1300,
+          "notes": "Iconic 5-cylinder 6-speed manual hot hatch."
+        },
+        {
+          "badge_name": "Focus RS",
+          "body_style": "3-door hatchback",
+          "engine_code": "Duratec-RS-2.5T",
+          "transmission": "6-speed manual M66 with Quaife LSD",
+          "drivetrain": "FWD",
+          "msrp_aud": 59990,
+          "power_kw": 224.0,
+          "torque_nm": 440.0,
+          "fuel_l_100km": 10.4,
+          "towing_braked_kg": 1000,
+          "notes": "224 kW RevoKnuckle hyper-hatch."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "LW-LZ",
+      "generation_name": "LW / LZ Focus & ST / RS AWD",
+      "years": {
+        "start": 2011,
+        "end": 2018
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "Ford Global C-car platform",
+      "ancap_rating": 5,
+      "summary": "Third-generation Focus. High-technology EcoBoost turbo engines, 184 kW Focus ST, and the earth-shattering 257 kW Focus RS AWD with Drift Mode.",
+      "engines": [
+        {
+          "engine_code": "EcoBoost-2.0T-ST",
+          "name": "Ford EcoBoost 2.0L Direct-Injection Turbo Inline-4",
+          "displacement_cc": 1999,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 184.0,
+          "power_rpm": "5500",
+          "torque_nm": 360.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16V Ti-VCT",
+          "notes": "Direct injection turbo with overboost function to 360 Nm; powers Focus ST."
+        },
+        {
+          "engine_code": "EcoBoost-2.3T-RS",
+          "name": "Ford EcoBoost 2.3L Twin-Scroll Turbo Inline-4",
+          "displacement_cc": 2261,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 257.0,
+          "power_rpm": "6000",
+          "torque_nm": 440.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "DOHC 16V Ti-VCT",
+          "notes": "High-tensile cast alloy head, twin-scroll turbo with 470 Nm overboost; powers Focus RS AWD."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Focus ST",
+          "years": {
+            "start": 2012,
+            "end": 2018
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 38290,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 7.3,
+          "kerb_weight_kg": 1425,
+          "standard_features": [
+            "184 kW 2.0L EcoBoost turbo engine",
+            "Recaro leather-accented sports seats",
+            "Enhanced Torque Vectoring Control and variable-ratio sports steering",
+            "Center-exit dual hexagonal exhaust",
+            "SYNC connectivity with satellite navigation"
+          ],
+          "notes": "High-performance hot hatch."
+        },
+        {
+          "badge_name": "Focus RS (AWD)",
+          "years": {
+            "start": 2016,
+            "end": 2018
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 50990,
+          "msrp_aud_max": 56990,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 1575,
+          "standard_features": [
+            "257 kW 2.3L EcoBoost Twin-Scroll Turbo (0-100 km/h in 4.7s)",
+            "Ford Performance All-Wheel Drive with Dynamic Torque Vectoring",
+            "Selectable Drive Modes including industry-first 'Drift Mode' and 'Launch Control'",
+            "Brembo 4-piston front brake calipers and Ohlins two-stage adjustable dampers",
+            "Recaro shell seats and 19-inch forged alloy wheels"
+          ],
+          "notes": "All-wheel-drive hyper-hatch sensation."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Focus RS (AWD)",
+          "body_style": "Hatchback",
+          "engine_code": "EcoBoost-2.3T-RS",
+          "transmission": "6-speed manual",
+          "drivetrain": "AWD",
+          "msrp_aud": 50990,
+          "power_kw": 257.0,
+          "torque_nm": 440.0,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 1000,
+          "notes": "257 kW Drift Mode AWD hyper-hatch."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "make_slug": "holden",
+  "model_slug": "rodeo",
+  "name": "Holden Rodeo",
+  "vehicle_type": "Ute / Cab Chassis / Space Cab / Crew Cab 4x2 & 4x4",
+  "segment": "Light Commercial / One-Tonne Ute",
+  "years_sold_au": {
+    "start": 1980,
+    "end": 2008
+  },
+  "locally_built": false,
+  "assembly_plants_au": [
+    "Imported (Fujisawa, Japan, KB/TF)",
+    "Imported (Samut Prakan & Rayong, Thailand, TF/RA)"
+  ],
+  "overview": "For nearly three decades from 1980 to 2008, the Holden Rodeo was one of Australia's most trusted commercial workhorses and outback touring utilities. Engineered by Isuzu Motors and sold through Holden dealerships across Australia, the Rodeo spanned the tough KB series (1980-1988), the long-running TF series (1988-2003, famous for its bulletproof 2.8L 4JB1-T turbo-diesel and 3.2L V6), and the redesigned RA series (2003-2008). The Rodeo pioneered crew-cab four-wheel-drive dual-cab versatility in Australia, proving equally adept on cattle stations, mining sites, and suburban driveways before being renamed Colorado in 2008.",
+  "australian_market_notes": "The Rodeo built an unbreakable reputation for mechanical durability across regional Australia. The 2.8-litre turbo-diesel TF Rodeo was celebrated for regularly clocking 500,000+ kilometers with minimal maintenance. The RA series introduced Holden's 3.6L Alloytec V6 and Isuzu's revered 3.0L 4JJ1 common-rail turbo-diesel, cementing its status as a 3,000 kg towing benchmark.",
+  "manuals": [
+    {
+      "title": "Holden Holden Rodeo Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1980,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/rodeo/model.json",
+      "local_path": "media/manuals/holden/rodeo/holden_rodeo_au_technical_manual.pdf",
+      "file_size_bytes": 6091,
+      "sha256": "6f9575b7484cc56fe6aad64fb34cc6d12e104090975b8d9bb0b30db5907334f0",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1984 Holden Rodeo Brochure. Australia, March 1984. TR 14253.",
+      "year": null,
+      "source_url": "https://archive.org/details/1984-holden-rodeo-brochure.-australia-march-1984.-tr-14253.",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/rodeo/holden_rodeo_manual_1984_Holden_Rodeo_Brochure._Australia_March_1984._TR_14253..html",
+      "file_size_bytes": 231349,
+      "sha256": "b2ccec86fdcddd3be6e84a5c3f2bea5475e546fda596e8f63249c8c6e6ecea37"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Holden Rodeo KB",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1986_Holden_Rodeo_%28KB29%29_2-door_cab_chassis_%2828445159593%29.jpg/1280px-1986_Holden_Rodeo_%28KB29%29_2-door_cab_chassis_%2828445159593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/rodeo/holden_rodeo_hero_1_1986_Holden_Rodeo_KB29_2-door_cab_chassis_28445159593_.jpg",
+      "file_size_bytes": 202492,
+      "sha256": "f43aee7840cce9be88b0a303cda4c0d44467c46350ec6b0dc78b0820f7edc013"
+    },
+    {
+      "category": "exterior",
+      "caption": "Holden Rodeo RA Ute",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Holden_Rodeo_RA_Ute_%2815749390490%29.jpg/1280px-Holden_Rodeo_RA_Ute_%2815749390490%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/rodeo/holden_rodeo_hero_2_Holden_Rodeo_RA_Ute_15749390490_.jpg",
+      "file_size_bytes": 494612,
+      "sha256": "47337d05255f20bdcd49100b73fbfb101150c4fa0095e551b6fba260714533ae"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "KB",
+      "generation_name": "KB Rodeo",
+      "years": {
+        "start": 1980,
+        "end": 1988
+      },
+      "body_styles": [
+        "Single Cab Ute",
+        "Single Cab Chassis",
+        "Space Cab",
+        "Crew Cab"
+      ],
+      "platform": "Isuzu Faster KB platform",
+      "ancap_rating": null,
+      "summary": "First-generation Rodeo in Australia, replacing the Chevrolet LUV. Introduced tough ladder-frame chassis, selectable 4WD with free-wheeling front hubs, and economical diesel power.",
+      "engines": [
+        {
+          "engine_code": "Isuzu-G200Z",
+          "name": "Isuzu G200Z 2.0L OHC Inline-4",
+          "displacement_cc": 1949,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 65.0,
+          "power_rpm": "4600",
+          "torque_nm": 147.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Cast iron block with alloy cylinder head."
+        },
+        {
+          "engine_code": "Isuzu-C223-Diesel",
+          "name": "Isuzu C223 2.2L OHV Diesel Inline-4",
+          "displacement_cc": 2238,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 45.0,
+          "power_rpm": "4000",
+          "torque_nm": 139.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "21.0:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Indirect diesel injection; extreme durability."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Rodeo 4WD Single Cab",
+          "years": {
+            "start": 1980,
+            "end": 1988
+          },
+          "body_styles": [
+            "Single Cab Ute"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 8990,
+          "msrp_aud_max": 11500,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1350,
+          "standard_features": [
+            "Dual-range transfer case",
+            "Manual locking front hubs",
+            "Heavy-duty rear leaf springs",
+            "1-tonne payload rating"
+          ],
+          "notes": "Classic bush workhorse."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Rodeo 4WD Single Cab",
+          "body_style": "Single Cab Ute",
+          "engine_code": "Isuzu-C223-Diesel",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "msrp_aud": 9990,
+          "power_kw": 45.0,
+          "torque_nm": 139.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 1400,
+          "notes": "Legendary outback diesel workhorse."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "KB",
+          "category": "exterior",
+          "caption": "MC340\nI've noticed these have started to thin out, so I will be photographing each one I see from now on. This was a tidy example, and a short-wheelbase model as well.\n\n\n\nVehicle registration enquiry results\n\nJurisdiction\nNew Zealand\n\nRegis",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/1985_Holden_Rodeo_%28KB21%29_2-door_utility_%288104765894%29.jpg/1280px-1985_Holden_Rodeo_%28KB21%29_2-door_utility_%288104765894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+          "local_path": "media/pictures/holden/rodeo/holden_rodeo_KB_1_1985_Holden_Rodeo_KB21_2-door_utility_8104765894_.jpg",
+          "file_size_bytes": 278266,
+          "sha256": "12cd2331b06c088bd20bd0862bb4dc1c6ede00ead8a2fd1b1f6a09db43e6f02f"
+        }
+      ]
+    },
+    {
+      "series_code": "TF",
+      "generation_name": "TF Rodeo",
+      "years": {
+        "start": 1988,
+        "end": 2003
+      },
+      "body_styles": [
+        "Single Cab",
+        "Space Cab",
+        "Crew Cab"
+      ],
+      "platform": "Isuzu TF platform",
+      "ancap_rating": 2,
+      "summary": "Longest-running Rodeo generation spanning 15 years. Built legendary reputation with 2.8L 4JB1-T turbo-diesel and 3.2L 6VD1 V6 in 4x2 and 4x4 configurations.",
+      "engines": [
+        {
+          "engine_code": "Isuzu-4JB1-T",
+          "name": "Isuzu 4JB1-T 2.8L Direct-Injection Turbo Diesel Inline-4",
+          "displacement_cc": 2771,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 74.0,
+          "power_rpm": "3800",
+          "torque_nm": 225.0,
+          "torque_rpm": "2300",
+          "compression_ratio": "18.2:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Direct injection gear-driven camshaft turbo diesel; legendary longevity."
+        },
+        {
+          "engine_code": "Isuzu-6VD1-V6",
+          "name": "Isuzu 6VD1 3.2L SOHC 24V V6",
+          "displacement_cc": 3165,
+          "displacement_litres": 3.2,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 140.0,
+          "power_rpm": "5400",
+          "torque_nm": 265.0,
+          "torque_rpm": "4200",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "SOHC 24V",
+          "notes": "Smooth alloy V6 delivering car-like highway cruising."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LX Crew Cab 4x4",
+          "years": {
+            "start": 1990,
+            "end": 2003
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 26990,
+          "msrp_aud_max": 34990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "Dual-range 4WD",
+            "Power steering",
+            "Air conditioning option",
+            "Cloth bench/bucket seats",
+            "1-tonne payload"
+          ],
+          "notes": "Most popular dual-cab configuration."
+        },
+        {
+          "badge_name": "LT Space Cab / Crew Cab",
+          "years": {
+            "start": 1998,
+            "end": 2003
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 36990,
+          "msrp_aud_max": 42500,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1720,
+          "standard_features": [
+            "3.2L V6 engine standard",
+            "16-inch alloy wheels",
+            "Power windows and mirrors",
+            "Flares and side steps",
+            "Velour upholstery and remote central locking"
+          ],
+          "notes": "Flagship recreational 4x4 ute."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "LX Crew Cab 4x4",
+          "body_style": "Crew Cab",
+          "engine_code": "Isuzu-4JB1-T",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "msrp_aud": 31990,
+          "power_kw": 74.0,
+          "torque_nm": 225.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 2000,
+          "notes": "2.8L turbo-diesel 4x4 dual cab workhorse."
+        },
+        {
+          "badge_name": "LT Crew Cab",
+          "body_style": "Crew Cab",
+          "engine_code": "Isuzu-6VD1-V6",
+          "transmission": "4-speed automatic",
+          "drivetrain": "4WD",
+          "msrp_aud": 39990,
+          "power_kw": 140.0,
+          "torque_nm": 265.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 2200,
+          "notes": "3.2L V6 petrol luxury 4x4."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "TF",
+          "category": "exterior",
+          "caption": "1990 Holden Rodeo (TF) DLX 2WD LT Crew Cab 4-door utility. Photographed in Audley, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1990_Holden_Rodeo_%28TF%29_DLX_2WD_LT_Crew_Cab_4-door_utility_%282008-07-16%29_02.jpg/1280px-1990_Holden_Rodeo_%28TF%29_DLX_2WD_LT_Crew_Cab_4-door_utility_%282008-07-16%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/holden/rodeo/holden_rodeo_TF_1_1990_Holden_Rodeo_TF_DLX_2WD_LT_Crew_Cab_4-door_utility_2008-07-16_02.jpg",
+          "file_size_bytes": 332261,
+          "sha256": "2836b6926a9c854d4f6077f325113824d0da2eeaec4538063fb58f0b87798901"
+        }
+      ]
+    },
+    {
+      "series_code": "RA",
+      "generation_name": "RA Rodeo",
+      "years": {
+        "start": 2003,
+        "end": 2008
+      },
+      "body_styles": [
+        "Single Cab",
+        "Space Cab",
+        "Crew Cab"
+      ],
+      "platform": "Isuzu D-Max / GM GMT355 platform",
+      "ancap_rating": 3,
+      "summary": "All-new aerodynamic body, push-button electronic 'Shift-on-the-Fly' 4WD, Australian-built 3.6L Alloytec V6, and Isuzu 3.0L common-rail turbo diesel. Final Rodeo series before becoming Colorado.",
+      "engines": [
+        {
+          "engine_code": "Alloytec-3.6-V6",
+          "name": "Holden Alloytec 3.6L DOHC 24V V6",
+          "displacement_cc": 3564,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 157.0,
+          "power_rpm": "5300",
+          "torque_nm": 313.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 24V",
+          "notes": "Cast and assembled in Port Melbourne, Victoria."
+        },
+        {
+          "engine_code": "Isuzu-4JJ1-TC",
+          "name": "Isuzu 4JJ1-TC 3.0L Common-Rail Turbo Diesel Inline-4",
+          "displacement_cc": 2999,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 120.0,
+          "power_rpm": "3600",
+          "torque_nm": 360.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "17.5:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Common-rail high-pressure injection with intercooler; introduced in 2007."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LT Crew Cab 4x4",
+          "years": {
+            "start": 2003,
+            "end": 2008
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 44990,
+          "fuel_consumption_l_100km": 10.6,
+          "kerb_weight_kg": 1820,
+          "standard_features": [
+            "Push-button 4WD shift-on-the-fly",
+            "16-inch alloy wheels",
+            "Dual front airbags and ABS with EBD",
+            "Cruise control and power windows",
+            "Fog lamps and chrome sports bar"
+          ],
+          "notes": "Flagship 4x4 dual cab."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "LT Crew Cab 4x4",
+          "body_style": "Crew Cab",
+          "engine_code": "Isuzu-4JJ1-TC",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "msrp_aud": 41990,
+          "power_kw": 120.0,
+          "torque_nm": 360.0,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 3000,
+          "notes": "3.0L common-rail turbo diesel 3-tonne tow vehicle."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "RA",
+          "category": "exterior",
+          "caption": "2007 Holden RA Rodeo LX Crew Cab 4-door utility. Photographed in Taren Point, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2007-2008_Holden_RA_Rodeo_LX_Crew_Cab_4-door_utility_01.jpg/1280px-2007-2008_Holden_RA_Rodeo_LX_Crew_Cab_4-door_utility_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/holden/rodeo/holden_rodeo_RA_1_2007-2008_Holden_RA_Rodeo_LX_Crew_Cab_4-door_utility_01.jpg",
+          "file_size_bytes": 231227,
+          "sha256": "a61e194869c0463d23a9462db57b0347380a3d0ca7ffd751245d29d10b6a47ee"
+        }
+      ]
+    }
+  ]
+}

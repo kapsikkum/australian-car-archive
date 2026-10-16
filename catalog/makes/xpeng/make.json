@@ -1,0 +1,41 @@
+{
+  "make_slug": "xpeng",
+  "name": "XPENG",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2024,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "High-tech smart EV manufacturer entering Australia in late 2024 with the 800V silicon carbide G6 coupe-SUV, distributed by TrueEV.",
+  "australian_history": "XPENG Motors entered the Australian automotive market in late 2024 through independent distributor TrueEV. Renowned for its advanced autonomous driving algorithms (SEPA 2.0 platform) and ultra-fast 800V Silicon Carbide (SiC) charging architecture, XPENG launched with the G6 coupe-SUV directly targeting the Tesla Model Y. Capable of charging from 10% to 80% in just 20 minutes, the G6 arrived with five-star Euro NCAP safety and comprehensive active driver assistance.",
+  "models_catalog": [
+    {
+      "model_slug": "g6",
+      "name": "G6",
+      "vehicle_type": "Coupe SUV",
+      "segment": "Medium Electric SUV",
+      "years_sold_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "800V fast-charging coupe crossover featuring front and rear integrated aluminium die-casting and Xmart OS.",
+      "generations": [
+        {
+          "series_code": "G6-Gen1",
+          "generation_name": "XPENG G6",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door coupe-SUV"
+          ],
+          "summary": "Standard Range (66kWh LFP, 190kW) and Long Range (87.5kWh NCM, 210kW, 570km WLTP range) with 280kW DC ultra-rapid charging."
+        }
+      ]
+    }
+  ]
+}

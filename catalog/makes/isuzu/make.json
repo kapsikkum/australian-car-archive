@@ -1,0 +1,109 @@
+{
+  "make_slug": "isuzu",
+  "name": "Isuzu / Isuzu UTE",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1971,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "From providing the foundation for the Holden Gemini and Holden Rodeo to dominating Australian ute and SUV sales with the D-MAX and MU-X.",
+  "australian_history": "Isuzu's history in Australia began in the mid-1960s with small-scale imports of the Bellett and Florian sedans. The brand's true impact arrived in 1971 when General Motors acquired a 34% stake in Isuzu Japan, initiating a four-decade engineering partnership with General Motors-Holden in Australia.\n\nIn 1975, Holden adapted the Isuzu Gemini (T-car) to create the beloved Holden Gemini (TX-TG series), manufactured at Holden's Acacia Ridge plant in Brisbane. The Gemini became Australia's favourite 4-cylinder car for a decade. Holden also relied entirely on Isuzu for its commercial vehicles: the Isuzu KB became the Holden Rodeo in 1980, followed by the TF Rodeo in 1988 and RA Rodeo in 2003, which became staples of the Australian building trades and farming sectors. Similarly, the Isuzu Trooper was marketed as the Holden Jackaroo from 1981 to 2003.\n\nWhen GM and Isuzu ended their light-commercial joint venture in 2008, Isuzu established Isuzu UTE Australia (IUA) as an independent factory distributor headquartered in Brisbane. IUA launched the D-MAX utility in 2008, powered by the legendary 3.0L 4JJ1 commercial truck-derived turbo-diesel engine. Renowned for cast-iron cylinder block durability, timing chain reliability, and effortless towing, the D-MAX earned unmatched trust among outback caravanners and trades.\n\nIn 2013, IUA launched the MU-X, a 7-seat 4WD wagon based on the D-MAX chassis. The MU-X became Australia's #1 selling ute-based SUV outside Toyota. In 2020, the third-generation D-MAX and second-generation MU-X arrived, introducing standard 5-star ANCAP safety, advanced driver assist systems (IDAS), and the refined 4JJ3-TCX engine, consistently ranking among Australia's top three best-selling utes.",
+  "models_catalog": [
+    {
+      "model_slug": "d-max",
+      "name": "D-MAX",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 2008,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Isuzu UTE's powerhouse dual-cab and single-cab ute, revered across Australia for the legendary 3.0L 4JJ1/4JJ3 diesel engine.",
+      "generations": [
+        {
+          "series_code": "RA/RC",
+          "generation_name": "D-MAX 1st Gen (AU)",
+          "years": {
+            "start": 2008,
+            "end": 2012
+          },
+          "body_styles": [
+            "Single Cab",
+            "Space Cab",
+            "Crew Cab"
+          ],
+          "summary": "3.0L 4JJ1-TC turbo-diesel 120kW/360Nm, dual-range 4WD, 3000kg towing; EX, SX, LS, LS-M, LS-U."
+        },
+        {
+          "series_code": "RT50/RT85",
+          "generation_name": "D-MAX 2nd Gen",
+          "years": {
+            "start": 2012,
+            "end": 2020
+          },
+          "body_styles": [
+            "Single Cab",
+            "Space Cab",
+            "Crew Cab"
+          ],
+          "summary": "Updated 4JJ1-TC-Hi-Power (130kW/430Nm), 3500kg towing, coil-spring front suspension; SX, LS-M, LS-U, LS-T, X-Runner."
+        },
+        {
+          "series_code": "RG01",
+          "generation_name": "D-MAX 3rd Gen",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single Cab",
+            "Space Cab",
+            "Crew Cab"
+          ],
+          "summary": "3.0L 4JJ3-TCX (140kW/450Nm) and 1.9L RZ4E-TC diesel; 5-star ANCAP IDAS; SX, LS-M, LS-U, LS-U+, X-Terrain."
+        }
+      ]
+    },
+    {
+      "model_slug": "mu-x",
+      "name": "MU-X",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2013,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "D-MAX-based 7-seat 4WD wagon featuring multi-link rear coil suspension, Australia's favourite caravan hauler.",
+      "generations": [
+        {
+          "series_code": "RF10/RF20",
+          "generation_name": "MU-X 1st Gen",
+          "years": {
+            "start": 2013,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door Wagon (7 seats)"
+          ],
+          "summary": "3.0L 4JJ1 turbo-diesel 130kW/430Nm, 5-speed then 6-speed auto, 3000kg towing; LS-M, LS-U, LS-T."
+        },
+        {
+          "series_code": "RJ01",
+          "generation_name": "MU-X 2nd Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon (7 seats)"
+          ],
+          "summary": "3.0L 4JJ3-TCX (140kW/450Nm) and 1.9L diesel, 3500kg towing, rear differential lock; LS-M, LS-U, LS-T."
+        }
+      ]
+    }
+  ]
+}

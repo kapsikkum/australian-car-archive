@@ -1,0 +1,1988 @@
+{
+  "make_slug": "holden",
+  "name": "Holden",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1948,
+    "end": 2020
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "General Motors-Holden (GM-H) was Australia's definitive domestic automaker and cultural icon. Emerging from an Adelaide saddlery founded by James Alexander Holden in 1856 and later coachbuilding giant Holden's Motor Body Builders (HMBB), Holden partnered with General Motors in 1931 and launched Australia's first mass-produced domestic motor vehicle, the 48-215 (popularly FX), on 29 November 1948. For seven decades, Holden engineered and manufactured vehicles tailored specifically to Australia's vast distances, harsh corrugated roads, and extreme climates at primary assembly complexes in Fishermans Bend and Dandenong (Victoria), Elizabeth and Woodville (South Australia), Pagewood (New South Wales), Acacia Ridge (Queensland), and Mosman Park (Western Australia). From the ubiquitous Kingswood, Monaro, and Torana to the legendary Commodore and luxury Statesman/Caprice, Holden shaped the Australian national identity, dominated Australian motorsport including multiple Bathurst 1000 victories, and exported vehicles across North America, the Middle East, South Africa, and New Zealand before local manufacturing ceased at Elizabeth on 20 October 2017 and the brand retired in 2020.",
+  "australian_history": "Holden's origins trace to 1856 when English immigrant James Alexander Holden established J.A. Holden & Co., a saddlery and leather goods business in Adelaide, South Australia. By 1917, under grandson Edward Wheewall Holden, wartime chassis import restrictions spurred the founding of Holden's Motor Body Builders Ltd (HMBB), which quickly became the Southern Hemisphere's largest coachbuilder, supplying bodies for GM, Ford, Chrysler, and Studebaker. In 1931, General Motors acquired HMBB to form General Motors-Holden's Ltd (GM-H). Under wartime Prime Minister Ben Chifley's post-WWII call for an Australian-built car, GM-H embarked on 'Project 2000' led by Laurence Hartnett. On 29 November 1948, Chifley famously unveiled the Holden 48-215 (later known as the FX) with the immortal words: 'She's a beauty!'.\n\nThroughout the 1950s and 1960s, Holden held over 50% market share with the FJ (1953), the modern FE and FC series, and the breakthrough 1963 EH Holden, which introduced the ultra-reliable Red motor (149ci and 179ci) and sold over 250,000 units in 18 months. In 1968, Holden introduced the full-size HK series, introducing the iconic Kingswood nameplate, the pillarless Monaro sports coupe (which won the 1968 Bathurst 500 on debut with Bruce McPhee), and Holden's first locally designed and manufactured V8 engines (the 253ci and 308ci Red V8s cast at Fishermans Bend). The compact HB/LC/LJ Torana line cemented Holden's racing pedigree through Peter Brock and the Holden Dealer Team (HDT), achieving legendary status with the triple-carburettor LJ GTR XU-1 and the V8-powered LH/LX SL/R 5000 and A9X options.\n\nIn 1977, Holden pioneered Radial Tuned Suspension (RTS), transforming Australian handling dynamics across the HZ and Torana lineups. The oil crises of the 1970s prompted Holden to downsize from the traditional full-size Kingswood platform to a European-derived mid-size architecture, resulting in the launch of the VB Commodore in October 1978. Based on an Opel Rekord/Senator foundation but comprehensively re-engineered with 35% heavier body stiffening and rugged Australian suspension, the Commodore went on to become Australia's best-selling car for 15 consecutive years (1996-2010). Under the Australian Federal Government's Button Car Plan in the late 1980s, GM-H formed the United Australian Automobile Industries (UAAI) joint venture with Toyota, producing badge-engineered models including the Nova (Corolla) and Apollo (Camry) until 1996.\n\nIn 2006, Holden achieved its engineering pinnacle with the VE Commodore, a $1.03 billion ground-up Australian development on GM's global rear-wheel-drive Zeta platform. The Zeta platform also spawned the long-wheelbase WM Statesman/Caprice and underpinned exported vehicles including the Pontiac G8, Chevrolet SS, and Chevrolet Caprice Police Pursuit Vehicle (PPV) in the United States. Following the global financial crisis, shifting consumer preferences toward compact SUVs, the soaring Australian dollar, and escalating manufacturing cost pressures, General Motors announced in December 2013 that it would cease manufacturing in Australia. On 20 October 2017, the final Australian-built Holden—a Red Hot VF Series II Commodore SS-V Redline sedan—rolled off the Elizabeth assembly line in South Australia. Holden transitioned briefly to an all-import lineup, including the European Opel-sourced ZB Commodore and US-sourced Acadia and Equinox SUVs, before General Motors retired the historic Holden marque permanently at the end of 2020.",
+  "models_catalog": [
+    {
+      "model_slug": "48-215",
+      "name": "Holden 48-215 (FX)",
+      "vehicle_type": "Sedan / Coupe Utility",
+      "segment": "Mid-size / Large",
+      "years_sold_au": {
+        "start": 1948,
+        "end": 1953
+      },
+      "locally_built": true,
+      "overview": "The original 'Australia's Own Car', an aerodynamically styled unibody sedan powered by the rugged 132.5ci 'Grey Motor' inline-six. In 1951, the 50-2106 coupe utility was introduced.",
+      "generations": [
+        {
+          "series_code": "48-215",
+          "generation_name": "Holden 48-215 / 50-2106",
+          "years": {
+            "start": 1948,
+            "end": 1953
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe utility",
+            "Business sedan"
+          ],
+          "summary": "First Australian-manufactured mass-market automobile. Introduced unibody construction, 60 bhp 2.15L Grey inline-six, and 3-speed manual column shift."
+        }
+      ]
+    },
+    {
+      "model_slug": "fj",
+      "name": "Holden FJ",
+      "vehicle_type": "Sedan / Coupe Utility / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1953,
+        "end": 1956
+      },
+      "locally_built": true,
+      "overview": "The iconic face of 1950s Australia, featuring a bold horizontal chrome front grille, upgraded trim levels including the Special, and introducing the famous Panel Van.",
+      "generations": [
+        {
+          "series_code": "FJ",
+          "generation_name": "Holden FJ Series",
+          "years": {
+            "start": 1953,
+            "end": 1956
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Substantial facelift of the 48-215 with Standard, Business, and Special trim levels. Over 169,969 units produced."
+        }
+      ]
+    },
+    {
+      "model_slug": "fe",
+      "name": "Holden FE",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1956,
+        "end": 1958
+      },
+      "locally_built": true,
+      "overview": "First major redesign with contemporary low-line styling, curved one-piece windscreen, 12-volt electrical system, and the introduction of the first Holden Station Sedan (wagon).",
+      "generations": [
+        {
+          "series_code": "FE",
+          "generation_name": "Holden FE Series",
+          "years": {
+            "start": 1956,
+            "end": 1958
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Modernized chassis, longer 105-inch wheelbase, 70 bhp Grey motor, pendant pedals, and first factory Holden station wagon."
+        }
+      ]
+    },
+    {
+      "model_slug": "fc",
+      "name": "Holden FC",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1958,
+        "end": 1960
+      },
+      "locally_built": true,
+      "overview": "Facelifted FE featuring bolder grille, tail-fin chrome spears, upgraded interior, and improved 72 bhp Grey engine. Captured over 50% of the Australian passenger vehicle market.",
+      "generations": [
+        {
+          "series_code": "FC",
+          "generation_name": "Holden FC Series",
+          "years": {
+            "start": 1958,
+            "end": 1960
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "High-water mark for market dominance with 191,724 units produced. Available in Standard, Business, and Special."
+        }
+      ]
+    },
+    {
+      "model_slug": "fb",
+      "name": "Holden FB",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1960,
+        "end": 1961
+      },
+      "locally_built": true,
+      "overview": "American-inspired styling with wraparound dogleg windscreen, rear finettes, and increased interior room. The first Holden exported in left-hand drive.",
+      "generations": [
+        {
+          "series_code": "FB",
+          "generation_name": "Holden FB Series",
+          "years": {
+            "start": 1960,
+            "end": 1961
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Bigger, heavier body with 138ci Grey motor, lower center of gravity, and American 1950s styling cues."
+        }
+      ]
+    },
+    {
+      "model_slug": "ek",
+      "name": "Holden EK",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1961,
+        "end": 1962
+      },
+      "locally_built": true,
+      "overview": "The first Holden to offer an automatic transmission—the 3-speed GM Hydra-Matic imported from the United States. Also introduced electric windscreen wipers.",
+      "generations": [
+        {
+          "series_code": "EK",
+          "generation_name": "Holden EK Series",
+          "years": {
+            "start": 1961,
+            "end": 1962
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Refined FB with Hydra-Matic 3-speed automatic option, modified rear quarter side trim, and final evolution of the 138 Grey motor."
+        }
+      ]
+    },
+    {
+      "model_slug": "ej",
+      "name": "Holden EJ",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1962,
+        "end": 1963
+      },
+      "locally_built": true,
+      "overview": "Clean modern European-influenced styling that shed fins and wraparound glass. Introduced the ultra-luxurious Premier badge with leather upholstery and standard Hydra-Matic.",
+      "generations": [
+        {
+          "series_code": "EJ",
+          "generation_name": "Holden EJ Series",
+          "years": {
+            "start": 1962,
+            "end": 1963
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "All-new crisp body design, Duo-Servo brakes, Premier trim with bucket seats and metallic paint, and the 1,000,000th Holden produced."
+        }
+      ]
+    },
+    {
+      "model_slug": "eh",
+      "name": "Holden EH",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1963,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "One of the most beloved Holdens in history, introducing the revolutionary overhead-valve 'Red' six-cylinder engines (149ci and 179ci) with seven-bearing crankshafts.",
+      "generations": [
+        {
+          "series_code": "EH",
+          "generation_name": "Holden EH Series",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Debut of the 149 and 179 Red engines, new square roofline, S4 racing homologation special, and record 256,959 units sold in 18 months."
+        }
+      ]
+    },
+    {
+      "model_slug": "hd",
+      "name": "Holden HD",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1965,
+        "end": 1966
+      },
+      "locally_built": true,
+      "overview": "Wider, longer body featuring distinctive kidney-grille front styling and sharp front fender extensions. Introduced the twin-carburettor X2 high-performance engine option.",
+      "generations": [
+        {
+          "series_code": "HD",
+          "generation_name": "Holden HD Series",
+          "years": {
+            "start": 1965,
+            "end": 1966
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Power disc brakes option, 179 X2 twin-carb engine (140 bhp), Powerglide 2-speed automatic, and spacious new cabin."
+        }
+      ]
+    },
+    {
+      "model_slug": "hr",
+      "name": "Holden HR",
+      "vehicle_type": "Sedan / Station Sedan / Ute / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1966,
+        "end": 1968
+      },
+      "locally_built": true,
+      "overview": "Clever restyle of the HD with smoothed front fenders and vertical tail lamps. Introduced enlarged 161ci and 186ci Red engines, wider wheel track, and standard seatbelt anchorages.",
+      "generations": [
+        {
+          "series_code": "HR",
+          "generation_name": "Holden HR Series",
+          "years": {
+            "start": 1966,
+            "end": 1968
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Introduction of 161 and 186 Red engines, 186 X2, and 186S with twin-barrel Carter carburettor; 4-speed manual gearbox option."
+        }
+      ]
+    },
+    {
+      "model_slug": "kingswood",
+      "name": "Holden Kingswood / Belmont / Premier",
+      "vehicle_type": "Sedan / Wagon / Utility / Panel Van / Cab Chassis",
+      "segment": "Full-size",
+      "years_sold_au": {
+        "start": 1968,
+        "end": 1985
+      },
+      "locally_built": true,
+      "overview": "The backbone of Australian family and commercial transport through the HK, HT, HG, HQ, HJ, HX, HZ, and WB series, establishing the Kingswood as an Australian cultural idiom.",
+      "generations": [
+        {
+          "series_code": "HK",
+          "generation_name": "HK Series",
+          "years": {
+            "start": 1968,
+            "end": 1969
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van"
+          ],
+          "summary": "Introduced Belmont, Kingswood, and Premier badges, energy-absorbing steering column, and Chevrolet 307 V8."
+        },
+        {
+          "series_code": "HT",
+          "generation_name": "HT Series",
+          "years": {
+            "start": 1969,
+            "end": 1970
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van"
+          ],
+          "summary": "First Australian-designed Holden V8 engines (253 and 308ci Red V8s), neoprene rubber suspension bushings, and plastic grille."
+        },
+        {
+          "series_code": "HG",
+          "generation_name": "HG Series",
+          "years": {
+            "start": 1970,
+            "end": 1971
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van"
+          ],
+          "summary": "Introduction of the Australian-designed Tri-Matic 3-speed automatic transmission."
+        },
+        {
+          "series_code": "HQ",
+          "generation_name": "HQ Series",
+          "years": {
+            "start": 1971,
+            "end": 1974
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van",
+            "Cab Chassis (One Tonner)"
+          ],
+          "summary": "Total ground-up redesign with perimeter subframe, all-coil suspension, flow-through ventilation. Best-selling single Holden series with 485,650 units built."
+        },
+        {
+          "series_code": "HJ",
+          "generation_name": "HJ Series",
+          "years": {
+            "start": 1974,
+            "end": 1976
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van",
+            "One Tonner"
+          ],
+          "summary": "Squarer frontal design, wrap-around lights, Sandman surf-culture van and ute packs, improved seating and sound deadening."
+        },
+        {
+          "series_code": "HX",
+          "generation_name": "HX Series",
+          "years": {
+            "start": 1976,
+            "end": 1977
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van",
+            "One Tonner"
+          ],
+          "summary": "Updated engines engineered to meet strict ADR 27A emission regulations; distinctive Kingswood 50th Anniversary edition."
+        },
+        {
+          "series_code": "HZ",
+          "generation_name": "HZ Series",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Panel Van",
+            "One Tonner"
+          ],
+          "summary": "Standardization of Radial Tuned Suspension (RTS) with four-wheel disc brakes on upper trims, revolutionizing road handling."
+        },
+        {
+          "series_code": "WB",
+          "generation_name": "WB Series",
+          "years": {
+            "start": 1980,
+            "end": 1985
+          },
+          "body_styles": [
+            "Utility",
+            "Panel Van",
+            "One Tonner"
+          ],
+          "summary": "Commercial-only evolution featuring modern squared front clip, Blue six/V8 engines, and revised instrument panel."
+        }
+      ]
+    },
+    {
+      "model_slug": "monaro",
+      "name": "Holden Monaro",
+      "vehicle_type": "Coupe / Sedan",
+      "segment": "Sports / Muscle Car",
+      "years_sold_au": {
+        "start": 1968,
+        "end": 2006
+      },
+      "locally_built": true,
+      "overview": "Australia's premier muscle car and two-door sports coupe, immortalized at Mount Panorama with back-to-back Bathurst victories and resurrected in 2001 as a modern grand tourer.",
+      "generations": [
+        {
+          "series_code": "HK-HG",
+          "generation_name": "First Generation (HK, HT, HG)",
+          "years": {
+            "start": 1968,
+            "end": 1971
+          },
+          "body_styles": [
+            "2-door hardtop coupe"
+          ],
+          "summary": "Iconic pillarless coupe styling; GTS 327 (1968 Bathurst winner) and GTS 350 (1969 Bathurst winner) powered by imported Chevrolet small-blocks."
+        },
+        {
+          "series_code": "HQ-HX",
+          "generation_name": "Second Generation (HQ, HJ, HX, HZ)",
+          "years": {
+            "start": 1971,
+            "end": 1977
+          },
+          "body_styles": [
+            "2-door coupe",
+            "4-door sedan"
+          ],
+          "summary": "Bold American muscle proportions, 350 V8 in HQ, 4-door GTS sedan introduced in 1973, and the collector-grade HX LE coupe."
+        },
+        {
+          "series_code": "V2-VZ",
+          "generation_name": "Third Generation (V2, VZ)",
+          "years": {
+            "start": 2001,
+            "end": 2006
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "Mike Simcoe-designed concept made reality. Powered by 5.7L LS1 V8 and supercharged V6; exported to the US as the Pontiac GTO and the UK as Vauxhall Monaro."
+        }
+      ]
+    },
+    {
+      "model_slug": "torana",
+      "name": "Holden Torana",
+      "vehicle_type": "Sedan / Coupe / Hatchback",
+      "segment": "Compact / Mid-size",
+      "years_sold_au": {
+        "start": 1967,
+        "end": 1980
+      },
+      "locally_built": true,
+      "overview": "From Vauxhall Viva origins to triple-carburettor Bathurst champion and thunderous V8 hatchback, the Torana was central to Australian motorsport folklore.",
+      "generations": [
+        {
+          "series_code": "HB",
+          "generation_name": "HB Series",
+          "years": {
+            "start": 1967,
+            "end": 1969
+          },
+          "body_styles": [
+            "2-door sedan",
+            "4-door sedan"
+          ],
+          "summary": "Vauxhall Viva HB derived compact car with 1.2L engine, later expanded into 4-door Brabham special."
+        },
+        {
+          "series_code": "LC-LJ",
+          "generation_name": "LC & LJ Series",
+          "years": {
+            "start": 1969,
+            "end": 1974
+          },
+          "body_styles": [
+            "2-door coupe",
+            "4-door sedan"
+          ],
+          "summary": "Stretched wheelbase packaging the 6-cylinder Red engine; legendary GTR and GTR XU-1 (Brock 1972 Bathurst victory with triple Stromberg 202ci)."
+        },
+        {
+          "series_code": "LH-LX",
+          "generation_name": "LH & LX Series",
+          "years": {
+            "start": 1974,
+            "end": 1978
+          },
+          "body_styles": [
+            "4-door sedan",
+            "3-door hatchback"
+          ],
+          "summary": "First Australian car engineered to accommodate 4-, 6-, and 8-cylinder engines. Home to the SL/R 5000, L34, and Bathurst-conquering A9X option."
+        },
+        {
+          "series_code": "UC",
+          "generation_name": "UC Series",
+          "years": {
+            "start": 1978,
+            "end": 1980
+          },
+          "body_styles": [
+            "4-door sedan",
+            "3-door hatchback"
+          ],
+          "summary": "Refined front and rear styling, standard RTS suspension, Starfire 1.9L and 2.85/3.3L sixes."
+        }
+      ]
+    },
+    {
+      "model_slug": "statesman-caprice",
+      "name": "Holden Statesman / Caprice",
+      "vehicle_type": "Sedan",
+      "segment": "Upper Luxury / Limousine",
+      "years_sold_au": {
+        "start": 1971,
+        "end": 2017
+      },
+      "locally_built": true,
+      "overview": "Holden's flagship long-wheelbase luxury sedan, serving prime ministers, business leaders, and private hire fleets with cavernous rear legroom and V8 power.",
+      "generations": [
+        {
+          "series_code": "HQ-WB",
+          "generation_name": "HQ-WB Series",
+          "years": {
+            "start": 1971,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "summary": "Extended 114-inch wheelbase luxury cruiser. Statesman Custom, de Ville, and Caprice trims with 308ci V8 and plush velour/leather."
+        },
+        {
+          "series_code": "VQ-VS",
+          "generation_name": "VQ, VR, VS Series",
+          "years": {
+            "start": 1990,
+            "end": 1999
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "summary": "Reborn on extended VN/VP architecture with independent rear suspension (IRS), 3.8L V6, 5.0L EFI V8, and Series III supercharged V6."
+        },
+        {
+          "series_code": "WH-WL",
+          "generation_name": "WH, WK, WL Series",
+          "years": {
+            "start": 1999,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "summary": "Modernized styling with 5.7L LS1 V8, dual-zone climate, memory seating; exported to Middle East as Chevrolet Caprice and China as Buick Royaum."
+        },
+        {
+          "series_code": "WM-WN",
+          "generation_name": "WM, WN Series",
+          "years": {
+            "start": 2006,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan"
+          ],
+          "summary": "Billion-dollar Zeta platform limousine with 6.0L L98/L77 and 6.2L LS3 V8. Supplied to the US as the Chevrolet Caprice PPV police interceptor."
+        }
+      ]
+    },
+    {
+      "model_slug": "commodore",
+      "name": "Holden Commodore / Calais / Berlina",
+      "vehicle_type": "Sedan / Wagon / Utility",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1978,
+        "end": 2020
+      },
+      "locally_built": true,
+      "overview": "The undisputed king of the Australian road for nearly three decades, spanning 16 series codes from the European-derived VB to the home-grown Zeta-platform VE/VF and imported ZB.",
+      "generations": [
+        {
+          "series_code": "VB-VL",
+          "generation_name": "First Generation (VB, VC, VH, VK, VL)",
+          "years": {
+            "start": 1978,
+            "end": 1988
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Downsized family car adapted from Opel Rekord/Senator with heavy-duty Australian reinforcement; featured Red/Blue/Black sixes and Nissan RB30E/Turbo six."
+        },
+        {
+          "series_code": "VN-VS",
+          "generation_name": "Second Generation (VN, VP, VR, VS)",
+          "years": {
+            "start": 1988,
+            "end": 1997
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility"
+          ],
+          "summary": "Widened body designed for Australian family widths; introduction of Buick-sourced 3.8L V6, local 5.0L EFI V8, VG ute, and VR/VS IRS & driver airbags."
+        },
+        {
+          "series_code": "VT-VZ",
+          "generation_name": "Third Generation (VT, VX, VY, VZ)",
+          "years": {
+            "start": 1997,
+            "end": 2006
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Utility",
+            "Cab Chassis (One Tonner)",
+            "Crewman Dual Cab"
+          ],
+          "summary": "Smooth aerodynamic styling; all-round IRS, Gen III LS1 5.7L V8, introduction of Alloytec 3.6L V6 in VZ; spawned Monaro, Adventra, and Crewman."
+        },
+        {
+          "series_code": "VE-VF",
+          "generation_name": "Fourth Generation (VE, VF)",
+          "years": {
+            "start": 2006,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportwagon",
+            "Utility"
+          ],
+          "summary": "Australia's $1 billion ground-up Zeta platform masterpiece. 5-star ANCAP, SIDI V6, 6.0L/6.2L V8 engines, Head-Up Display; exported as Pontiac G8 and Chevy SS."
+        },
+        {
+          "series_code": "ZB",
+          "generation_name": "Fifth Generation (ZB)",
+          "years": {
+            "start": 2018,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door liftback",
+            "Sportwagon"
+          ],
+          "summary": "Imported from Opel in Ruesselsheim, Germany (Insignia-based). FWD/AWD layout with 2.0L Turbo and 3.6L V6; final vehicle to carry the Commodore nameplate."
+        }
+      ]
+    },
+    {
+      "model_slug": "gemini",
+      "name": "Holden Gemini",
+      "vehicle_type": "Sedan / Coupe / Wagon / Van",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 1975,
+        "end": 1987
+      },
+      "locally_built": true,
+      "overview": "Holden's smash-hit small car based on GM's T-Car platform and Isuzu mechanicals, winning Wheels Car of the Year in 1975 and dominating the economy market.",
+      "generations": [
+        {
+          "series_code": "TX-TG",
+          "generation_name": "RWD Gemini (TX, TC, TD, TE, TF, TG)",
+          "years": {
+            "start": 1975,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door coupe",
+            "3-door wagon",
+            "3-door panel van"
+          ],
+          "summary": "RWD architecture, Isuzu G161Z 1.6L SOHC engine, RTS handling introduced on TD, Isuzu diesel option on TE, and TG ZZ/Z sporting edition."
+        },
+        {
+          "series_code": "RB",
+          "generation_name": "FWD Gemini (RB)",
+          "years": {
+            "start": 1985,
+            "end": 1987
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Front-wheel-drive generation built at Acacia Ridge; 1.5L SOHC engine; replaced by the Holden Nova."
+        }
+      ]
+    },
+    {
+      "model_slug": "camira",
+      "name": "Holden Camira",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 1982,
+        "end": 1989
+      },
+      "locally_built": true,
+      "overview": "Holden's version of GM's global J-Car platform, winning 1982 Wheels Car of the Year for its ride and packaging before being challenged by early quality control issues.",
+      "generations": [
+        {
+          "series_code": "JB-JE",
+          "generation_name": "Holden Camira (JB, JD, JE)",
+          "years": {
+            "start": 1982,
+            "end": 1989
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "Front-wheel-drive Family II 1.6L and 1.8L OHC engines, Family II multipoint EFI 2.0L in JE, and five-speed manual transmission."
+        }
+      ]
+    },
+    {
+      "model_slug": "barina",
+      "name": "Holden Barina",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light / Light Commercial",
+      "years_sold_au": {
+        "start": 1985,
+        "end": 2018
+      },
+      "locally_built": false,
+      "overview": "Holden's enduring light car, evolving from Suzuki Cultus/Swift origins to European Opel Corsa generations (SB, XC) and Korean GM Daewoo models (TK, TM).",
+      "generations": [
+        {
+          "series_code": "MB-MH",
+          "generation_name": "Suzuki-derived Barina (MB, ML, MF, MH)",
+          "years": {
+            "start": 1985,
+            "end": 1994
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Built by Suzuki in Japan. Ultra-frugal 1.3L carburettor and EFI engines; Wheels COTY winner in 1985."
+        },
+        {
+          "series_code": "SB-XC",
+          "generation_name": "Opel Corsa-derived Barina (SB, XC)",
+          "years": {
+            "start": 1994,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback",
+            "Sedan"
+          ],
+          "summary": "European Opel Corsa B and C imports with 1.4L and 1.6L 16V engines; sporty GSi and SRi hot hatch variants."
+        },
+        {
+          "series_code": "TK-TM",
+          "generation_name": "Global GM Barina (TK, TM)",
+          "years": {
+            "start": 2005,
+            "end": 2018
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback",
+            "4-door sedan"
+          ],
+          "summary": "GM Korea (Daewoo Kalos/Sonic) sourced; TM introduced 1.4L Turbo RS and MyLink touchscreen infotainment."
+        }
+      ]
+    },
+    {
+      "model_slug": "astra",
+      "name": "Holden Astra",
+      "vehicle_type": "Hatchback / Sedan / Wagon / Convertible",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 1984,
+        "end": 2020
+      },
+      "locally_built": true,
+      "overview": "Spanned Nissan Pulsar rebadged versions (LB-LD built in Clayton) through highly acclaimed European Opel Astra generations (TR, TS, AH, PJ, BK/BL).",
+      "generations": [
+        {
+          "series_code": "LB-LD",
+          "generation_name": "Nissan Pulsar derivative (LB, LC, LD)",
+          "years": {
+            "start": 1984,
+            "end": 1989
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "4-door sedan"
+          ],
+          "summary": "Locally assembled with Nissan bodyshell and Holden Family II 1.6L/1.8L engines under UAAI precursor agreements."
+        },
+        {
+          "series_code": "TR-AH",
+          "generation_name": "Opel Astra Generations (TR, TS, AH)",
+          "years": {
+            "start": 1996,
+            "end": 2009
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback",
+            "4-door sedan",
+            "Wagon",
+            "Convertible"
+          ],
+          "summary": "Beloved European hot hatches and family cars; SRi, Turbo, and 177kW OPC/VXR performance flagships."
+        },
+        {
+          "series_code": "PJ-BK",
+          "generation_name": "Modern European Astra (PJ GTC/VXR, BK/BL)",
+          "years": {
+            "start": 2015,
+            "end": 2020
+          },
+          "body_styles": [
+            "3-door coupe",
+            "5-door hatchback",
+            "Sedan"
+          ],
+          "summary": "GTC/VXR coupes followed by 2016 European Car of the Year BK hatchback with 1.4T and 1.6T engines."
+        }
+      ]
+    },
+    {
+      "model_slug": "colorado",
+      "name": "Holden Colorado",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Light Commercial / Mid-size Pick-up",
+      "years_sold_au": {
+        "start": 2008,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Holden's tough mid-size dual-cab and cab-chassis workhorse, replacing the Rodeo and boasting 3.5-tonne towing and potent Duramax turbo-diesel torque.",
+      "generations": [
+        {
+          "series_code": "RC",
+          "generation_name": "Colorado RC Series",
+          "years": {
+            "start": 2008,
+            "end": 2012
+          },
+          "body_styles": [
+            "Single Cab",
+            "Space Cab",
+            "Crew Cab"
+          ],
+          "summary": "Built in Thailand with Isuzu partnership; 3.0L 4JJ1-TC turbo diesel and 3.6L Alloytec V6."
+        },
+        {
+          "series_code": "RG",
+          "generation_name": "Colorado RG Series",
+          "years": {
+            "start": 2012,
+            "end": 2020
+          },
+          "body_styles": [
+            "Single Cab",
+            "Space Cab",
+            "Crew Cab"
+          ],
+          "summary": "Global GM platform with 2.8L Duramax diesel (500Nm); heavily revised in 2016 with Holden Australian chassis dynamics tuning."
+        }
+      ]
+    },
+    {
+      "model_slug": "rodeo",
+      "name": "Holden Rodeo",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Commercial",
+      "years_sold_au": {
+        "start": 1980,
+        "end": 2008
+      },
+      "locally_built": false,
+      "overview": "Holden's legendary commercial workhorse manufactured by Isuzu in Japan and Thailand across KB, TF, and RA generations.",
+      "generations": [
+        {
+          "series_code": "KB-RA",
+          "generation_name": "Rodeo Series (KB, TF, RA)",
+          "years": {
+            "start": 1980,
+            "end": 2008
+          },
+          "body_styles": [
+            "Single Cab",
+            "Space Cab",
+            "Crew Cab"
+          ],
+          "summary": "Renowned for bulletproof reliability, 4WD transfer cases, and Isuzu direct-injection turbo-diesels."
+        }
+      ]
+    },
+    {
+      "model_slug": "captiva",
+      "name": "Holden Captiva",
+      "vehicle_type": "SUV",
+      "segment": "Medium / Large SUV",
+      "years_sold_au": {
+        "start": 2006,
+        "end": 2018
+      },
+      "locally_built": false,
+      "overview": "High-volume family SUV offering 5- and 7-seat configurations (Captiva 5 and Captiva 7 / MaXX) with Australian-cast Alloytec V6 and diesel powertrains.",
+      "generations": [
+        {
+          "series_code": "CG",
+          "generation_name": "Captiva CG Series",
+          "years": {
+            "start": 2006,
+            "end": 2018
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "GM Theta platform with 3.2L/3.0L SIDI V6, 2.0L/2.2L turbo diesel, AWD and FWD configurations."
+        }
+      ]
+    },
+    {
+      "model_slug": "cruze",
+      "name": "Holden Cruze",
+      "vehicle_type": "Sedan / Hatchback / Sportwagon",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 2002,
+        "end": 2016
+      },
+      "locally_built": true,
+      "overview": "First imported as a compact Suzuki-based AWD (YG), then manufactured locally at Elizabeth SA from 2011 to 2016 (JG/JH), producing over 126,000 Australian units.",
+      "generations": [
+        {
+          "series_code": "YG",
+          "generation_name": "Cruze YG Series",
+          "years": {
+            "start": 2002,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door compact AWD wagon"
+          ],
+          "summary": "Suzuki Ignis derived light crossover with 1.5L engine and on-demand AWD."
+        },
+        {
+          "series_code": "JG-JH",
+          "generation_name": "Cruze JG & JH Series (Locally Built)",
+          "years": {
+            "start": 2009,
+            "end": 2016
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door hatchback",
+            "Sportwagon"
+          ],
+          "summary": "GM Delta II platform built at Elizabeth SA. 1.8L naturally aspirated, 1.4L Turbo, 1.6L Turbo SRi, and 2.0L Turbo Diesel."
+        }
+      ]
+    },
+    {
+      "model_slug": "jackaroo",
+      "name": "Holden Jackaroo",
+      "vehicle_type": "4WD / SUV",
+      "segment": "Large 4WD",
+      "years_sold_au": {
+        "start": 1981,
+        "end": 2004
+      },
+      "locally_built": false,
+      "overview": "Tough body-on-frame 4WD manufactured by Isuzu (Bighorn/Trooper), highly respected in the Australian Outback for off-road durability.",
+      "generations": [
+        {
+          "series_code": "UBS-1",
+          "generation_name": "Jackaroo First Generation (UBS-1)",
+          "years": {
+            "start": 1981,
+            "end": 1992
+          },
+          "body_styles": [
+            "3-door wagon",
+            "5-door wagon"
+          ],
+          "summary": "Leaf-sprung rear suspension, 2.0L/2.3L/2.6L petrol and 2.2L/2.8L turbo-diesel engines."
+        },
+        {
+          "series_code": "UBS-2",
+          "generation_name": "Jackaroo Second Generation (UBS-2)",
+          "years": {
+            "start": 1992,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door wagon"
+          ],
+          "summary": "Coil-sprung chassis, 3.2L/3.5L DOHC V6, 3.0L common-rail 4JX1-TC turbo diesel, Monterey luxury pack."
+        }
+      ]
+    },
+    {
+      "model_slug": "frontera",
+      "name": "Holden Frontera",
+      "vehicle_type": "4WD / SUV",
+      "segment": "Compact / Mid-size 4WD",
+      "years_sold_au": {
+        "start": 1995,
+        "end": 2004
+      },
+      "locally_built": false,
+      "overview": "Sporty lifestyle 4WD based on the Isuzu MU / Amigo / Rodeo platform, available in SWB Sport and LWB family variants.",
+      "generations": [
+        {
+          "series_code": "UT-UE",
+          "generation_name": "Frontera UT & UE Series",
+          "years": {
+            "start": 1995,
+            "end": 2004
+          },
+          "body_styles": [
+            "3-door wagon",
+            "5-door wagon"
+          ],
+          "summary": "2.0L/2.2L 4-cylinder and 3.2L DOHC V6 with dual-range shift-on-the-fly 4WD."
+        }
+      ]
+    },
+    {
+      "model_slug": "adventra",
+      "name": "Holden Adventra",
+      "vehicle_type": "All-Wheel Drive Wagon",
+      "segment": "Crossover / Large AWD",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2006
+      },
+      "locally_built": true,
+      "overview": "Cross-over all-wheel-drive wagon based on the VY II/VZ Commodore wagon with Cross Trac permanent AWD (62% rear torque bias) and raised ride height.",
+      "generations": [
+        {
+          "series_code": "VY-VZ",
+          "generation_name": "Adventra VY II & VZ Series",
+          "years": {
+            "start": 2003,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door AWD wagon"
+          ],
+          "summary": "Cross Trac AWD with automatic brake differential; 5.7L LS1 V8 (CX8, LX8) and 190kW Alloytec V6 (CX6, LX6)."
+        }
+      ]
+    },
+    {
+      "model_slug": "crewman",
+      "name": "Holden Crewman",
+      "vehicle_type": "Dual-Cab Utility",
+      "segment": "Commercial / Lifestyle Ute",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2007
+      },
+      "locally_built": true,
+      "overview": "Australian-designed and built 4-door dual-cab ute built on the extended long-wheelbase Statesman chassis, offered in RWD and Cross Trac AWD (Cross 6 / Cross 8).",
+      "generations": [
+        {
+          "series_code": "VY-VZ",
+          "generation_name": "Crewman VY II & VZ Series",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door dual-cab utility"
+          ],
+          "summary": "Heavy-duty leaf-sprung rear axle, seating for five, Cross Trac AWD option, and SS 5.7L/6.0L V8 models."
+        }
+      ]
+    },
+    {
+      "model_slug": "vectra",
+      "name": "Holden Vectra",
+      "vehicle_type": "Sedan / Hatchback / Wagon",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 1997,
+        "end": 2006
+      },
+      "locally_built": true,
+      "overview": "European-designed mid-size car imported initially from Belgium then manufactured locally at Elizabeth SA (1998-2001) before reverting to German imports (ZC).",
+      "generations": [
+        {
+          "series_code": "JR-JS",
+          "generation_name": "Vectra JR & JS (Locally Built)",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door hatchback",
+            "5-door wagon"
+          ],
+          "summary": "Elizabeth-built European mid-sizer with 2.0L Family II 16V and 2.5L 24V DOHC V6."
+        },
+        {
+          "series_code": "ZC",
+          "generation_name": "Vectra ZC Series",
+          "years": {
+            "start": 2003,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door hatchback"
+          ],
+          "summary": "Opel Vectra C import featuring 2.2L direct injection and 3.2L V6."
+        }
+      ]
+    },
+    {
+      "model_slug": "nova",
+      "name": "Holden Nova",
+      "vehicle_type": "Sedan / Hatchback",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 1989,
+        "end": 1996
+      },
+      "locally_built": true,
+      "overview": "Badge-engineered Toyota Corolla built alongside the Corolla under the UAAI joint venture at Altona and Dandenong, Victoria.",
+      "generations": [
+        {
+          "series_code": "LE-LG",
+          "generation_name": "Nova LE, LF, LG Series",
+          "years": {
+            "start": 1989,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door hatchback"
+          ],
+          "summary": "Toyota 4A-FE 1.6L and 7A-FE 1.8L twin-cam 16-valve engines; SL, SLX, and sporty GS trims."
+        }
+      ]
+    },
+    {
+      "model_slug": "apollo",
+      "name": "Holden Apollo",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size",
+      "years_sold_au": {
+        "start": 1989,
+        "end": 1997
+      },
+      "locally_built": true,
+      "overview": "Badge-engineered Toyota Camry built in Victoria under the UAAI joint venture, offering outstanding reliability with Holden branding.",
+      "generations": [
+        {
+          "series_code": "JK-JP",
+          "generation_name": "Apollo JK, JL, JM, JP Series",
+          "years": {
+            "start": 1989,
+            "end": 1997
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "Toyota 2.0L 3S-FE, 2.2L 5S-FE, and silky smooth 3.0L 3VZ-FE quad-cam V6."
+        }
+      ]
+    },
+    {
+      "model_slug": "calibra",
+      "name": "Holden Calibra",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Coupe",
+      "years_sold_au": {
+        "start": 1991,
+        "end": 1997
+      },
+      "locally_built": false,
+      "overview": "Stunning aerodynamic coupe with a drag coefficient of just 0.26 Cd, offering 2.0L 16V, 2.5L V6, and 2.0L Turbo 4x4 options.",
+      "generations": [
+        {
+          "series_code": "YE",
+          "generation_name": "Calibra YE Series",
+          "years": {
+            "start": 1991,
+            "end": 1997
+          },
+          "body_styles": [
+            "2-door liftback coupe"
+          ],
+          "summary": "Imported from Opel in Germany; 2.0L C20XE (110kW), 2.5L V6 (125kW), and 150kW C20LET Turbo 4x4 with 6-speed manual."
+        }
+      ]
+    },
+    {
+      "model_slug": "trax",
+      "name": "Holden Trax",
+      "vehicle_type": "Compact SUV",
+      "segment": "Small SUV",
+      "years_sold_au": {
+        "start": 2013,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Popular city-sized compact crossover SUV built on GM's Gamma II platform, powered by 1.8L and 1.4L Turbo petrol engines.",
+      "generations": [
+        {
+          "series_code": "TJ",
+          "generation_name": "Trax TJ Series",
+          "years": {
+            "start": 2013,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "LS, LT, and LTZ models; Apple CarPlay/Android Auto, turbo boost, and 5-star ANCAP safety."
+        }
+      ]
+    },
+    {
+      "model_slug": "equinox",
+      "name": "Holden Equinox",
+      "vehicle_type": "Medium SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2017,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Mid-size American crossover imported from GM Mexico, featuring potent 188kW 2.0L Turbo and 9-speed automatic transmission.",
+      "generations": [
+        {
+          "series_code": "EQ",
+          "generation_name": "Equinox EQ Series",
+          "years": {
+            "start": 2017,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.5L Turbo, 1.6L Turbo Diesel, and class-leading 188kW 2.0L Turbo with AWD."
+        }
+      ]
+    },
+    {
+      "model_slug": "acadia",
+      "name": "Holden Acadia",
+      "vehicle_type": "Large SUV",
+      "segment": "Large 7-Seat SUV",
+      "years_sold_au": {
+        "start": 2018,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "US-built full-size 7-seat family SUV (GMC Acadia twin) re-tuned by Holden engineers at Lang Lang Proving Ground for Australian conditions.",
+      "generations": [
+        {
+          "series_code": "AC",
+          "generation_name": "Acadia AC Series",
+          "years": {
+            "start": 2018,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door 7-seat SUV"
+          ],
+          "summary": "3.6L V6 (231kW/367Nm), 9-speed automatic, 360-degree camera, traffic sign recognition, LT, LTZ, LTZ-V."
+        }
+      ]
+    },
+    {
+      "model_slug": "trailblazer",
+      "name": "Holden Trailblazer / Colorado 7",
+      "vehicle_type": "4WD SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2012,
+        "end": 2020
+      },
+      "locally_built": false,
+      "overview": "Rugged ladder-chassis 7-seat 4WD SUV based on the Colorado ute platform with 5-link coil rear suspension and 3.0-tonne towing.",
+      "generations": [
+        {
+          "series_code": "RG",
+          "generation_name": "Colorado 7 / Trailblazer RG",
+          "years": {
+            "start": 2012,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door 7-seat 4WD"
+          ],
+          "summary": "Rebranded Trailblazer in 2016 with major interior and NVH overhaul, 2.8L Duramax diesel (147kW/500Nm)."
+        }
+      ]
+    },
+    {
+      "model_slug": "volt",
+      "name": "Holden Volt",
+      "vehicle_type": "Plug-in Hybrid Hatchback",
+      "segment": "Electric / Alternative Fuel",
+      "years_sold_au": {
+        "start": 2012,
+        "end": 2015
+      },
+      "locally_built": false,
+      "overview": "Ground-breaking extended-range electric vehicle (EREV) capable of up to 60km of pure EV driving backed by a 1.4L petrol generator.",
+      "generations": [
+        {
+          "series_code": "EV",
+          "generation_name": "Volt First Generation",
+          "years": {
+            "start": 2012,
+            "end": 2015
+          },
+          "body_styles": [
+            "5-door liftback"
+          ],
+          "summary": "16 kWh lithium-ion battery, 111kW drive motor, 370Nm instant torque, futuristic touch-capacitive dashboard."
+        }
+      ]
+    },
+    {
+      "model_slug": "spark",
+      "name": "Holden Spark / Barina Spark",
+      "vehicle_type": "Microcar / Hatchback",
+      "segment": "Micro",
+      "years_sold_au": {
+        "start": 2010,
+        "end": 2018
+      },
+      "locally_built": false,
+      "overview": "Youthful 5-door city microcar built in South Korea, boasting sharp styling, Apple CarPlay, and nimble handling.",
+      "generations": [
+        {
+          "series_code": "MJ-MP",
+          "generation_name": "Barina Spark & Spark (MJ, MP)",
+          "years": {
+            "start": 2010,
+            "end": 2018
+          },
+          "body_styles": [
+            "5-door micro hatchback"
+          ],
+          "summary": "1.2L and 1.4L petrol engines, CVT and manual transmissions, Australian-tuned electric power steering."
+        }
+      ]
+    },
+    {
+      "model_slug": "cascada",
+      "name": "Holden Cascada",
+      "vehicle_type": "Convertible",
+      "segment": "Sports / Convertible",
+      "years_sold_au": {
+        "start": 2015,
+        "end": 2017
+      },
+      "locally_built": false,
+      "overview": "Elegant European 4-seat convertible manufactured by Opel in Gliwice, Poland, featuring an insulated acoustic triple-layered fabric roof.",
+      "generations": [
+        {
+          "series_code": "CJ",
+          "generation_name": "Cascada CJ Series",
+          "years": {
+            "start": 2015,
+            "end": 2017
+          },
+          "body_styles": [
+            "2-door convertible"
+          ],
+          "summary": "1.6L direct-injection turbo (125kW/260Nm), HiPerStrut front suspension, Launch Edition with 20-inch alloys."
+        }
+      ]
+    },
+    {
+      "model_slug": "malibu",
+      "name": "Holden Malibu",
+      "vehicle_type": "Sedan",
+      "segment": "Medium / Large",
+      "years_sold_au": {
+        "start": 2013,
+        "end": 2016
+      },
+      "locally_built": false,
+      "overview": "Mid-size global GM sedan slotted between the Cruze and Commodore, powered by 2.4L petrol and 2.0L turbo-diesel engines.",
+      "generations": [
+        {
+          "series_code": "EM",
+          "generation_name": "Malibu EM Series",
+          "years": {
+            "start": 2013,
+            "end": 2016
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Epsilon II platform; CD and CDX trims with 7-inch MyLink touchscreen and Camaro-inspired tail lights."
+        }
+      ]
+    },
+    {
+      "model_slug": "epica",
+      "name": "Holden Epica",
+      "vehicle_type": "Sedan",
+      "segment": "Medium",
+      "years_sold_au": {
+        "start": 2007,
+        "end": 2011
+      },
+      "locally_built": false,
+      "overview": "Comfortable mid-size sedan built by GM Daewoo in Bupyeong, unique for its transversally-mounted 2.0L and 2.5L inline-6 cylinder engines.",
+      "generations": [
+        {
+          "series_code": "EP",
+          "generation_name": "Epica EP Series",
+          "years": {
+            "start": 2007,
+            "end": 2011
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Transverse Porsche-engineered 2.5L inline-six petrol and later 2.0L common-rail turbo diesel with 6-speed auto."
+        }
+      ]
+    },
+    {
+      "model_slug": "viva",
+      "name": "Holden Viva",
+      "vehicle_type": "Hatchback / Sedan / Wagon",
+      "segment": "Small",
+      "years_sold_au": {
+        "start": 2005,
+        "end": 2009
+      },
+      "locally_built": false,
+      "overview": "Value-oriented small car based on the Daewoo Lacetti, offered as a budget alternative to the European-sourced AH Astra.",
+      "generations": [
+        {
+          "series_code": "JF",
+          "generation_name": "Viva JF Series",
+          "years": {
+            "start": 2005,
+            "end": 2009
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door hatchback",
+            "5-door wagon"
+          ],
+          "summary": "Pininfarina-styled sedan/wagon and Giugiaro-styled hatchback powered by 1.8L Family II 16V engine."
+        }
+      ]
+    },
+    {
+      "model_slug": "tigra",
+      "name": "Holden Tigra",
+      "vehicle_type": "Convertible",
+      "segment": "Sports / Roadster",
+      "years_sold_au": {
+        "start": 2005,
+        "end": 2007
+      },
+      "locally_built": false,
+      "overview": "French-assembled (Heuliez) two-seat roadster featuring an electro-hydraulic retractable hardtop, based on the Opel Corsa C platform.",
+      "generations": [
+        {
+          "series_code": "XC",
+          "generation_name": "Tigra TwinTop",
+          "years": {
+            "start": 2005,
+            "end": 2007
+          },
+          "body_styles": [
+            "2-door convertible"
+          ],
+          "summary": "1.8L Ecotec 4-cylinder (92kW/165Nm), 18-second folding metal roof, 5-speed manual transmission."
+        }
+      ]
+    },
+    {
+      "model_slug": "piazza",
+      "name": "Holden Piazza",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Coupe",
+      "years_sold_au": {
+        "start": 1986,
+        "end": 1988
+      },
+      "locally_built": false,
+      "overview": "Giorgetto Giugiaro-designed wedge coupe manufactured by Isuzu in Japan and sold through selected Holden dealerships.",
+      "generations": [
+        {
+          "series_code": "JR",
+          "generation_name": "Piazza JR Series",
+          "years": {
+            "start": 1986,
+            "end": 1988
+          },
+          "body_styles": [
+            "2-door liftback coupe"
+          ],
+          "summary": "2.0L SOHC Turbo (4ZC1-T, 110kW), Lotus-tuned suspension upgrade, pop-up pod instrument controls."
+        }
+      ]
+    },
+    {
+      "model_slug": "suburban",
+      "name": "Holden Suburban",
+      "vehicle_type": "Full-size SUV",
+      "segment": "Large SUV",
+      "years_sold_au": {
+        "start": 1998,
+        "end": 2001
+      },
+      "locally_built": false,
+      "overview": "Colossal 8-seat or 9-seat American SUV converted in Mexico with a right-hand-drive dash from the Chevrolet Blazer.",
+      "generations": [
+        {
+          "series_code": "C/K 2500",
+          "generation_name": "Suburban 1500 & 2500",
+          "years": {
+            "start": 1998,
+            "end": 2001
+          },
+          "body_styles": [
+            "5-door full-size SUV"
+          ],
+          "summary": "5.7L Vortec V8 petrol (190kW) and 6.5L Detroit Diesel V8 Turbo (145kW/597Nm), heavy-duty dual-range 4WD."
+        }
+      ]
+    },
+    {
+      "model_slug": "combo",
+      "name": "Holden Combo",
+      "vehicle_type": "Small Van",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1996,
+        "end": 2013
+      },
+      "locally_built": false,
+      "overview": "High-roof urban delivery van derived from the European Opel Corsa B and C passenger platforms.",
+      "generations": [
+        {
+          "series_code": "SB-XC",
+          "generation_name": "Combo SB & XC Series",
+          "years": {
+            "start": 1996,
+            "end": 2013
+          },
+          "body_styles": [
+            "High-roof 3-door panel van"
+          ],
+          "summary": "1.4L and 1.6L petrol engines with asymmetric rear barn doors and generous cargo volume."
+        }
+      ]
+    },
+    {
+      "model_slug": "shuttle",
+      "name": "Holden Shuttle",
+      "vehicle_type": "Commercial Van / Minibus",
+      "segment": "Medium Commercial Van",
+      "years_sold_au": {
+        "start": 1982,
+        "end": 1990
+      },
+      "locally_built": false,
+      "overview": "Isuzu Fargo cab-over van and microbus imported to compete against the Toyota HiAce and Ford Econovan.",
+      "generations": [
+        {
+          "series_code": "WFR",
+          "generation_name": "Shuttle WFR Series",
+          "years": {
+            "start": 1982,
+            "end": 1990
+          },
+          "body_styles": [
+            "Van",
+            "Minibus"
+          ],
+          "summary": "1.8L and 2.0L petrol engines alongside 2.0L diesel; panel van and window van configurations."
+        }
+      ]
+    },
+    {
+      "model_slug": "drover",
+      "name": "Holden Drover",
+      "vehicle_type": "Mini 4WD",
+      "segment": "Compact 4WD",
+      "years_sold_au": {
+        "start": 1985,
+        "end": 1987
+      },
+      "locally_built": false,
+      "overview": "Rebadged Suzuki Sierra (SJ413) sold through Holden dealers to fill the compact four-wheel drive niche.",
+      "generations": [
+        {
+          "series_code": "QB",
+          "generation_name": "Drover QB Series",
+          "years": {
+            "start": 1985,
+            "end": 1987
+          },
+          "body_styles": [
+            "Soft-top",
+            "Hard-top",
+            "Cab-chassis ute"
+          ],
+          "summary": "1.3L 4-cylinder engine, leaf springs, dual-range 4WD; highly agile in rugged terrain."
+        }
+      ]
+    },
+    {
+      "model_slug": "scurry",
+      "name": "Holden Scurry",
+      "vehicle_type": "Microvan",
+      "segment": "Micro Commercial",
+      "years_sold_au": {
+        "start": 1985,
+        "end": 1987
+      },
+      "locally_built": false,
+      "overview": "Rebadged Suzuki Super Carry microvan providing ultra-compact commercial delivery capability.",
+      "generations": [
+        {
+          "series_code": "NB",
+          "generation_name": "Scurry NB Series",
+          "years": {
+            "start": 1985,
+            "end": 1987
+          },
+          "body_styles": [
+            "Microvan",
+            "Cab-chassis"
+          ],
+          "summary": "1.0L F10A 4-cylinder engine with rear-wheel drive and cab-over configuration."
+        }
+      ]
+    },
+    {
+      "model_slug": "sunbird",
+      "name": "Holden Sunbird",
+      "vehicle_type": "Sedan / Hatchback",
+      "segment": "Compact / Mid-size",
+      "years_sold_au": {
+        "start": 1976,
+        "end": 1980
+      },
+      "locally_built": true,
+      "overview": "The 4-cylinder iteration of the Torana body, re-engineered as an economy family car following fuel price shocks.",
+      "generations": [
+        {
+          "series_code": "LX-UC",
+          "generation_name": "Sunbird LX & UC Series",
+          "years": {
+            "start": 1976,
+            "end": 1980
+          },
+          "body_styles": [
+            "4-door sedan",
+            "3-door hatchback"
+          ],
+          "summary": "Initially powered by 1.9L Opel engine, later replaced by the locally built Starfire 1.9L 4-cylinder."
+        }
+      ]
+    },
+    {
+      "model_slug": "brougham",
+      "name": "Holden Brougham",
+      "vehicle_type": "Sedan",
+      "segment": "Luxury",
+      "years_sold_au": {
+        "start": 1968,
+        "end": 1971
+      },
+      "locally_built": true,
+      "overview": "Holden's first bespoke luxury vehicle, built on the HK/HT/HG Premier body with an extended 8-inch rear overhang to challenge the Ford Fairlane.",
+      "generations": [
+        {
+          "series_code": "HK-HG",
+          "generation_name": "Brougham HK, HT, HG Series",
+          "years": {
+            "start": 1968,
+            "end": 1971
+          },
+          "body_styles": [
+            "4-door luxury sedan"
+          ],
+          "summary": "Standard Chevrolet 307 V8 (HK) and Holden 308 V8 (HT/HG), brocade upholstery, Powerglide or Tri-Matic automatic."
+        }
+      ]
+    },
+    {
+      "model_slug": "fe-fc-fb-ek",
+      "name": "Holden FE / FC / FB / EK",
+      "vehicle_type": "Sedan / Station Sedan / Utility / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1956,
+        "end": 1962
+      },
+      "locally_built": true,
+      "overview": "The second and third generation post-war Holdens represented major leaps forward in Australian automotive engineering and design. Launched in July 1956, the FE introduced a completely modern, longer, lower body with wrap-around windscreen, 12-volt electrical architecture, recirculating ball steering...",
+      "generations": [
+        {
+          "series_code": "FE",
+          "generation_name": "FE Series",
+          "years": {
+            "start": 1956,
+            "end": 1958
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "First clean-sheet redesign of the Holden. Introduced 12-volt electrics, wrap-around windscreen, pendant clutch and brake pedals, and the first factory Station Sedan."
+        },
+        {
+          "series_code": "FC",
+          "generation_name": "FC Series",
+          "years": {
+            "start": 1958,
+            "end": 1960
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Refinement of the FE with bold egg-crate grille, revised chrome fins, improved steering gear, and increased 72 bhp power output. Over 191,000 produced."
+        },
+        {
+          "series_code": "FB",
+          "generation_name": "FB Series",
+          "years": {
+            "start": 1960,
+            "end": 1961
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Introduced prominent American-style tailfins, panoramic wrap-around windscreen with forward-slanted 'dogleg' A-pillars, lower roofline, and an enlarged 138ci Grey motor."
+        },
+        {
+          "series_code": "EK",
+          "generation_name": "EK Series",
+          "years": {
+            "start": 1961,
+            "end": 1962
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Historic introduction of Holden's first automatic transmission: the 3-speed Hydra-Matic. Added electric windscreen wipers, updated side chrome, and new interior trim. 150,214 built."
+        }
+      ]
+    },
+    {
+      "model_slug": "ej-eh-hd-hr",
+      "name": "Holden EJ / EH / HD / HR",
+      "vehicle_type": "Sedan / Station Sedan / Utility / Panel Van",
+      "segment": "Large",
+      "years_sold_au": {
+        "start": 1962,
+        "end": 1968
+      },
+      "locally_built": true,
+      "overview": "The 1962-1968 era represents the golden age of 1960s Holden dominance. The July 1962 EJ introduced clean, modern European-inspired styling, the milestone 1,000,000th Holden produced, and the prestigious Premier luxury model with standard automatic, leather bucket seats, and metallic paint. In August...",
+      "generations": [
+        {
+          "series_code": "EJ",
+          "generation_name": "EJ Series",
+          "years": {
+            "start": 1962,
+            "end": 1963
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Lower, squarer modern styling, marked the 1,000,000th Holden built, and introduced the luxurious Premier nameplate. Final application of the Grey motor."
+        },
+        {
+          "series_code": "EH",
+          "generation_name": "EH Series",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Historic launch of the 7-bearing Red Motor (149ci & 179ci). Re-profiled roofline, square rear boot and tail lights. Fastest selling car in Australian history with 256,959 units sold."
+        },
+        {
+          "series_code": "HD",
+          "generation_name": "HD Series",
+          "years": {
+            "start": 1965,
+            "end": 1966
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Introduced wider body with curved side glass, kidney front fenders, front disc brakes option, Powerglide 2-speed automatic, and the twin-carburettor X2 high-performance engine."
+        },
+        {
+          "series_code": "HR",
+          "generation_name": "HR Series",
+          "years": {
+            "start": 1966,
+            "end": 1968
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon",
+            "2-door coupe utility",
+            "2-door panel van"
+          ],
+          "summary": "Crisp squared styling, wider track, ball-joint front suspension, standard front disc brakes on Premier, and introduced the high-output 186S engine with twin-barrel carburettor and 4-speed manual."
+        }
+      ]
+    },
+    {
+      "model_slug": "sandman",
+      "name": "Holden Sandman",
+      "vehicle_type": "Panel Van / Coupe Utility",
+      "segment": "Commercial / Lifestyle Sports",
+      "years_sold_au": {
+        "start": 1974,
+        "end": 1980
+      },
+      "locally_built": true,
+      "overview": "The Holden Sandman is the undisputed emblem of 1970s Australian youth and beach culture. Introduced in January 1974 on the HQ series (option package XX7 / XU3), the Sandman transformed humble commercial panel vans and utilities into vibrant, psychedelic recreational machines. Featuring bold side str...",
+      "generations": [
+        {
+          "series_code": "HQ-HJ",
+          "generation_name": "HQ / HJ Sandman",
+          "years": {
+            "start": 1974,
+            "end": 1976
+          },
+          "body_styles": [
+            "2-door panel van",
+            "2-door coupe utility"
+          ],
+          "summary": "Inaugural Sandman package (XX7 / XU3) on HQ and HJ. Monaro GTS dash, sports wheels, bucket seats, and optional 253ci and 308ci Red V8 engines."
+        },
+        {
+          "series_code": "HX-HZ",
+          "generation_name": "HX / HZ Sandman",
+          "years": {
+            "start": 1976,
+            "end": 1980
+          },
+          "body_styles": [
+            "2-door panel van",
+            "2-door coupe utility"
+          ],
+          "summary": "Large 'SANDMAN' tailgate script on HX, followed by landmark HZ introduction of Radial Tuned Suspension (RTS), front chin spoiler, and 4-wheel disc brake option."
+        }
+      ]
+    },
+    {
+      "model_slug": "adventra-crewman",
+      "name": "Holden Adventra & Crewman",
+      "vehicle_type": "All-Wheel-Drive Cross Wagon / Dual-Cab Utility / Cab Chassis",
+      "segment": "Large / Crossover SUV / Commercial Dual-Cab",
+      "years_sold_au": {
+        "start": 2003,
+        "end": 2008
+      },
+      "locally_built": true,
+      "overview": "Developed during Holden's multi-million dollar engineering expansion under the VY/VZ Commodore program, the Adventra and Crewman represented audacious Australian engineering innovations. The 2003 Crewman was Australia's first locally designed and manufactured monocoque dual-cab utility, seating five...",
+      "generations": [
+        {
+          "series_code": "VY-II",
+          "generation_name": "VY Series II Adventra & Crewman",
+          "years": {
+            "start": 2003,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door AWD wagon",
+            "4-door dual-cab ute"
+          ],
+          "summary": "Launch of Adventra AWD (CX8, LX8) powered by Gen III 5.7L LS1 V8 (235 kW), and Crewman (Base 3.8L V6, SS 5.7L V8 235 kW, and Crewman Cross 8 AWD)."
+        },
+        {
+          "series_code": "VZ",
+          "generation_name": "VZ Series Adventra & Crewman",
+          "years": {
+            "start": 2004,
+            "end": 2008
+          },
+          "body_styles": [
+            "5-door AWD wagon",
+            "4-door dual-cab ute",
+            "2-door cab chassis (One Tonner)"
+          ],
+          "summary": "VZ powertrain update. Introduction of 190 kW Alloytec V6 in Adventra SX6/CX6 and Crewman Cross 6, alongside upgraded 250 kW Gen III 5.7L and 260 kW 6.0L L76 V8 in Crewman SS / SSZ."
+        }
+      ]
+    }
+  ]
+}

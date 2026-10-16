@@ -1,0 +1,312 @@
+{
+  "make_slug": "ford",
+  "model_slug": "f-series",
+  "name": "Ford F-Series (F-100 / F-250 / F-350 / F-150)",
+  "vehicle_type": "Full-size Pickup Truck / Cab Chassis",
+  "segment": "Full-size Commercial / Heavy Duty Truck",
+  "years_sold_au": {
+    "start": 1948,
+    "end": 2026
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Broadmeadows, Victoria (F-100/F-250/F-350 assembly until 1992)",
+    "Homebush, New South Wales (Assembly 1950s-1970s)",
+    "Eagle Farm (Brisbane), Queensland (Truck assembly 1970s-1992)",
+    "Mickleham, Victoria (RMA Automotive / Ford Australia factory RHD remanufacturing, 2023-present)",
+    "Ipiranga, Brazil (Ford South America RN F-250/F-350 for Ford Australia, 2001-2007)"
+  ],
+  "overview": "The Ford F-Series is an enduring pillar of Australian outback, farming, and heavy towing history. Locally assembled in Australia across multiple decades in Victoria, New South Wales, and Queensland, Australian F-100s, F-250s, and F-350s were specifically tailored for harsh Aussie work, utilizing local 250ci Falcon straight-sixes, 300ci big sixes, and Geelong-cast 302ci and 351ci Cleveland V8s. In 2001, Ford Australia officially returned to the heavy-duty market with the mighty RN-series F-250 and F-350, powered by the thunderous 7.3L Navistar Power Stroke Turbo Diesel V8 (175 kW / 684 Nm), creating a cult legend among caravan haulers. In 2023, Ford Australia officially launched the Next-Gen F-150 in Australia, remanufactured to OEM right-hand drive in Mickleham, Victoria featuring the 298 kW 3.5L EcoBoost twin-turbo V6 and 4.5-tonne towing capacity.",
+  "australian_market_notes": "Australian-assembled F-100s and F-250s featured unique 'Ambulance' high-output alternators, dual fuel tanks, heavy-duty Dana axles, and Australian-built Cleveland V8 engines manufactured at Geelong. The 2001-2007 RN F-250 with the 7.3L Power Stroke V8 became an instant legend, with second-hand examples frequently selling for higher than their original retail prices two decades later.",
+  "manuals": [
+    {
+      "title": "Ford Ford F-Series (F-100 / F-250 / F-350 / F-150) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1948,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/f-series/model.json",
+      "local_path": "media/manuals/ford/f-series/ford_f-series_au_technical_manual.pdf",
+      "file_size_bytes": 6228,
+      "sha256": "a3fb03ce7bfdb5f93f14a4649a1c72ae2d94405cad449b1c8fd9943fe328d117",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Place: Berlicum",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1956_Ford_F-100_front.jpg/1280px-1956_Ford_F-100_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Rutger van der Maar)",
+      "local_path": "media/pictures/ford/f-series/ford_f-series_hero_1_1956_Ford_F-100_front.jpg",
+      "file_size_bytes": 277727,
+      "sha256": "b0ed7c2bb6433ae78fb8f3203837073b98d71a4bde92971840683c3369f50119"
+    },
+    {
+      "category": "exterior",
+      "caption": "Place: Berlicum",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/1956_Ford_F-100_rear.jpg/1280px-1956_Ford_F-100_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Rutger van der Maar)",
+      "local_path": "media/pictures/ford/f-series/ford_f-series_hero_2_1956_Ford_F-100_rear.jpg",
+      "file_size_bytes": 190917,
+      "sha256": "a7289946899e80f2140f8c18498aab153f47f7dde654201be21d2456fa8ea451"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Sixth-Seventh-Gen-AU",
+      "generation_name": "Sixth & Seventh Gen F-100 / F-250 (Australian Assembly)",
+      "years": {
+        "start": 1973,
+        "end": 1992
+      },
+      "body_styles": [
+        "Single Cab Styleside Ute",
+        "Single Cab Flareside",
+        "Cab Chassis",
+        "SuperCab"
+      ],
+      "platform": "Ford F-Series full-perimeter truck chassis",
+      "ancap_rating": null,
+      "summary": "Assembled in Broadmeadows and Eagle Farm. Twin I-Beam front suspension, fitted with Geelong-cast 302 and 351 Cleveland V8s and 4.1L Falcon straight-six.",
+      "engines": [
+        {
+          "engine_code": "Cleveland-351-V8-Truck",
+          "name": "Ford Cleveland 351ci (5.8L) OHV V8",
+          "displacement_cc": 5766,
+          "displacement_litres": 5.8,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 150.0,
+          "power_rpm": "4000",
+          "torque_nm": 390.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "8.9:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Geelong-manufactured Cleveland V8 with truck camshaft and heavy-duty cooling."
+        },
+        {
+          "engine_code": "Ford-300-Big-Six",
+          "name": "Ford 300ci (4.9L) OHV Inline-6",
+          "displacement_cc": 4917,
+          "displacement_litres": 4.9,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 89.0,
+          "power_rpm": "3400",
+          "torque_nm": 320.0,
+          "torque_rpm": "1600",
+          "compression_ratio": "8.0:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Legendary commercial high-torque 7-bearing straight-six."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "F-100 XLT Styleside",
+          "years": {
+            "start": 1977,
+            "end": 1985
+          },
+          "body_styles": [
+            "Single Cab"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "3-speed automatic C6"
+          ],
+          "msrp_aud_min": 7890,
+          "msrp_aud_max": 11500,
+          "fuel_consumption_l_100km": 17.5,
+          "kerb_weight_kg": 1820,
+          "standard_features": [
+            "351ci Cleveland V8",
+            "Twin I-Beam independent front suspension",
+            "Power steering and front power disc brakes",
+            "Full-length bodyside chrome mouldings and tailgate applique",
+            "Vinyl bench seat with cloth inserts"
+          ],
+          "notes": "Classic Australian outback hauler."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "F-100 XLT Styleside",
+          "body_style": "Single Cab",
+          "engine_code": "Cleveland-351-V8-Truck",
+          "transmission": "3-speed automatic C6",
+          "drivetrain": "RWD",
+          "msrp_aud": 8990,
+          "power_kw": 150.0,
+          "torque_nm": 390.0,
+          "fuel_l_100km": 17.5,
+          "towing_braked_kg": 2500,
+          "notes": "Geelong 351 Cleveland V8 Australian F-100."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "RN-Super-Duty",
+      "generation_name": "RN F-250 / F-350 Super Duty",
+      "years": {
+        "start": 2001,
+        "end": 2007
+      },
+      "body_styles": [
+        "Single Cab",
+        "SuperCab",
+        "Crew Cab"
+      ],
+      "platform": "Ford Super Duty platform",
+      "ancap_rating": null,
+      "summary": "Official Ford Australia import. Monumental 7.3L Navistar Power Stroke Turbo Diesel V8 (684 Nm), Dana 60 solid front axle, 4.5-tonne towing, and cavernous dual-cab interior.",
+      "engines": [
+        {
+          "engine_code": "PowerStroke-7.3-V8",
+          "name": "Ford / Navistar 7.3L Power Stroke Turbo Diesel V8",
+          "displacement_cc": 7274,
+          "displacement_litres": 7.3,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 175.0,
+          "power_rpm": "2600",
+          "torque_nm": 684.0,
+          "torque_rpm": "1600",
+          "compression_ratio": "17.5:1",
+          "valvetrain": "OHV 16V",
+          "notes": "HEUI electronic hydraulic direct injection; legendary heavy-towing engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "F-250 XLT Crew Cab 4x4",
+          "years": {
+            "start": 2001,
+            "end": 2007
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual ZF",
+            "4-speed automatic 4R100"
+          ],
+          "msrp_aud_min": 69990,
+          "msrp_aud_max": 76990,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 2840,
+          "standard_features": [
+            "7.3L Power Stroke Turbo Diesel V8",
+            "Shift-on-the-fly 4WD with manual lock front hubs",
+            "Heavy-duty solid front and rear axles with leaf springs",
+            "Air conditioning, power windows, and cruise control",
+            "4,500 kg towing capacity"
+          ],
+          "notes": "Cult outback and caravan towing legend."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "F-250 XLT Crew Cab 4x4",
+          "body_style": "Crew Cab",
+          "engine_code": "PowerStroke-7.3-V8",
+          "transmission": "4-speed automatic 4R100",
+          "drivetrain": "4WD",
+          "msrp_aud": 74990,
+          "power_kw": 175.0,
+          "torque_nm": 684.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 4500,
+          "notes": "7.3L Power Stroke turbo-diesel 4.5-tonne tow champion."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "Fourteenth-Gen-AU",
+      "generation_name": "Fourteenth Gen F-150 (Australian RHD)",
+      "years": {
+        "start": 2023,
+        "end": 2026
+      },
+      "body_styles": [
+        "Crew Cab (SuperCrew)"
+      ],
+      "platform": "Ford F-150 high-strength military-grade aluminium alloy platform",
+      "ancap_rating": null,
+      "summary": "Official Ford Australia factory-backed RHD remanufacturing program by RMA Automotive in Mickleham, Victoria. Powered by 298 kW 3.5L EcoBoost twin-turbo V6 with 4.5-tonne towing.",
+      "engines": [
+        {
+          "engine_code": "EcoBoost-3.5-TwinTurbo",
+          "name": "Ford EcoBoost 3.5L Twin-Turbo DOHC 24V V6",
+          "displacement_cc": 3497,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 298.0,
+          "power_rpm": "6000",
+          "torque_nm": 678.0,
+          "torque_rpm": "3100",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 24V Ti-VCT",
+          "notes": "Twin Garrett turbochargers, direct and port fuel injection; 10-speed auto."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "F-150 Lariat SuperCrew 4x4",
+          "years": {
+            "start": 2023,
+            "end": 2026
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "10-speed automatic with SelectShift"
+          ],
+          "msrp_aud_min": 139990,
+          "msrp_aud_max": 140945,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 2535,
+          "standard_features": [
+            "298 kW / 678 Nm 3.5L Twin-Turbo EcoBoost V6",
+            "High-strength military-grade aluminium alloy body",
+            "12-inch digital instrument cluster and 12-inch SYNC 4 touchscreen",
+            "B&O Unleashed 18-speaker audio system",
+            "Heated and ventilated leather front seats",
+            "Pro Power Onboard generator and 4,500 kg towing capacity"
+          ],
+          "notes": "Flagship Australian-remanufactured luxury truck."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "F-150 Lariat SuperCrew 4x4",
+          "body_style": "Crew Cab",
+          "engine_code": "EcoBoost-3.5-TwinTurbo",
+          "transmission": "10-speed automatic with SelectShift",
+          "drivetrain": "4WD",
+          "msrp_aud": 139990,
+          "power_kw": 298.0,
+          "torque_nm": 678.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 4500,
+          "notes": "298 kW twin-turbo V6 luxury 4.5-tonne tow truck."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

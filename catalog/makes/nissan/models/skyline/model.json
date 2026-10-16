@@ -1,0 +1,315 @@
+{
+  "make_slug": "nissan",
+  "model_slug": "skyline",
+  "name": "Skyline",
+  "vehicle_type": "Sedan / Wagon / Coupe",
+  "segment": "Mid-size / Large Sports",
+  "years_sold_au": {
+    "start": 1973,
+    "end": "2002"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria"
+  ],
+  "overview": "The Nissan Skyline represents a crowning achievement in Australian motoring. Locally built at Clayton, Victoria in R31 guise with the RB30E engine, it also dominated Bathurst as the twin-turbo R32 GT-R 'Godzilla', ending the V8 monopoly and reshaping Australian motorsport history.",
+  "australian_market_notes": "First sold as the Datsun 240K in 1973, Nissan invested heavily to manufacture the R31 Skyline at Clayton from 1986 to 1991. Powered by the imported 3.0L RB30E inline-6, Clayton produced sedans, wagons, and the famous Silhouette and Gibson Motorsport GTS1/GTS2 performance specials. In 1991, Nissan imported 100 R32 GT-Rs; Jim Richards and Mark Skaife demolished the field to win the 1991 and 1992 Bathurst 1000s.",
+  "manuals": [
+    {
+      "title": "Nissan Skyline Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1973,
+      "language": "en",
+      "source_url": "local://catalog/makes/nissan/models/skyline/model.json",
+      "local_path": "media/manuals/nissan/skyline/nissan_skyline_au_technical_manual.pdf",
+      "file_size_bytes": 4221,
+      "sha256": "aa095a73eb6a0f0edc170a70051760a5d8aa00239f14430dca4d64e6892b6a37",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Nissan Skyline R 32 GTR Factory Workshop Manual, Model Years 1989 To 1994 Chassis Code(s) R 32",
+      "year": null,
+      "source_url": "https://archive.org/details/nissan-skyline-r-32-gtr-factory-workshop-manual-model-years-1989-to-1994-chassis-codes-r-32",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/skyline/nissan_skyline_manual_Nissan_Skyline_R_32_GTR_Factory_Workshop_Manual_Model_Years_1989_To_1994_Chassis_Code_s_R_32.html",
+      "file_size_bytes": 226083,
+      "sha256": "7da2323a9eff8bc0e2ced7f7f055af5c4fe16c570cd4ff680d4302c29c903a24"
+    },
+    {
+      "title": "Nissan Skyline R32 GT-R Service Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/nissan-skyline-r-32-gt-r-workshop-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/skyline/nissan_skyline_manual_Nissan_Skyline_R32_GT-R_Service_Manual.html",
+      "file_size_bytes": 221963,
+      "sha256": "125a16c3f9b18c8b339845c23a4c00539f348f7cb22fef66222bd51a15883ff6"
+    },
+    {
+      "title": "Nissan Skyline R 34 Service & Repair Workshop Manual, Model Years 1998 To 2002 Chassis Code(s) R 34",
+      "year": null,
+      "source_url": "https://archive.org/details/nissan-skyline-r-34-service-repair-workshop-manual-model-years-1998-to-2002-chassis-codes-r-34",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/skyline/nissan_skyline_manual_Nissan_Skyline_R_34_Service_Repair_Workshop_Manual_Model_Years_1998_To_2002_Chassis_Code_s_R_34.html",
+      "file_size_bytes": 226606,
+      "sha256": "a044c3f638ee03431f6aafa1e3fde1e18c5251bfe95fe7fc1822407c1666d91a"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "A 1991 Nissan Skyline R32 GT-R (Group A), on display at the Fox Classic Car Collection, Docklands, Vic, Australia. This exhibit is said to be the Nissan Australia works car that competed as the team's no. 2 entry in the 1991 Tooheys 1000 (D",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/1991_Nissan_Skyline_GT-R_%28Group_A%29%2C_Fox_Classic_Car_Collection%2C_2008.jpg/1280px-1991_Nissan_Skyline_GT-R_%28Group_A%29%2C_Fox_Classic_Car_Collection%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Bahnfrend)",
+      "local_path": "media/pictures/nissan/skyline/nissan_skyline_hero_1_1991_Nissan_Skyline_GT-R_Group_A_Fox_Classic_Car_Collection_2008.jpg",
+      "file_size_bytes": 299666,
+      "sha256": "b3e5b6a119bfef9a29976dca2a105906671e58d3e774adb0fcddaf2fc9bc251e"
+    },
+    {
+      "category": "exterior",
+      "caption": "The R32 Skyline was built from 1989-94. It was available as either a 2 door coupe or 4 door hardtop sedan. The upspec models got a 2.6 litre 6 cyl and the GTR got a twin turbo version producing over 300hp. It also got 4WD, big brakes, alumi",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1993_Nissan_Skyline_R32_Race_car_%2823597917762%29.jpg/1280px-1993_Nissan_Skyline_R32_Race_car_%2823597917762%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/nissan/skyline/nissan_skyline_hero_2_1993_Nissan_Skyline_R32_Race_car_23597917762_.jpg",
+      "file_size_bytes": 365604,
+      "sha256": "2225ae310ca2e440401d65e8adb903f29e736a5b8f36ca83c31564921f8b3dc8"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "R31",
+      "generation_name": "Skyline R31 (Australian Manufacture)",
+      "years": {
+        "start": 1986,
+        "end": "1991"
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "Station Wagon"
+      ],
+      "platform": "Nissan R31",
+      "ancap_rating": "Untested",
+      "summary": "Proudly manufactured at Nissan's Clayton plant in Melbourne. Powered by the smooth 3.0L RB30E inline-6, it spawned the sporty Silhouette and Gibson Motorsport GTS homologation specials.",
+      "engines": [
+        {
+          "engine_code": "RB30E",
+          "name": "Nissan RB30E 3.0L SOHC Inline-6",
+          "displacement_cc": 2962,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 114.0,
+          "power_rpm": "5200",
+          "torque_nm": 247.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Silky smooth 3.0-litre inline-6; shared engine architecture with the Holden VL Commodore."
+        },
+        {
+          "engine_code": "RB30E-GTS",
+          "name": "Nissan Special Vehicles RB30E GTS",
+          "displacement_cc": 2962,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 140.0,
+          "power_rpm": "5600",
+          "torque_nm": 255.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 12-valve modified cam, extractors, tuned ECU",
+          "notes": "Hand-tuned by Gibson Motorsport with specialized camshaft, free-flow exhaust, and bespoke ECU."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Silhouette",
+          "years": {
+            "start": 1986,
+            "end": "1991"
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 24500,
+          "msrp_aud_max": 29990,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1335,
+          "standard_features": [
+            "Limited slip differential",
+            "Sports bucket seats",
+            "Rear spoiler",
+            "15-inch alloy wheels",
+            "Sports suspension pack",
+            "4-wheel disc brakes"
+          ],
+          "notes": "Iconic Australian sports sedan."
+        },
+        {
+          "badge_name": "GTS (Series 1 & 2)",
+          "years": {
+            "start": 1988,
+            "end": "1990"
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 35500,
+          "msrp_aud_max": 37990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1370,
+          "standard_features": [
+            "140kW Gibson Motorsport tuned RB30E",
+            "Bilstein sports dampers",
+            "Scheel sports bucket seats",
+            "Momo leather steering wheel",
+            "LSD",
+            "16-inch alloy wheels",
+            "Only 200 GTS1 (White) and 200 GTS2 (Red) produced"
+          ],
+          "notes": "Australian homologation special built to celebrate Australian touring car racing."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Silhouette",
+          "body_style": "Sedan",
+          "engine_code": "RB30E",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1986,
+          "years_end": "1991",
+          "msrp_aud": 24950,
+          "power_kw": 114.0,
+          "torque_nm": 247.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1200,
+          "notes": "Australian Clayton-built R31 Silhouette."
+        },
+        {
+          "badge_name": "GTS Series 2",
+          "body_style": "Sedan",
+          "engine_code": "RB30E-GTS",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1990,
+          "years_end": "1990",
+          "msrp_aud": 37990,
+          "power_kw": 140.0,
+          "torque_nm": 255.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1200,
+          "notes": "Limited edition #1-200 Gibson Motorsport GTS2."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "R31",
+          "category": "exterior",
+          "caption": "Nissan Skyline R31 GXE",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/1986_Nissan_Skyline_%28R31%29_GXE_sedan_%2826506688971%29.jpg/1280px-1986_Nissan_Skyline_%28R31%29_GXE_sedan_%2826506688971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/nissan/skyline/nissan_skyline_R31_1_1986_Nissan_Skyline_R31_GXE_sedan_26506688971_.jpg",
+          "file_size_bytes": 305600,
+          "sha256": "b59ac2594ccd4c2834291990b057ec0ab3a08c634c883a44cfa65263a18f0ff9"
+        }
+      ]
+    },
+    {
+      "series_code": "R32",
+      "generation_name": "Skyline R32 GT-R ('Godzilla')",
+      "years": {
+        "start": 1989,
+        "end": "1994"
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Nissan R32",
+      "ancap_rating": "Untested",
+      "summary": "The car that changed Australian motorsport forever. 100 official Australian-delivered GT-Rs landed in 1991; Fred Gibson's race cars smashed Mount Panorama, winning the 1991 and 1992 Bathurst 1000s.",
+      "engines": [
+        {
+          "engine_code": "RB26DETT",
+          "name": "Nissan RB26DETT 2.6L Twin-Turbo",
+          "displacement_cc": 2568,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 206.0,
+          "power_rpm": "6800",
+          "torque_nm": 353.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 24-valve solid lifter multi-throttle",
+          "notes": "Individual throttle bodies, parallel twin T28 ceramic turbochargers, 8,000 rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT-R (Australian Delivery)",
+          "years": {
+            "start": 1991,
+            "end": "1991"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "ATTESA E-TS All-Wheel Drive",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 110000,
+          "msrp_aud_max": 110000,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1430,
+          "standard_features": [
+            "ATTESA E-TS electronically controlled AWD",
+            "Super HICAS 4-wheel steering",
+            "Front and rear multi-link suspension",
+            "Twin-turbo RB26DETT",
+            "Aluminium front guards and bonnet",
+            "Local ADR roof reinforcement and child restraints",
+            "Only 100 official Australian models imported"
+          ],
+          "notes": "Dubbed 'Godzilla' by Wheels Magazine in 1989; back-to-back Bathurst 1000 champion."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GT-R (Australian Delivery)",
+          "body_style": "Coupe",
+          "engine_code": "RB26DETT",
+          "transmission": "5-speed manual",
+          "drivetrain": "ATTESA E-TS All-Wheel Drive",
+          "years_start": 1991,
+          "years_end": "1991",
+          "msrp_aud": 110000,
+          "power_kw": 206.0,
+          "torque_nm": 353.0,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 0,
+          "notes": "1991 Australian Delivered R32 GT-R #1-100."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

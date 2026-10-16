@@ -1,0 +1,1034 @@
+"""Wave 2 Subaru deep-dive models: Forester, Liberty & Outback."""
+
+FORESTER_MODEL = {
+    "make_slug": "subaru",
+    "model_slug": "forester",
+    "name": "Forester",
+    "vehicle_type": "Compact / Medium SUV",
+    "segment": "Medium SUV",
+    "years_sold_au": {"start": 1997, "end": "Present"},
+    "locally_built": False,
+    "assembly_plants_au": [],
+    "overview": "The Subaru Forester is an Australian automotive legend that helped pioneer the compact all-wheel-drive crossover genre in 1997. Blending permanent Symmetrical All-Wheel Drive, high ground clearance, commanding estate-car visibility, and turbocharged WRX engines in GT and XT badges, it earned an intensely loyal following among Australian families, campers, and rural motorists.",
+    "australian_market_notes": "Launched in Australia in September 1997, the Forester was an instant sales success. The introduction of the turbo Forester GT in 1998 democratized high-performance all-weather motoring for families, a formula expanded with the SG XT, SH S-Edition, and SJ XT. Across six generations, the Forester has been a fixture of Australian outdoor lifestyle culture.",
+    "manuals": [],
+    "pictures": [],
+    "generations": [
+        {
+            "series_code": "SF",
+            "generation_name": "Forester 1st Generation (inc. GT Turbo)",
+            "years": {"start": 1997, "end": 2002},
+            "body_styles": ["5-door Wagon / SUV"],
+            "platform": "Subaru SF",
+            "ancap_rating": "3 stars",
+            "summary": "Pioneered the crossover wagon formula in Australia. The naturally aspirated 2.0L EJ20 was joined in late 1998 by the cult hero Forester GT Turbo (125kW EJ205 with WRX genetics).",
+            "engines": [
+                {
+                    "engine_code": "EJ20J / EJ202",
+                    "name": "Subaru EJ20 2.0L Boxer-4",
+                    "displacement_cc": 1994,
+                    "displacement_litres": 2.0,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 92.0,
+                    "power_rpm": "5600",
+                    "torque_nm": 184.0,
+                    "torque_rpm": "3600",
+                    "compression_ratio": "9.7:1",
+                    "valvetrain": "SOHC 16-valve",
+                    "notes": "Low center of gravity horizontally opposed boxer."
+                },
+                {
+                    "engine_code": "EJ205-SF",
+                    "name": "Subaru EJ205 2.0L Turbo Boxer (GT)",
+                    "displacement_cc": 1994,
+                    "displacement_litres": 2.0,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Turbocharged Intercooled",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 125.0,
+                    "power_rpm": "5600",
+                    "torque_nm": 240.0,
+                    "torque_rpm": "3200",
+                    "compression_ratio": "8.5:1",
+                    "valvetrain": "DOHC 16-valve",
+                    "notes": "WRX-derived turbo boxer with functional bonnet scoop."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "GX / Limited",
+                    "years": {"start": 1997, "end": 2002},
+                    "body_styles": ["5-door Wagon"],
+                    "drivetrain": "Symmetrical AWD (dual-range on manual)",
+                    "transmissions": ["5-speed dual-range manual", "4-speed automatic"],
+                    "msrp_aud_min": 26990,
+                    "msrp_aud_max": 33990,
+                    "fuel_consumption_l_100km": 9.5,
+                    "kerb_weight_kg": 1330,
+                    "standard_features": ["Permanent Symmetrical AWD", "Dual-range transfer case (manual)", "Roof rails", "Air conditioning", "Power windows and mirrors"],
+                    "notes": "Outstanding dirt-road traction."
+                },
+                {
+                    "badge_name": "GT Turbo",
+                    "years": {"start": 1998, "end": 2002},
+                    "body_styles": ["5-door Wagon"],
+                    "drivetrain": "Symmetrical AWD with rear LSD",
+                    "transmissions": ["5-speed manual", "4-speed automatic"],
+                    "msrp_aud_min": 37990,
+                    "msrp_aud_max": 41990,
+                    "fuel_consumption_l_100km": 10.2,
+                    "kerb_weight_kg": 1390,
+                    "standard_features": ["125kW turbo boxer engine", "Bonnet scoop", "16-inch alloy wheels", "Momo leather steering wheel", "Sports front bucket seats", "Rear limited-slip differential"],
+                    "notes": "Australia's original sleeper crossover rocket."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Forester GT Turbo Manual",
+                    "body_style": "5-door Wagon",
+                    "engine_code": "EJ205-SF",
+                    "transmission": "5-speed manual",
+                    "drivetrain": "AWD",
+                    "years_start": 1998,
+                    "years_end": 2002,
+                    "msrp_aud": 37990,
+                    "power_kw": 125.0,
+                    "torque_nm": 240.0,
+                    "fuel_l_100km": 10.2,
+                    "towing_braked_kg": 1400,
+                    "notes": "Pioneering turbo all-wheel drive family sleeper."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "SG",
+            "generation_name": "Forester 2nd Generation (inc. XT Turbo)",
+            "years": {"start": 2002, "end": 2008},
+            "body_styles": ["5-door Wagon / SUV"],
+            "platform": "Subaru SG",
+            "ancap_rating": "5 stars (facelift)",
+            "summary": "Crisper styling, hydroformed front subframe, 5-star ANCAP safety, and the legendary 2.5L EJ255 XT Turbo delivering up to 169kW with WRX acceleration.",
+            "engines": [
+                {
+                    "engine_code": "EJ251 / EJ253",
+                    "name": "Subaru EJ25 2.5L SOHC Boxer",
+                    "displacement_cc": 2457,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 121.0,
+                    "power_rpm": "5600",
+                    "torque_nm": 226.0,
+                    "torque_rpm": "4400",
+                    "compression_ratio": "10.0:1",
+                    "valvetrain": "SOHC 16-valve i-AVLS",
+                    "notes": "Standard engine in X and XS trims."
+                },
+                {
+                    "engine_code": "EJ255-SG",
+                    "name": "Subaru EJ255 2.5L Turbo Boxer (XT)",
+                    "displacement_cc": 2457,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Turbocharged Intercooled",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 169.0,
+                    "power_rpm": "5600",
+                    "torque_nm": 320.0,
+                    "torque_rpm": "3600",
+                    "compression_ratio": "8.4:1",
+                    "valvetrain": "DOHC 16-valve AVCS",
+                    "notes": "2.5-litre turbo introduced in late 2005 SG9 facelift; 0-100 km/h in 6.0s."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "X / XS",
+                    "years": {"start": 2002, "end": 2008},
+                    "body_styles": ["5-door Wagon"],
+                    "drivetrain": "Symmetrical AWD (dual-range on manual)",
+                    "transmissions": ["5-speed manual with dual-range", "4-speed automatic"],
+                    "msrp_aud_min": 30990,
+                    "msrp_aud_max": 38990,
+                    "fuel_consumption_l_100km": 9.6,
+                    "kerb_weight_kg": 1390,
+                    "standard_features": ["Dual front and side airbags", "ABS with EBD", "Hill holder (manual)", "Cruise control", "Huge electric glass sunroof (XS)"],
+                    "notes": "Family outback favourite."
+                },
+                {
+                    "badge_name": "XT Turbo",
+                    "years": {"start": 2002, "end": 2008},
+                    "body_styles": ["5-door Wagon"],
+                    "drivetrain": "Symmetrical AWD with rear LSD",
+                    "transmissions": ["5-speed manual", "4-speed automatic"],
+                    "msrp_aud_min": 39990,
+                    "msrp_aud_max": 47990,
+                    "fuel_consumption_l_100km": 10.5,
+                    "kerb_weight_kg": 1460,
+                    "standard_features": ["169kW 2.5L turbo boxer engine", "Aggressive bonnet scoop", "17-inch alloy wheels", "Aluminium pedals", "Leather upholstery (Luxury pack)", "High intensity discharge (HID) headlights"],
+                    "notes": "Cult performance icon; 0-100 km/h in 6.0 seconds."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Forester XT 2.5 Turbo Manual",
+                    "body_style": "5-door Wagon",
+                    "engine_code": "EJ255-SG",
+                    "transmission": "5-speed manual",
+                    "drivetrain": "AWD",
+                    "years_start": 2005,
+                    "years_end": 2008,
+                    "msrp_aud": 41990,
+                    "power_kw": 169.0,
+                    "torque_nm": 320.0,
+                    "fuel_l_100km": 10.5,
+                    "towing_braked_kg": 1800,
+                    "notes": "WRX performance in a rugged wagon body."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "SH",
+            "generation_name": "Forester 3rd Generation (inc. S-Edition)",
+            "years": {"start": 2008, "end": 2013},
+            "body_styles": ["5-door SUV"],
+            "platform": "Subaru SH",
+            "ancap_rating": "5 stars",
+            "summary": "Full transition to true medium SUV dimensions with double-wishbone rear suspension, 2.0L Boxer Diesel, and the sensational 193kW Forester S-Edition with WRX STI hardware.",
+            "engines": [
+                {
+                    "engine_code": "FB25",
+                    "name": "Subaru FB25 2.5L DOHC Boxer",
+                    "displacement_cc": 2498,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 126.0,
+                    "power_rpm": "5800",
+                    "torque_nm": 235.0,
+                    "torque_rpm": "4100",
+                    "compression_ratio": "10.0:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS",
+                    "notes": "Chain-driven double overhead cam FB engine introduced in 2011."
+                },
+                {
+                    "engine_code": "EJ255-SE",
+                    "name": "Subaru EJ255 2.5L Turbo Boxer (S-Edition)",
+                    "displacement_cc": 2457,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Turbocharged Intercooled (STI Turbo)",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 193.0,
+                    "power_rpm": "6000",
+                    "torque_nm": 347.0,
+                    "torque_rpm": "2800-4800",
+                    "compression_ratio": "8.4:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS",
+                    "notes": "WRX STI turbocharger and 5-speed paddle shift automatic with VTD-AWD."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "X / XS",
+                    "years": {"start": 2008, "end": 2013},
+                    "body_styles": ["5-door SUV"],
+                    "drivetrain": "Symmetrical AWD",
+                    "transmissions": ["5-speed manual with dual-range", "4-speed auto"],
+                    "msrp_aud_min": 30490,
+                    "msrp_aud_max": 39990,
+                    "fuel_consumption_l_100km": 9.3,
+                    "kerb_weight_kg": 1475,
+                    "standard_features": ["6 airbags standard", "Vehicle Dynamics Control (VDC)", "16 or 17-inch alloys", "Roof rails", "Hill start assist"],
+                    "notes": "Mainstream family SUV volume seller."
+                },
+                {
+                    "badge_name": "S-Edition",
+                    "years": {"start": 2011, "end": 2013},
+                    "body_styles": ["5-door SUV"],
+                    "drivetrain": "Variable Torque Distribution (VTD) AWD",
+                    "transmissions": ["5-speed sports automatic with paddle shifters"],
+                    "msrp_aud_min": 50990,
+                    "msrp_aud_max": 50990,
+                    "fuel_consumption_l_100km": 10.5,
+                    "kerb_weight_kg": 1560,
+                    "standard_features": ["193kW STI-turbo engine", "17-inch high-luster STI-style alloys", "Sports suspension tune", "Alcantara/leather seats with blue S-Edition logos", "VTD AWD with 45:55 rear-biased torque split"],
+                    "notes": "0-100 km/h in 6.5s; fastest factory Forester sold in Australia."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Forester S-Edition Turbo Auto",
+                    "body_style": "5-door SUV",
+                    "engine_code": "EJ255-SE",
+                    "transmission": "5-speed automatic",
+                    "drivetrain": "AWD",
+                    "years_start": 2011,
+                    "years_end": 2013,
+                    "msrp_aud": 50990,
+                    "power_kw": 193.0,
+                    "torque_nm": 347.0,
+                    "fuel_l_100km": 10.5,
+                    "towing_braked_kg": 1400,
+                    "notes": "193kW STI-turbocharged flagship."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "SJ",
+            "generation_name": "Forester 4th Generation (inc. XT DIT)",
+            "years": {"start": 2013, "end": 2018},
+            "body_styles": ["5-door SUV"],
+            "platform": "Subaru SJ",
+            "ancap_rating": "5 stars",
+            "summary": "Introduced EyeSight driver assist stereo cameras, X-Mode off-road traction control, and the direct-injection turbo 2.0L FA20DIT in the XT (177kW/350Nm).",
+            "engines": [
+                {
+                    "engine_code": "FA20DIT",
+                    "name": "Subaru FA20DIT 2.0L Direct Injection Turbo",
+                    "displacement_cc": 1998,
+                    "displacement_litres": 2.0,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Twin-Scroll Turbocharged Intercooled",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 177.0,
+                    "power_rpm": "5600",
+                    "torque_nm": 350.0,
+                    "torque_rpm": "2400-3600",
+                    "compression_ratio": "10.6:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS",
+                    "notes": "Direct injection twin-scroll turbo paired with high-torque Lineartronic CVT."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "2.5i-L / 2.5i-S",
+                    "years": {"start": 2013, "end": 2018},
+                    "body_styles": ["5-door SUV"],
+                    "drivetrain": "Symmetrical AWD with X-Mode",
+                    "transmissions": ["6-speed manual", "Lineartronic CVT"],
+                    "msrp_aud_min": 32990,
+                    "msrp_aud_max": 41490,
+                    "fuel_consumption_l_100km": 8.1,
+                    "kerb_weight_kg": 1520,
+                    "standard_features": ["X-Mode with hill descent control", "EyeSight stereo camera safety system", "Reversing camera", "Touchscreen multimedia", "Roof rails"],
+                    "notes": "Core family model."
+                },
+                {
+                    "badge_name": "2.0XT / XT Premium",
+                    "years": {"start": 2013, "end": 2018},
+                    "body_styles": ["5-door SUV"],
+                    "drivetrain": "Symmetrical AWD with SI-Drive",
+                    "transmissions": ["Lineartronic CVT with 8-speed manual mode"],
+                    "msrp_aud_min": 43490,
+                    "msrp_aud_max": 50490,
+                    "fuel_consumption_l_100km": 8.5,
+                    "kerb_weight_kg": 1640,
+                    "standard_features": ["177kW FA20DIT turbo engine", "SI-Drive (Intelligent, Sport, Sport Sharp)", "18-inch two-tone alloys", "Harman Kardon 8-speaker audio", "Leather upholstery (Premium)", "Power tailgate"],
+                    "notes": "The final turbocharged Forester generation."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Forester 2.0XT Premium",
+                    "body_style": "5-door SUV",
+                    "engine_code": "FA20DIT",
+                    "transmission": "Lineartronic CVT",
+                    "drivetrain": "AWD",
+                    "years_start": 2013,
+                    "years_end": 2018,
+                    "msrp_aud": 50490,
+                    "power_kw": 177.0,
+                    "torque_nm": 350.0,
+                    "fuel_l_100km": 8.5,
+                    "towing_braked_kg": 1800,
+                    "notes": "0-100 km/h in 7.5 seconds with SI-Drive."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "SK",
+            "generation_name": "Forester 5th Generation & Hybrid",
+            "years": {"start": 2018, "end": 2024},
+            "body_styles": ["5-door SUV"],
+            "platform": "Subaru Global Platform (SGP)",
+            "ancap_rating": "5 stars",
+            "summary": "Built on the rigid Subaru Global Platform. Features Driver Monitoring System with facial recognition, standard EyeSight, direct-injection 2.5L engine, and e-Boxer Hybrid.",
+            "engines": [
+                {
+                    "engine_code": "FB25D",
+                    "name": "Subaru FB25D 2.5L Direct Injection Boxer",
+                    "displacement_cc": 2498,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 136.0,
+                    "power_rpm": "5800",
+                    "torque_nm": 239.0,
+                    "torque_rpm": "4400",
+                    "compression_ratio": "12.0:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS Direct Injection",
+                    "notes": "90% redesigned parts with direct cylinder injection."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "2.5i-L / 2.5i-Premium / 2.5i-S",
+                    "years": {"start": 2018, "end": 2024},
+                    "body_styles": ["5-door SUV"],
+                    "drivetrain": "Symmetrical AWD with Dual-Function X-Mode",
+                    "transmissions": ["Lineartronic CVT"],
+                    "msrp_aud_min": 35990,
+                    "msrp_aud_max": 46340,
+                    "fuel_consumption_l_100km": 7.4,
+                    "kerb_weight_kg": 1570,
+                    "standard_features": ["Driver Monitoring System (DMS)", "Dual-Function X-Mode (Snow/Dirt & Deep Snow/Mud)", "EyeSight 4.0 safety", "Apple CarPlay & Android Auto", "Harman Kardon audio (2.5i-S)"],
+                    "notes": "Benchmark family safety credentials."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Forester 2.5i-S AWD",
+                    "body_style": "5-door SUV",
+                    "engine_code": "FB25D",
+                    "transmission": "Lineartronic CVT",
+                    "drivetrain": "AWD",
+                    "years_start": 2018,
+                    "years_end": 2024,
+                    "msrp_aud": 46340,
+                    "power_kw": 136.0,
+                    "torque_nm": 239.0,
+                    "fuel_l_100km": 7.4,
+                    "towing_braked_kg": 1800,
+                    "notes": "Subaru Global Platform safety and handling."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "SL",
+            "generation_name": "Forester 6th Generation",
+            "years": {"start": 2025, "end": "Present"},
+            "body_styles": ["5-door SUV"],
+            "platform": "Subaru Global Platform (Enhanced)",
+            "ancap_rating": "5 stars (expected)",
+            "summary": "Next-generation model featuring 10% stiffer chassis, full-inner-frame construction, portrait 11.6-inch infotainment, wide-angle mono camera EyeSight, and refined 2.5L boxer.",
+            "engines": [
+                {
+                    "engine_code": "FB25-SL",
+                    "name": "Subaru FB25 2.5L Direct Injection Boxer",
+                    "displacement_cc": 2498,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 134.0,
+                    "power_rpm": "5800",
+                    "torque_nm": 241.0,
+                    "torque_rpm": "4000",
+                    "compression_ratio": "12.0:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS",
+                    "notes": "Refined for lower NVH and smoother torque curve."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "2.5i / 2.5i-L / Sport / Touring",
+                    "years": {"start": 2025, "end": "Present"},
+                    "body_styles": ["5-door SUV"],
+                    "drivetrain": "Symmetrical AWD with Dual-Function X-Mode",
+                    "transmissions": ["Lineartronic CVT"],
+                    "msrp_aud_min": 39990,
+                    "msrp_aud_max": 49990,
+                    "fuel_consumption_l_100km": 7.5,
+                    "kerb_weight_kg": 1610,
+                    "standard_features": ["11.6-inch portrait multimedia touchscreen", "Wireless Apple CarPlay & Android Auto", "Triple-camera EyeSight system with wide-angle mono camera", "Hands-free power tailgate", "19-inch dark alloy wheels (Sport)"],
+                    "notes": "Refined next-generation family adventurer."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Forester Touring AWD",
+                    "body_style": "5-door SUV",
+                    "engine_code": "FB25-SL",
+                    "transmission": "Lineartronic CVT",
+                    "drivetrain": "AWD",
+                    "years_start": 2025,
+                    "years_end": "Present",
+                    "msrp_aud": 49990,
+                    "power_kw": 134.0,
+                    "torque_nm": 241.0,
+                    "fuel_l_100km": 7.5,
+                    "towing_braked_kg": 1800,
+                    "notes": "11.6-inch portrait touchscreen and upgraded EyeSight."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        }
+    ]
+}
+
+LIBERTY_OUTBACK_MODEL = {
+    "make_slug": "subaru",
+    "model_slug": "liberty-outback",
+    "name": "Liberty & Outback",
+    "vehicle_type": "Sedan / Wagon / All-Terrain Crossover",
+    "segment": "Medium / Large Car",
+    "years_sold_au": {"start": 1989, "end": "Present"},
+    "locally_built": False,
+    "assembly_plants_au": [],
+    "overview": "The Subaru Liberty (Legacy globally) and Outback revolutionized Australian family and touring motoring. Spanning seven generations, the Liberty delivered rally-bred AWD performance with the BC RS Turbo, twin-turbo B4, and 2003 Wheels Car of the Year winning BL/BP GT Spec.B, while the lifted Outback pioneered the crossover wagon genre in 1996 and evolved into Australia's ultimate all-road adventure tourer.",
+    "australian_market_notes": "First sold in Australia in 1989 (renamed Liberty due to Legacy Australia's veterans' charity trademark), the Liberty won instant respect. Colin McRae and Possum Bourne campaigned the RS Turbo in Australian and Asia-Pacific rallying. In 1996, the Outback created an entirely new market segment. While the Liberty sedan bowed out in 2020 after 31 years and over 153,000 Australian sales, the Outback thrives with the 2.4-litre turbocharged XT.",
+    "manuals": [],
+    "pictures": [],
+    "generations": [
+        {
+            "series_code": "BC/BF",
+            "generation_name": "Liberty 1st Gen (inc. RS Turbo)",
+            "years": {"start": 1989, "end": 1994},
+            "body_styles": ["4-door Sedan", "5-door Wagon"],
+            "platform": "Subaru BC/BF",
+            "ancap_rating": "Untested",
+            "summary": "Introduced the modern EJ boxer engine family to Australia. The rally-bred RS Turbo AWD (147kW EJ20G) gave Possum Bourne and Colin McRae multiple Australian Rally Championship and APRC victories.",
+            "engines": [
+                {
+                    "engine_code": "EJ22E",
+                    "name": "Subaru EJ22 2.2L SOHC Boxer",
+                    "displacement_cc": 2212,
+                    "displacement_litres": 2.2,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 100.0,
+                    "power_rpm": "6000",
+                    "torque_nm": 181.0,
+                    "torque_rpm": "4800",
+                    "compression_ratio": "9.5:1",
+                    "valvetrain": "SOHC 16-valve",
+                    "notes": "Refined and exceptionally reliable flat-four."
+                },
+                {
+                    "engine_code": "EJ20G-RS",
+                    "name": "Subaru EJ20G 2.0L Turbo Boxer (RS Turbo)",
+                    "displacement_cc": 1994,
+                    "displacement_litres": 2.0,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Turbocharged Intercooled (Water-to-Air)",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 147.0,
+                    "power_rpm": "6400",
+                    "torque_nm": 260.0,
+                    "torque_rpm": "3600",
+                    "compression_ratio": "8.5:1",
+                    "valvetrain": "DOHC 16-valve",
+                    "notes": "Closed deck block, water-to-air intercooler, WRX predecessor."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "GX / Heritage",
+                    "years": {"start": 1989, "end": 1994},
+                    "body_styles": ["Sedan", "Wagon"],
+                    "drivetrain": "FWD or AWD",
+                    "transmissions": ["5-speed manual with dual-range", "4-speed auto"],
+                    "msrp_aud_min": 24990,
+                    "msrp_aud_max": 34990,
+                    "fuel_consumption_l_100km": 9.2,
+                    "kerb_weight_kg": 1280,
+                    "standard_features": ["Four-wheel disc brakes", "Power windows and mirrors", "Central locking", "Dual-range AWD (manual)"],
+                    "notes": "Praised for quietness and build quality."
+                },
+                {
+                    "badge_name": "RS Turbo AWD",
+                    "years": {"start": 1991, "end": 1994},
+                    "body_styles": ["4-door Sedan", "5-door Wagon"],
+                    "drivetrain": "Full-Time AWD with rear LSD",
+                    "transmissions": ["5-speed manual"],
+                    "msrp_aud_min": 38990,
+                    "msrp_aud_max": 41990,
+                    "fuel_consumption_l_100km": 10.5,
+                    "kerb_weight_kg": 1330,
+                    "standard_features": ["147kW turbo boxer with water-to-air intercooler", "15-inch alloy wheels", "Sports suspension", "Bucket seats", "Momo steering wheel"],
+                    "notes": "ARC rally champion; the genesis of Subaru turbo AWD legends in Australia."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Liberty RS Turbo AWD Sedan",
+                    "body_style": "4-door Sedan",
+                    "engine_code": "EJ20G-RS",
+                    "transmission": "5-speed manual",
+                    "drivetrain": "AWD",
+                    "years_start": 1991,
+                    "years_end": 1994,
+                    "msrp_aud": 38990,
+                    "power_kw": 147.0,
+                    "torque_nm": 260.0,
+                    "fuel_l_100km": 10.5,
+                    "towing_braked_kg": 1200,
+                    "notes": "0-100 km/h in 6.8 seconds; historic rally hero."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "BD/BG",
+            "generation_name": "Liberty 2nd Gen & Original Outback",
+            "years": {"start": 1994, "end": 1999},
+            "body_styles": ["4-door Sedan", "5-door Wagon", "Outback All-Terrain Wagon"],
+            "platform": "Subaru BD/BG",
+            "ancap_rating": "3 stars",
+            "summary": "1994 Wheels Car of the Year (Liberty). In 1996, the Liberty Outback was launched in Australia with 200mm ground clearance, two-tone cladding, and heavy-duty suspension, creating the crossover wagon category.",
+            "engines": [
+                {
+                    "engine_code": "EJ25D",
+                    "name": "Subaru EJ25D 2.5L DOHC Boxer",
+                    "displacement_cc": 2457,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 115.0,
+                    "power_rpm": "6000",
+                    "torque_nm": 221.0,
+                    "torque_rpm": "2800",
+                    "compression_ratio": "9.7:1",
+                    "valvetrain": "DOHC 16-valve",
+                    "notes": "Standard in Outback and Liberty RX."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "Outback Wagon",
+                    "years": {"start": 1996, "end": 1999},
+                    "body_styles": ["5-door Wagon"],
+                    "drivetrain": "Symmetrical AWD (dual-range on manual)",
+                    "transmissions": ["5-speed manual with dual-range", "4-speed auto"],
+                    "msrp_aud_min": 38990,
+                    "msrp_aud_max": 42990,
+                    "fuel_consumption_l_100km": 9.8,
+                    "kerb_weight_kg": 1430,
+                    "standard_features": ["200mm raised ground clearance", "Distinctive two-tone body cladding", "Self-levelling rear suspension", "Dual-range transfer case (manual)", "Fog lights integrated into heavy-duty bumper"],
+                    "notes": "Invented the modern crossover wagon."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Liberty Outback 2.5 Manual",
+                    "body_style": "Outback All-Terrain Wagon",
+                    "engine_code": "EJ25D",
+                    "transmission": "5-speed manual",
+                    "drivetrain": "AWD",
+                    "years_start": 1996,
+                    "years_end": 1999,
+                    "msrp_aud": 38990,
+                    "power_kw": 115.0,
+                    "torque_nm": 221.0,
+                    "fuel_l_100km": 9.8,
+                    "towing_braked_kg": 1500,
+                    "notes": "First Outback model sold in Australia."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "BE/BH",
+            "generation_name": "Liberty 3rd Gen & B4 Twin Turbo",
+            "years": {"start": 1998, "end": 2003},
+            "body_styles": ["4-door Sedan", "5-door Wagon", "Outback Wagon"],
+            "platform": "Subaru BE/BH",
+            "ancap_rating": "4 stars",
+            "summary": "Multi-link rear suspension. Produced the 190kW sequential twin-turbo Liberty B4 sports sedan and the first six-cylinder 3.0L Outback H6.",
+            "engines": [
+                {
+                    "engine_code": "EJ208",
+                    "name": "Subaru EJ208 2.0L Sequential Twin-Turbo Boxer",
+                    "displacement_cc": 1994,
+                    "displacement_litres": 2.0,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Sequential Twin-Turbocharged Intercooled",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 190.0,
+                    "power_rpm": "6400",
+                    "torque_nm": 320.0,
+                    "torque_rpm": "4800",
+                    "compression_ratio": "9.0:1",
+                    "valvetrain": "DOHC 16-valve",
+                    "notes": "Sequential twin-turbo system with primary and secondary boost stages (176kW in automatic)."
+                },
+                {
+                    "engine_code": "EZ30D",
+                    "name": "Subaru EZ30D 3.0L DOHC Flat-Six (H6)",
+                    "displacement_cc": 3000,
+                    "displacement_litres": 3.0,
+                    "cylinders": 6,
+                    "configuration": "Horizontally Opposed Flat-Six",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 154.0,
+                    "power_rpm": "6000",
+                    "torque_nm": 282.0,
+                    "torque_rpm": "4400",
+                    "compression_ratio": "10.7:1",
+                    "valvetrain": "DOHC 24-valve",
+                    "notes": "Compact all-aluminium flat-six engine introduced in Outback H6-3.0."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "Liberty B4 Twin Turbo",
+                    "years": {"start": 2001, "end": 2003},
+                    "body_styles": ["4-door Sedan"],
+                    "drivetrain": "Symmetrical AWD with viscous center and rear LSD",
+                    "transmissions": ["5-speed manual", "4-speed sports automatic"],
+                    "msrp_aud_min": 55130,
+                    "msrp_aud_max": 57130,
+                    "fuel_consumption_l_100km": 10.9,
+                    "kerb_weight_kg": 1495,
+                    "standard_features": ["190kW sequential twin-turbo boxer", "Bilstein inverted sports dampers", "17-inch BBS alloy wheels", "Leather/Momo interior", "McIntosh 10-speaker premium sound system"],
+                    "notes": "0-100 km/h in 6.4s; cult Japanese performance sedan."
+                },
+                {
+                    "badge_name": "Outback H6 3.0",
+                    "years": {"start": 2000, "end": 2003},
+                    "body_styles": ["5-door Wagon"],
+                    "drivetrain": "VTD All-Wheel Drive",
+                    "transmissions": ["4-speed automatic"],
+                    "msrp_aud_min": 51990,
+                    "msrp_aud_max": 54990,
+                    "fuel_consumption_l_100km": 11.2,
+                    "kerb_weight_kg": 1560,
+                    "standard_features": ["3.0L flat-six engine", "VTD-AWD with electronic stability", "McIntosh audio", "Leather upholstery", "Twin electric sunroofs"],
+                    "notes": "Luxury flat-six adventure flagship."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Liberty B4 Twin Turbo Manual",
+                    "body_style": "4-door Sedan",
+                    "engine_code": "EJ208",
+                    "transmission": "5-speed manual",
+                    "drivetrain": "AWD",
+                    "years_start": 2001,
+                    "years_end": 2003,
+                    "msrp_aud": 55130,
+                    "power_kw": 190.0,
+                    "torque_nm": 320.0,
+                    "fuel_l_100km": 10.9,
+                    "towing_braked_kg": 1400,
+                    "notes": "Twin-turbo boxer with Bilstein suspension and McIntosh audio."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "BL/BP",
+            "generation_name": "Liberty 4th Gen & Outback 3rd Gen (inc. GT Spec.B)",
+            "years": {"start": 2003, "end": 2009},
+            "body_styles": ["4-door Sedan", "5-door Wagon", "Outback Wagon"],
+            "platform": "Subaru BL/BP",
+            "ancap_rating": "5 stars",
+            "summary": "2003 Wheels Car of the Year winner. Frameless windows, lightweight aluminium body components, silky 3.0R Spec.B with 6-speed manual, and the 194kW GT Spec.B.",
+            "engines": [
+                {
+                    "engine_code": "EJ255-BL",
+                    "name": "Subaru EJ255 2.5L Turbo Boxer (GT Spec.B)",
+                    "displacement_cc": 2457,
+                    "displacement_litres": 2.5,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Twin-Scroll Turbocharged Intercooled",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 194.0,
+                    "power_rpm": "6000",
+                    "torque_nm": 350.0,
+                    "torque_rpm": "2800",
+                    "compression_ratio": "8.4:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS",
+                    "notes": "2.5L turbo in 2007 facelift paired with WRX STI 6-speed manual or 5-speed auto with paddle shifters."
+                },
+                {
+                    "engine_code": "EZ30R",
+                    "name": "Subaru EZ30R 3.0L Flat-Six AVCS & VVL",
+                    "displacement_cc": 3000,
+                    "displacement_litres": 3.0,
+                    "cylinders": 6,
+                    "configuration": "Horizontally Opposed Flat-Six",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 180.0,
+                    "power_rpm": "6600",
+                    "torque_nm": 297.0,
+                    "torque_rpm": "4200",
+                    "compression_ratio": "10.7:1",
+                    "valvetrain": "DOHC 24-valve AVCS & VVL",
+                    "notes": "180kW flat-six with variable valve timing and lift; 6-speed manual in 3.0R Spec.B."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "GT & GT Spec.B",
+                    "years": {"start": 2004, "end": 2009},
+                    "body_styles": ["Sedan", "Wagon"],
+                    "drivetrain": "Symmetrical AWD with Torsen rear LSD",
+                    "transmissions": ["6-speed STI-derived manual", "5-speed Sports automatic with paddles"],
+                    "msrp_aud_min": 52990,
+                    "msrp_aud_max": 59990,
+                    "fuel_consumption_l_100km": 10.5,
+                    "kerb_weight_kg": 1505,
+                    "standard_features": ["SI-Drive (Subaru Intelligent Drive)", "Bilstein inverted dampers", "18-inch 10-spoke alloys", "McIntosh 14-speaker sound system", "Power leather sports seats", "Subtle bonnet scoop"],
+                    "notes": "2003 Wheels COTY winner; high water mark for Liberty."
+                },
+                {
+                    "badge_name": "Outback 2.5i & 3.0R",
+                    "years": {"start": 2003, "end": 2009},
+                    "body_styles": ["Outback Wagon"],
+                    "drivetrain": "Symmetrical AWD",
+                    "transmissions": ["5-speed manual with dual-range", "5-speed automatic"],
+                    "msrp_aud_min": 38990,
+                    "msrp_aud_max": 54990,
+                    "fuel_consumption_l_100km": 9.5,
+                    "kerb_weight_kg": 1540,
+                    "standard_features": ["200mm ground clearance", "Self-levelling rear suspension", "Panoramic twin sunroof", "McIntosh audio (3.0R)", "Dual-zone climate control"],
+                    "notes": "Australia's favourite all-weather wagon."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Liberty GT Spec.B Manual Sedan",
+                    "body_style": "4-door Sedan",
+                    "engine_code": "EJ255-BL",
+                    "transmission": "6-speed manual",
+                    "drivetrain": "AWD",
+                    "years_start": 2006,
+                    "years_end": 2009,
+                    "msrp_aud": 55990,
+                    "power_kw": 194.0,
+                    "torque_nm": 350.0,
+                    "fuel_l_100km": 10.9,
+                    "towing_braked_kg": 1500,
+                    "notes": "0-100 km/h in 5.8s with STI 6-speed manual and Bilstein dampers."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "BM/BR",
+            "generation_name": "Liberty 5th Gen & Outback 4th Gen",
+            "years": {"start": 2009, "end": 2014},
+            "body_styles": ["4-door Sedan", "5-door Wagon", "Outback Wagon"],
+            "platform": "Subaru BM/BR",
+            "ancap_rating": "5 stars",
+            "summary": "Substantially larger cabin, framed door windows, 3.6L flat-six EZ36 engine (191kW), GT Premium 2.5L Turbo (195kW), and 2.0L Boxer Diesel.",
+            "engines": [
+                {
+                    "engine_code": "EZ36D",
+                    "name": "Subaru EZ36D 3.6L Flat-Six",
+                    "displacement_cc": 3629,
+                    "displacement_litres": 3.6,
+                    "cylinders": 6,
+                    "configuration": "Horizontally Opposed Flat-Six",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Regular Unleaded Petrol",
+                    "power_kw": 191.0,
+                    "power_rpm": "5600",
+                    "torque_nm": 350.0,
+                    "torque_rpm": "4400",
+                    "compression_ratio": "10.5:1",
+                    "valvetrain": "DOHC 24-valve Dual AVCS",
+                    "notes": "Runs happily on standard 91 RON unleaded with effortless 350Nm torque."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "Outback 3.6R",
+                    "years": {"start": 2009, "end": 2014},
+                    "body_styles": ["Outback Wagon"],
+                    "drivetrain": "VTD All-Wheel Drive",
+                    "transmissions": ["5-speed automatic with paddle shifters"],
+                    "msrp_aud_min": 48490,
+                    "msrp_aud_max": 57990,
+                    "fuel_consumption_l_100km": 10.3,
+                    "kerb_weight_kg": 1610,
+                    "standard_features": ["191kW 3.6L six-cylinder engine", "EyeSight stereo camera system (from 2012)", "McIntosh premium sound", "Integrated roof rails with swing-out crossbars", "Leather upholstery"],
+                    "notes": "Enduring Australian outback long-distance tourer."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Outback 3.6R Premium Auto",
+                    "body_style": "Outback Wagon",
+                    "engine_code": "EZ36D",
+                    "transmission": "5-speed automatic",
+                    "drivetrain": "AWD",
+                    "years_start": 2009,
+                    "years_end": 2014,
+                    "msrp_aud": 55990,
+                    "power_kw": 191.0,
+                    "torque_nm": 350.0,
+                    "fuel_l_100km": 10.3,
+                    "towing_braked_kg": 1800,
+                    "notes": "3.6L six-cylinder outback tourer."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "BN/BS",
+            "generation_name": "Liberty 6th Gen & Outback 5th Gen",
+            "years": {"start": 2014, "end": 2020},
+            "body_styles": ["4-door Sedan", "Outback Wagon"],
+            "platform": "Subaru BN/BS",
+            "ancap_rating": "5 stars",
+            "summary": "Final generation of the Liberty sedan in Australia (retired in 2020 after 31 years). Outback continued as a standalone flagship crossover wagon.",
+            "engines": [
+                {
+                    "engine_code": "EZ36D-Gen2",
+                    "name": "Subaru EZ36D 3.6L Flat-Six",
+                    "displacement_cc": 3629,
+                    "displacement_litres": 3.6,
+                    "cylinders": 6,
+                    "configuration": "Horizontally Opposed Flat-Six",
+                    "aspiration": "Naturally Aspirated",
+                    "fuel_type": "Petrol",
+                    "power_kw": 191.0,
+                    "power_rpm": "6000",
+                    "torque_nm": 350.0,
+                    "torque_rpm": "4400",
+                    "compression_ratio": "10.5:1",
+                    "valvetrain": "DOHC 24-valve Dual AVCS",
+                    "notes": "Paired with high-torque Lineartronic CVT."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "Liberty 2.5i & 3.6R Sedan",
+                    "years": {"start": 2014, "end": 2020},
+                    "body_styles": ["4-door Sedan"],
+                    "drivetrain": "Symmetrical AWD",
+                    "transmissions": ["Lineartronic CVT"],
+                    "msrp_aud_min": 29990,
+                    "msrp_aud_max": 44490,
+                    "fuel_consumption_l_100km": 7.3,
+                    "kerb_weight_kg": 1540,
+                    "standard_features": ["Standard EyeSight active safety", "Touchscreen with Apple CarPlay/Android Auto", "Leather seats (3.6R)", "Harman Kardon sound (3.6R)"],
+                    "notes": "Final Australian Liberty sedan generation."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Liberty 3.6R Sedan",
+                    "body_style": "4-door Sedan",
+                    "engine_code": "EZ36D-Gen2",
+                    "transmission": "Lineartronic CVT",
+                    "drivetrain": "AWD",
+                    "years_start": 2014,
+                    "years_end": 2020,
+                    "msrp_aud": 44490,
+                    "power_kw": 191.0,
+                    "torque_nm": 350.0,
+                    "fuel_l_100km": 9.9,
+                    "towing_braked_kg": 1800,
+                    "notes": "Last Liberty sedan sold in Australia before retirement in 2020."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        },
+        {
+            "series_code": "BT",
+            "generation_name": "Outback 6th Generation & XT Turbo",
+            "years": {"start": 2021, "end": "Present"},
+            "body_styles": ["Outback All-Terrain Wagon"],
+            "platform": "Subaru Global Platform (SGP)",
+            "ancap_rating": "5 stars",
+            "summary": "Built on the Subaru Global Platform. Reintroduced turbo power in 2023 with the 183kW/350Nm 2.4L FA24F Turbo in the Outback XT, featuring 2,400kg braked towing capacity and 11.6-inch portrait display.",
+            "engines": [
+                {
+                    "engine_code": "FA24F",
+                    "name": "Subaru FA24F 2.4L Turbo Boxer",
+                    "displacement_cc": 2387,
+                    "displacement_litres": 2.4,
+                    "cylinders": 4,
+                    "configuration": "Horizontally Opposed Boxer-4",
+                    "aspiration": "Twin-Scroll Turbocharged Intercooled",
+                    "fuel_type": "Premium Unleaded Petrol",
+                    "power_kw": 183.0,
+                    "power_rpm": "5200-6000",
+                    "torque_nm": 350.0,
+                    "torque_rpm": "2000-4800",
+                    "compression_ratio": "10.6:1",
+                    "valvetrain": "DOHC 16-valve Dual AVCS Direct Injection",
+                    "notes": "Twin-scroll turbo delivering 350Nm from 2,000rpm; raises braked towing to 2,400kg."
+                }
+            ],
+            "badges": [
+                {
+                    "badge_name": "Sport XT & Touring XT Turbo",
+                    "years": {"start": 2023, "end": "Present"},
+                    "body_styles": ["Outback Wagon"],
+                    "drivetrain": "Symmetrical AWD with Dual-Function X-Mode",
+                    "transmissions": ["Lineartronic CVT with 8-speed manual mode"],
+                    "msrp_aud_min": 52190,
+                    "msrp_aud_max": 55990,
+                    "fuel_consumption_l_100km": 9.0,
+                    "kerb_weight_kg": 1721,
+                    "standard_features": ["183kW turbo engine", "2,400kg braked towing capacity", "11.6-inch portrait multimedia touchscreen", "Nappa leather upholstery (Touring)", "Harman Kardon 9-speaker audio", "Hands-free power tailgate"],
+                    "notes": "Australia's top-selling adventure wagon."
+                }
+            ],
+            "configurations": [
+                {
+                    "badge_name": "Outback Touring XT Turbo",
+                    "body_style": "Outback All-Terrain Wagon",
+                    "engine_code": "FA24F",
+                    "transmission": "Lineartronic CVT",
+                    "drivetrain": "AWD",
+                    "years_start": 2023,
+                    "years_end": "Present",
+                    "msrp_aud": 55990,
+                    "power_kw": 183.0,
+                    "torque_nm": 350.0,
+                    "fuel_l_100km": 9.0,
+                    "towing_braked_kg": 2400,
+                    "notes": "2.4L turbo boxer with 2.4t towing and 213mm ground clearance."
+                }
+            ],
+            "manuals": [],
+            "pictures": []
+        }
+    ]
+}

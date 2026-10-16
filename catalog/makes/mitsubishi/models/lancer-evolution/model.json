@@ -1,0 +1,470 @@
+{
+  "make_slug": "mitsubishi",
+  "model_slug": "lancer-evolution",
+  "name": "Lancer Evolution & Ralliart",
+  "vehicle_type": "Sports Sedan / Hatchback",
+  "segment": "Rally Performance / Sports Car",
+  "years_sold_au": {
+    "start": 1992,
+    "end": 2015
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mitsubishi Lancer Evolution and Ralliart models represent one of the greatest chapters in modern Australian performance car folklore. Born directly from World Rally Championship battles where Tommi Mäkinen claimed four consecutive WRC drivers' titles, the Evo delivered staggering turbocharged all-wheel-drive grip, Active Yaw Control (AYC), and giant-killing cross-country pace.",
+  "australian_market_notes": "Australian enthusiasts first tasted this formula with the 1992-1996 Lancer GSR 4WD (CC). In 2001, Team Mitsubishi Ralliart officially imported 100 numbered examples of the iconic Evo 6.5 Tommi Mäkinen Edition (TME). From the Evo VIII in 2004, Mitsubishi Australia officially retailed Evolution models through selected Ralliart dealerships. The story culminated in the high-tech aluminium 4B11T-powered Evo X and the 226kW Final Edition in 2015.",
+  "manuals": [
+    {
+      "title": "Mitsubishi Lancer Evolution & Ralliart Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1992,
+      "language": "en",
+      "source_url": "local://catalog/makes/mitsubishi/models/lancer-evolution/model.json",
+      "local_path": "media/manuals/mitsubishi/lancer-evolution/mitsubishi_lancer-evolution_au_technical_manual.pdf",
+      "file_size_bytes": 6831,
+      "sha256": "08b93db9f0e906a8eb4edbe3104ff910d953205cd18854dab274c74026fd8b50",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Mitsubishi Lancer Evolution X",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mitsubishi_Lancer_Evolution_X_%2810851076244%29.jpg/1280px-Mitsubishi_Lancer_Evolution_X_%2810851076244%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (FotoSleuth)",
+      "local_path": "media/pictures/mitsubishi/lancer-evolution/mitsubishi_lancer-evolution_hero_1_Mitsubishi_Lancer_Evolution_X_10851076244_.jpg",
+      "file_size_bytes": 486374,
+      "sha256": "d478b026d667700a00271d87776e69d849e34e3ca40eaa59e0282b7cd170c0ca"
+    },
+    {
+      "category": "exterior",
+      "caption": "August Houston Coffee and Cars",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mitsubishi_Lancer_Evolution_X_-_005.jpg/1280px-Mitsubishi_Lancer_Evolution_X_-_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Michael Price)",
+      "local_path": "media/pictures/mitsubishi/lancer-evolution/mitsubishi_lancer-evolution_hero_2_Mitsubishi_Lancer_Evolution_X_-_005.jpg",
+      "file_size_bytes": 214017,
+      "sha256": "1eeab2bd21d8602af6a0b0e7a690b46a4840d2911aa61b4713c83b8ae19a0ade"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "CC GSR",
+      "generation_name": "Lancer GSR 4WD (The Pre-Evo Blueprint)",
+      "years": {
+        "start": 1992,
+        "end": 1996
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Hatchback"
+      ],
+      "platform": "Mitsubishi CC",
+      "ancap_rating": "Untested",
+      "summary": "Pioneered the turbocharged all-wheel-drive rally-replica formula in Australia. Powered by the 141kW 1.8L 4G93T DOHC 16-valve intercooled turbo engine with permanent AWD.",
+      "engines": [
+        {
+          "engine_code": "4G93T",
+          "name": "Mitsubishi 4G93T 1.8L DOHC Turbo",
+          "displacement_cc": 1834,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled (TD04)",
+          "fuel_type": "Petrol",
+          "power_kw": 141.0,
+          "power_rpm": "6000",
+          "torque_nm": 249.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Top-mount intercooler with twin bonnet vents."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GSR 4WD",
+          "years": {
+            "start": 1992,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "5-door Hatch"
+          ],
+          "drivetrain": "Full-Time AWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 33500,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1210,
+          "standard_features": [
+            "Full-time AWD with viscous centre and rear LSD",
+            "Recaro front bucket seats",
+            "14-inch alloy wheels",
+            "Four-wheel disc brakes",
+            "Bonnet vents"
+          ],
+          "notes": "Predecessor to Australian Evo culture."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Lancer GSR 4WD Sedan",
+          "body_style": "4-door Sedan",
+          "engine_code": "4G93T",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 1992,
+          "years_end": 1996,
+          "msrp_aud": 29990,
+          "power_kw": 141.0,
+          "torque_nm": 249.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 1000,
+          "notes": "Affordable 141kW AWD performance weapon."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "CP9A",
+      "generation_name": "Evolution VI & Tommi Makinen Edition (TME)",
+      "years": {
+        "start": 1999,
+        "end": 2001
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Mitsubishi CP9A",
+      "ancap_rating": "Untested",
+      "summary": "100 official Australian-delivered TME models imported by Ralliart Australia. 206kW 4G63T with titanium turbine wheel, lowered tarmac suspension, and Active Yaw Control.",
+      "engines": [
+        {
+          "engine_code": "4G63T-TME",
+          "name": "Mitsubishi 4G63T 2.0L Turbo (Tommi Makinen)",
+          "displacement_cc": 1997,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 206.0,
+          "power_rpm": "6500",
+          "torque_nm": 373.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Titanium-aluminide turbine wheel providing instant spool."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Evo 6.5 Tommi Makinen Edition (TME)",
+          "years": {
+            "start": 2000,
+            "end": 2001
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "AWD with Active Yaw Control",
+          "transmissions": [
+            "5-speed close-ratio manual"
+          ],
+          "msrp_aud_min": 79990,
+          "msrp_aud_max": 79990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "100 Australian-delivered numbered cars",
+            "Enkei 17-inch WRC rally replica wheels",
+            "Brembo 4-piston brakes",
+            "Recaro seats with red Tommi Makinen embroidery",
+            "Momo steering wheel"
+          ],
+          "notes": "Holy grail Australian rally homologation hero."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Lancer Evolution VI TME",
+          "body_style": "4-door Sedan",
+          "engine_code": "4G63T-TME",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 2000,
+          "years_end": 2001,
+          "msrp_aud": 79990,
+          "power_kw": 206.0,
+          "torque_nm": 373.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 0,
+          "notes": "0-100 km/h in 4.8 seconds; peak WRC road car."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "CT9A",
+      "generation_name": "Evolution VIII & IX",
+      "years": {
+        "start": 2004,
+        "end": 2007
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Mitsubishi CT9A",
+      "ancap_rating": "Untested",
+      "summary": "First full-scale official Australian dealer distribution. Super Active Yaw Control (S-AYC), Active Centre Differential (ACD), 6-speed manual, and MIVEC variable valve timing in Evo IX.",
+      "engines": [
+        {
+          "engine_code": "4G63T-MIVEC",
+          "name": "Mitsubishi 4G63T 2.0L MIVEC Turbo",
+          "displacement_cc": 1997,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 206.0,
+          "power_rpm": "6500",
+          "torque_nm": 400.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "DOHC 16-valve MIVEC",
+          "notes": "MIVEC variable intake valve timing in Evo IX with 400Nm of torque."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Evo VIII",
+          "years": {
+            "start": 2004,
+            "end": 2005
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "AWD with ACD & Super AYC",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 61990,
+          "msrp_aud_max": 61990,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "ACD & Super AYC",
+            "Brembo 4-pot brakes",
+            "Carbon fiber rear wing",
+            "17-inch Enkei alloys",
+            "Recaro bucket seats"
+          ],
+          "notes": "First officially imported mass production Evo in Australia."
+        },
+        {
+          "badge_name": "Evo IX",
+          "years": {
+            "start": 2005,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "AWD with ACD & Super AYC",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 56789,
+          "msrp_aud_max": 65990,
+          "fuel_consumption_l_100km": 10.7,
+          "kerb_weight_kg": 1410,
+          "standard_features": [
+            "MIVEC engine",
+            "BBS forged alloy wheels",
+            "Bilstein inverted shock absorbers",
+            "Aluminium roof and bonnet",
+            "Xenon headlamps"
+          ],
+          "notes": "Peak of the cast-iron 4G63 engine era."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Lancer Evolution IX 6-speed",
+          "body_style": "4-door Sedan",
+          "engine_code": "4G63T-MIVEC",
+          "transmission": "6-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 2005,
+          "years_end": 2007,
+          "msrp_aud": 56789,
+          "power_kw": 206.0,
+          "torque_nm": 400.0,
+          "fuel_l_100km": 10.7,
+          "towing_braked_kg": 0,
+          "notes": "0-100 km/h in 4.7 seconds with 400Nm torque."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "CZ4A",
+      "generation_name": "Evolution X & Ralliart",
+      "years": {
+        "start": 2008,
+        "end": 2015
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Sportback (Ralliart)"
+      ],
+      "platform": "Mitsubishi GS platform",
+      "ancap_rating": "5 stars",
+      "summary": "All-aluminium 4B11T turbocharged engine, Super All-Wheel Control (S-AWC), 6-speed Twin Clutch SST transmission or 5-speed manual, alongside the accessible Lancer Ralliart AWD.",
+      "engines": [
+        {
+          "engine_code": "4B11T-Evo",
+          "name": "Mitsubishi 4B11T 2.0L MIVEC Turbo",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 217.0,
+          "power_rpm": "6500",
+          "torque_nm": 366.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 16-valve MIVEC",
+          "notes": "Die-cast aluminium cylinder block; Final Edition tuned to 226kW/414Nm."
+        },
+        {
+          "engine_code": "4B11T-Ralliart",
+          "name": "Mitsubishi 4B11T 2.0L Turbo (Ralliart)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Single-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 177.0,
+          "power_rpm": "6000",
+          "torque_nm": 343.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 16-valve MIVEC",
+          "notes": "Fitted to Lancer Ralliart sedan and Sportback hatch."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Lancer Ralliart",
+          "years": {
+            "start": 2008,
+            "end": 2015
+          },
+          "body_styles": [
+            "Sedan",
+            "Sportback Hatch"
+          ],
+          "drivetrain": "AWD with ACD & mechanical rear LSD",
+          "transmissions": [
+            "6-speed TC-SST dual-clutch"
+          ],
+          "msrp_aud_min": 42490,
+          "msrp_aud_max": 44490,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1555,
+          "standard_features": [
+            "177kW turbo engine",
+            "Aluminium vented bonnet",
+            "Dual exhaust",
+            "18-inch alloys",
+            "Automatic paddle-shift dual clutch"
+          ],
+          "notes": "WRX fighter with Evo DNA."
+        },
+        {
+          "badge_name": "Evo X GSR & MR",
+          "years": {
+            "start": 2008,
+            "end": 2015
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "S-AWC (Super All-Wheel Control)",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed TC-SST dual clutch"
+          ],
+          "msrp_aud_min": 59490,
+          "msrp_aud_max": 74390,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1565,
+          "standard_features": [
+            "S-AWC with active center diff, active yaw control, active stability control",
+            "Brembo brakes",
+            "BBS wheels (MR)",
+            "Bilstein dampers & Eibach springs (MR)",
+            "Recaro leather seats"
+          ],
+          "notes": "Advanced AWD handling technology."
+        },
+        {
+          "badge_name": "Evo X Final Edition",
+          "years": {
+            "start": 2015,
+            "end": 2015
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "S-AWC",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 53700,
+          "msrp_aud_max": 53700,
+          "fuel_consumption_l_100km": 10.7,
+          "kerb_weight_kg": 1545,
+          "standard_features": [
+            "226kW upgraded engine",
+            "Numbered plaque (150 Australian cars)",
+            "BBS satin platinum 18-inch wheels",
+            "Black painted roof",
+            "Red stitched Recaro sports seats"
+          ],
+          "notes": "Final 150 production units for Australia concluding 23 years of Evo history."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Lancer Evolution X MR",
+          "body_style": "4-door Sedan",
+          "engine_code": "4B11T-Evo",
+          "transmission": "6-speed TC-SST dual-clutch",
+          "drivetrain": "AWD",
+          "years_start": 2008,
+          "years_end": 2015,
+          "msrp_aud": 71690,
+          "power_kw": 217.0,
+          "torque_nm": 366.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 0,
+          "notes": "S-AWC all-wheel drive with BBS wheels and Bilstein suspension."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

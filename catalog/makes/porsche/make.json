@@ -1,0 +1,241 @@
+{
+  "make_slug": "porsche",
+  "name": "Porsche",
+  "country_of_origin": "Germany",
+  "years_active_au": {
+    "start": 1951,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The pre-eminent German sports car manufacturer, with Australia holding the distinction of being Porsche's very first right-hand-drive market in the world.",
+  "australian_history": "Australia occupies a revered position in Porsche's global history. In 1951, Australian entrepreneur Norman Hamilton traveled to Gmünd and Stuttgart, meeting Ferry Porsche and securing the franchise to import the very first right-hand-drive Porsche 356 models in the world. The first two cars—a Fish Silver Grey 356 Coupe and Cabriolet—arrived in Melbourne in late 1951. Hamilton founded Porsche Cars Australia, operating out of South Melbourne. In 1992, Porsche AG acquired the distributorship directly. Australia became a stronghold for Porsche Carrera Cup racing and sports car sales, with the 911, Boxster, Cayman, Cayenne, Macan, and all-electric Taycan enjoying passionate support.",
+  "models_catalog": [
+    {
+      "model_slug": "911",
+      "name": "911 & 356",
+      "vehicle_type": "Sports Car / Coupe / Cabriolet / Targa",
+      "segment": "High Performance Sports Car",
+      "years_sold_au": {
+        "start": 1951,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The definitive rear-engine sports car. Australia boasts one of the most historic ties to Porsche in the world: Melbourne businessman Norman Hamilton secured the Australian concession in 1951, importing two 356s that represented the first right-hand drive Porsches ever made. Since the 911's local launch in 1965, it has defined sports car perfection through air-cooled and water-cooled eras, culminating in legendary Turbo, GT3, and GT3 RS icons.",
+      "generations": [
+        {
+          "series_code": "356 & Classic 911",
+          "generation_name": "Porsche 356 & Early 911 Classic",
+          "years": {
+            "start": 1951,
+            "end": 1973
+          },
+          "body_styles": [
+            "Coupe",
+            "Speedster / Cabriolet",
+            "Targa"
+          ],
+          "summary": "From the world's first RHD 356 delivered in Melbourne in 1951 to the arrival of the 911 in 1965 with 2.0L, 2.2L, 2.4L flat-sixes and the homologation 1973 Carrera RS 2.7."
+        },
+        {
+          "series_code": "930",
+          "generation_name": "911 G-Series & 930 Turbo",
+          "years": {
+            "start": 1974,
+            "end": 1989
+          },
+          "body_styles": [
+            "Coupe",
+            "Targa",
+            "Cabriolet"
+          ],
+          "summary": "Impact bumpers, 2.7L, 3.0L SC, 3.2 Carrera, and the iconic 930 Turbo (3.0L and 3.3L Turbo 'Widowmaker') with flared wheel arches and tea-tray spoiler."
+        },
+        {
+          "series_code": "993",
+          "generation_name": "911 Generation 993 (Last Air-Cooled)",
+          "years": {
+            "start": 1994,
+            "end": 1998
+          },
+          "body_styles": [
+            "Coupe",
+            "Cabriolet",
+            "Targa"
+          ],
+          "summary": "The holy grail of air-cooled 911s. Redesigned multi-link LSA aluminum rear suspension, Carrera, widebody Carrera 4S, and the twin-turbo all-wheel-drive 993 Turbo producing 300kW."
+        },
+        {
+          "series_code": "997",
+          "generation_name": "911 Generation 997",
+          "years": {
+            "start": 2005,
+            "end": 2012
+          },
+          "body_styles": [
+            "Coupe",
+            "Cabriolet",
+            "Targa",
+            "Speedster"
+          ],
+          "summary": "Restored the beloved round headlights. Introduced Direct Fuel Injection (DFI) and Porsche Doppelkupplung (PDK) dual-clutch transmission in 997.2, alongside the Mezger-engined 997 Turbo, GT3, and GT3 RS."
+        },
+        {
+          "series_code": "992",
+          "generation_name": "911 Generation 992",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe",
+            "Cabriolet",
+            "Targa",
+            "Dakar"
+          ],
+          "summary": "Current apex of 911 development. Widebody architecture across all models, wet mode acoustic sensors, Turbo S (478kW/800Nm), Carrera GTS T-Hybrid (398kW), and the track-dominating GT3 RS with swan-neck active DRS aerodynamics."
+        }
+      ]
+    },
+    {
+      "model_slug": "cayenne",
+      "name": "Cayenne",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The performance luxury SUV that secured Porsche's financial future, delivering authentic sports car dynamics and serious off-road capability in Australia.",
+      "generations": [
+        {
+          "series_code": "9PA-92A",
+          "generation_name": "Cayenne 1st & 2nd Gen",
+          "years": {
+            "start": 2003,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Dual-range transfer case 955/957 with 4.5/4.8 V8 Turbo; 958 lighter architecture with GTS and Turbo S."
+        },
+        {
+          "series_code": "9Y0",
+          "generation_name": "Cayenne Third Generation",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "Coupe"
+          ],
+          "summary": "MLB Evo platform, rear-axle steering, 48V roll stabilization, E-Hybrid, and 471kW Turbo GT Coupe."
+        }
+      ]
+    },
+    {
+      "model_slug": "macan",
+      "name": "Macan",
+      "vehicle_type": "SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2014,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Porsche's best-selling model in Australia, blending everyday practical crossover dimensions with genuine sports car handling.",
+      "generations": [
+        {
+          "series_code": "95B",
+          "generation_name": "Macan ICE Generation",
+          "years": {
+            "start": 2014,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Macan 2.0T, Macan S (3.0 V6), GTS, and Turbo (2.9 twin-turbo V6 producing up to 324kW)."
+        },
+        {
+          "series_code": "Macan-EV",
+          "generation_name": "Macan Electric (PPE)",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "PPE 800V all-electric architecture, Macan 4 and Macan Turbo with up to 470kW overboost."
+        }
+      ]
+    },
+    {
+      "model_slug": "cayenne-macan",
+      "name": "Cayenne & Macan",
+      "vehicle_type": "Luxury Performance SUV",
+      "segment": "Medium & Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The commercial lifeblood of modern Porsche. When introduced in 2003, the Cayenne proved that a true Porsche could haul five adults and conquer the Simpson Desert, while setting racetrack lap records. The smaller Macan arrived in 2014, quickly becoming Porsche's best-selling model in Australia, and leading Porsche's electric transformation with the Macan EV.",
+      "generations": [
+        {
+          "series_code": "955/957",
+          "generation_name": "Cayenne First Generation (Typ 955/957)",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "First-generation Cayenne featuring permanent 4WD with low-range transfer case, center and rear locking differentials, air suspension, Cayenne S 4.5/4.8 V8, and the earth-shattering Cayenne Turbo and Turbo S."
+        },
+        {
+          "series_code": "9Y0",
+          "generation_name": "Cayenne Third Generation (Typ 9Y0 & Turbo GT)",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "5-door Coupé"
+          ],
+          "summary": "Lightweight aluminum chassis MLB evo, rear-axle steering, 48V active anti-roll stabilization, and the record-setting Cayenne Turbo GT Coupé with 471kW 4.0L twin-turbo V8."
+        },
+        {
+          "series_code": "95B",
+          "generation_name": "Macan First Generation (Typ 95B)",
+          "years": {
+            "start": 2014,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Porsche's mega-volume mid-size SUV. Heavily re-engineered MLB chassis with rear-biased all-wheel drive, dual-clutch PDK, 2.0T four-cylinder, 3.0T/2.9T twin-turbo V6, Macan GTS, and Macan Turbo."
+        },
+        {
+          "series_code": "XAB",
+          "generation_name": "Macan Electric (Typ XAB)",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Next-generation dedicated electric Macan built on the 800V PPE platform. Equipped with 100kWh lithium-ion battery, dual permanently excited synchronous electric motors, rear-axle steering, and up to 470kW (639hp) and 1,130Nm in the Macan Turbo EV."
+        }
+      ]
+    }
+  ]
+}

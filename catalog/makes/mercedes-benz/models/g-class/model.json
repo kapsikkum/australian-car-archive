@@ -1,0 +1,451 @@
+{
+  "make_slug": "mercedes-benz",
+  "model_slug": "g-class",
+  "name": "G-Class (Geländewagen)",
+  "vehicle_type": "Off-Road 4x4 / Luxury SUV / Military Transport",
+  "segment": "Heavy Duty 4WD / Upper Large Luxury SUV",
+  "years_sold_au": {
+    "start": 1982,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The immortal Mercedes-Benz Geländewagen. Originating as a relentless military off-roader with three locking differentials, the G-Class became a trusted explorer in the Australian outback and was selected by the Australian Defence Force under Project Overlander Land 121, resulting in over 2,000 bespoke Australian Army 4x4 and 6x6 vehicles. Concurrently, the civilian W463 morphed into the ultimate status symbol through the roaring twin-turbo V8 AMG G63.",
+  "australian_market_notes": "First sold in Australia in 1982 (W460 280GE and 300GD). In 2008, the Australian Defence Force awarded Mercedes-Benz the Land 121 contract, purchasing over 2,000 W461 G-Wagens in 4x4 and Australian-exclusive 6x6 configurations. The G63 AMG accounts for the vast majority of civilian Australian sales.",
+  "manuals": [
+    {
+      "title": "Mercedes Benz G-Class (Geländewagen) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1982,
+      "language": "en",
+      "source_url": "local://catalog/makes/mercedes-benz/models/g-class/model.json",
+      "local_path": "media/manuals/mercedes-benz/g-class/mercedes-benz_g-class_au_technical_manual.pdf",
+      "file_size_bytes": 6789,
+      "sha256": "fcad61d1fe934f0f25344140aced34fbe4bf87f3028d833542ef5d149e796994",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Mercedes-Benz G-Class Prototyp at IAA 2023",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mercedes-Benz_G-Class_Prototyp_IAA_2023_1X7A0483.jpg/1280px-Mercedes-Benz_G-Class_Prototyp_IAA_2023_1X7A0483.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+      "local_path": "media/pictures/mercedes-benz/g-class/mercedes-benz_g-class_hero_1_Mercedes-Benz_G-Class_Prototyp_IAA_2023_1X7A0483.jpg",
+      "file_size_bytes": 372899,
+      "sha256": "088d1aca341ed6cc526355fe082220540a27ece8a561883ab44eed7f3ae80651"
+    },
+    {
+      "category": "exterior",
+      "caption": "DescriptionA Mercedes-Benz Geländewagen jeep in Norwegian military service.\nDate6 Nov 2005\nPhotographerHarald Hansen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mercedes-Benz_Gel%C3%A4ndewagen_Norwegian_military_MB240GD_side.jpg/1280px-Mercedes-Benz_Gel%C3%A4ndewagen_Norwegian_military_MB240GD_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (No machine-readable author provided. Harald Hansen assumed (based on copyright claims).)",
+      "local_path": "media/pictures/mercedes-benz/g-class/mercedes-benz_g-class_hero_2_Mercedes-Benz_Gel_ndewagen_Norwegian_military_MB240GD_side.jpg",
+      "file_size_bytes": 363307,
+      "sha256": "d16fd348e6b19907de56eb58e622a20cf757f6f767c59fe7b4e6e459224a6321"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "W460",
+      "generation_name": "G-Class W460 Series",
+      "years": {
+        "start": 1982,
+        "end": 1991
+      },
+      "body_styles": [
+        "2-door SWB wagon",
+        "4-door LWB wagon",
+        "Cab-chassis"
+      ],
+      "platform": "Mercedes-Benz W460",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "The pure original Geländewagen. Ladder chassis, live axles front and rear, part-time 4WD, mechanical differential locks, and bulletproof M110 petrol and OM617 diesel engines.",
+      "engines": [
+        {
+          "engine_code": "M110",
+          "name": "2.8L DOHC Inline-6 (280GE)",
+          "displacement_cc": 2746,
+          "displacement_litres": 2.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 115,
+          "power_rpm": "5250",
+          "torque_nm": 226,
+          "torque_rpm": "4250",
+          "compression_ratio": "8.0:1",
+          "valvetrain": "DOHC 12-valve",
+          "notes": "Low-compression engine suited to Australian outback fuels."
+        },
+        {
+          "engine_code": "OM617",
+          "name": "3.0L SOHC Diesel Inline-5 (300GD)",
+          "displacement_cc": 2998,
+          "displacement_litres": 3.0,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 65,
+          "power_rpm": "4400",
+          "torque_nm": 172,
+          "torque_rpm": "2400",
+          "compression_ratio": "21.0:1",
+          "valvetrain": "SOHC 10-valve",
+          "notes": "Indestructible tractor-like diesel for rural and mining exploration."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "280GE",
+          "years": {
+            "start": 1982,
+            "end": 1991
+          },
+          "body_styles": [
+            "2-door SWB wagon",
+            "4-door LWB wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "4-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 31950,
+          "msrp_aud_max": 47900,
+          "fuel_consumption_l_100km": 15.5,
+          "kerb_weight_kg": 1980,
+          "standard_features": [
+            "Dual mechanical diff locks",
+            "Dual fuel tanks option",
+            "Steel wheels",
+            "Rubber floor mats"
+          ],
+          "notes": "The foundation G-Wagen in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "280GE",
+          "body_style": "4-door LWB wagon",
+          "engine_code": "M110",
+          "transmission": "4-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1982,
+          "years_end": 1991,
+          "msrp_aud": 38900,
+          "power_kw": 115,
+          "torque_nm": 226,
+          "fuel_l_100km": 15.5,
+          "towing_braked_kg": 2500,
+          "notes": "Australian outback explorer specification."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W460",
+          "category": "exterior",
+          "caption": "Mercedes-Benz, Techno-Classica 2018, Essen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Mercedes-Benz_230_G%2C_Techno-Classica_2018%2C_Essen_%28IMG_9831%29.jpg/1280px-Mercedes-Benz_230_G%2C_Techno-Classica_2018%2C_Essen_%28IMG_9831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Matti Blume)",
+          "local_path": "media/pictures/mercedes-benz/g-class/mercedes-benz_g-class_W460_1_Mercedes-Benz_230_G_Techno-Classica_2018_Essen_IMG_9831_.jpg",
+          "file_size_bytes": 212254,
+          "sha256": "fd9dfa6fb31d4cddae62407599dd684462009b877deb001b87dcd14938bd23de"
+        }
+      ]
+    },
+    {
+      "series_code": "W461",
+      "generation_name": "G-Class W461 & ADF Land 121 (4x4 & 6x6)",
+      "years": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "body_styles": [
+        "4-door wagon",
+        "Single-cab chassis",
+        "Dual-cab chassis",
+        "6x6 Military Cab-Chassis"
+      ],
+      "platform": "Mercedes-Benz W461 Heavy Duty",
+      "ancap_rating": "Unrated (Military/Commercial)",
+      "summary": "Heavy-duty commercial and military chassis chosen by the Australian Defence Force under Project Overlander Land 121. Over 2,000 units delivered to the Australian Army in 4x4 and bespoke 6x6 cab-chassis and ambulance configurations, powered by the OM642 3.0L turbo-diesel V6 (135kW 400Nm) with portal axles on 6x6 and dual snorkels. Civilian G300 CDI Professional sold from 2016-2019.",
+      "engines": [
+        {
+          "engine_code": "OM642",
+          "name": "3.0L V6 Turbo Diesel",
+          "displacement_cc": 2987,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 135,
+          "power_rpm": "3800",
+          "torque_nm": 400,
+          "torque_rpm": "1600-2600",
+          "compression_ratio": "17.7:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Heavy-duty de-rated tune for high-sulfur and military fuel endurance."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Australian Army G-Wagen 4x4 & 6x6",
+          "years": {
+            "start": 2009,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single-cab chassis",
+            "Dual-cab chassis",
+            "6x6 Military Cab-Chassis"
+          ],
+          "drivetrain": "4WD / 6WD",
+          "transmissions": [
+            "5-speed automatic with transfer case"
+          ],
+          "msrp_aud_min": 140000,
+          "msrp_aud_max": 250000,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 3200,
+          "standard_features": [
+            "Triple locking diffs (4x4) / Five locking diffs (6x6)",
+            "Portal axles (6x6)",
+            "7000kg GVM (6x6)",
+            "Run-flat tyres",
+            "Heavy-duty steel bullbar and winch"
+          ],
+          "notes": "Project Overlander Land 121 backbone of the Australian Defence Force."
+        },
+        {
+          "badge_name": "G300 CDI Professional",
+          "years": {
+            "start": 2016,
+            "end": 2019
+          },
+          "body_styles": [
+            "Single-cab chassis",
+            "4-door wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 109900,
+          "msrp_aud_max": 119900,
+          "fuel_consumption_l_100km": 11.9,
+          "kerb_weight_kg": 2560,
+          "standard_features": [
+            "16-inch heavy-duty steel wheels",
+            "Factory snorkel",
+            "Front bullbar",
+            "Three 100% diff locks",
+            "Water-drainable rubber floors"
+          ],
+          "notes": "Civilian-delivered heavy-duty workhorse."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "G300 CDI Professional",
+          "body_style": "Single-cab chassis",
+          "engine_code": "OM642",
+          "transmission": "5-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2016,
+          "years_end": 2019,
+          "msrp_aud": 119900,
+          "power_kw": 135,
+          "torque_nm": 400,
+          "fuel_l_100km": 11.9,
+          "towing_braked_kg": 3200,
+          "notes": "Heavy-duty Australian market cab-chassis."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W461",
+          "category": "exterior",
+          "caption": "Bergrettungs-KFZ (Mercedes-Benz W461, Verkaufsbezeichnung: 230 GD) des Bayerischen Roten Kreuzes, BRK Kreisverband Amberg-Sulzbach, KFZ-Kennzeichen AM-BW10.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bergrettungs-KFZ_der_Bergwacht_Bayern_%28Mercedes-Benz_M%29_-_BRK_KV_AS.jpg/1280px-Bergrettungs-KFZ_der_Bergwacht_Bayern_%28Mercedes-Benz_M%29_-_BRK_KV_AS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (User:Mattes)",
+          "local_path": "media/pictures/mercedes-benz/g-class/mercedes-benz_g-class_W461_1_Bergrettungs-KFZ_der_Bergwacht_Bayern_Mercedes-Benz_M_-_BRK_KV_AS.jpg",
+          "file_size_bytes": 360351,
+          "sha256": "d02c535b7e865923f752a95ff5407c8f116d42c2e88707805bbb8d8b43861e3a"
+        }
+      ]
+    },
+    {
+      "series_code": "W463",
+      "generation_name": "G-Class W463 (Civilian Luxury & AMG)",
+      "years": {
+        "start": 1990,
+        "end": 2018
+      },
+      "body_styles": [
+        "4-door wagon",
+        "Cabriolet"
+      ],
+      "platform": "Mercedes-Benz W463",
+      "ancap_rating": "Unrated",
+      "summary": "Transformed the G-Wagen from military workhorse into ultra-luxury automotive royalty. Featured permanent all-wheel drive with triple electro-pneumatic differential locks, G500 V8, G350 BlueTEC diesel, and the iconic supercharged G55 and twin-turbo G63 AMG.",
+      "engines": [
+        {
+          "engine_code": "M157",
+          "name": "5.5L BiTurbo V8 (G63 AMG)",
+          "displacement_cc": 5461,
+          "displacement_litres": 5.5,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 420,
+          "power_rpm": "5500",
+          "torque_nm": 760,
+          "torque_rpm": "2000-5000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Side-exit dual exhaust pipes beneath rear doors; thunderous exhaust note."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "G63 AMG",
+          "years": {
+            "start": 2012,
+            "end": 2018
+          },
+          "body_styles": [
+            "4-door wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed AMG Speedshift Plus"
+          ],
+          "msrp_aud_min": 229900,
+          "msrp_aud_max": 252900,
+          "fuel_consumption_l_100km": 13.8,
+          "kerb_weight_kg": 2550,
+          "standard_features": [
+            "20-inch AMG 5-twin-spoke alloys",
+            "Side-exit twin chrome exhausts",
+            "designo leather upholstery",
+            "Triple locking differential switches"
+          ],
+          "notes": "0-100km/h in 5.4s. The definitive luxury status symbol in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "G63 AMG",
+          "body_style": "4-door wagon",
+          "engine_code": "M157",
+          "transmission": "7-speed AMG Speedshift Plus",
+          "drivetrain": "AWD",
+          "years_start": 2012,
+          "years_end": 2018,
+          "msrp_aud": 239900,
+          "power_kw": 420,
+          "torque_nm": 760,
+          "fuel_l_100km": 13.8,
+          "towing_braked_kg": 3500,
+          "notes": "5.5L twin-turbo V8 side-pipe icon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "W463",
+          "category": "exterior",
+          "caption": "Mercedes-Benz G-Class Prototyp at IAA 2023",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mercedes-Benz_G-Class_Prototyp_IAA_2023_1X7A0483.jpg/1280px-Mercedes-Benz_G-Class_Prototyp_IAA_2023_1X7A0483.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/mercedes-benz/g-class/mercedes-benz_g-class_W463_1_Mercedes-Benz_G-Class_Prototyp_IAA_2023_1X7A0483.jpg",
+          "file_size_bytes": 372899,
+          "sha256": "088d1aca341ed6cc526355fe082220540a27ece8a561883ab44eed7f3ae80651"
+        }
+      ]
+    },
+    {
+      "series_code": "W463 Gen 2",
+      "generation_name": "G-Class Second Generation & AMG G63",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "4-door wagon"
+      ],
+      "platform": "Mercedes-Benz W463 Gen 2",
+      "ancap_rating": "5 stars",
+      "summary": "Completely redesigned from the ground up: 121mm wider body, independent double-wishbone front suspension, electromechanical rack-and-pinion steering, Widescreen Cockpit, and the 430kW 4.0L BiTurbo AMG G63.",
+      "engines": [
+        {
+          "engine_code": "M177",
+          "name": "4.0L BiTurbo V8 (AMG G63)",
+          "displacement_cc": 3982,
+          "displacement_litres": 4.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 430,
+          "power_rpm": "6000",
+          "torque_nm": 850,
+          "torque_rpm": "2500-3500",
+          "compression_ratio": "8.6:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Twin hot-V turbochargers with side-pipe sports exhausts."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "AMG G63",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "9-speed AMG Speedshift TCT"
+          ],
+          "msrp_aud_min": 247700,
+          "msrp_aud_max": 365900,
+          "fuel_consumption_l_100km": 13.1,
+          "kerb_weight_kg": 2560,
+          "standard_features": [
+            "22-inch forged AMG cross-spoke wheels",
+            "Side-exit sports exhaust",
+            "Widescreen cockpit",
+            "AMG Ride Control adaptive dampers",
+            "Burmester surround sound"
+          ],
+          "notes": "0-100km/h in 4.5 seconds. Australia's most sought-after luxury performance off-roader."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "AMG G63",
+          "body_style": "4-door wagon",
+          "engine_code": "M177",
+          "transmission": "9-speed AMG Speedshift TCT",
+          "drivetrain": "AWD",
+          "years_start": 2018,
+          "years_end": "Present",
+          "msrp_aud": 315000,
+          "power_kw": 430,
+          "torque_nm": 850,
+          "fuel_l_100km": 13.1,
+          "towing_braked_kg": 3500,
+          "notes": "Independent front suspension 430kW super-SUV."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

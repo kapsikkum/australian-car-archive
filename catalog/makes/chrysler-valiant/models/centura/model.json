@@ -1,0 +1,281 @@
+{
+  "make_slug": "chrysler-valiant",
+  "model_slug": "centura",
+  "name": "Chrysler Centura",
+  "vehicle_type": "4-door Sedan",
+  "segment": "Mid-size",
+  "years_sold_au": {
+    "start": 1975,
+    "end": 1978
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Tonsley Park, Adelaide, South Australia"
+  ],
+  "overview": "The Chrysler Centura (KB and KC series) was Chrysler Australia's audacious weapon to conquer the mid-size family car market dominated by the Holden Torana and Ford Cortina. Assembled at Tonsley Park in Adelaide, Chrysler imported European Simca 180 bodyshells from France and undertook radical local re-engineering to shoehorn Chrysler Australia's mighty Australian-cast 3.5L (Hemi 215) and 4.0L (Hemi 245) pushrod straight-six engines, alongside a French 2.0L Simca 4-cylinder. With 123 kW (165 hp) and 319 Nm of torque propelling a compact 1,200 kg body, the Hemi 245 Centura was an astonishing sleeper muscle sedan, sprinting from 0-100 km/h in under 9 seconds and completing the standing quarter-mile in 16.5 seconds. 19,770 units were produced across the KB (1975-1977) and updated KC (1977-1978).",
+  "australian_market_notes": "The Centura's Australian introduction was famously sabotaged by history: in 1973, French union wharf bans in protest of French atmospheric nuclear testing in the South Pacific delayed imported Simca bodyshell shipments for over twelve months. Unassembled bodyshells weathered on Adelaide wharves before assembly commenced in 1975. Despite this, Australian performance drivers loved the car's sensational straight-line speed, and it enjoyed a formidable track career in production car rallying and circuit racing.",
+  "manuals": [
+    {
+      "title": "Chrysler Valiant Chrysler Centura Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1975,
+      "language": "en",
+      "source_url": "local://catalog/makes/chrysler-valiant/models/centura/model.json",
+      "local_path": "media/manuals/chrysler-valiant/centura/chrysler-valiant_centura_au_technical_manual.pdf",
+      "file_size_bytes": 5244,
+      "sha256": "188798d6ad8980c28221037252752f74dad227c20072cc933fd378fbd702321e",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Chrysler Centura was a midsize car which was produced by Chrysler Australia between 1975 and 1978, only available as a 4 door sedan. It was based on Europe's Chrysler 180 model, the front was lengthened  to fit the Australian made Hemi ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1978_Chrysler_KC_Centura_GL_Sedan_%2825220407304%29.jpg/1280px-1978_Chrysler_KC_Centura_GL_Sedan_%2825220407304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/chrysler-valiant/centura/chrysler-valiant_centura_hero_1_1978_Chrysler_KC_Centura_GL_Sedan_25220407304_.jpg",
+      "file_size_bytes": 407652,
+      "sha256": "ac281e626133c3d4d0d7dc78823889d0e42dcedadd413bfb71ae9fd031794e41"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "KB",
+      "generation_name": "KB Centura",
+      "years": {
+        "start": 1975,
+        "end": 1977
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Chrysler-Simca 180 unibody (modified front structure)",
+      "ancap_rating": null,
+      "summary": "First Centura series. Modified front sheetmetal, heavy-duty front crossmember, MacPherson strut suspension, and Australian Hemi 215 and 245 straight-six engines.",
+      "engines": [
+        {
+          "engine_code": "Simca-Type-315-2.0L",
+          "name": "Simca Type 315 2.0L OHC Inline-4",
+          "displacement_cc": 1981,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 71.0,
+          "power_rpm": "5600",
+          "torque_nm": 152.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "French-sourced OHC four-cylinder with twin-choke Solex carburettor."
+        },
+        {
+          "engine_code": "Hemi-215-I6",
+          "name": "Chrysler Hemi 215 (3.5L) OHV Inline-6",
+          "displacement_cc": 3523,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 104.0,
+          "power_rpm": "4400",
+          "torque_nm": 283.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V Hemi",
+          "notes": "Australian-cast Hemi-head straight-six with Carter 1-barrel carburettor."
+        },
+        {
+          "engine_code": "Hemi-245-I6",
+          "name": "Chrysler Hemi 245 (4.0L) OHV Inline-6",
+          "displacement_cc": 4014,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 123.0,
+          "power_rpm": "4400",
+          "torque_nm": 319.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 12V Hemi",
+          "notes": "Carter twin-barrel BBD carburettor; 165 bhp output in a 1,200 kg body."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Centura GL 245",
+          "years": {
+            "start": 1975,
+            "end": 1977
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "4-speed manual floor Borg-Warner",
+            "3-speed automatic Borg-Warner 35"
+          ],
+          "msrp_aud_min": 4390,
+          "msrp_aud_max": 4980,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1215,
+          "standard_features": [
+            "4.0L Hemi 245 straight-six standard",
+            "Front power disc brakes",
+            "Reclining front bucket seats",
+            "Collapsible steering column and flow-through ventilation"
+          ],
+          "notes": "High-volume performance family sedan."
+        },
+        {
+          "badge_name": "Centura GLX 245",
+          "years": {
+            "start": 1975,
+            "end": 1977
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor Borg-Warner",
+            "3-speed automatic Borg-Warner 35"
+          ],
+          "msrp_aud_min": 4890,
+          "msrp_aud_max": 5450,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1230,
+          "standard_features": [
+            "Sports dashboard with tachometer and oil pressure gauges",
+            "Vinyl roof and dual body side pin-striping",
+            "Sports steering wheel and center console",
+            "Carpeting throughout and rear center armrest",
+            "Sports road wheels"
+          ],
+          "notes": "Sports luxury flagship model."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Centura GLX 245",
+          "body_style": "Sedan",
+          "engine_code": "Hemi-245-I6",
+          "transmission": "4-speed manual floor Borg-Warner",
+          "drivetrain": "RWD",
+          "msrp_aud": 4890,
+          "power_kw": 123.0,
+          "torque_nm": 319.0,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 1200,
+          "notes": "123 kW 4.0L Hemi 4-speed manual sleeper sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "KB",
+          "category": "exterior",
+          "caption": "The Chrysler Centura was a midsize car which was produced by Chrysler Australia between 1975 and 1978, only available as a 4 door sedan. It was based on Europe's Chrysler 180 model, the front was lengthened  to fit the Australian made Hemi ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1978_Chrysler_KC_Centura_GL_Sedan_%2825220407304%29.jpg/1280px-1978_Chrysler_KC_Centura_GL_Sedan_%2825220407304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/chrysler-valiant/centura/chrysler-valiant_centura_KB_1_1978_Chrysler_KC_Centura_GL_Sedan_25220407304_.jpg",
+          "file_size_bytes": 407652,
+          "sha256": "ac281e626133c3d4d0d7dc78823889d0e42dcedadd413bfb71ae9fd031794e41"
+        }
+      ]
+    },
+    {
+      "series_code": "KC",
+      "generation_name": "KC Centura",
+      "years": {
+        "start": 1977,
+        "end": 1978
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Chrysler-Simca 180 unibody",
+      "ancap_rating": null,
+      "summary": "Facelifted front grille with Chrysler pentastar, improved sound insulation, revised suspension geometry, and ADR27A anti-pollution updates.",
+      "engines": [
+        {
+          "engine_code": "Hemi-245-I6-ADR27A",
+          "name": "Chrysler Hemi 245 (4.0L) ADR27A Inline-6",
+          "displacement_cc": 4014,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 104.0,
+          "power_rpm": "4000",
+          "torque_nm": 305.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V Hemi",
+          "notes": "Revised for ADR27A emission regulations."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Centura GL 245",
+          "years": {
+            "start": 1977,
+            "end": 1978
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 5190,
+          "msrp_aud_max": 5790,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 1225,
+          "standard_features": [
+            "Restyled grille and body side mouldings",
+            "Radial-ply tyres and front sway bar",
+            "Cloth/vinyl upholstery",
+            "Push-button radio"
+          ],
+          "notes": "Refined second series."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Centura GL 245",
+          "body_style": "Sedan",
+          "engine_code": "Hemi-245-I6-ADR27A",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 5190,
+          "power_kw": 104.0,
+          "torque_nm": 305.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 1200,
+          "notes": "4.0L Hemi family sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "KC",
+          "category": "exterior",
+          "caption": "The Chrysler Centura was a midsize car which was produced by Chrysler Australia between 1975 and 1978, only available as a 4 door sedan. It was based on Europe's Chrysler 180 model, the front was lengthened  to fit the Australian made Hemi ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1978_Chrysler_KC_Centura_GL_Sedan_%2825220407304%29.jpg/1280px-1978_Chrysler_KC_Centura_GL_Sedan_%2825220407304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/chrysler-valiant/centura/chrysler-valiant_centura_KC_1_1978_Chrysler_KC_Centura_GL_Sedan_25220407304_.jpg",
+          "file_size_bytes": 407652,
+          "sha256": "ac281e626133c3d4d0d7dc78823889d0e42dcedadd413bfb71ae9fd031794e41"
+        }
+      ]
+    }
+  ]
+}

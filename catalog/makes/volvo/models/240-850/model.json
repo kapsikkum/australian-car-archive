@@ -1,0 +1,346 @@
+{
+  "make_slug": "volvo",
+  "model_slug": "240-850",
+  "name": "240 & 850 Series",
+  "vehicle_type": "Sedan / Wagon",
+  "segment": "Medium / Large Executive Car",
+  "years_sold_au": {
+    "start": 1975,
+    "end": 1997
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria (1975-1988)"
+  ],
+  "overview": "The twin legends that transformed Volvo's reputation in Australia. The 240 Series was assembled locally at Clayton, Victoria, setting world safety standards and winning the 1986 Australian Touring Car Championship as the 'Flying Brick'. Its successor, the 850 Series, introduced front-wheel drive transverse 5-cylinder performance, celebrated by the limited-edition 850 T-5R and the 850 Super Tourers raced by Peter Brock and Jim Richards.",
+  "australian_market_notes": "Locally assembled at Clayton, Victoria by Volvo Australia from 1975 to 1988. In 1986, Kiwi driver Robbie Francevic drove the Mark Petch/Volvo Dealer Team 240 Turbo to outright victory in the Australian Touring Car Championship—the first and only turbo Volvo to win the ATCC. A decade later in 1996, Peter Brock and Jim Richards famously piloted factory Volvo 850 sedans in the Australian Super Touring Championship and Bathurst 1000.",
+  "manuals": [
+    {
+      "title": "Volvo 240 & 850 Series Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1975,
+      "language": "en",
+      "source_url": "local://catalog/makes/volvo/models/240-850/model.json",
+      "local_path": "media/manuals/volvo/240-850/volvo_240-850_au_technical_manual.pdf",
+      "file_size_bytes": 5418,
+      "sha256": "7415e91ab70e669d060f96d5d6beaa3087069f135735a158251506dea5516111",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "240 Series",
+      "generation_name": "Volvo 240 Series (242 / 244 / 245)",
+      "years": {
+        "start": 1975,
+        "end": 1993
+      },
+      "body_styles": [
+        "2-door sedan (242)",
+        "4-door sedan (244)",
+        "5-door wagon (245)"
+      ],
+      "platform": "Volvo 200 Series",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Clayton-assembled Swedish icon renowned for legendary longevity and steel safety cage. Featured B21/B23/B230 'redblock' engines, 242 GT sports coupe, and the Group A 240 Turbo that conquered Australian touring car racing.",
+      "engines": [
+        {
+          "engine_code": "B230E",
+          "name": "2.3L SOHC 'Redblock' Inline-4",
+          "displacement_cc": 2316,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 96,
+          "power_rpm": "5400",
+          "torque_nm": 190,
+          "torque_rpm": "2750",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Bosch K-Jetronic / LH-Jetronic fuel injection;cast iron block of legendary durability."
+        },
+        {
+          "engine_code": "B21ET",
+          "name": "2.1L SOHC Turbo 'Redblock' (Group A)",
+          "displacement_cc": 2127,
+          "displacement_litres": 2.1,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 114,
+          "power_rpm": "5200",
+          "torque_nm": 250,
+          "torque_rpm": "3500",
+          "compression_ratio": "7.5:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Garrett turbocharger; Group A race engines developed over 250kW (340hp)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "244 GL / GLE",
+          "years": {
+            "start": 1975,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual with electric overdrive",
+            "3-speed automatic",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 8990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1340,
+          "standard_features": [
+            "Four-wheel disc brakes with dual triangular circuits",
+            "Heated front seats",
+            "Power steering",
+            "Plush velour upholstery"
+          ],
+          "notes": "Assembled in Melbourne. Australian family and professional favorite."
+        },
+        {
+          "badge_name": "242 GT",
+          "years": {
+            "start": 1979,
+            "end": 1980
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual with overdrive"
+          ],
+          "msrp_aud_min": 14200,
+          "msrp_aud_max": 15500,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Silver metallic paint with black/red stripes",
+            "Fog lamps in grille",
+            "Heavy-duty anti-roll bars",
+            "Corduroy sports seats with red cord piping"
+          ],
+          "notes": "Rare Australian-delivered homologation sports model."
+        },
+        {
+          "badge_name": "240 Turbo Group A 'Flying Brick'",
+          "years": {
+            "start": 1985,
+            "end": 1986
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (Getrag)"
+          ],
+          "msrp_aud_min": 45000,
+          "msrp_aud_max": 52000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1280,
+          "standard_features": [
+            "BBS alloy wheels",
+            "Water injection",
+            "Locking differential",
+            "Rear bootlip spoiler"
+          ],
+          "notes": "Won the 1986 Australian Touring Car Championship driven by Robbie Francevic."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "244 GL / GLE",
+          "body_style": "4-door sedan",
+          "engine_code": "B230E",
+          "transmission": "4-speed automatic",
+          "drivetrain": "RWD",
+          "years_start": 1985,
+          "years_end": 1993,
+          "msrp_aud": 32900,
+          "power_kw": 96,
+          "torque_nm": 190,
+          "fuel_l_100km": 10.4,
+          "towing_braked_kg": 1500,
+          "notes": "Clayton-assembled executive sedan."
+        },
+        {
+          "badge_name": "240 Turbo Group A 'Flying Brick'",
+          "body_style": "2-door sedan",
+          "engine_code": "B21ET",
+          "transmission": "5-speed manual (Getrag)",
+          "drivetrain": "RWD",
+          "years_start": 1985,
+          "years_end": 1986,
+          "msrp_aud": 48000,
+          "power_kw": 114,
+          "torque_nm": 250,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1200,
+          "notes": "ATCC championship winning touring car homologation model."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "240 Series",
+          "category": "exterior",
+          "caption": "Volvo 240 GL in Bangkok Thailand",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Volvo_240_GL_in_Bangkok_Thailand.jpg/1280px-Volvo_240_GL_in_Bangkok_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (M.rJirapat)",
+          "local_path": "media/pictures/volvo/240-850/volvo_240-850_240_Series_1_Volvo_240_GL_in_Bangkok_Thailand.jpg",
+          "file_size_bytes": 258652,
+          "sha256": "cde2a9fc5a4dd527de29b8474b9038dea78f9324f0bbf149fc1b3947db2045d1"
+        }
+      ]
+    },
+    {
+      "series_code": "850 Series",
+      "generation_name": "Volvo 850 Series (GLT / T-5 / T-5R / R)",
+      "years": {
+        "start": 1992,
+        "end": 1997
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Volvo P80",
+      "ancap_rating": "4 stars",
+      "summary": "Revolutionary front-wheel drive transverse 5-cylinder chassis featuring Side Impact Protection System (SIPS), Delta-link rear suspension, 850 GLT, 850 Turbo / T-5, the iconic Cream Yellow 850 T-5R, and the 184kW 850 R. Campaigned by Peter Brock in the Australian Super Touring Championship and Bathurst 1000.",
+      "engines": [
+        {
+          "engine_code": "B5254S",
+          "name": "2.5L DOHC 20V Inline-5 (GLT)",
+          "displacement_cc": 2435,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125,
+          "power_rpm": "6200",
+          "torque_nm": 220,
+          "torque_rpm": "3300",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 20-valve",
+          "notes": "Transverse all-aluminium 5-cylinder with distinct warble note."
+        },
+        {
+          "engine_code": "B5234T4",
+          "name": "2.3L High Output Turbo Inline-5 (850 R)",
+          "displacement_cc": 2319,
+          "displacement_litres": 2.3,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 184,
+          "power_rpm": "5400",
+          "torque_nm": 350,
+          "torque_rpm": "2400-5000",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 20-valve",
+          "notes": "Mitsubishi TD04HL-16T turbocharger; 250hp in 5-speed manual with Torsen LSD."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "850 GLT",
+          "years": {
+            "start": 1992,
+            "end": 1997
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 44950,
+          "msrp_aud_max": 59900,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "Dual front airbags",
+            "SIPS side-impact bags",
+            "Climate control",
+            "Leather steering wheel"
+          ],
+          "notes": "Pioneered side airbags in Australia."
+        },
+        {
+          "badge_name": "850 T-5R / 850 R",
+          "years": {
+            "start": 1995,
+            "end": 1997
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual (with Torsen LSD)",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 79900,
+          "msrp_aud_max": 84900,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1445,
+          "standard_features": [
+            "17-inch 'Titan' anthracite / 'Volans' alloys",
+            "Alcantara/leather sport seats",
+            "Birch wood trim",
+            "Lowered sports chassis",
+            "Front lip and rear lip spoilers"
+          ],
+          "notes": "0-100km/h in 6.7s. High-performance cult hero driven by Peter Brock."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "850 T-5R / 850 R",
+          "body_style": "5-door wagon",
+          "engine_code": "B5234T4",
+          "transmission": "5-speed manual (with Torsen LSD)",
+          "drivetrain": "FWD",
+          "years_start": 1996,
+          "years_end": 1997,
+          "msrp_aud": 82900,
+          "power_kw": 184,
+          "torque_nm": 350,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 1600,
+          "notes": "184kW manual 850 R wagon with Torsen differential."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "850 Series",
+          "category": "exterior",
+          "caption": "Volvo 850",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1996_Volvo_850_R.jpg/1280px-1996_Volvo_850_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Calreyn88)",
+          "local_path": "media/pictures/volvo/240-850/volvo_240-850_850_Series_1_1996_Volvo_850_R.jpg",
+          "file_size_bytes": 378018,
+          "sha256": "6462ff964934e347b244dba7b4f86e1c1ab89d936682df8d8c5768907d9c0bdb"
+        }
+      ]
+    }
+  ]
+}

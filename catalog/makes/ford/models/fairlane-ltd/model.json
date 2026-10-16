@@ -1,0 +1,243 @@
+{
+  "make_slug": "ford",
+  "model_slug": "fairlane-ltd",
+  "name": "Ford Fairlane & LTD",
+  "vehicle_type": "Sedan",
+  "segment": "Upper Luxury / Limousine",
+  "years_sold_au": {
+    "start": 1967,
+    "end": 2007
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Broadmeadows, Victoria",
+    "Eagle Farm, Queensland"
+  ],
+  "overview": "The Ford Fairlane and LTD was Australia's definitive long-wheelbase luxury prestige sedan. Spanning four decades and eleven model series from the 1967 ZA to the 2007 BF Mk II, the Fairlane dominated Australian corporate, hire-car, and government limousine fleets. In 1973, Ford introduced the ultra-exclusive LTD (P5) riding on a limousine-class 121-inch wheelbase with concealed headlamps and standard 351 Cleveland V8. The Fairlane and LTD offered effortless V8 cruising, cavernous rear legroom, and refined Australian engineering.",
+  "australian_market_notes": "Engineered by stretching the Falcon's wheelbase behind the B-pillar, the 1967 ZA Fairlane was a brilliant marketing stroke, completely outselling Holden's imported and adapted prestige offerings and prompting Holden to hurriedly develop the Brougham and Statesman. In 1973, the Australian LTD was born as the most expensive and luxurious domestic car in Australia. The line transitioned through modern alloy-head EFI sixes in the 1980s, the return of Windsor V8 power in the 1990s, Tickford performance editions, and the 5.4L 3-valve V8 in the final BA/BF series.",
+  "manuals": [
+    {
+      "title": "Ford Ford Fairlane & LTD Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1967,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/fairlane-ltd/model.json",
+      "local_path": "media/manuals/ford/fairlane-ltd/ford_fairlane-ltd_au_technical_manual.pdf",
+      "file_size_bytes": 4395,
+      "sha256": "f30ecff6c60af5ad8280c81d4d868888483d8cbf0e84d98e9ef4eb9364391547",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The ZF Fairlane was built from April 1972-Nov 1973. \nIt was based on the XA Falcon, the first of the completely Australian designed Falcons, this new Falcon got an entirely new rounded body. Inside the seats were improved with new high back",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/1972_Ford_ZF_Fairlane_500_Sedan_%2822510008415%29.jpg/1280px-1972_Ford_ZF_Fairlane_500_Sedan_%2822510008415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/ford/fairlane-ltd/ford_fairlane-ltd_hero_1_1972_Ford_ZF_Fairlane_500_Sedan_22510008415_.jpg",
+      "file_size_bytes": 326165,
+      "sha256": "38db5bb4347f055adf584fd367b61e605469c48cbdf4b167d11a52f4c645f55d"
+    },
+    {
+      "category": "exterior",
+      "caption": "The ZG Fairlane was built from Nov 1973- May 1976.\nThese Fairlanes were based on the XA/XB Falcons, the ZG sold along side the XB, the XA was first of the completely  Australian designed Falcons, this new Falcon got an entirely new rounded ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1974_Ford_Fairlane_%28ZG%29_500_sedan_%2819102653969%29.jpg/1280px-1974_Ford_Fairlane_%28ZG%29_500_sedan_%2819102653969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/ford/fairlane-ltd/ford_fairlane-ltd_hero_2_1974_Ford_Fairlane_ZG_500_sedan_19102653969_.jpg",
+      "file_size_bytes": 393349,
+      "sha256": "0c1344f6909bc71f62611d08debfcc06e84bb74879b78320f2162cfc54683d5a"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "ZA-ZD",
+      "generation_name": "First Generation (ZA to ZD)",
+      "years": {
+        "start": 1967,
+        "end": 1972
+      },
+      "body_styles": [
+        "4-door long-wheelbase sedan"
+      ],
+      "platform": "Ford full-size LWB chassis",
+      "ancap_rating": null,
+      "summary": "Stretched 116-inch wheelbase Falcon body; 289, 302, and 351 Windsor/Cleveland V8s; Custom and 500 trims.",
+      "engines": [
+        {
+          "engine_code": "Windsor-302-Fairlane",
+          "name": "Ford Windsor 302ci (4.9L) V8",
+          "displacement_cc": 4942,
+          "displacement_litres": 4.9,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 157.0,
+          "power_rpm": "4600",
+          "torque_nm": 407.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Standard engine in Fairlane 500 (ZB/ZC)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Fairlane 500",
+          "years": {
+            "start": 1967,
+            "end": 1972
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Cruisomatic 3-speed automatic"
+          ],
+          "msrp_aud_min": 3550,
+          "msrp_aud_max": 4350,
+          "fuel_consumption_l_100km": 15.5,
+          "kerb_weight_kg": 1470,
+          "standard_features": [
+            "302/351 V8",
+            "Power steering",
+            "Twin vertical headlights (ZC/ZD)",
+            "Plush brocade or vinyl seats"
+          ],
+          "notes": "Australia's luxury bestseller."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Fairlane 500",
+          "body_style": "4-door sedan",
+          "engine_code": "Windsor-302-Fairlane",
+          "transmission": "Cruisomatic 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 3890,
+          "power_kw": 157.0,
+          "torque_nm": 407.0,
+          "fuel_l_100km": 15.5,
+          "towing_braked_kg": 1500,
+          "notes": "Executive boardroom standard."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "BA-BF",
+      "generation_name": "Final Generation (BA & BF Fairlane / LTD)",
+      "years": {
+        "start": 2003,
+        "end": 2007
+      },
+      "body_styles": [
+        "4-door long-wheelbase sedan"
+      ],
+      "platform": "Ford EA169 LWB platform",
+      "ancap_rating": "4 Stars",
+      "summary": "Control Blade independent rear suspension, Barra 182/190 inline-six, Barra 220 5.4L 3-valve V8, G220 sporting model, and ZF 6-speed automatic.",
+      "engines": [
+        {
+          "engine_code": "Barra-220-V8",
+          "name": "Barra 220 5.4L SOHC 24V V8",
+          "displacement_cc": 5408,
+          "displacement_litres": 5.4,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 220.0,
+          "power_rpm": "4750",
+          "torque_nm": 470.0,
+          "torque_rpm": "3250",
+          "compression_ratio": "9.1:1",
+          "valvetrain": "SOHC 24V 3-Valve per cylinder with VCT",
+          "notes": "Silky smooth modular V8 with massive low-end torque."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Fairlane Ghia",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed auto / ZF 6-speed auto"
+          ],
+          "msrp_aud_min": 54950,
+          "msrp_aud_max": 61500,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1795,
+          "standard_features": [
+            "Leather seating",
+            "Dual-zone climate control",
+            "Rear parking sensors",
+            "Memory driver seat",
+            "ICC with premium sound"
+          ],
+          "notes": "Classic long-wheelbase luxury."
+        },
+        {
+          "badge_name": "LTD",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed auto / ZF 6-speed auto"
+          ],
+          "msrp_aud_min": 72000,
+          "msrp_aud_max": 76500,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1845,
+          "standard_features": [
+            "Standard 5.4L V8",
+            "Nappa leather",
+            "Rear seat audio controls",
+            "17-inch prestige alloys",
+            "Self-levelling suspension"
+          ],
+          "notes": "Prestige flagship limousine."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "LTD",
+          "body_style": "4-door sedan",
+          "engine_code": "Barra-220-V8",
+          "transmission": "ZF 6-speed auto",
+          "drivetrain": "RWD",
+          "msrp_aud": 74500,
+          "power_kw": 220.0,
+          "torque_nm": 470.0,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 2300,
+          "notes": "Effortless luxury tourer."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "BA-BF",
+          "category": "exterior",
+          "caption": "The BF Fairlane was built from October 2005-Dec 2007\nThe BF Fairlane was based on the Australian BF Falcon sedan. The Fairlane was built on the longer wagon platform, the front and centre remained the same but got a longer tail, the rear se",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2007_Ford_BF_Fairlane_Ghia_Sedan_%2830110802376%29.jpg/1280px-2007_Ford_BF_Fairlane_Ghia_Sedan_%2830110802376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/ford/fairlane-ltd/ford_fairlane-ltd_BA-BF_1_2007_Ford_BF_Fairlane_Ghia_Sedan_30110802376_.jpg",
+          "file_size_bytes": 323702,
+          "sha256": "7d08c86eff631c04e7a55bfc0d91bed27eed53304951d52bc8398519318fa0bb"
+        }
+      ]
+    }
+  ]
+}

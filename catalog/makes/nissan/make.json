@@ -1,0 +1,540 @@
+{
+  "make_slug": "nissan",
+  "name": "Nissan",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1934,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "From the Datsun 1600 and local manufacturing at Clayton, Victoria, to the legendary 'Godzilla' Skyline GT-R and indestructible Patrol, Nissan is central to Australian motoring history.",
+  "australian_history": "Nissan's roots in Australia extend back to 1934 when early Datsuns were imported in modest numbers. A major public breakthrough came in 1958 when two Datsun 210 sedans finished the punishing Mobilgas Round Australia Rally, proving Japanese engineering resilience to a skeptical public.\n\nIn 1966, Nissan Motor Company (Australia) was formed. To satisfy local content regulations, Nissan contracted Motor Producers Limited (the former Volkswagen assembly plant) at Clayton, Victoria and Pressed Metal Corporation in Sydney to assemble Datsun passenger cars. In 1968, the Datsun 1600 (510) launched, immediately becoming a sensation. With its overhead cam engine and independent rear suspension, it dominated Australian rallying and club motorsport. Subsequent Datsuns like the 1200, 180B, 200B, and the iconic 240Z sports car (1970) made Datsun a household name.\n\nIn 1976, Nissan acquired the Clayton plant outright, creating Nissan Motor Manufacturing Australia (NMMA). Nissan phased out the Datsun nameplate in favour of Nissan between 1981 and 1984. Clayton produced the Bluebird, Pintara, and the Australian-engineered R31 Skyline sedan and wagon, powered by an imported 3.0L RB30E inline-6. Under the Federal Government's Button Plan, Nissan built the Pintara for Ford to sell as the Ford Corsair, while Ford supplied Falcon utilities to Nissan.\n\nIn 1990-1992, Fred Gibson's Nissan Motorsport team unleashed the R32 Skyline GT-R in the Australian Touring Car Championship. Dubbed 'Godzilla' by Wheels magazine, the twin-turbo, all-wheel-drive GT-R smashed the V8 competition, winning back-to-back Bathurst 1000s in 1991 and 1992 with Jim Richards and Mark Skaife. This dominance precipitated the demise of Group A and the creation of V8 Supercars.\n\nMounting financial losses under reduced tariff protections led Nissan to cease vehicle assembly at Clayton in 1992, though Nissan retained the Clayton Casting Plant to manufacture aluminum transmission components. As a full importer, Nissan achieved tremendous success with the Patrol (GQ, GU, Y62), Navara ute, X-Trail SUV, and Z sports cars. Nissan was also an early EV pioneer, launching the Leaf in Australia in 2012. In 2019, Nissan partnered with Premcar in Melbourne to develop the locally engineered 'Warrior' range of Navara and Patrol.",
+  "models_catalog": [
+    {
+      "model_slug": "patrol",
+      "name": "Patrol",
+      "vehicle_type": "4WD Wagon / Cab Chassis",
+      "segment": "Upper Large 4WD",
+      "years_sold_au": {
+        "start": 1962,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The LandCruiser's fiercest rival, an indestructible heavy-duty 4WD that made history as the first vehicle to cross the Simpson Desert in 1962.",
+      "generations": [
+        {
+          "series_code": "G60",
+          "generation_name": "Patrol G60",
+          "years": {
+            "start": 1962,
+            "end": 1980
+          },
+          "body_styles": [
+            "SWB Soft/Hardtop",
+            "LWB Wagon",
+            "Cab Chassis"
+          ],
+          "summary": "4.0L P40 inline-6 petrol, solid leaf axles, first vehicle to cross the Simpson Desert (1962)."
+        },
+        {
+          "series_code": "MQ/MK",
+          "generation_name": "Patrol MQ / MK",
+          "years": {
+            "start": 1980,
+            "end": 1987
+          },
+          "body_styles": [
+            "Hardtop",
+            "Wagon",
+            "Cab Chassis"
+          ],
+          "summary": "SD33 3.3L diesel and SD33T turbo-diesel, L28 2.8L and P40 4.0L petrol; 4-speed/5-speed manual."
+        },
+        {
+          "series_code": "GQ/Y60",
+          "generation_name": "Patrol GQ",
+          "years": {
+            "start": 1987,
+            "end": 1997
+          },
+          "body_styles": [
+            "Wagon",
+            "Cab Chassis"
+          ],
+          "summary": "All-coil suspension revolution, legendary TD42 4.2L diesel and TB42 4.2L petrol; also sold as Ford Maverick."
+        },
+        {
+          "series_code": "GU/Y61",
+          "generation_name": "Patrol GU",
+          "years": {
+            "start": 1997,
+            "end": 2016
+          },
+          "body_styles": [
+            "Wagon",
+            "Cab Chassis"
+          ],
+          "summary": "TD42T/Ti 4.2L turbo-diesel, ZD30 3.0L turbo-diesel, and TB48DE 4.8L petrol (185kW); DX, ST, Ti."
+        },
+        {
+          "series_code": "Y62",
+          "generation_name": "Patrol Y62",
+          "years": {
+            "start": 2013,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Wagon"
+          ],
+          "summary": "5.6L VK56VD V8 petrol 298kW/560Nm, 7-speed auto, Hydraulic Body Motion Control; Ti, Ti-L, Warrior."
+        }
+      ]
+    },
+    {
+      "model_slug": "skyline",
+      "name": "Skyline",
+      "vehicle_type": "Sedan / Wagon / Coupe",
+      "segment": "Mid-size / Large Sports",
+      "years_sold_au": {
+        "start": 1973,
+        "end": 2002
+      },
+      "locally_built": true,
+      "overview": "Australian-assembled family hero in R31 guise, and Bathurst-dominating 'Godzilla' GT-R icon.",
+      "generations": [
+        {
+          "series_code": "C110/C210",
+          "generation_name": "Datsun 240K / Skyline",
+          "years": {
+            "start": 1973,
+            "end": 1981
+          },
+          "body_styles": [
+            "Sedan",
+            "Coupe"
+          ],
+          "summary": "L24 2.4L OHC inline-6, GL and GT trims, distinctive round taillights."
+        },
+        {
+          "series_code": "R30",
+          "generation_name": "Skyline R30",
+          "years": {
+            "start": 1981,
+            "end": 1985
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "summary": "L24E 2.4L EFI inline-6, imported sedan and five-door hatchback."
+        },
+        {
+          "series_code": "R31",
+          "generation_name": "Skyline R31 (Clayton Build)",
+          "years": {
+            "start": 1986,
+            "end": 1991
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Wagon"
+          ],
+          "summary": "Locally built at Clayton; RB30E 3.0L inline-6 (114kW); Silhouette, Ti, and Gibson GTS1/GTS2 (140kW)."
+        },
+        {
+          "series_code": "R32",
+          "generation_name": "Skyline R32 GT-R ('Godzilla')",
+          "years": {
+            "start": 1989,
+            "end": 1994
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "100 official Australian-delivered GT-Rs (1991); RB26DETT twin-turbo AWD, Bathurst 1000 winner 1991 & 1992."
+        },
+        {
+          "series_code": "R33/R34",
+          "generation_name": "Skyline R33 / R34",
+          "years": {
+            "start": 1993,
+            "end": 2002
+          },
+          "body_styles": [
+            "Coupe",
+            "Sedan"
+          ],
+          "summary": "RB25DET and RB26DETT GT-R, cult enthusiast imports and special deliveries."
+        }
+      ]
+    },
+    {
+      "model_slug": "navara",
+      "name": "Navara",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1986,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "From the D21 through the D40 and NP300, Navara has been a central player in Australia's competitive dual-cab ute market.",
+      "generations": [
+        {
+          "series_code": "D21",
+          "generation_name": "Navara D21",
+          "years": {
+            "start": 1986,
+            "end": 1997
+          },
+          "body_styles": [
+            "Single Cab",
+            "King Cab",
+            "Dual Cab"
+          ],
+          "summary": "2.4L Z24/KA24 petrol, 2.7L TD27 diesel, 3.0L VG30E V6; DX and ST grades."
+        },
+        {
+          "series_code": "D22",
+          "generation_name": "Navara D22",
+          "years": {
+            "start": 1997,
+            "end": 2015
+          },
+          "body_styles": [
+            "Single Cab",
+            "King Cab",
+            "Dual Cab"
+          ],
+          "summary": "3.0L ZD30 and 2.5L YD25 common-rail turbo-diesel, 3.3L VG33E V6; rugged budget favourite."
+        },
+        {
+          "series_code": "D40",
+          "generation_name": "Navara D40",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "King Cab",
+            "Dual Cab"
+          ],
+          "summary": "Spanish/Thai built, 2.5L YD25 (126-140kW), 4.0L V6 petrol, and 170kW 3.0L V9X V6 turbo-diesel; ST-X."
+        },
+        {
+          "series_code": "D23/NP300",
+          "generation_name": "Navara D23 / NP300",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single Cab",
+            "King Cab",
+            "Dual Cab"
+          ],
+          "summary": "Coil-spring multi-link rear suspension, 2.3L twin-turbo diesel YS23DDTT; ST, ST-X, PRO-4X, and Premcar Warrior."
+        }
+      ]
+    },
+    {
+      "model_slug": "x-trail",
+      "name": "X-Trail",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2001,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Versatile and family-friendly compact SUV, consistently one of Australia's best-selling medium SUVs.",
+      "generations": [
+        {
+          "series_code": "T30",
+          "generation_name": "X-Trail 1st Gen",
+          "years": {
+            "start": 2001,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.5L QR25DE engine 132kW, All-Mode 4x4, washable cargo floor, central instrument cluster; ST and Ti."
+        },
+        {
+          "series_code": "T31",
+          "generation_name": "X-Trail 2nd Gen",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Boxy styling, 2.5L petrol and 2.0L M9R turbo-diesel, drawer storage system; ST, ST-L, Ti, TL."
+        },
+        {
+          "series_code": "T32",
+          "generation_name": "X-Trail 3rd Gen",
+          "years": {
+            "start": 2014,
+            "end": 2022
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Aerodynamic curves, available 7 seats, 2.0L/2.5L petrol and 1.6L/2.0L diesel; ST, ST-L, Ti."
+        },
+        {
+          "series_code": "T33",
+          "generation_name": "X-Trail 4th Gen",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "CMF-C platform, 2.5L PR25DD petrol and e-POWER series hybrid with e-4ORCE electric AWD."
+        }
+      ]
+    },
+    {
+      "model_slug": "pulsar",
+      "name": "Pulsar",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1980,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Mass-market small car hero built at Clayton through the 1980s and early 1990s, famous for the SSS turbo and SSS hot hatch badges.",
+      "generations": [
+        {
+          "series_code": "N10",
+          "generation_name": "Pulsar / Datsun 310",
+          "years": {
+            "start": 1980,
+            "end": 1982
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch"
+          ],
+          "summary": "1.3L and 1.4L A-series engines, FWD transition."
+        },
+        {
+          "series_code": "N12",
+          "generation_name": "Pulsar N12 (Clayton Build)",
+          "years": {
+            "start": 1982,
+            "end": 1987
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Clayton assembly; E13 and E15 engines; Holden shared under Astra badge; ET Turbo with E15ET 77kW."
+        },
+        {
+          "series_code": "N13",
+          "generation_name": "Pulsar N13 (Clayton Build)",
+          "years": {
+            "start": 1987,
+            "end": 1991
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.6L and 1.8L Family II engines (from Holden engine plant); Vector and SSS models."
+        },
+        {
+          "series_code": "N14",
+          "generation_name": "Pulsar N14",
+          "years": {
+            "start": 1991,
+            "end": 1995
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Imported from Japan; GA16DE 1.6L and legendary SR20DE 2.0L 105kW in the Pulsar SSS."
+        },
+        {
+          "series_code": "N15",
+          "generation_name": "Pulsar N15",
+          "years": {
+            "start": 1995,
+            "end": 2000
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.6L GA16DE and 2.0L SR20DE in SSS; LX, Q, and SSS trims; huge Australian sales volume."
+        },
+        {
+          "series_code": "N16",
+          "generation_name": "Pulsar N16",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.6L and 1.8L QG18DE engines; ST, Q, and Ti grades."
+        },
+        {
+          "series_code": "B17/C12",
+          "generation_name": "Pulsar B17 / C12",
+          "years": {
+            "start": 2013,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatchback"
+          ],
+          "summary": "1.8L MRA8DE petrol and 1.6L DIG-Turbo MR16DDT 140kW in revived SSS hatch."
+        }
+      ]
+    },
+    {
+      "model_slug": "z-car",
+      "name": "Z-Car",
+      "vehicle_type": "Coupe / Convertible",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1970,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "From the Datsun 240Z in 1970 to the modern twin-turbo Nissan Z, the Fairlady Z bloodline is an Australian sports car institution.",
+      "generations": [
+        {
+          "series_code": "S30",
+          "generation_name": "240Z / 260Z",
+          "years": {
+            "start": 1970,
+            "end": 1978
+          },
+          "body_styles": [
+            "Coupe",
+            "2+2 Coupe"
+          ],
+          "summary": "L24 2.4L and L26/L28 2.6L inline-6 engines; hit of the 1970s Australian sports car market."
+        },
+        {
+          "series_code": "S130",
+          "generation_name": "280ZX",
+          "years": {
+            "start": 1978,
+            "end": 1983
+          },
+          "body_styles": [
+            "Coupe",
+            "T-Bar Roof 2+2"
+          ],
+          "summary": "2.8L L28E EFI inline-6, luxury grand tourer features, power steering, T-bar roof."
+        },
+        {
+          "series_code": "Z31",
+          "generation_name": "300ZX Z31",
+          "years": {
+            "start": 1984,
+            "end": 1989
+          },
+          "body_styles": [
+            "Coupe",
+            "T-Bar 2+2"
+          ],
+          "summary": "3.0L VG30E and VG30ET Turbo V6 engines, pop-up headlights, digital instrumentation."
+        },
+        {
+          "series_code": "Z32",
+          "generation_name": "300ZX Z32",
+          "years": {
+            "start": 1989,
+            "end": 1996
+          },
+          "body_styles": [
+            "Coupe",
+            "T-Bar 2+2",
+            "Convertible"
+          ],
+          "summary": "3.0L VG30DE and Twin-Turbo VG30DETT (208kW), Super HICAS 4-wheel steering; design masterpiece."
+        },
+        {
+          "series_code": "Z33",
+          "generation_name": "350Z",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "Coupe",
+            "Roadster"
+          ],
+          "summary": "3.5L VQ35DE/HR V6 (206kW-230kW), 6-speed manual, Brembo brakes; Track and Touring trims."
+        },
+        {
+          "series_code": "Z34",
+          "generation_name": "370Z",
+          "years": {
+            "start": 2009,
+            "end": 2021
+          },
+          "body_styles": [
+            "Coupe",
+            "Roadster"
+          ],
+          "summary": "3.7L VQ37VHR V6 245kW, SynchroRev Match manual transmission, NISMO variant."
+        },
+        {
+          "series_code": "RZ34",
+          "generation_name": "Nissan Z",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "3.0L VR30DDTT Twin-Turbo V6 298kW/475Nm, 6-speed manual or 9-speed auto; retro design cues."
+        }
+      ]
+    },
+    {
+      "model_slug": "gt-r",
+      "name": "GT-R",
+      "vehicle_type": "Coupe",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 2009,
+        "end": 2022
+      },
+      "locally_built": false,
+      "overview": "Nissan's standalone all-wheel-drive supercar slayer, carrying on the 'Godzilla' legacy of the R32.",
+      "generations": [
+        {
+          "series_code": "R35",
+          "generation_name": "GT-R R35",
+          "years": {
+            "start": 2009,
+            "end": 2022
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "Hand-built 3.8L VR38DETT Twin-Turbo V6 (357kW to 441kW NISMO), ATTESA E-TS AWD, dual-clutch transmission."
+        }
+      ]
+    }
+  ]
+}

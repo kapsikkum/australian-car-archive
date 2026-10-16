@@ -1,0 +1,690 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "camry",
+  "name": "Camry",
+  "vehicle_type": "Sedan / Wagon",
+  "segment": "Mid-size Car",
+  "years_sold_au": {
+    "start": 1983,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Port Melbourne, Victoria",
+    "Altona, Victoria"
+  ],
+  "overview": "The Toyota Camry was the cornerstone of Australian automotive manufacturing from 1987 to 2017. Built in Port Melbourne and Altona, it was Australia's favourite mid-size family and fleet sedan for over three decades.",
+  "australian_market_notes": "Camry manufacturing commenced at Port Melbourne in 1987 (SV21) and moved to Altona in 1994. Under the Button Plan, it was badged as the Holden Apollo. In 2010, Altona launched Australia's very first locally produced hybrid car, the Camry Hybrid (AHV40). Altona was Toyota's global export hub for the Middle East, shipping hundreds of thousands of sedans. The final locally made Camry rolled off the Altona line on October 3, 2017.",
+  "manuals": [
+    {
+      "title": "Toyota Camry Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1983,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/camry/model.json",
+      "local_path": "media/manuals/toyota/camry/toyota_camry_au_technical_manual.pdf",
+      "file_size_bytes": 7528,
+      "sha256": "35db2ff4f78dae7eecc679256cbcde95ccde62423143612d22325b0498fae913",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "11422 PGS Toyota Camry Service And Repair Manual 2012 TO 2017",
+      "year": null,
+      "source_url": "https://archive.org/details/11422-pgs-toyota-camry-service-and-repair-manual-2012-to-2017",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/camry/toyota_camry_manual_11422_PGS_Toyota_Camry_Service_And_Repair_Manual_2012_TO_2017.html",
+      "file_size_bytes": 207390,
+      "sha256": "feedbaeddc0e62bee20204c32492691dcdf6dd5a8aba6b048c3e67496826263e"
+    },
+    {
+      "title": "Toyota Camry Car Brochure (2003)",
+      "year": 2002,
+      "source_url": "https://archive.org/details/toyota-camry-car-brochure-2003",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/camry/toyota_camry_manual_Toyota_Camry_Car_Brochure_2003.html",
+      "file_size_bytes": 215997,
+      "sha256": "26f2b003e8e3aee5d751e9359073d0695a8632dbec8739eea4b5453ad9209939"
+    },
+    {
+      "title": "Toyota Camry Car Brochure (2008)",
+      "year": 2007,
+      "source_url": "https://archive.org/details/toyota-camry-car-brochure-2008",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/camry/toyota_camry_manual_Toyota_Camry_Car_Brochure_2008.html",
+      "file_size_bytes": 217405,
+      "sha256": "4910d6f9bc11e374acff655f837c99a93b2c299e29219f5bba08b254c67c9144"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "I was surprised to see one of these on my first day on the Gold Coast, so when I saw two within a minute of each other on my way to the airport on the last day I was shocked! This one was far tidier than the other two...",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/1984-1987_Toyota_Camry_%28SV11%29_GLi_hatchback_%289313863092%29.jpg/1280px-1984-1987_Toyota_Camry_%28SV11%29_GLi_hatchback_%289313863092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/toyota/camry/toyota_camry_hero_1_1984-1987_Toyota_Camry_SV11_GLi_hatchback_9313863092_.jpg",
+      "file_size_bytes": 214660,
+      "sha256": "fc1d5386ca1ce8dac33e23caa9dc8c36d99170bb39d98de00b2622e025321882"
+    },
+    {
+      "category": "exterior",
+      "caption": "This was a surprise find, as I wasn't aware the first-generation Camry was sold in Australia! I'd never seen one before, as the Mk1 Camry was never sold in NZ, but over the course of my holiday I saw three... This was pretty rough to be hon",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/1984_Toyota_Camry_%28SV11%29_GLi_hatchback_%288079275412%29.jpg/1280px-1984_Toyota_Camry_%28SV11%29_GLi_hatchback_%288079275412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/toyota/camry/toyota_camry_hero_2_1984_Toyota_Camry_SV11_GLi_hatchback_8079275412_.jpg",
+      "file_size_bytes": 248035,
+      "sha256": "d6b90eca926e77d72821f4fe3032cb99e6d28c407ea72196649fed532063be53"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "SV21",
+      "generation_name": "Camry 2nd Generation (1st AU Build)",
+      "years": {
+        "start": 1987,
+        "end": 1993
+      },
+      "body_styles": [
+        "Sedan",
+        "Station Wagon"
+      ],
+      "platform": "Toyota V20",
+      "ancap_rating": "Untested",
+      "summary": "First Australian-manufactured Camry at Port Melbourne. Known for durability and fuel efficiency; also built for Holden as the Apollo.",
+      "engines": [
+        {
+          "engine_code": "3S-FE",
+          "name": "Toyota 3S-FE 2.0L",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 88.0,
+          "power_rpm": "5600",
+          "torque_nm": 171.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Legendary iron-block 3S-FE engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CSX",
+          "years": {
+            "start": 1987,
+            "end": 1993
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 17500,
+          "msrp_aud_max": 23500,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Power steering",
+            "Cloth trim",
+            "Digital clock",
+            "AM/FM radio cassette",
+            "Split-folding rear seat"
+          ],
+          "notes": "Port Melbourne built family standard."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CSX",
+          "body_style": "Sedan",
+          "engine_code": "3S-FE",
+          "transmission": "4-speed auto",
+          "drivetrain": "FWD",
+          "years_start": 1987,
+          "years_end": 1993,
+          "msrp_aud": 19800,
+          "power_kw": 88.0,
+          "torque_nm": 171.0,
+          "fuel_l_100km": 8.8,
+          "towing_braked_kg": 1100,
+          "notes": "SV21 CSX Sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SV21",
+          "category": "exterior",
+          "caption": "1991 Toyota Camry (SV21) CSi sedan. Photographed in Gymea, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1991_Toyota_Camry_%28SV21%29_CSi_sedan_%282009-02-17%29.jpg/1280px-1991_Toyota_Camry_%28SV21%29_CSi_sedan_%282009-02-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/toyota/camry/toyota_camry_SV21_1_1991_Toyota_Camry_SV21_CSi_sedan_2009-02-17_.jpg",
+          "file_size_bytes": 182844,
+          "sha256": "e307182ee1b1d71ed2fade4378aaaf5c626e53b708630990a54133af5eb243fc"
+        }
+      ]
+    },
+    {
+      "series_code": "SXV20/MCV20",
+      "generation_name": "Camry 4th Generation",
+      "years": {
+        "start": 1997,
+        "end": 2002
+      },
+      "body_styles": [
+        "Sedan",
+        "Station Wagon"
+      ],
+      "platform": "Toyota XV20",
+      "ancap_rating": "3 Stars",
+      "summary": "Manufactured at Altona with massive Middle East export contracts; offered in economical 2.2L 4-cylinder and silky 3.0L 1MZ-FE quad-cam V6.",
+      "engines": [
+        {
+          "engine_code": "5S-FE",
+          "name": "Toyota 5S-FE 2.2L",
+          "displacement_cc": 2164,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 94.0,
+          "power_rpm": "5200",
+          "torque_nm": 187.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Bulletproof 2.2L iron-block 4-cylinder."
+        },
+        {
+          "engine_code": "1MZ-FE",
+          "name": "Toyota 1MZ-FE 3.0L V6",
+          "displacement_cc": 2995,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 141.0,
+          "power_rpm": "5200",
+          "torque_nm": 279.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Smooth aluminum quad-cam V6."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Touring",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 35500,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "Sports suspension tune",
+            "15-inch alloy wheels",
+            "Rear wing spoiler",
+            "Sports steering wheel",
+            "Touring badging"
+          ],
+          "notes": "Australian-developed sports pack."
+        },
+        {
+          "badge_name": "CSi",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 28990,
+          "fuel_consumption_l_100km": 9.0,
+          "kerb_weight_kg": 1350,
+          "standard_features": [
+            "Driver airbag",
+            "Air conditioning",
+            "Power mirrors",
+            "Remote central locking"
+          ],
+          "notes": "Fleet backbone across Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Touring V6",
+          "body_style": "Sedan",
+          "engine_code": "1MZ-FE",
+          "transmission": "4-speed auto",
+          "drivetrain": "FWD",
+          "years_start": 1999,
+          "years_end": 2002,
+          "msrp_aud": 34990,
+          "power_kw": 141.0,
+          "torque_nm": 279.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1500,
+          "notes": "MCV20 Touring V6."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "ACV40/AHV40",
+      "generation_name": "Camry 6th Generation (Hybrid Pioneer)",
+      "years": {
+        "start": 2006,
+        "end": 2011
+      },
+      "body_styles": [
+        "Sedan"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "4 to 5 Stars",
+      "summary": "Built at Altona and groundbreaking for debuting Australia's very first locally manufactured hybrid passenger car in 2010 (Camry Hybrid AHV40).",
+      "engines": [
+        {
+          "engine_code": "2AZ-FE",
+          "name": "Toyota 2AZ-FE 2.4L VVT-i",
+          "displacement_cc": 2362,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 117.0,
+          "power_rpm": "5700",
+          "torque_nm": 218.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "DOHC 16-valve VVT-i",
+          "notes": "Mainstream 2.4L engine in Altise, Ateva, and Sportivo."
+        },
+        {
+          "engine_code": "2AZ-FXE",
+          "name": "Toyota 2AZ-FXE 2.4L Hybrid",
+          "displacement_cc": 2362,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Hybrid Petrol/Electric",
+          "power_kw": 140.0,
+          "power_rpm": "6000",
+          "torque_nm": 187.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "DOHC 16-valve Atkinson cycle",
+          "notes": "Australia's first locally built hybrid; combined system power 140kW, 6.0L/100km."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Hybrid",
+          "years": {
+            "start": 2010,
+            "end": 2011
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "e-CVT"
+          ],
+          "msrp_aud_min": 36990,
+          "msrp_aud_max": 39990,
+          "fuel_consumption_l_100km": 6.0,
+          "kerb_weight_kg": 1610,
+          "standard_features": [
+            "Hybrid Synergy Drive",
+            "Keyless smart entry and push button start",
+            "Electronic stability control (VSC)",
+            "Unique aero grille and clear tail lights",
+            "Dual-zone climate control"
+          ],
+          "notes": "Australia's first locally built hybrid car."
+        },
+        {
+          "badge_name": "Altise",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 28000,
+          "msrp_aud_max": 32000,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1450,
+          "standard_features": [
+            "Cruise control",
+            "Air conditioning",
+            "Power windows",
+            "ABS brakes"
+          ],
+          "notes": "Everyday Australian sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Hybrid",
+          "body_style": "Sedan",
+          "engine_code": "2AZ-FXE",
+          "transmission": "e-CVT",
+          "drivetrain": "FWD",
+          "years_start": 2010,
+          "years_end": 2011,
+          "msrp_aud": 36990,
+          "power_kw": 140.0,
+          "torque_nm": 187.0,
+          "fuel_l_100km": 6.0,
+          "towing_braked_kg": 1200,
+          "notes": "Historic Altona-built Camry Hybrid."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "ASV50/AVV50",
+      "generation_name": "Camry 7th Generation (Final AU Build)",
+      "years": {
+        "start": 2011,
+        "end": 2017
+      },
+      "body_styles": [
+        "Sedan"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "5 Stars",
+      "summary": "The final vehicle manufactured by Toyota in Australia at Altona, concluding 54 years of domestic vehicle assembly on October 3, 2017.",
+      "engines": [
+        {
+          "engine_code": "2AR-FE",
+          "name": "Toyota 2AR-FE 2.5L Dual VVT-i",
+          "displacement_cc": 2494,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 133.0,
+          "power_rpm": "6000",
+          "torque_nm": 231.0,
+          "torque_rpm": "4100",
+          "compression_ratio": "10.4:1",
+          "valvetrain": "DOHC 16-valve Dual VVT-i",
+          "notes": "Smooth, refined 2.5L with 6-speed automatic transmission (135kW in dual-exhaust Atara)."
+        },
+        {
+          "engine_code": "2AR-FXE",
+          "name": "Toyota 2AR-FXE 2.5L Hybrid",
+          "displacement_cc": 2494,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Hybrid Petrol/Electric",
+          "power_kw": 151.0,
+          "power_rpm": "5700",
+          "torque_nm": 213.0,
+          "torque_rpm": "4500",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "DOHC 16-valve Atkinson cycle",
+          "notes": "Total system power 151kW with official fuel economy of 5.2L/100km."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Atara S",
+          "years": {
+            "start": 2011,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic",
+            "e-CVT (Hybrid)"
+          ],
+          "msrp_aud_min": 33490,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 5.2,
+          "kerb_weight_kg": 1510,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Paddle shifters",
+            "Smart entry and start",
+            "Reversing camera",
+            "Dual exhaust",
+            "Touchscreen audio"
+          ],
+          "notes": "Popular mid-spec private and business sedan."
+        },
+        {
+          "badge_name": "Atara SL",
+          "years": {
+            "start": 2011,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic",
+            "e-CVT (Hybrid)"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 44440,
+          "fuel_consumption_l_100km": 5.2,
+          "kerb_weight_kg": 1540,
+          "standard_features": [
+            "Leather upholstery",
+            "JBL 10-speaker premium audio",
+            "Blind spot monitor",
+            "Rear cross traffic alert",
+            "Satellite navigation",
+            "Power rear sunshade"
+          ],
+          "notes": "Luxury specification."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Atara S Hybrid",
+          "body_style": "Sedan",
+          "engine_code": "2AR-FXE",
+          "transmission": "e-CVT",
+          "drivetrain": "FWD",
+          "years_start": 2011,
+          "years_end": 2017,
+          "msrp_aud": 35990,
+          "power_kw": 151.0,
+          "torque_nm": 213.0,
+          "fuel_l_100km": 5.2,
+          "towing_braked_kg": 1200,
+          "notes": "Final Australian manufactured Camry series."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "AXVH70/GSV70",
+      "generation_name": "Camry 8th Generation",
+      "years": {
+        "start": 2017,
+        "end": 2024
+      },
+      "body_styles": [
+        "Sedan"
+      ],
+      "platform": "Toyota TNGA-K",
+      "ancap_rating": "5 Stars",
+      "summary": "Imported from Japan on the TNGA-K platform, offering dynamic multi-link rear handling, 224kW V6 power, and class-leading 4.2L/100km hybrid economy.",
+      "engines": [
+        {
+          "engine_code": "A25A-FXS",
+          "name": "Toyota Dynamic Force 2.5L Hybrid",
+          "displacement_cc": 2487,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Hybrid Petrol/Electric",
+          "power_kw": 160.0,
+          "power_rpm": "5700",
+          "torque_nm": 221.0,
+          "torque_rpm": "3600-5200",
+          "compression_ratio": "14.0:1",
+          "valvetrain": "DOHC 16-valve VVT-iE",
+          "notes": "Class-leading 41% thermal efficiency, 160kW combined system output."
+        },
+        {
+          "engine_code": "2GR-FKS",
+          "name": "Toyota 2GR-FKS 3.5L V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 224.0,
+          "power_rpm": "6600",
+          "torque_nm": 362.0,
+          "torque_rpm": "4700",
+          "compression_ratio": "11.8:1",
+          "valvetrain": "DOHC 24-valve D-4S Dual VVT-i",
+          "notes": "224kW high-performance V6 paired with 8-speed automatic (SX and SL grades)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SX",
+          "years": {
+            "start": 2017,
+            "end": 2024
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "8-speed automatic (V6)",
+            "e-CVT (Hybrid)"
+          ],
+          "msrp_aud_min": 35990,
+          "msrp_aud_max": 43590,
+          "fuel_consumption_l_100km": 4.5,
+          "kerb_weight_kg": 1595,
+          "standard_features": [
+            "19-inch black alloy wheels",
+            "Sports body kit and rear spoiler",
+            "Sports suspension tune",
+            "Paddle shifters",
+            "High-gloss black grille"
+          ],
+          "notes": "Aggressive sports sedan trim."
+        },
+        {
+          "badge_name": "Ascent",
+          "years": {
+            "start": 2017,
+            "end": 2024
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "e-CVT (Hybrid)",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 27690,
+          "msrp_aud_max": 34990,
+          "fuel_consumption_l_100km": 4.2,
+          "kerb_weight_kg": 1530,
+          "standard_features": [
+            "Toyota Safety Sense suite",
+            "7-inch touchscreen",
+            "LED headlights",
+            "Digital instrument display"
+          ],
+          "notes": "Australia's top rideshare and fleet vehicle."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Ascent Hybrid",
+          "body_style": "Sedan",
+          "engine_code": "A25A-FXS",
+          "transmission": "e-CVT",
+          "drivetrain": "FWD",
+          "years_start": 2017,
+          "years_end": 2024,
+          "msrp_aud": 33490,
+          "power_kw": 160.0,
+          "torque_nm": 221.0,
+          "fuel_l_100km": 4.2,
+          "towing_braked_kg": 400,
+          "notes": "Australia's high-efficiency rideshare favourite."
+        },
+        {
+          "badge_name": "SX V6",
+          "body_style": "Sedan",
+          "engine_code": "2GR-FKS",
+          "transmission": "8-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2017,
+          "years_end": 2021,
+          "msrp_aud": 37290,
+          "power_kw": 224.0,
+          "torque_nm": 362.0,
+          "fuel_l_100km": 8.7,
+          "towing_braked_kg": 1600,
+          "notes": "224kW performance V6 sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

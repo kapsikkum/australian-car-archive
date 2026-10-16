@@ -1,0 +1,747 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "prado",
+  "name": "LandCruiser Prado",
+  "vehicle_type": "4WD SUV",
+  "segment": "Large SUV",
+  "years_sold_au": {
+    "start": 1996,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota LandCruiser Prado is Australia's perennial favorite family and long-distance outback touring 4WD. Bridging the gap between the mid-size RAV4 and heavy-duty LandCruiser wagon, the Prado delivers genuine off-road capability, dual long-range fuel tanks, up to seven seats, and legendary durability.",
+  "australian_market_notes": "Launched in Australia in July 1996 to challenge the dominant Mitsubishi Pajero, the Prado rapidly became Australia's best-selling large 4WD SUV, a position it held for over two decades. Australian specifications prioritized touring range with factory twin fuel tanks (up to 180 litres on 120 and 150 series), robust ladder chassis construction, constant 4WD, and an extensive genuine accessory range engineered in Melbourne.",
+  "manuals": [
+    {
+      "title": "Toyota LandCruiser Prado Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1996,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/prado/model.json",
+      "local_path": "media/manuals/toyota/prado/toyota_prado_au_technical_manual.pdf",
+      "file_size_bytes": 7721,
+      "sha256": "0d36c60a02fd42cbe4fd46c97239d85e860b8581c310db173f2405b3feaa2662",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Marked police car (2023 Toyota Land Cruiser station wagon 4WD) of the Queensland Police Service, Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/AU-Q-Police-vehicle_Toyota-LandCruiser-2023_20260210.jpg/1280px-AU-Q-Police-vehicle_Toyota-LandCruiser-2023_20260210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 4.0 (Q8682)",
+      "local_path": "media/pictures/toyota/prado/toyota_prado_hero_1_AU-Q-Police-vehicle_Toyota-LandCruiser-2023_20260210.jpg",
+      "file_size_bytes": 431043,
+      "sha256": "77b46664df51c94733f3389631b1b7215659f503e581b52f5423f7b9bc3825d1"
+    },
+    {
+      "category": "exterior",
+      "caption": "A car on the beach north of Wedge Island, Western Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Car_on_beach_at_Wedge_Island%2C_Western_Australia%2C_September_2023_06.jpg/1280px-Car_on_beach_at_Wedge_Island%2C_Western_Australia%2C_September_2023_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Calistemon)",
+      "local_path": "media/pictures/toyota/prado/toyota_prado_hero_2_Car_on_beach_at_Wedge_Island_Western_Australia_September_2023_06.jpg",
+      "file_size_bytes": 183626,
+      "sha256": "637517e895eda44f9f8f4d1ab93a9bfa50c187ab94c37e6812e358d4c0ab3cc4"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "90 Series",
+      "generation_name": "LandCruiser Prado 90 Series",
+      "years": {
+        "start": 1996,
+        "end": 2002
+      },
+      "body_styles": [
+        "3-door SWB Wagon",
+        "5-door LWB Wagon"
+      ],
+      "platform": "Toyota J90",
+      "ancap_rating": "Untested",
+      "summary": "Introduced independent front double-wishbone suspension with a live rear axle and full-time 4WD, transforming on-road handling compared to earlier rigid-axle LandCruisers.",
+      "engines": [
+        {
+          "engine_code": "3RZ-FE",
+          "name": "Toyota 3RZ-FE 2.7L",
+          "displacement_cc": 2693,
+          "displacement_litres": 2.7,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 112.0,
+          "power_rpm": "4800",
+          "torque_nm": 240.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Twin balance shafts for smoothness; standard in entry RV."
+        },
+        {
+          "engine_code": "5VZ-FE",
+          "name": "Toyota 5VZ-FE 3.4L Quad Cam V6",
+          "displacement_cc": 3378,
+          "displacement_litres": 3.4,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 132.0,
+          "power_rpm": "4800",
+          "torque_nm": 294.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Renowned cast-iron block V6 with excellent low-end tractability."
+        },
+        {
+          "engine_code": "1KZ-TE",
+          "name": "Toyota 1KZ-TE 3.0L Turbo Diesel",
+          "displacement_cc": 2982,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 96.0,
+          "power_rpm": "3600",
+          "torque_nm": 343.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "21.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Electronically controlled indirect injection turbo diesel introduced in late 1999."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RV / RV6",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "SWB Wagon",
+            "LWB Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 36990,
+          "msrp_aud_max": 44500,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1820,
+          "standard_features": [
+            "Dual fuel tanks (159L)",
+            "Centre diff lock",
+            "Power steering",
+            "16-inch steel wheels"
+          ],
+          "notes": "Available in 3-door SWB (early) and popular 5-door LWB."
+        },
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 43990,
+          "msrp_aud_max": 52000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1910,
+          "standard_features": [
+            "8 seats",
+            "Flares",
+            "Alloy wheels",
+            "Air conditioning",
+            "Power windows",
+            "Wide track"
+          ],
+          "notes": "The sweet spot of the 90 Series range and volume seller."
+        },
+        {
+          "badge_name": "Grande",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 58990,
+          "msrp_aud_max": 64990,
+          "fuel_consumption_l_100km": 13.8,
+          "kerb_weight_kg": 1980,
+          "standard_features": [
+            "Leather upholstery",
+            "Woodgrain trim",
+            "ABS brakes",
+            "Dual airbags",
+            "Climate control",
+            "Sunroof"
+          ],
+          "notes": "Luxury flagship 4WD."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Prado GXL V6",
+          "body_style": "5-door Wagon",
+          "engine_code": "5VZ-FE",
+          "transmission": "4-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 1996,
+          "years_end": 2002,
+          "msrp_aud": 47990,
+          "power_kw": 132.0,
+          "torque_nm": 294.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 2500,
+          "notes": "Mainstream family choice across rural and metro Australia."
+        },
+        {
+          "badge_name": "Prado GXL Turbo Diesel",
+          "body_style": "5-door Wagon",
+          "engine_code": "1KZ-TE",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1999,
+          "years_end": 2002,
+          "msrp_aud": 49990,
+          "power_kw": 96.0,
+          "torque_nm": 343.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 2500,
+          "notes": "Outback touring hero with 159L fuel capacity delivering 1400km range."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "120 Series",
+      "generation_name": "LandCruiser Prado 120 Series",
+      "years": {
+        "start": 2003,
+        "end": 2009
+      },
+      "body_styles": [
+        "5-door Wagon"
+      ],
+      "platform": "Toyota J120",
+      "ancap_rating": "4 stars",
+      "summary": "Introduced aerodynamic modern styling, huge 180-litre fuel capacity (90L main + 90L sub tank), smooth 4.0L V6 and common-rail 1KD-FTV D-4D diesel engine.",
+      "engines": [
+        {
+          "engine_code": "1GR-FE",
+          "name": "Toyota 1GR-FE 4.0L Dual VVT-i V6",
+          "displacement_cc": 3956,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 179.0,
+          "power_rpm": "5200",
+          "torque_nm": 376.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve VVT-i",
+          "notes": "All-aluminium V6 providing effortless overtaking and towing power."
+        },
+        {
+          "engine_code": "1KD-FTV",
+          "name": "Toyota 1KD-FTV 3.0L D-4D Common Rail Turbo Diesel",
+          "displacement_cc": 2982,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 127.0,
+          "power_rpm": "3400",
+          "torque_nm": 410.0,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "17.9:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Introduced in late 2006 paired with 6-speed manual or 5-speed automatic."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed manual",
+            "4-speed auto",
+            "5-speed auto"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 46000,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1940,
+          "standard_features": [
+            "180L dual fuel tanks",
+            "Torsen centre LSD",
+            "Air conditioning",
+            "Dual airbags"
+          ],
+          "notes": "Fleet and rural entry specification."
+        },
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "6-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 48990,
+          "msrp_aud_max": 57000,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 2050,
+          "standard_features": [
+            "8 seats",
+            "17-inch alloy wheels",
+            "Roof rails",
+            "Wide fender flares",
+            "Cruise control"
+          ],
+          "notes": "The definitive Australian family 4WD wagon of the 2000s."
+        },
+        {
+          "badge_name": "Grande",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 65990,
+          "msrp_aud_max": 73990,
+          "fuel_consumption_l_100km": 12.0,
+          "kerb_weight_kg": 2170,
+          "standard_features": [
+            "TEMS adjustable suspension",
+            "Rear air suspension",
+            "Leather seats",
+            "Satellite navigation",
+            "Cool box"
+          ],
+          "notes": "Flagship variant rivaling European luxury SUVs in ride comfort."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Prado GXL D-4D",
+          "body_style": "5-door Wagon",
+          "engine_code": "1KD-FTV",
+          "transmission": "5-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2006,
+          "years_end": 2009,
+          "msrp_aud": 55490,
+          "power_kw": 127.0,
+          "torque_nm": 410.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 2500,
+          "notes": "Benchmark outback tourer capable of 1,900km on a single 180-litre fill."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "150 Series",
+      "generation_name": "LandCruiser Prado 150 Series",
+      "years": {
+        "start": 2009,
+        "end": 2024
+      },
+      "body_styles": [
+        "3-door SWB Wagon",
+        "5-door LWB Wagon"
+      ],
+      "platform": "Toyota J150",
+      "ancap_rating": "5 stars",
+      "summary": "15-year production run featuring KDSS (Kinetic Dynamic Suspension System), CRAWL control, Multi-Terrain Select, and later the 2.8L 1GD-FTV turbo diesel.",
+      "engines": [
+        {
+          "engine_code": "1GD-FTV",
+          "name": "Toyota 1GD-FTV 2.8L D-4D Turbo Diesel",
+          "displacement_cc": 2755,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 150.0,
+          "power_rpm": "3000-3400",
+          "torque_nm": 500.0,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "15.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Launched in 2015 with 130kW/450Nm; upgraded in late 2020 to 150kW/500Nm and 3,000kg towing."
+        },
+        {
+          "engine_code": "1GR-FE",
+          "name": "Toyota 1GR-FE 4.0L Dual VVT-i V6",
+          "displacement_cc": 3956,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 202.0,
+          "power_rpm": "5600",
+          "torque_nm": 381.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "10.4:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-i",
+          "notes": "Offered until 2018 when Australian Prado range shifted to 100% diesel."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX",
+          "years": {
+            "start": 2009,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 55990,
+          "msrp_aud_max": 62830,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 2230,
+          "standard_features": [
+            "5 or 7 seats",
+            "17-inch alloy wheels",
+            "Toyota Safety Sense",
+            "150L fuel tank",
+            "Keyless smart entry"
+          ],
+          "notes": "Popular mining, commercial and outback touring base."
+        },
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 2009,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 61990,
+          "msrp_aud_max": 69530,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 2280,
+          "standard_features": [
+            "7 seats standard",
+            "Tri-zone climate control",
+            "Rear parking sensors",
+            "Side steps",
+            "Bi-LED headlights"
+          ],
+          "notes": "Australia's top-selling retail large SUV variant for over a decade."
+        },
+        {
+          "badge_name": "VX",
+          "years": {
+            "start": 2009,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 73990,
+          "msrp_aud_max": 79557,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 2340,
+          "standard_features": [
+            "KDSS suspension",
+            "18-inch alloys",
+            "Leather-accented ventilated seats",
+            "JBL 14-speaker audio",
+            "Panoramic view monitor"
+          ],
+          "notes": "Premium spec equipped with KDSS hydraulic roll control."
+        },
+        {
+          "badge_name": "Kakadu",
+          "years": {
+            "start": 2009,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 84990,
+          "msrp_aud_max": 90500,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 2450,
+          "standard_features": [
+            "Adaptive Variable Suspension",
+            "Rear air suspension",
+            "CRAWL Control",
+            "Multi-Terrain Select",
+            "Sunroof",
+            "Rear seat entertainment"
+          ],
+          "notes": "Top-tier luxury and off-road flagship named after the iconic Australian National Park."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Prado GXL 2.8 Diesel",
+          "body_style": "5-door Wagon",
+          "engine_code": "1GD-FTV",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2020,
+          "years_end": 2024,
+          "msrp_aud": 69530,
+          "power_kw": 150.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 3000,
+          "notes": "Final evolution of the 150 Series with 150kW engine upgrade."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "150 Series",
+          "category": "exterior",
+          "caption": "Toyota Land Cruiser Prado 150-series as Special Belgrade Task Force Vehicle of Serbian Police, immediate/ rapid response.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Toyota_of_Serbian_Police.jpg/1280px-Toyota_of_Serbian_Police.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Boris Dimitrov)",
+          "local_path": "media/pictures/toyota/prado/toyota_prado_150_Series_1_Toyota_of_Serbian_Police.jpg",
+          "file_size_bytes": 392968,
+          "sha256": "38c4087087540f9ea5d485c2714069c93f8cb673c2de4c5198fcb471b15d4dc5"
+        }
+      ]
+    },
+    {
+      "series_code": "250 Series",
+      "generation_name": "LandCruiser Prado 250 Series",
+      "years": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door Wagon"
+      ],
+      "platform": "TNGA-F (GA-F)",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the shared global TNGA-F ladder-frame platform with LandCruiser 300, introducing 48V V-Active mild hybrid technology, 8-speed automatic, electric power steering, and 3,500kg towing capacity.",
+      "engines": [
+        {
+          "engine_code": "1GD-FTV-48V",
+          "name": "Toyota 1GD-FTV 2.8L V-Active 48V Turbo Diesel",
+          "displacement_cc": 2755,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Variable Nozzle Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 150.0,
+          "power_rpm": "3000-3400",
+          "torque_nm": 500.0,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "15.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Integrated 48V motor generator assist for enhanced low-speed response and stop-start refinement."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 72500,
+          "msrp_aud_max": 72500,
+          "fuel_consumption_l_100km": 7.6,
+          "kerb_weight_kg": 2350,
+          "standard_features": [
+            "5 seats",
+            "18-inch dark grey alloys",
+            "12.3-inch multimedia touchscreen",
+            "Toyota Safety Sense 3.0",
+            "Centre and rear diff locks"
+          ],
+          "notes": "Heritage-inspired front grille design."
+        },
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 79990,
+          "msrp_aud_max": 79990,
+          "fuel_consumption_l_100km": 7.6,
+          "kerb_weight_kg": 2420,
+          "standard_features": [
+            "7 seats",
+            "Roof rails",
+            "Wireless phone charger",
+            "Tri-zone climate control",
+            "Synthetic leather upholstery"
+          ],
+          "notes": "Mainstream family touring volume model."
+        },
+        {
+          "badge_name": "Altitude",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 92700,
+          "msrp_aud_max": 92700,
+          "fuel_consumption_l_100km": 7.6,
+          "kerb_weight_kg": 2480,
+          "standard_features": [
+            "5 seats dedicated off-road focus",
+            "18-inch alloys with Toyo Open Country all-terrain tyres",
+            "Stabiliser Disconnect Mechanism (SDM)",
+            "Digital rear-view mirror"
+          ],
+          "notes": "Rugged enthusiast grade with round LED heritage headlamps."
+        },
+        {
+          "badge_name": "Kakadu",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "Full-Time 4WD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 99990,
+          "msrp_aud_max": 99990,
+          "fuel_consumption_l_100km": 7.6,
+          "kerb_weight_kg": 2550,
+          "standard_features": [
+            "7 seats",
+            "20-inch alloy wheels",
+            "Panoramic moonroof",
+            "Adaptive Variable Suspension",
+            "Head-up display",
+            "Illuminated side steps"
+          ],
+          "notes": "Ultimate luxury specification."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Prado GXL 48V",
+          "body_style": "5-door Wagon",
+          "engine_code": "1GD-FTV-48V",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 79990,
+          "power_kw": 150.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 7.6,
+          "towing_braked_kg": 3500,
+          "notes": "Upgraded 3.5t towing capacity and 8-speed automatic gearbox."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "250 Series",
+          "category": "exterior",
+          "caption": "The new Toyota Land Cruiser Prado 250 series front view",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/J25-Front.jpg/1280px-J25-Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Druusch)",
+          "local_path": "media/pictures/toyota/prado/toyota_prado_250_Series_1_J25-Front.jpg",
+          "file_size_bytes": 529763,
+          "sha256": "663a6031091379724f1cb746ed9c482b127231585c71c91c91b62813f710900e"
+        }
+      ]
+    }
+  ]
+}

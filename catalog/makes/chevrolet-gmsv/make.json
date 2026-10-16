@@ -1,0 +1,119 @@
+{
+  "make_slug": "chevrolet-gmsv",
+  "name": "Chevrolet / GMSV",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 1926,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Historically assembled by General Motors-Holden across four decades, and reborn through GM Specialty Vehicles (GMSV) with Clayton-remanufactured Silverado trucks and factory RHD Corvette C8.",
+  "australian_history": "Chevrolet has a profound place in Australian automotive history. In 1926, General Motors (Australia) was formed, partnering with Holden's Motor Body Builders to build Australian-bodied Chevrolets at Woodville, South Australia. The Chevrolet Stylemaster, Fleetline, Bel Air, and Impala were assembled in Australia through 1968, revered for rugged 'Stovebolt' sixes and small-block V8s. Following the closure of Holden in 2020, GM established GM Specialty Vehicles (GMSV). GMSV partners with Walkinshaw Automotive at Clayton, Victoria to remanufacture the Chevrolet Silverado 1500 and 2500HD to factory RHD standards. GMSV also imports the mid-engine Chevrolet Corvette C8 built in factory right-hand drive at Bowling Green, Kentucky.",
+  "models_catalog": [
+    {
+      "model_slug": "silverado-1500",
+      "name": "Silverado 1500",
+      "vehicle_type": "Full-size Pickup Truck",
+      "segment": "Full-size American Ute",
+      "years_sold_au": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Full-size pickup remanufactured by Walkinshaw at Clayton VIC, powered by a 6.2-litre EcoTec3 V8 with 10-speed automatic and 4.5-tonne towing.",
+      "generations": [
+        {
+          "series_code": "T1XX",
+          "generation_name": "Silverado 1500",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Crew Cab"
+          ],
+          "summary": "6.2L V8 (313kW / 624Nm), Dynamic Fuel Management, LTZ Premium, Trail Boss, and off-road flagship ZR2 with Multimatic DSSV spool-valve dampers."
+        }
+      ]
+    },
+    {
+      "model_slug": "corvette",
+      "name": "Corvette C8",
+      "vehicle_type": "Coupe / Convertible",
+      "segment": "Mid-Engine Supercar",
+      "years_sold_au": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The first factory right-hand drive Corvette in history, bringing mid-engine exotic performance and naturally aspirated V8 roar to Australian dealerships.",
+      "generations": [
+        {
+          "series_code": "C8",
+          "generation_name": "Corvette C8",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door coupe (targa)",
+            "Hardtop convertible"
+          ],
+          "summary": "6.2L LT2 naturally aspirated V8 (369kW / 637Nm) in Stingray; 5.5L flat-plane crank LT6 V8 (500kW / 670hp) in screaming Z06."
+        }
+      ]
+    },
+    {
+      "model_slug": "corvette-silverado",
+      "name": "Corvette & Silverado",
+      "vehicle_type": "Mid-Engine Supercar / Full-Size Pickup Truck",
+      "segment": "High Performance Supercar / Full-Size Pickup",
+      "years_sold_au": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "The modern pillars of General Motors in Australia under GM Specialty Vehicles (GMSV). The eighth-generation C8 Corvette arrived as the world's first factory right-hand drive Corvette directly from the Bowling Green assembly line, offering mid-engine supercar performance and the spine-tingling 500kW flat-plane crank Z06. Alongside it, the Chevrolet Silverado 1500 and 2500HD are remanufactured to RHD in Melbourne by Walkinshaw Automotive Group, delivering up to 1,322Nm of Duramax V8 torque and heavy towing capability.",
+      "generations": [
+        {
+          "series_code": "C8 Corvette",
+          "generation_name": "Chevrolet Corvette C8 (Stingray & Z06)",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door coupe (removable targa roof)",
+            "2-door retractable hardtop convertible"
+          ],
+          "summary": "First factory right-hand drive Corvette in history. Mid-engine aluminium structure, Stingray (6.2L LT2 naturally aspirated V8 369kW 637Nm, 8-speed Tremec DCT), and the ferocious Z06 powered by the 5.5L LT6 flat-plane crank naturally aspirated V8 producing 500kW at 8,400rpm."
+        },
+        {
+          "series_code": "Silverado 1500",
+          "generation_name": "Chevrolet Silverado 1500 (LTZ & ZR2)",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Crew Cab Pickup"
+          ],
+          "summary": "Full-size American pickup remanufactured from LHD to RHD in Melbourne by Walkinshaw Automotive Group. Powered by the 6.2L EcoTec3 V8 (313kW/624Nm) with 10-speed auto, 4,500kg braked towing, luxury LTZ Premium, and hardcore off-road ZR2 with Multimatic DSSV spool-valve dampers."
+        },
+        {
+          "series_code": "Silverado 2500HD",
+          "generation_name": "Chevrolet Silverado 2500HD Duramax",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Crew Cab Heavy Duty Pickup"
+          ],
+          "summary": "Commercial heavy-duty pickup remanufactured by Walkinshaw in Clayton. Powered by the 6.6L Duramax Turbo-Diesel V8 generating 350kW and a colossal 1,322Nm of torque, paired with an Allison 10-speed automatic transmission. Can tow up to 9,000kg with fifth-wheel / gooseneck attachment."
+        }
+      ]
+    }
+  ]
+}

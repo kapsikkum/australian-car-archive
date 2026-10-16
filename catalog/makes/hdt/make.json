@@ -1,0 +1,199 @@
+{
+  "make_slug": "hdt",
+  "name": "Holden Dealer Team (HDT)",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1980,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Holden Dealer Team (HDT) Special Vehicles was established in 1980 by nine-time Bathurst champion Peter Brock at 124 Bertie Street, Port Melbourne. When Holden withdrew factory motorsport funding in 1979, Brock purchased the team with financial backing from a coalition of Holden dealers. HDT transformed showroom Commodores into bespoke high-performance road cars with hand-assembled blueprint V8 engines, Bilstein suspension, Scheel sports seats, Momo steering wheels, and wind-tunnel aero bodykits. HDT created Australia's most revered homologation muscle car—the 1985 VK SS Group A 'Blue Meanie'—alongside the VC Brock Commodore, VH Group 3, and VL Group A before Brock's split with Holden in 1987. Today, HDT builds retro heritage editions.",
+  "australian_history": "The Holden Dealer Team originated in 1969 when Harry Firth created a semi-works team for Holden. Peter Brock joined in 1969, scoring his first Bathurst win in an LJ Torana GTR XU-1 in 1972. When GM-Holden ended direct factory backing in 1979, Brock negotiated with the Holden Dealer Network to acquire the team, launching HDT Special Vehicles in 1980.\n\nHDT's first road car, the 1980 VC HDT Commodore, was an instant triumph: 500 numbered cars in Firethorn Red, Palais White, and Tuxedo Black with 5.0L (160kW) and 4.2L V8s, Irmscher wheels, and Bilstein dampers. This was followed by the VH Group 1, Group 2, and Group 3 (with Brock's signature high-output 180kW 5.0L V8). In 1983, HDT expanded into luxury with the WB Magnum Statesman.\n\nIn 1985, to homologate the Commodore for international Group A touring car rules, HDT produced 500 examples of the VK SS Group A. Painted exclusively in Formula Blue, the 'Blue Meanie' featured a de-stroked 4.9-litre (4987cc) V8 with Crane cam, roller rockers, double-row timing chain, and distinctive white Aero wheels. In 1986, HDT followed with the VL SS Group A, creating the famous 'Plus Pack'.\n\nHowever, in 1986-1987, Brock championed the 'Energy Polarizer'—a small resin-filled box containing crystals and magnets that Brock claimed realigned molecular structures to improve ride and performance—and demanded Holden endorse it on the new HDT Director luxury car. When Holden technical director Ray Borrett tested the car and discovered unauthorized rear suspension modifications and no scientific validity to the Polarizer, Holden formally severed all ties with HDT in February 1987. The Brock HDT era ended, but the marque was later resurrected by Peter Champion and operates today building heritage Brock tributes.",
+  "models_catalog": [
+    {
+      "model_slug": "vc-brock-commodore",
+      "name": "HDT VC Brock Commodore",
+      "vehicle_type": "Sedan",
+      "segment": "Performance Muscle Car",
+      "years_sold_au": {
+        "start": 1980,
+        "end": 1980
+      },
+      "locally_built": true,
+      "overview": "The original Brock road car. 500 individually numbered cars in Firethorn Red, Palais White, and Tuxedo Black with 160kW 5.0L V8 and Irmscher alloys.",
+      "generations": [
+        {
+          "series_code": "VC-HDT",
+          "generation_name": "VC Brock Commodore",
+          "years": {
+            "start": 1980,
+            "end": 1980
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "5.0L 308 V8 (160kW) or 4.2L V8 (115kW), heavy-duty TH350 auto or 4-speed manual, Bilstein suspension, Scheel seats."
+        }
+      ]
+    },
+    {
+      "model_slug": "vh-group-3",
+      "name": "HDT VH SS Group 1, 2 & 3",
+      "vehicle_type": "Sedan",
+      "segment": "Performance Muscle Car",
+      "years_sold_au": {
+        "start": 1981,
+        "end": 1984
+      },
+      "locally_built": true,
+      "overview": "The car that defined 1980s Australian street performance, culminating in the Group 3 with Brock's modified 180kW blueprint 5.0L V8.",
+      "generations": [
+        {
+          "series_code": "VH-HDT",
+          "generation_name": "VH SS Group 1 / 2 / 3",
+          "years": {
+            "start": 1981,
+            "end": 1984
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "High-compression B-cast cylinder heads, port-matched intake, Crane cam, 180kW/430Nm, Irmscher wheels, full aerodynamic skirts."
+        }
+      ]
+    },
+    {
+      "model_slug": "vk-group-a",
+      "name": "HDT VK SS Group A ('Blue Meanie')",
+      "vehicle_type": "Sedan",
+      "segment": "Homologation Special / Muscle Car",
+      "years_sold_au": {
+        "start": 1985,
+        "end": 1985
+      },
+      "locally_built": true,
+      "overview": "Australia's most iconic homologation muscle car. 500 built in Formula Blue with 4.9L V8, Crane cam, roller rockers, and white 16-inch Aero wheels.",
+      "generations": [
+        {
+          "series_code": "VK-Group-A",
+          "generation_name": "VK SS Group A & Group 3",
+          "years": {
+            "start": 1985,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "4,987cc V8 (196kW/418Nm) homologated under 5,000cc; M21 4-speed manual, Formula Blue paint, Scheel velour interior."
+        }
+      ]
+    },
+    {
+      "model_slug": "vl-group-a",
+      "name": "HDT VL SS Group A & Director",
+      "vehicle_type": "Sedan",
+      "segment": "Performance / Luxury Muscle",
+      "years_sold_au": {
+        "start": 1986,
+        "end": 1988
+      },
+      "locally_built": true,
+      "overview": "The final factory-supported Brock Commodores (VL Group A in Permanent Red) and the infamous, opulent Director that triggered the split with Holden.",
+      "generations": [
+        {
+          "series_code": "VL-HDT",
+          "generation_name": "VL Group A, Plus Pack & Director",
+          "years": {
+            "start": 1986,
+            "end": 1988
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "4.9L V8 (137kW-168kW), Plus Pack with revised suspension, and the bespoke Director luxury sedan with Corvette IRS."
+        }
+      ]
+    },
+    {
+      "model_slug": "magnum",
+      "name": "HDT Magnum",
+      "vehicle_type": "Sedan / Utility",
+      "segment": "Luxury Performance",
+      "years_sold_au": {
+        "start": 1983,
+        "end": 1985
+      },
+      "locally_built": true,
+      "overview": "HDT's luxurious grand-touring adaptation of the WB Statesman de Ville and WB utility, featuring Group 3 V8 power and high-speed touring stability.",
+      "generations": [
+        {
+          "series_code": "WB-Magnum",
+          "generation_name": "WB HDT Magnum",
+          "years": {
+            "start": 1983,
+            "end": 1985
+          },
+          "body_styles": [
+            "4-door long-wheelbase sedan",
+            "Coupe utility"
+          ],
+          "summary": "5.0L 308 V8 (188kW), TH350 auto, Bilstein suspension, 15-inch Momo wheels, Connolly leather or velour trim."
+        }
+      ]
+    },
+    {
+      "model_slug": "monza",
+      "name": "HDT Monza",
+      "vehicle_type": "Coupe",
+      "segment": "Grand Tourer Coupe",
+      "years_sold_au": {
+        "start": 1982,
+        "end": 1985
+      },
+      "locally_built": true,
+      "overview": "Peter Brock's concept to produce a European grand tourer in Australia, transplanting Holden 5.0L V8s and Supra 5-speed gearboxes into Opel Monza fastback coupes.",
+      "generations": [
+        {
+          "series_code": "Monza",
+          "generation_name": "HDT Monza Coupe",
+          "years": {
+            "start": 1982,
+            "end": 1985
+          },
+          "body_styles": [
+            "2-door fastback coupe"
+          ],
+          "summary": "Opel Monza bodyshell, Holden 5.0L V8 (180kW), 5-speed manual, independent rear suspension, only ~4 built."
+        }
+      ]
+    },
+    {
+      "model_slug": "heritage-retro",
+      "name": "HDT Heritage & Retro Series",
+      "vehicle_type": "Sedan / Ute",
+      "segment": "Retro Muscle Car",
+      "years_sold_au": {
+        "start": 2008,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Modern bespoke tribute vehicles built on VE and VF Commodore platforms recreating iconic VC, VH, and VK Blue Meanie designs with 6.0L/6.2L V8 power.",
+      "generations": [
+        {
+          "series_code": "VE-VF-Retro",
+          "generation_name": "HDT Retro Series",
+          "years": {
+            "start": 2008,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Ute"
+          ],
+          "summary": "Modern retro builds with VK aero bodywork, white Aero wheels, Harrop superchargers producing over 450kW."
+        }
+      ]
+    }
+  ]
+}

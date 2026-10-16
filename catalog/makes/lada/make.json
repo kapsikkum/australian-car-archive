@@ -1,0 +1,71 @@
+{
+  "make_slug": "lada",
+  "name": "Lada",
+  "country_of_origin": "Russia",
+  "years_active_au": {
+    "start": 1983,
+    "end": "1996"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Soviet/Russian automotive manufacturer that captured an Australian cult following with the unbreakable, permanent four-wheel drive Lada Niva.",
+  "australian_history": "Lada was introduced to Australia in 1983 by Lada Cars of Australia, headquartered in Queensland. The star of the range was the Lada Niva (VAZ-2121)—a lightweight, monocoque off-roader with permanent four-wheel drive, center differential lock, and coil-spring suspension that could out-climb vehicles three times its price in the Australian bush. Lada also introduced Australian-specific variants like the Niva Bushman cab-chassis and soft-top. Passenger models like the front-wheel-drive Lada Samara, Cevaro sedan, and Sable arrived in the late 1980s. Following the collapse of the Soviet Union, distributor financial troubles, and tightening Australian Design Rules for crash safety and emissions, Lada ceased Australian imports in 1996.",
+  "models_catalog": [
+    {
+      "model_slug": "niva",
+      "name": "Niva",
+      "vehicle_type": "Off-Road 4WD",
+      "segment": "Compact 4WD",
+      "years_sold_au": {
+        "start": 1983,
+        "end": "1996"
+      },
+      "locally_built": false,
+      "overview": "Legendary Russian mountain goat; monocoque permanent 4WD with locking centre differential, beloved by Australian bush adventurers.",
+      "generations": [
+        {
+          "series_code": "VAZ-2121",
+          "generation_name": "Lada Niva",
+          "years": {
+            "start": 1983,
+            "end": "1996"
+          },
+          "body_styles": [
+            "3-door wagon",
+            "Cab-chassis Bushman",
+            "Soft top"
+          ],
+          "summary": "1.6L carburettor (56kW) and later 1.7L single-point EFI, dual-range transfer case, and Aussie-built Bushman ute conversions."
+        }
+      ]
+    },
+    {
+      "model_slug": "samara-cevaro",
+      "name": "Samara / Cevaro / Sable",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1988,
+        "end": "1996"
+      },
+      "locally_built": false,
+      "overview": "Porsche-engineered cylinder head front-wheel-drive budget hatchback and sedan.",
+      "generations": [
+        {
+          "series_code": "VAZ-2108-2109",
+          "generation_name": "Lada Samara & Cevaro",
+          "years": {
+            "start": 1988,
+            "end": "1996"
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch",
+            "4-door sedan"
+          ],
+          "summary": "1.3L and 1.5L OHC four-cylinder engines with 5-speed manual, Cevaro sedan, and Sable luxury trim."
+        }
+      ]
+    }
+  ]
+}

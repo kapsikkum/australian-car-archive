@@ -1,0 +1,82 @@
+{
+  "make_slug": "triumph",
+  "name": "Triumph",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1948,
+    "end": "1981"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Sporting British marque assembled in Melbourne by Australian Motor Industries (AMI) from 1959 to 1976, celebrated for the 2000/2500 saloons, Dolomite Sprint, and TR sports cars.",
+  "australian_history": "Australian Motor Industries (AMI) in Port Melbourne, Victoria assembled Triumph cars under license for the Australian market. Models like the Herald, 2000, 2500TC, 2.5 PI, and Dolomite were assembled alongside Ramblers and Toyotas. The 2.5 PI was Australia's first mass-market petrol-injected production sedan, contesting the 1968 London to Sydney Marathon. The Triumph TR series (TR3, TR4, TR5, TR6, and wedge TR7) enjoyed passionate sports car sales, while the 16-valve Dolomite Sprint contested the Australian Touring Car Championship. Local assembly ended in 1976, and the brand faded globally under British Leyland in 1981.",
+  "models_catalog": [
+    {
+      "model_slug": "2000-2500",
+      "name": "2000 / 2500 / 2.5 PI",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1964,
+        "end": "1977"
+      },
+      "locally_built": true,
+      "overview": "Michelotti-designed executive saloon assembled at Port Melbourne VIC, offering independent rear suspension and Lucas mechanical fuel injection.",
+      "generations": [
+        {
+          "series_code": "Mk-I-II",
+          "generation_name": "Triumph 2000 & 2500 Mk I & II",
+          "years": {
+            "start": 1964,
+            "end": 1977
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Estate wagon"
+          ],
+          "summary": "2.0L inline-six, twin-carb 2500TC, 98kW 2.5 PI with Lucas injection, and plush 2500S."
+        }
+      ]
+    },
+    {
+      "model_slug": "tr-series",
+      "name": "TR Series (TR4 - TR8)",
+      "vehicle_type": "Roadster / Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1953,
+        "end": "1981"
+      },
+      "locally_built": false,
+      "overview": "Rugged British roadsters that evolved from separate-chassis TR4/5/6 into the Harris Mann wedge TR7 and Rover V8 TR8.",
+      "generations": [
+        {
+          "series_code": "TR4-TR6",
+          "generation_name": "Classic TR Series",
+          "years": {
+            "start": 1961,
+            "end": 1976
+          },
+          "body_styles": [
+            "Roadster",
+            "Surrey top"
+          ],
+          "summary": "2.1L four-cylinder TR4A with IRS, fuel-injected 2.5L six TR5 and Karmann-styled TR6."
+        },
+        {
+          "series_code": "TR7-TR8",
+          "generation_name": "Triumph TR7 & TR8",
+          "years": {
+            "start": 1975,
+            "end": 1981
+          },
+          "body_styles": [
+            "Coupe",
+            "Convertible"
+          ],
+          "summary": "The Shape of Things to Come; 2.0L slant-four TR7 and 3.5L Rover V8 TR8."
+        }
+      ]
+    }
+  ]
+}

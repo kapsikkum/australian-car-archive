@@ -1,0 +1,325 @@
+{
+  "make_slug": "fiat",
+  "model_slug": "500-abarth",
+  "name": "500 & Abarth 595/695",
+  "vehicle_type": "Microcar / Hot Hatchback / Cabriolet",
+  "segment": "Micro Car / Performance Hatchback",
+  "years_sold_au": {
+    "start": 1957,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Italian style icon that charmed Australia. From the original rear-engined 500 'Bambino' that motorized post-war migrants and Australian urbanites, to the retro-chic 2008 rebirth (Typ 312) and the scorpion-badged Abarth 595 and 695 hot hatches with screaming Record Monza exhausts and Brembo brakes.",
+  "australian_market_notes": "First sold in Australia in 1957 as the Nuova 500, where it was affectionately branded the 'Fiat Bambino'. The 2008 modern revival was an instant design sensation in Melbourne and Sydney. The performance Abarth range established a rabid enthusiast following for its unapologetic Italian acoustic drama.",
+  "manuals": [
+    {
+      "title": "Fiat 500 & Abarth 595/695 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1957,
+      "language": "en",
+      "source_url": "local://catalog/makes/fiat/models/500-abarth/model.json",
+      "local_path": "media/manuals/fiat/500-abarth/fiat_500-abarth_au_technical_manual.pdf",
+      "file_size_bytes": 5251,
+      "sha256": "83e7b8151103fd847c2bfd664cc8d851ae3de3d4031b0510d77fe47a789ebe74",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Abarth 500",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2010_Abarth_500.jpg/1280px-2010_Abarth_500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (https://www.flickr.com/photos/titlap/)",
+      "local_path": "media/pictures/fiat/500-abarth/fiat_500-abarth_hero_1_2010_Abarth_500.jpg",
+      "file_size_bytes": 351260,
+      "sha256": "29ff33ff786cc7bef1c3dbf67ca324aa805659517b7e19845378a5856804d033"
+    },
+    {
+      "category": "exterior",
+      "caption": "LA PLUS GRANDE ABARTH  DE TOUTES LES ABARTH\nL’Abarth 500 la plus puissante jamais construite est née, avec un style « essentiel » dédié à la performance : 190 ch et 997 kg garantissent à l’Abarth ‘695 biposto’ le meilleur rapport poids/puis",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fiat_500_Abarth_%2815351745174%29.jpg/1280px-Fiat_500_Abarth_%2815351745174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Grand Parc - Bordeaux, France from France)",
+      "local_path": "media/pictures/fiat/500-abarth/fiat_500-abarth_hero_2_Fiat_500_Abarth_15351745174_.jpg",
+      "file_size_bytes": 144204,
+      "sha256": "a05907fca582fec1b5b5a8fc7cb5ae461f5ca432bfb751bf064aa0aecff38107"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Nuova 500",
+      "generation_name": "Fiat 500 'Bambino' Nuova",
+      "years": {
+        "start": 1957,
+        "end": 1975
+      },
+      "body_styles": [
+        "2-door micro-saloon with fabric sunroof"
+      ],
+      "platform": "Fiat 110",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Dante Giacosa's microcar masterpiece. Rear-mounted air-cooled 2-cylinder engine (479cc, 499cc, 594cc), suicide doors on early D models, and full-length folding canvas roof. Immensely popular in Australia as the Bambino.",
+      "engines": [
+        {
+          "engine_code": "110F.000",
+          "name": "499cc Air-Cooled Inline-2",
+          "displacement_cc": 499,
+          "displacement_litres": 0.5,
+          "cylinders": 2,
+          "configuration": "Inline-2",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 13,
+          "power_rpm": "4000",
+          "torque_nm": 30,
+          "torque_rpm": "3200",
+          "compression_ratio": "7.1:1",
+          "valvetrain": "OHV 4-valve",
+          "notes": "Air-cooled vertical twin with single Weber carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "500 F / L 'Bambino'",
+          "years": {
+            "start": 1965,
+            "end": 1975
+          },
+          "body_styles": [
+            "2-door micro-saloon with fabric sunroof"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (unsynchronised)"
+          ],
+          "msrp_aud_min": 1198,
+          "msrp_aud_max": 1498,
+          "fuel_consumption_l_100km": 5.2,
+          "kerb_weight_kg": 520,
+          "standard_features": [
+            "Fabric rollback sunroof",
+            "Front-hinged doors",
+            "Chrome bumper overriders",
+            "Vinyl bucket seats"
+          ],
+          "notes": "Affectionately known across Australia as the Fiat Bambino."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "500 F / L 'Bambino'",
+          "body_style": "2-door micro-saloon with fabric sunroof",
+          "engine_code": "110F.000",
+          "transmission": "4-speed manual (unsynchronised)",
+          "drivetrain": "RWD",
+          "years_start": 1965,
+          "years_end": 1975,
+          "msrp_aud": 1290,
+          "power_kw": 13,
+          "torque_nm": 30,
+          "fuel_l_100km": 5.2,
+          "towing_braked_kg": 0,
+          "notes": "Indispensable classic Italian microcar."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Nuova 500",
+          "category": "exterior",
+          "caption": "LA PLUS GRANDE ABARTH  DE TOUTES LES ABARTH\nL’Abarth 500 la plus puissante jamais construite est née, avec un style « essentiel » dédié à la performance : 190 ch et 997 kg garantissent à l’Abarth ‘695 biposto’ le meilleur rapport poids/puis",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fiat_500_Abarth_%2815351745174%29.jpg/1280px-Fiat_500_Abarth_%2815351745174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Grand Parc - Bordeaux, France from France)",
+          "local_path": "media/pictures/fiat/500-abarth/fiat_500-abarth_Nuova_500_1_Fiat_500_Abarth_15351745174_.jpg",
+          "file_size_bytes": 144204,
+          "sha256": "a05907fca582fec1b5b5a8fc7cb5ae461f5ca432bfb751bf064aa0aecff38107"
+        }
+      ]
+    },
+    {
+      "series_code": "Typ 312 Fiat 500",
+      "generation_name": "Fiat 500 Modern Generation (Typ 312)",
+      "years": {
+        "start": 2008,
+        "end": "Present"
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "2-door cabriolet (500C)"
+      ],
+      "platform": "Fiat Mini platform",
+      "ancap_rating": "5 stars",
+      "summary": "Modern retro design icon. Pop, Lounge, Dolcevita; 1.2L 8V, 1.4L 16V FIRE, innovative 0.9L TwinAir 2-cylinder turbo (63kW), and 1.0L GSE Mild Hybrid.",
+      "engines": [
+        {
+          "engine_code": "312A2000",
+          "name": "0.9L TwinAir 2-Cylinder Turbo",
+          "displacement_cc": 875,
+          "displacement_litres": 0.9,
+          "cylinders": 2,
+          "configuration": "Inline-2",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 63,
+          "power_rpm": "5500",
+          "torque_nm": 145,
+          "torque_rpm": "1900",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "MultiAir electro-hydraulic variable intake",
+          "notes": "International Engine of the Year winner; charismatic twin-cylinder thrum."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "500 Lounge / Dolcevita",
+          "years": {
+            "start": 2008,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "2-door cabriolet (500C)"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed Dualogic automated manual"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 27220,
+          "fuel_consumption_l_100km": 4.9,
+          "kerb_weight_kg": 930,
+          "standard_features": [
+            "Fixed glass roof",
+            "Body-colored dashboard panel",
+            "7-inch Uconnect touchscreen",
+            "Apple CarPlay / Android Auto",
+            "15-inch alloy wheels"
+          ],
+          "notes": "Chic Australian inner-city favorite."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "500 Lounge / Dolcevita",
+          "body_style": "3-door hatchback",
+          "engine_code": "312A2000",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2011,
+          "years_end": "Present",
+          "msrp_aud": 22990,
+          "power_kw": 63,
+          "torque_nm": 145,
+          "fuel_l_100km": 4.9,
+          "towing_braked_kg": 800,
+          "notes": "TwinAir turbocharged urban hatchback."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Typ 312 Fiat 500",
+          "category": "exterior",
+          "caption": "Abarth 500",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2010_Abarth_500.jpg/1280px-2010_Abarth_500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (https://www.flickr.com/photos/titlap/)",
+          "local_path": "media/pictures/fiat/500-abarth/fiat_500-abarth_Typ_312_Fiat_500_1_2010_Abarth_500.jpg",
+          "file_size_bytes": 351260,
+          "sha256": "29ff33ff786cc7bef1c3dbf67ca324aa805659517b7e19845378a5856804d033"
+        }
+      ]
+    },
+    {
+      "series_code": "Typ 312 Abarth",
+      "generation_name": "Abarth 500, 595 & 695",
+      "years": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "2-door cabriolet (595C)"
+      ],
+      "platform": "Fiat Mini platform (Abarth tuned)",
+      "ancap_rating": "5 stars",
+      "summary": "Scorpion-badged pocket rocket. Powered by the 1.4L T-Jet turbocharged engine producing up to 132kW/140kW in the 595/695 Competizione and Biposto, equipped with Record Monza quad exhaust, Koni FSD dampers, and Brembo brakes.",
+      "engines": [
+        {
+          "engine_code": "312B3000",
+          "name": "1.4L 16V T-Jet Turbo (Competizione)",
+          "displacement_cc": 1368,
+          "displacement_litres": 1.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 132,
+          "power_rpm": "5500",
+          "torque_nm": 250,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Garrett GT1446 turbocharger; aggressive dual-mode exhaust."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Abarth 595 / 695 Competizione",
+          "years": {
+            "start": 2012,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "2-door cabriolet (595C)"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed Dualogic automated manual"
+          ],
+          "msrp_aud_min": 34990,
+          "msrp_aud_max": 44990,
+          "fuel_consumption_l_100km": 6.5,
+          "kerb_weight_kg": 1035,
+          "standard_features": [
+            "Record Monza active quad exhaust",
+            "Brembo 4-piston front brakes",
+            "Koni FSD dampers",
+            "Sabelt carbon-backed sports bucket seats",
+            "17-inch Formula / Montecarlo alloys"
+          ],
+          "notes": "0-100km/h in 6.7s. Concentrated Italian attitude and acoustic fireworks."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Abarth 595 / 695 Competizione",
+          "body_style": "3-door hatchback",
+          "engine_code": "312B3000",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2015,
+          "years_end": "Present",
+          "msrp_aud": 38990,
+          "power_kw": 132,
+          "torque_nm": 250,
+          "fuel_l_100km": 6.5,
+          "towing_braked_kg": 0,
+          "notes": "132kW Garrett-turbo manual pocket rocket."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Typ 312 Abarth",
+          "category": "exterior",
+          "caption": "Abarth 500",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2010_Abarth_500.jpg/1280px-2010_Abarth_500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (https://www.flickr.com/photos/titlap/)",
+          "local_path": "media/pictures/fiat/500-abarth/fiat_500-abarth_Typ_312_Abarth_1_2010_Abarth_500.jpg",
+          "file_size_bytes": 351260,
+          "sha256": "29ff33ff786cc7bef1c3dbf67ca324aa805659517b7e19845378a5856804d033"
+        }
+      ]
+    }
+  ]
+}

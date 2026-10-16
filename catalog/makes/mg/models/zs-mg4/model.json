@@ -1,0 +1,268 @@
+{
+  "make_slug": "mg",
+  "model_slug": "zs-mg4",
+  "name": "ZS / ZST / MG4",
+  "vehicle_type": "SUV / Hatchback",
+  "segment": "Small SUV & Electric Hatchback",
+  "years_sold_au": {
+    "start": 2017,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The modern pillars of MG Motor's Australian volume resurgence under SAIC: the top-selling ZS and turbocharged ZST compact SUVs, the trailblazing ZS EV, and the universally acclaimed rear-wheel-drive MG4 electric hatchback (including the 320kW XPower).",
+  "australian_market_notes": "The ZS was launched in late 2017 and steadily rose to become the number-one best-selling small SUV in Australia. In 2020, the ZS EV arrived as Australia's first sub-$45,000 electric SUV. In 2023, the MG4 arrived on the modular MSP platform, winning multiple Australian Car of the Year awards for its rear-wheel-drive dynamic agility and sharp pricing.",
+  "manuals": [
+    {
+      "title": "Mg ZS / ZST / MG4 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2017,
+      "language": "en",
+      "source_url": "local://catalog/makes/mg/models/zs-mg4/model.json",
+      "local_path": "media/manuals/mg/zs-mg4/mg_zs-mg4_au_technical_manual.pdf",
+      "file_size_bytes": 3886,
+      "sha256": "863c2c1ffde785b60ebb7fe6c9f35cd4793100b8425d2b6b9c3ac49018bb7895",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "MG_ZS_Facelift in Stuttgart-Vaihingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/MG_ZS_Facelift_1X7A6412.jpg/1280px-MG_ZS_Facelift_1X7A6412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/mg/zs-mg4/mg_zs-mg4_hero_MG_ZS_Facelift_1X7A6412.jpg.jpg",
+      "file_size_bytes": 301386,
+      "sha256": "e8394cadbb9df16f7f5f0c0f0c77c529c4f95afc036b165877383e7845fbdf28"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "ZS-ZST",
+      "generation_name": "ZS & ZST Compact SUV",
+      "years": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "SAIC SSA platform",
+      "ancap_rating": "4 stars (ZS) / 5 stars (ZST)",
+      "summary": "ZS 1.5L naturally aspirated, upgraded to ZST with 1.3L Turbo (115kW), 6-speed Aisin automatic, and MG Pilot active driver safety.",
+      "engines": [
+        {
+          "engine_code": "LIH 1.3T",
+          "name": "1.3L Turbocharged Petrol (ZST)",
+          "displacement_cc": 1349,
+          "displacement_litres": 1.3,
+          "cylinders": 3,
+          "configuration": "Inline-3",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 115,
+          "power_rpm": "5200",
+          "torque_nm": 230,
+          "torque_rpm": "1800-4400",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 12-valve",
+          "notes": "Co-developed by SAIC and GM; paired with 6-speed torque-converter auto."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ZST Essence",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 34990,
+          "fuel_consumption_l_100km": 7.1,
+          "kerb_weight_kg": 1295,
+          "standard_features": [
+            "MG Pilot safety suite",
+            "Panoramic glass sunroof",
+            "10.1-inch infotainment screen",
+            "360-degree camera",
+            "Heated front seats",
+            "17-inch two-tone alloys"
+          ],
+          "notes": "Popular premium trim level."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "ZST Essence",
+          "body_style": "5-door SUV",
+          "engine_code": "LIH 1.3T",
+          "transmission": "6-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2020,
+          "years_end": "Present",
+          "msrp_aud": 32990,
+          "power_kw": 115,
+          "torque_nm": 230,
+          "fuel_l_100km": 7.1,
+          "towing_braked_kg": 500,
+          "notes": "1.3L Turbo with 6-speed auto."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZS-ZST",
+          "category": "exterior",
+          "caption": "MG_ZS_Facelift in Stuttgart-Vaihingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/MG_ZS_Facelift_1X7A6412.jpg/1280px-MG_ZS_Facelift_1X7A6412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/mg/zs-mg4/mg_zs-mg4_ZS-ZST_MG_ZS_Facelift_1X7A6412.jpg.jpg",
+          "file_size_bytes": 301386,
+          "sha256": "e8394cadbb9df16f7f5f0c0f0c77c529c4f95afc036b165877383e7845fbdf28"
+        }
+      ]
+    },
+    {
+      "series_code": "MG4",
+      "generation_name": "MG4 EV Hatchback",
+      "years": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door hatchback"
+      ],
+      "platform": "SAIC MSP (Modular Scalable Platform)",
+      "ancap_rating": "5 stars",
+      "summary": "Purpose-built rear-wheel drive electric platform with 50:50 weight distribution, ultra-thin 110mm One Pack battery, 51kWh, 64kWh, 77kWh Long Range, and 320kW dual-motor XPower.",
+      "engines": [
+        {
+          "engine_code": "TZ204XS1150",
+          "name": "150kW Rear Electric Motor",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Single Electric Motor",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 150,
+          "power_rpm": "Electric",
+          "torque_nm": 250,
+          "torque_rpm": "0-4000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Fitted to 64kWh Essence; 435km WLTP range."
+        },
+        {
+          "engine_code": "Dual Motor XPower",
+          "name": "Dual Electric Motors (XPower AWD)",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Dual Electric Motors",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 320,
+          "power_rpm": "Electric",
+          "torque_nm": 600,
+          "torque_rpm": "0-5000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Front motor 150kW, rear motor 170kW; 0-100 km/h in 3.8 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "64 Essence",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1672,
+          "standard_features": [
+            "64kWh ternary NMC battery",
+            "Rear-wheel drive",
+            "Twin aero rear spoiler",
+            "18-inch aerodynamic alloy wheels",
+            "10.25-inch infotainment display",
+            "Wireless phone charging"
+          ],
+          "notes": "Praised for hot hatch chassis dynamics."
+        },
+        {
+          "badge_name": "XPower AWD",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 59990,
+          "msrp_aud_max": 62990,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1800,
+          "standard_features": [
+            "320kW / 600Nm dual motors",
+            "Orange brake calliper covers with upsized discs",
+            "Electronic locking differential (XDS)",
+            "Launch Control",
+            "Alcantara/leatherette interior"
+          ],
+          "notes": "0-100 km/h in 3.8 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XPower AWD",
+          "body_style": "5-door hatchback",
+          "engine_code": "Dual Motor XPower",
+          "transmission": "Single-speed reduction gear",
+          "drivetrain": "AWD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 59990,
+          "power_kw": 320,
+          "torque_nm": 600,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 500,
+          "notes": "320kW all-wheel drive electric performance hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "MG4",
+          "category": "exterior",
+          "caption": "MG4_EV at Automesse Ludwigsburg 2022",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/MG4_EV_Automesse_Ludwigsburg_2022_1X7A5920.jpg/1280px-MG4_EV_Automesse_Ludwigsburg_2022_1X7A5920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/mg/zs-mg4/mg_zs-mg4_MG4_MG4_EV_Automesse_Ludwigsburg_2022_1X7A5920.jpg.jpg",
+          "file_size_bytes": 293675,
+          "sha256": "af93ba836c46a32c65abc139263eeda66fc5b1ac7d045839e35e336f28738a7e"
+        }
+      ]
+    }
+  ]
+}

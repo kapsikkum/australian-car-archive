@@ -1,0 +1,141 @@
+{
+  "make_slug": "brabham",
+  "model_slug": "bt62",
+  "name": "Brabham BT62 / BT62R",
+  "vehicle_type": "Track / Road Hypercar",
+  "segment": "Hypercar",
+  "years_sold_au": {
+    "start": 2018,
+    "end": 2024
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Edinburgh Parks, South Australia"
+  ],
+  "overview": "The Brabham BT62 and BT62R was an ultra-exclusive mid-engine hypercar manufactured in Adelaide, South Australia by Brabham Automotive, led by Le Mans winner David Brabham. Developed without turbochargers or hybrid battery weight, the BT62 featured a high-tensile tubular steel chassis with integrated carbon-kevlar monocoque safety cell, carbon-fibre body panels, and a mid-mounted naturally aspirated 5.4-litre modular V8 revving to 8,200 rpm and developing 522 kW (700 hp) and 667 Nm. Generating 1,200 kg of aerodynamic downforce with a dry weight of only 972 kg, the BT62 shattered closed-cockpit lap records at Mount Panorama Bathurst (1m 58.69s).",
+  "australian_market_notes": "Hand-built in Edinburgh Parks, Adelaide, the BT62 was offered in Competition, Ultimate Track, and road-compliant BT62R specifications. The BT62R added an axle lift system, air conditioning, heated windshield, road exhaust muffler, and Australian ADR compliance.",
+  "manuals": [
+    {
+      "title": "Brabham Brabham BT62 / BT62R Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2018,
+      "language": "en",
+      "source_url": "local://catalog/makes/brabham/models/bt62/model.json",
+      "local_path": "media/manuals/brabham/bt62/brabham_bt62_au_technical_manual.pdf",
+      "file_size_bytes": 3273,
+      "sha256": "3890d9dfb07446c2c9b2bdb5505da4e17d635f667e4f9b15e059afa72d1ffeb6",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2020 Brabham BT62 R Taken at the Salon Privé Concours d'Elegance 2020, Blenheim Palace",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2020_Brabham_BT62_R.jpg/1280px-2020_Brabham_BT62_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Dylan Johnson)",
+      "local_path": "media/pictures/brabham/bt62/brabham_bt62_hero_1_2020_Brabham_BT62_R.jpg",
+      "file_size_bytes": 364278,
+      "sha256": "9906bdbd5adff441a1f5c8e0af42c5dd507021457e1bf3b9de0c5da5f291ed55"
+    },
+    {
+      "category": "exterior",
+      "caption": "BRABHAM BT62 during the Goodwood Festival Of Speed in 2019",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/BRABHAM_BT62.jpg/1280px-BRABHAM_BT62.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Irmantas Baltrusaitis)",
+      "local_path": "media/pictures/brabham/bt62/brabham_bt62_hero_2_BRABHAM_BT62.jpg",
+      "file_size_bytes": 261659,
+      "sha256": "7758e76b6d8f0c40c6e15150b5ee8f484e9651128e01071ac874a86748169871"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "BT62",
+      "generation_name": "Brabham BT62 & BT62R",
+      "years": {
+        "start": 2018,
+        "end": 2024
+      },
+      "body_styles": [
+        "2-door track hypercar",
+        "2-door road-compliant coupe (BT62R)"
+      ],
+      "platform": "Brabham carbon-composite monocoque",
+      "ancap_rating": null,
+      "summary": "5.4L quad-cam naturally aspirated V8 (522kW/667Nm), 6-speed Holinger sequential paddle-shift gearbox, carbon-carbon brakes, 1,200 kg downforce, 972 kg dry weight.",
+      "engines": [
+        {
+          "engine_code": "Brabham-5.4-NA-V8",
+          "name": "Brabham 5.4L Quad-Cam 32V Naturally Aspirated V8",
+          "displacement_cc": 5400,
+          "displacement_litres": 5.4,
+          "cylinders": 8,
+          "configuration": "V mid-mounted",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (98 / 102 Octane Racing)",
+          "power_kw": 522.0,
+          "power_rpm": "7400",
+          "torque_nm": 667.0,
+          "torque_rpm": "6200",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 32V Quad-Cam Dry Sump",
+          "notes": "Dry-sump lubrication; 700 bhp; 8,200 rpm redline; Australian-tuned."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "BT62R (Road)",
+          "years": {
+            "start": 2020,
+            "end": 2024
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed Holinger sequential paddle-shift"
+          ],
+          "msrp_aud_min": 1800000,
+          "msrp_aud_max": 2200000,
+          "fuel_consumption_l_100km": 18.0,
+          "kerb_weight_kg": 1050,
+          "standard_features": [
+            "Carbon-carbon brake package",
+            "Variable ride-height lift kit",
+            "Goodyear Eagle F1 SuperSport tyres",
+            "FIA carbon-composite safety cell",
+            "Custom bespoke interior tailoring"
+          ],
+          "notes": "Road-legal Australian hypercar."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "BT62R (Road)",
+          "body_style": "2-door coupe",
+          "engine_code": "Brabham-5.4-NA-V8",
+          "transmission": "6-speed Holinger sequential paddle-shift",
+          "drivetrain": "RWD",
+          "msrp_aud": 1950000,
+          "power_kw": 522.0,
+          "torque_nm": 667.0,
+          "fuel_l_100km": 18.0,
+          "towing_braked_kg": 0,
+          "notes": "522kW (700hp); 1,050 kg; Australia's ultimate road-going hypercar."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "BT62",
+          "category": "exterior",
+          "caption": "Brabham BT62 in Monaco",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Brabham_BT62_Monaco_IMG_1235.jpg/1280px-Brabham_BT62_Monaco_IMG_1235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/brabham/bt62/brabham_bt62_BT62_1_Brabham_BT62_Monaco_IMG_1235.jpg",
+          "file_size_bytes": 224081,
+          "sha256": "d7fd35958f762aa457425db9d00c7788208c6bb109a40a3898603842cd8d3af0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "make_slug": "brabham",
+  "name": "Brabham Automotive",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 2018,
+    "end": 2024
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Brabham Automotive was established in 2018 in Adelaide, South Australia by David Brabham (son of triple Formula One World Champion Sir Jack Brabham) in partnership with Australian advanced manufacturing company Fusion Capital. Operating from a state-of-the-art facility in Edinburgh Parks, Adelaide, Brabham set out to build an uncompromised track and road hypercar: the Brabham BT62. Weighing just 972 kg dry, the BT62 featured a carbon-fibre composite monocoque chassis, advanced aerodynamics generating over 1,200 kg of downforce, carbon-carbon brakes, and a mid-mounted naturally aspirated 5.4-litre modular V8 generating 522 kW (700 hp) and 667 Nm, revving to 8,200 rpm through a 6-speed Holinger sequential paddle-shift racing gearbox. In 2020, Brabham introduced the road-compliant BT62R. The vehicle achieved lap records at Mount Panorama and Adelaide Motorsport Festival before operations concluded in 2024.",
+  "australian_history": "Sir Jack Brabham remains the only driver in Formula One history to win the World Championship in a car bearing his own name (1966). Decades later, his son David Brabham—himself an F1 driver and Le Mans 24 Hour winner—sought to resurrect the iconic Brabham marque as an Australian supercar manufacturer.\n\nForming a partnership with Adelaide investment firm Fusion Capital, Brabham Automotive established its engineering and assembly facility in Edinburgh Parks, northern Adelaide. The team engineered the BT62—the 62nd Brabham racing designator—as an uncompromised, purist track hypercar without turbochargers or hybrid batteries.\n\nAt its core was a lightweight high-tensile tubular steel chassis with integrated FIA safety cell and carbon-kevlar composite body panels, yielding a dry weight of just 972 kg. Aerodynamic development generated an astonishing 1,200 kg of downforce at 250 km/h. The powertrain was an Australian-tuned 5.4-litre quad-cam naturally aspirated V8 producing 522 kW (700 bhp) and 667 Nm, breathing through dry-sump lubrication and mated to an Australian-made Holinger six-speed sequential paddle-shift racing transmission. In February 2019, Luke Youlden shattered the Mount Panorama closed-cockpit lap record in a BT62 with a lap of 1m 58.69s.\n\nIn September 2020, Brabham launched the BT62R road-legal version, fitted with a front axle lift kit, air conditioning, heated windscreen, reversing camera, and road-compliant muffler and lighting. Brabham planned a 70-car production run celebrating Jack Brabham's 70-year racing legacy. However, the partnership between David Brabham and Fusion Capital concluded in early 2024, closing this brief but spectacular chapter in Australian hypercar engineering.",
+  "models_catalog": [
+    {
+      "model_slug": "bt62",
+      "name": "Brabham BT62 / BT62R",
+      "vehicle_type": "Track / Road Hypercar",
+      "segment": "Hypercar",
+      "years_sold_au": {
+        "start": 2018,
+        "end": 2024
+      },
+      "locally_built": true,
+      "overview": "Adelaide-built carbon-composite hypercar powered by a naturally aspirated 5.4L V8 (522kW/700hp), generating 1,200kg of downforce and setting lap records at Bathurst.",
+      "generations": [
+        {
+          "series_code": "BT62",
+          "generation_name": "Brabham BT62 & BT62R",
+          "years": {
+            "start": 2018,
+            "end": 2024
+          },
+          "body_styles": [
+            "2-door track hypercar",
+            "2-door road-compliant coupe (BT62R)"
+          ],
+          "summary": "5.4L quad-cam NA V8 (522kW/667Nm), 6-speed Holinger sequential, carbon-carbon brakes, 1,200 kg downforce, 972 kg dry weight."
+        }
+      ]
+    }
+  ]
+}

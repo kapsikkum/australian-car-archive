@@ -1,0 +1,117 @@
+{
+  "make_slug": "proton",
+  "name": "Proton",
+  "country_of_origin": "Malaysia",
+  "years_active_au": {
+    "start": 1995,
+    "end": "2017"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Malaysian national carmaker that achieved cult Australian status with the Jumbuck compact coupe utility and Lotus-tuned Satria GTi hot hatch.",
+  "australian_history": "Proton launched in Australia in 1995 under distributor Proton Cars Australia, initially offering the Wira sedan and hatchback based on the Mitsubishi Lancer. In 1999, Proton made waves with the Satria GTi—a three-door hot hatch tuned by Lotus (which Proton had acquired), featuring stiffened suspension, Recaro seats, and flared bodywork. In 2003, Proton struck an Australian chord with the Proton Jumbuck: an affordable, front-wheel-drive, car-based coupe utility that became a beloved cult work vehicle for Australian couriers and tradespeople. Later models included the CamPro-powered Gen-2, Persona, Preve sedan, and Suprima S turbo hatch before Proton exited Australia in 2017.",
+  "models_catalog": [
+    {
+      "model_slug": "jumbuck",
+      "name": "Jumbuck",
+      "vehicle_type": "Coupe Utility",
+      "segment": "Compact Ute",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "2010"
+      },
+      "locally_built": false,
+      "overview": "A beloved cult favourite in Australia; an affordable, car-based front-wheel-drive 1.5-litre utility with leaf-spring rear payload.",
+      "generations": [
+        {
+          "series_code": "Jumbuck-Gen1",
+          "generation_name": "Proton Jumbuck",
+          "years": {
+            "start": 2003,
+            "end": "2010"
+          },
+          "body_styles": [
+            "Coupe utility (2-door)"
+          ],
+          "summary": "1.5L Mitsubishi 4G15 12-valve engine (64kW), 5-speed manual, half-tonne payload, GLi and GLS trims."
+        }
+      ]
+    },
+    {
+      "model_slug": "satria-gti",
+      "name": "Satria GTi",
+      "vehicle_type": "Hatchback",
+      "segment": "Hot Hatchback",
+      "years_sold_au": {
+        "start": 1999,
+        "end": "2005"
+      },
+      "locally_built": false,
+      "overview": "Lotus-tuned hot hatch featuring flared rivet arches, 16-inch wheels, Recaro interior, and rev-happy 1.8-litre twin-cam engine.",
+      "generations": [
+        {
+          "series_code": "C99",
+          "generation_name": "Satria GTi",
+          "years": {
+            "start": 1999,
+            "end": "2005"
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "1.8L Mitsubishi 4G93 DOHC engine (103kW), Handling by Lotus tuned dampers and anti-roll bars."
+        }
+      ]
+    },
+    {
+      "model_slug": "jumbuck-satria",
+      "name": "Jumbuck & Satria (including Satria GTi)",
+      "vehicle_type": "2-Door Coupe / Hatchback / Compact Car-Based Ute",
+      "segment": "Light Performance Hatch / Compact Commercial Ute",
+      "years_sold_au": {
+        "start": 1997,
+        "end": 2013
+      },
+      "locally_built": false,
+      "overview": "The cult Malaysian heroes of Australian roads. The Proton Satria GTi became an instant hot hatch sensation in 1999, engineered with genuine Lotus suspension wizardry, Recaro bucket seats, riveted widebody arch flares, and a twin-cam Mitsubishi engine. Alongside it, the Proton Jumbuck carved out a unique niche from 2003 as Australia's most affordable brand-new ute, offering compact car economy with a half-tonne payload.",
+      "generations": [
+        {
+          "series_code": "Satria C99",
+          "generation_name": "Proton Satria & Satria GTi",
+          "years": {
+            "start": 1997,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "Built on the Mitsubishi Mirage platform. Standard Satria offered 1.5L and 1.6L engines, while the halo Satria GTi featured a Mitsubishi 4G93P 1.8L DOHC 16V engine (103kW), complete chassis tuning by Lotus Cars, Recaro seats, 16-inch six-spoke alloys, and bolt-on widebody flares."
+        },
+        {
+          "series_code": "Jumbuck C90",
+          "generation_name": "Proton Jumbuck Ute (GLi & GLSi)",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "2-door car-based utility"
+          ],
+          "summary": "Front-wheel drive car-based half-tonne utility developed on the Persona platform. Powered by the proven 1.5L Mitsubishi 4G15 SOHC engine, featuring a heavy-duty leaf-sprung rear beam axle for a 645kg payload, and priced under $15,000 brand new."
+        },
+        {
+          "series_code": "Satria Neo",
+          "generation_name": "Proton Satria Neo & Neo Club-Racer",
+          "years": {
+            "start": 2007,
+            "end": 2013
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "Clean-sheet Proton chassis engineered with direct Lotus ride and handling development. Powered by the CamPro 1.6L 16V engine (and later CamPro CPS with variable cam profile, 93kW), flared bodywork, and central-exit exhaust."
+        }
+      ]
+    }
+  ]
+}

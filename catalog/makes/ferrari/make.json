@@ -1,0 +1,70 @@
+{
+  "make_slug": "ferrari",
+  "name": "Ferrari",
+  "country_of_origin": "Italy",
+  "years_active_au": {
+    "start": 1952,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The pinnacle of Prancing Horse exotica in Australia, with privateer motorsport heritage dating to the early 1950s and direct factory subsidiary Ferrari Australasia established in 2013.",
+  "australian_history": "Scuderia Veloce founder David McKay imported Australia's first racing Ferraris in the 1950s, driving a 250 GT to victory at Bathurst in 1960. W.H. Lowe and Maranello Concessionaires (Ateco) distributed road cars before Ferrari Australasia assumed factory control in 2013. Australian collectors prize models from the 246 Dino, 308 GTB, Testarossa, and F40 through to mid-engine V8 icons (F355, 360, 458 Italia) and modern hybrid hypercars (SF90, 296 GTB, and Purosangue V12).",
+  "models_catalog": [
+    {
+      "model_slug": "308-328",
+      "name": "308 / 328",
+      "vehicle_type": "Coupe / Targa",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 1976,
+        "end": "1989"
+      },
+      "locally_built": false,
+      "overview": "Pininfarina-styled mid-engine V8 icons, popularised by television and heralded for dry-sump 2.9L and 3.2L engines.",
+      "generations": [
+        {
+          "series_code": "F106",
+          "generation_name": "Ferrari 308 & 328",
+          "years": {
+            "start": 1976,
+            "end": 1989
+          },
+          "body_styles": [
+            "Coupe GTB",
+            "Targa GTS"
+          ],
+          "summary": "Carburettor, 2-valve injection, Quattrovalvole 4-valve, and refined 328 GTB/GTS."
+        }
+      ]
+    },
+    {
+      "model_slug": "458-italia",
+      "name": "458 Italia",
+      "vehicle_type": "Coupe / Spider",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 2010,
+        "end": "2015"
+      },
+      "locally_built": false,
+      "overview": "Ferrari's final naturally aspirated mid-engine V8, screaming to a 9,000rpm redline and producing 419kW (570hp).",
+      "generations": [
+        {
+          "series_code": "F142",
+          "generation_name": "Ferrari 458",
+          "years": {
+            "start": 2010,
+            "end": 2015
+          },
+          "body_styles": [
+            "Coupe",
+            "Spider",
+            "Speciale"
+          ],
+          "summary": "4.5L flat-plane V8, 7-speed dual-clutch, E-Diff, and 445kW Speciale with active aerodynamics."
+        }
+      ]
+    }
+  ]
+}

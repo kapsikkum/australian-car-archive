@@ -1,0 +1,350 @@
+{
+  "make_slug": "mitsubishi",
+  "model_slug": "pajero",
+  "name": "Pajero",
+  "vehicle_type": "4WD Wagon",
+  "segment": "Large 4WD SUV",
+  "years_sold_au": {
+    "start": 1983,
+    "end": "2021"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "With 12 victories in the grueling Dakar Rally, the Mitsubishi Pajero is one of the world's most successful four-wheel drives. In Australia, it defined the family 4WD wagon for nearly four decades across four generations.",
+  "australian_market_notes": "First imported in 1983, the Pajero transformed four-wheel driving from farm machinery to comfortable family transport. The NH generation introduced Super Select 4WD, allowing full-time AWD on dry bitumen and locking 4WD on dirt. The NM series brought a revolutionary monocoque chassis with independent suspension. After 38 years and over 175,000 sales in Australia, production concluded in 2021 with the Pajero Final Edition.",
+  "manuals": [
+    {
+      "title": "Mitsubishi Pajero Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1983,
+      "language": "en",
+      "source_url": "local://catalog/makes/mitsubishi/models/pajero/model.json",
+      "local_path": "media/manuals/mitsubishi/pajero/mitsubishi_pajero_au_technical_manual.pdf",
+      "file_size_bytes": 4163,
+      "sha256": "74f4aa5ec14303ea5146d5d9a9229465524923f434ff6fb8fe8aa283606471eb",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1984 Mitsubishi Pajero Leaflet. Germany, 9-1983.",
+      "year": null,
+      "source_url": "https://archive.org/details/1984-mitsubishi-pajero-leaflet.-germany-9-1983",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mitsubishi/pajero/mitsubishi_pajero_manual_1984_Mitsubishi_Pajero_Leaflet._Germany_9-1983..html",
+      "file_size_bytes": 206616,
+      "sha256": "2be15f8ab11436eba8872f8bac6de10d0c3fd88e89abef1f32bdb229d1d3315c"
+    },
+    {
+      "title": "Mitsubishi Pajero Mini 2008 User Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/pajero_mini_080201_manual_english",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mitsubishi/pajero/mitsubishi_pajero_manual_Mitsubishi_Pajero_Mini_2008_User_Manual.html",
+      "file_size_bytes": 294319,
+      "sha256": "fc088876eca6b6666efe5120a82753bdef1e4dbc20869ca550f71025bd90ad3f"
+    },
+    {
+      "title": "1987–1988 Mitsubishi Pajero (NE) brochure (Australia)",
+      "year": 1987,
+      "source_url": "https://archive.org/details/mitsubishi_pajero_ne_brochure_australia",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mitsubishi/pajero/mitsubishi_pajero_manual_1987_1988_Mitsubishi_Pajero_NE_brochure_Australia.html",
+      "file_size_bytes": 193560,
+      "sha256": "799c4ddd1ffaec09fae04bb7b9c7b4719cafef545da9a88a17f0bb5d32b41555"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1982 Mitsubishi Pajero",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1982_Mitsubishi_Pajero_rear.jpg/1280px-1982_Mitsubishi_Pajero_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (TTTNIS)",
+      "local_path": "media/pictures/mitsubishi/pajero/mitsubishi_pajero_hero_1_1982_Mitsubishi_Pajero_rear.jpg",
+      "file_size_bytes": 333369,
+      "sha256": "0fa258f52e99fef075a09e987450a236418aab54e8d5bd99fe620faf73cd62cb"
+    },
+    {
+      "category": "exterior",
+      "caption": "Mitsubishi Pajero Sport (3rd generation) in Stuttgart-Vaihingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0409.jpg/1280px-Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/mitsubishi/pajero/mitsubishi_pajero_hero_2_Mitsubishi_Pajero_Sport_3rd_generation_1X7A0409.jpg",
+      "file_size_bytes": 345753,
+      "sha256": "e15b98dac554fae70562af710d95a8339fe9e90e4c12d5f0ea52827ba2002b4c"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "NH-NL",
+      "generation_name": "Pajero 2nd Generation",
+      "years": {
+        "start": 1991,
+        "end": "2000"
+      },
+      "body_styles": [
+        "SWB 3-door",
+        "LWB 5-door"
+      ],
+      "platform": "Mitsubishi V20",
+      "ancap_rating": "Untested",
+      "summary": "Pioneered Super Select 4WD and multi-mode ABS, establishing the Pajero as a technology leader against Nissan Patrol and Toyota LandCruiser.",
+      "engines": [
+        {
+          "engine_code": "6G74",
+          "name": "Mitsubishi 3.5L DOHC 24V V6",
+          "displacement_cc": 3497,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 153.0,
+          "power_rpm": "5000",
+          "torque_nm": 315.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "High-output quad-cam V6 introduced in the NJ/NK series."
+        },
+        {
+          "engine_code": "4M40",
+          "name": "Mitsubishi 2.8L Turbo-Diesel",
+          "displacement_cc": 2835,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 92.0,
+          "power_rpm": "4000",
+          "torque_nm": 292.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "21.0:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Renowned outback workhorse diesel engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GLS",
+          "years": {
+            "start": 1991,
+            "end": "2000"
+          },
+          "body_styles": [
+            "LWB 5-door"
+          ],
+          "drivetrain": "Super Select 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 43500,
+          "msrp_aud_max": 54990,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1980,
+          "standard_features": [
+            "Super Select 4WD with center diff lock",
+            "7-passenger seating",
+            "Dual-zone front/rear air conditioning",
+            "Alloy wheels",
+            "Power windows and mirrors",
+            "Cruise control"
+          ],
+          "notes": "Australia's favourite 1990s family 4WD."
+        },
+        {
+          "badge_name": "Exceed",
+          "years": {
+            "start": 1991,
+            "end": "2000"
+          },
+          "body_styles": [
+            "LWB 5-door"
+          ],
+          "drivetrain": "Super Select 4WD",
+          "transmissions": [
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 56000,
+          "msrp_aud_max": 68500,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 2040,
+          "standard_features": [
+            "Leather upholstery",
+            "Woodgrain dash trim",
+            "Electric glass sunroof",
+            "3-mode adjustable shock absorbers",
+            "Rear cabin heater"
+          ],
+          "notes": "Luxury outback flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GLS LWB",
+          "body_style": "LWB 5-door",
+          "engine_code": "6G74",
+          "transmission": "4-speed automatic",
+          "drivetrain": "Super Select 4WD",
+          "years_start": 1993,
+          "years_end": "1997",
+          "msrp_aud": 49800,
+          "power_kw": 153.0,
+          "torque_nm": 315.0,
+          "fuel_l_100km": 13.2,
+          "towing_braked_kg": 2500,
+          "notes": "NJ 3.5L DOHC V6 GLS."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "NH-NL",
+          "category": "exterior",
+          "caption": "MITSUBISHI PAJERO, MONTERO (V20- ,NH, NJ, NK, NL) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/MITSUBISHI_PAJERO%2C_MONTERO_%28V20-_%2CNH%2C_NJ%2C_NK%2C_NL%29_China.jpg/1280px-MITSUBISHI_PAJERO%2C_MONTERO_%28V20-_%2CNH%2C_NJ%2C_NK%2C_NL%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mitsubishi/pajero/mitsubishi_pajero_NH-NL_1_MITSUBISHI_PAJERO_MONTERO_V20-_NH_NJ_NK_NL_China.jpg",
+          "file_size_bytes": 331199,
+          "sha256": "df0b344346366e5f1a207ec11469f19c749bfc3991c7db49c69200512b420abd"
+        }
+      ]
+    },
+    {
+      "series_code": "NS-NX",
+      "generation_name": "Pajero 4th Generation",
+      "years": {
+        "start": 2006,
+        "end": "2021"
+      },
+      "body_styles": [
+        "5-door Wagon",
+        "3-door Shorty"
+      ],
+      "platform": "Mitsubishi V80/V90",
+      "ancap_rating": "5 Stars",
+      "summary": "15-year Australian production run, powered by the mighty 3.2L common-rail Di-D diesel (up to 147kW/441Nm) with 3000kg towing and Super Select II 4WD.",
+      "engines": [
+        {
+          "engine_code": "4M41-CRD",
+          "name": "Mitsubishi 3.2L Common-Rail Di-D Diesel",
+          "displacement_cc": 3200,
+          "displacement_litres": 3.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 147.0,
+          "power_rpm": "3800",
+          "torque_nm": 441.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Upgraded in NT series (2009) to 147kW/441Nm; legendary durability and outback reliability."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GLS",
+          "years": {
+            "start": 2006,
+            "end": "2021"
+          },
+          "body_styles": [
+            "5-door Wagon (7 seats)"
+          ],
+          "drivetrain": "Super Select II 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 53990,
+          "msrp_aud_max": 61990,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 2295,
+          "standard_features": [
+            "Super Select II 4WD with rear diff lock",
+            "In-floor folding 3rd-row seats (Hide & Seat)",
+            "18-inch alloy wheels",
+            "Rockford Fosgate premium audio",
+            "Smartphone Link Display Audio",
+            "Reverse camera"
+          ],
+          "notes": "High-volume Australian family and touring specification."
+        },
+        {
+          "badge_name": "Final Edition",
+          "years": {
+            "start": 2021,
+            "end": "2021"
+          },
+          "body_styles": [
+            "5-door Wagon (7 seats)"
+          ],
+          "drivetrain": "Super Select II 4WD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 63490,
+          "msrp_aud_max": 65990,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 2335,
+          "standard_features": [
+            "Tinted bonnet protector",
+            "Final Edition badging and carpet mats",
+            "Leather-trimmed owner's manual case",
+            "Sunroof",
+            "Heated power leather seats",
+            "Build limited to 800 units for Australia"
+          ],
+          "notes": "Celebrated the conclusion of 38 years of Pajero history in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GLS 3.2 Di-D",
+          "body_style": "5-door Wagon",
+          "engine_code": "4M41-CRD",
+          "transmission": "5-speed automatic",
+          "drivetrain": "Super Select II 4WD",
+          "years_start": 2009,
+          "years_end": "2021",
+          "msrp_aud": 58990,
+          "power_kw": 147.0,
+          "torque_nm": 441.0,
+          "fuel_l_100km": 9.1,
+          "towing_braked_kg": 3000,
+          "notes": "NT-NX Pajero GLS 3.2L diesel."
+        },
+        {
+          "badge_name": "Final Edition",
+          "body_style": "5-door Wagon",
+          "engine_code": "4M41-CRD",
+          "transmission": "5-speed automatic",
+          "drivetrain": "Super Select II 4WD",
+          "years_start": 2021,
+          "years_end": "2021",
+          "msrp_aud": 63490,
+          "power_kw": 147.0,
+          "torque_nm": 441.0,
+          "fuel_l_100km": 9.1,
+          "towing_braked_kg": 3000,
+          "notes": "2021 Final Edition #1-800."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "NS-NX",
+          "category": "exterior",
+          "caption": "MITSUBISHI PAJERO (V80-,  NS, NT, NW, NX) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/MITSUBISHI_PAJERO_%28V80-%2C_NS%2C_NT%2C_NW%2C_NX%29_China.jpg/1280px-MITSUBISHI_PAJERO_%28V80-%2C_NS%2C_NT%2C_NW%2C_NX%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mitsubishi/pajero/mitsubishi_pajero_NS-NX_1_MITSUBISHI_PAJERO_V80-_NS_NT_NW_NX_China.jpg",
+          "file_size_bytes": 301979,
+          "sha256": "81f56576152b6e4ae60d91727903927fa3214e3506f6184d0bc55313e413072f"
+        }
+      ]
+    }
+  ]
+}

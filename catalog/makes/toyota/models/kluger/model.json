@@ -1,0 +1,642 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "kluger",
+  "name": "Kluger",
+  "vehicle_type": "7-Seat Family SUV",
+  "segment": "Large SUV",
+  "years_sold_au": {
+    "start": 2003,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota Kluger (sold globally as the Highlander) is Australia's quintessential car-based 7-seat family crossover SUV. Blending passenger-car ride comfort with cavernous interior room, powerful V6 and hybrid powertrains, and all-weather AWD assurance, it became a cornerstone of Australian suburban family motoring.",
+  "australian_market_notes": "Introduced in October 2003 to meet exploding demand for car-like unibody SUVs, the Kluger complemented the body-on-frame Prado. While early generations were built in Kyushu, Japan, the XU50 generation was sourced from Toyota Motor Manufacturing Indiana in the United States, before returning to Japan for hybrid production on the TNGA-K platform.",
+  "manuals": [
+    {
+      "title": "Toyota Kluger Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2003,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/kluger/model.json",
+      "local_path": "media/manuals/toyota/kluger/toyota_kluger_au_technical_manual.pdf",
+      "file_size_bytes": 6700,
+      "sha256": "a37969eaebfeebdc558eb233c854dcbe8dbb0951d00d34a6c7a3997d56309302",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Channel 7 News vehicle on Morley Drive in Perth, Western Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/7_News_car_in_Morley.jpg/1280px-7_News_car_in_Morley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 3.0 (User:Orderinchaos)",
+      "local_path": "media/pictures/toyota/kluger/toyota_kluger_hero_1_7_News_car_in_Morley.jpg",
+      "file_size_bytes": 363239,
+      "sha256": "21d4c88b22be46448d352fb01baf1e7eb5ed8a3ceb8a869fb3c030928918e41f"
+    },
+    {
+      "category": "exterior",
+      "caption": "Photographed using the Smena Symbol, and Fujicolor Superia 200 film. \n\nTaken in Monbulk, Victoria, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Excavator%2C_balloons_and_ugly_cars_%2827362266376%29.jpg/1280px-Excavator%2C_balloons_and_ugly_cars_%2827362266376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Matthew Paul  Argall from Australia)",
+      "local_path": "media/pictures/toyota/kluger/toyota_kluger_hero_2_Excavator_balloons_and_ugly_cars_27362266376_.jpg",
+      "file_size_bytes": 283037,
+      "sha256": "dbcc17676987dba09801df9c31b64e1dfb9676f2f0ccb70d1da28bf23c0df342"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "XU20",
+      "generation_name": "Kluger 1st Generation",
+      "years": {
+        "start": 2003,
+        "end": 2007
+      },
+      "body_styles": [
+        "5-door Wagon"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "4 stars",
+      "summary": "First-generation unibody SUV offering 5 or 7 seats, car-like handling, and silky 3.3L 3MZ-FE quad-cam V6 power.",
+      "engines": [
+        {
+          "engine_code": "3MZ-FE",
+          "name": "Toyota 3MZ-FE 3.3L VVT-i V6",
+          "displacement_cc": 3310,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 172.0,
+          "power_rpm": "5600",
+          "torque_nm": 328.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 24-valve VVT-i",
+          "notes": "Smooth alloy V6 shared with Lexus RX330."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CV",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 43990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 12.3,
+          "kerb_weight_kg": 1820,
+          "standard_features": [
+            "5 seats",
+            "Full-time AWD with viscous centre coupling",
+            "Dual airbags",
+            "Cruise control",
+            "Air conditioning"
+          ],
+          "notes": "Entry-level all-wheel drive family wagon."
+        },
+        {
+          "badge_name": "CVX",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 48990,
+          "msrp_aud_max": 53500,
+          "fuel_consumption_l_100km": 12.3,
+          "kerb_weight_kg": 1870,
+          "standard_features": [
+            "7 seats standard",
+            "Alloy wheels",
+            "Roof rails",
+            "Power driver seat",
+            "Side airbags"
+          ],
+          "notes": "Popular 7-seat family choice."
+        },
+        {
+          "badge_name": "Grande",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 56990,
+          "msrp_aud_max": 61990,
+          "fuel_consumption_l_100km": 12.3,
+          "kerb_weight_kg": 1910,
+          "standard_features": [
+            "Leather trim",
+            "DVD satellite navigation",
+            "Sunroof",
+            "Vehicle Stability Control (VSC)",
+            "Woodgrain accents"
+          ],
+          "notes": "Luxury flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kluger CVX AWD",
+          "body_style": "5-door Wagon",
+          "engine_code": "3MZ-FE",
+          "transmission": "5-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2003,
+          "years_end": 2007,
+          "msrp_aud": 48990,
+          "power_kw": 172.0,
+          "torque_nm": 328.0,
+          "fuel_l_100km": 12.3,
+          "towing_braked_kg": 1500,
+          "notes": "7-seat configuration standard."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XU20",
+          "category": "exterior",
+          "caption": "Toyota Kluger, V6 AWD CVX, Sydney, Australia",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Toyota_Kluger_002.jpg/1280px-Toyota_Kluger_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Sardaka)",
+          "local_path": "media/pictures/toyota/kluger/toyota_kluger_XU20_1_Toyota_Kluger_002.jpg",
+          "file_size_bytes": 321912,
+          "sha256": "4b3070a60a90efe10c11414378ad329157f4178e99beb4f03869e2f4a154941a"
+        }
+      ]
+    },
+    {
+      "series_code": "XU40",
+      "generation_name": "Kluger 2nd Generation",
+      "years": {
+        "start": 2007,
+        "end": 2014
+      },
+      "body_styles": [
+        "5-door Wagon"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "5 stars",
+      "summary": "Substantially larger second generation featuring 201kW 3.5L 2GR-FE V6 power, available front-wheel drive or on-demand AWD, and clever 'Center Stow' flexible seating.",
+      "engines": [
+        {
+          "engine_code": "2GR-FE",
+          "name": "Toyota 2GR-FE 3.5L Dual VVT-i V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 201.0,
+          "power_rpm": "6200",
+          "torque_nm": 337.0,
+          "torque_rpm": "4700",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-i",
+          "notes": "Punchy V6 delivering 0-100 km/h in under 8 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "KX-R",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 47000,
+          "fuel_consumption_l_100km": 11.0,
+          "kerb_weight_kg": 1845,
+          "standard_features": [
+            "5 or 7 seats",
+            "17-inch alloy wheels",
+            "Reversing camera standard",
+            "Cruise control",
+            "Hill-start Assist"
+          ],
+          "notes": "Reversing camera displayed in multi-info display - safety leader."
+        },
+        {
+          "badge_name": "KX-S",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 50990,
+          "msrp_aud_max": 56000,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1930,
+          "standard_features": [
+            "Leather upholstery",
+            "19-inch alloy wheels",
+            "3-zone climate control",
+            "Power front seats",
+            "Roof rails"
+          ],
+          "notes": "Sporty mid-range trim."
+        },
+        {
+          "badge_name": "Grande",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 60990,
+          "msrp_aud_max": 68000,
+          "fuel_consumption_l_100km": 11.6,
+          "kerb_weight_kg": 1980,
+          "standard_features": [
+            "Rear-seat DVD screen",
+            "Sat nav",
+            "Sunroof",
+            "Power tailgate",
+            "Smart key entry"
+          ],
+          "notes": "Top-tier family luxury."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kluger KX-S AWD",
+          "body_style": "5-door Wagon",
+          "engine_code": "2GR-FE",
+          "transmission": "5-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2007,
+          "years_end": 2014,
+          "msrp_aud": 54490,
+          "power_kw": 201.0,
+          "torque_nm": 337.0,
+          "fuel_l_100km": 11.6,
+          "towing_braked_kg": 2000,
+          "notes": "Popular suburban family hauler."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XU40",
+          "category": "exterior",
+          "caption": "2011 Toyota Highlander (XU40) in Stuttgart-Vaihingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Toyota_Highlander_%28XU40%29_IMG_9722.jpg/1280px-2011_Toyota_Highlander_%28XU40%29_IMG_9722.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/toyota/kluger/toyota_kluger_XU40_1_2011_Toyota_Highlander_XU40_IMG_9722.jpg",
+          "file_size_bytes": 332144,
+          "sha256": "d6bc8b1bdb7ced00d8118dd3da9c8d40261e7a7baa796f22241f6917d98f3ce7"
+        }
+      ]
+    },
+    {
+      "series_code": "XU50",
+      "generation_name": "Kluger 3rd Generation",
+      "years": {
+        "start": 2014,
+        "end": 2021
+      },
+      "body_styles": [
+        "5-door Wagon"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "5 stars",
+      "summary": "Built in Indiana, USA for the Australian market. Introduced standard 7 seats, double-wishbone rear suspension, and from 2017 a direct-injected 218kW V6 with 8-speed automatic.",
+      "engines": [
+        {
+          "engine_code": "2GR-FKS",
+          "name": "Toyota 2GR-FKS 3.5L D-4S V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 218.0,
+          "power_rpm": "6600",
+          "torque_nm": 350.0,
+          "torque_rpm": "4700",
+          "compression_ratio": "11.8:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-iW",
+          "notes": "D-4S direct and port injection introduced in 2017 facelift paired with 8-speed auto."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed automatic",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 40990,
+          "msrp_aud_max": 48500,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1935,
+          "standard_features": [
+            "7 seats standard",
+            "18-inch alloys",
+            "Toyota Safety Sense (from 2018)",
+            "Rear air conditioning"
+          ],
+          "notes": "Entry 7-seater."
+        },
+        {
+          "badge_name": "GXL",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed automatic",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 51990,
+          "msrp_aud_max": 58950,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 2000,
+          "standard_features": [
+            "Leather-accented seats",
+            "Heated front seats",
+            "3-zone climate control",
+            "Power tailgate",
+            "Sat nav"
+          ],
+          "notes": "Heart of the Kluger range."
+        },
+        {
+          "badge_name": "Grande",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "6-speed automatic",
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 63990,
+          "msrp_aud_max": 71000,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 2075,
+          "standard_features": [
+            "19-inch alloys",
+            "Sunroof",
+            "Ventilated front seats",
+            "Rear Blu-ray entertainment",
+            "Blind spot monitor"
+          ],
+          "notes": "US-built flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kluger GXL AWD",
+          "body_style": "5-door Wagon",
+          "engine_code": "2GR-FKS",
+          "transmission": "8-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2017,
+          "years_end": 2021,
+          "msrp_aud": 58950,
+          "power_kw": 218.0,
+          "torque_nm": 350.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 2000,
+          "notes": "Direct-injection 8-speed automatic facelift configuration."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XU50",
+          "category": "exterior",
+          "caption": "Interior of a Toyota Kluger, taken in Bondi Beach, Sydney, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2017_Toyota_Kluger_XU50_interior_1.jpg/1280px-2017_Toyota_Kluger_XU50_interior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (User3204)",
+          "local_path": "media/pictures/toyota/kluger/toyota_kluger_XU50_1_2017_Toyota_Kluger_XU50_interior_1.jpg",
+          "file_size_bytes": 270986,
+          "sha256": "798a188835556cbd8cc75d216de9beeb0521ab014f7d9f5bd96692fd59bb7c25"
+        }
+      ]
+    },
+    {
+      "series_code": "XU70",
+      "generation_name": "Kluger 4th Generation",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door Wagon"
+      ],
+      "platform": "TNGA-K",
+      "ancap_rating": "5 stars",
+      "summary": "Built on Toyota's TNGA-K platform, introducing hybrid all-wheel drive returning just 5.6L/100km, upgraded rigidity, and later a 2.4L turbo replacing the V6.",
+      "engines": [
+        {
+          "engine_code": "A25A-FXS",
+          "name": "Toyota A25A-FXS 2.5L Hybrid e-Four",
+          "displacement_cc": 2487,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated + Electric Motors",
+          "fuel_type": "Petrol Hybrid",
+          "power_kw": 184.0,
+          "power_rpm": "6000",
+          "torque_nm": 242.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "14.0:1",
+          "valvetrain": "DOHC 16-valve Dual VVT-i",
+          "notes": "184kW combined output with independent electric rear axle (e-Four)."
+        },
+        {
+          "engine_code": "T24A-FTS",
+          "name": "Toyota T24A-FTS 2.4L Turbo Petrol",
+          "displacement_cc": 2393,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 198.0,
+          "power_rpm": "6000",
+          "torque_nm": 420.0,
+          "torque_rpm": "1700-3600",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "DOHC 16-valve Dual VVT-i",
+          "notes": "Introduced in 2023 replacing the 3.5L V6, offering 420Nm across wide rev band."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GX Hybrid AWD",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "e-Four AWD",
+          "transmissions": [
+            "e-CVT"
+          ],
+          "msrp_aud_min": 54150,
+          "msrp_aud_max": 58290,
+          "fuel_consumption_l_100km": 5.6,
+          "kerb_weight_kg": 2005,
+          "standard_features": [
+            "7 seats",
+            "18-inch alloys",
+            "Toyota Safety Sense",
+            "LED headlamps",
+            "8-inch touchscreen"
+          ],
+          "notes": "Outstanding fuel efficiency for a full 7-seater."
+        },
+        {
+          "badge_name": "GXL Hybrid AWD",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "e-Four AWD",
+          "transmissions": [
+            "e-CVT"
+          ],
+          "msrp_aud_min": 63350,
+          "msrp_aud_max": 67810,
+          "fuel_consumption_l_100km": 5.6,
+          "kerb_weight_kg": 2050,
+          "standard_features": [
+            "Synthetic leather seats",
+            "12.3-inch multimedia touchscreen",
+            "Wireless Apple CarPlay",
+            "Power tailgate",
+            "Roof rails"
+          ],
+          "notes": "Top-selling specification."
+        },
+        {
+          "badge_name": "Grande Hybrid AWD",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "drivetrain": "e-Four AWD",
+          "transmissions": [
+            "e-CVT"
+          ],
+          "msrp_aud_min": 75400,
+          "msrp_aud_max": 80230,
+          "fuel_consumption_l_100km": 5.6,
+          "kerb_weight_kg": 2105,
+          "standard_features": [
+            "20-inch chrome alloys",
+            "JBL 11-speaker audio",
+            "Panoramic roof",
+            "Head-up display",
+            "Hands-free tailgate",
+            "Leather seats"
+          ],
+          "notes": "Flagship hybrid crossover."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Kluger GXL Hybrid AWD",
+          "body_style": "5-door Wagon",
+          "engine_code": "A25A-FXS",
+          "transmission": "e-CVT",
+          "drivetrain": "AWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 67810,
+          "power_kw": 184.0,
+          "torque_nm": 242.0,
+          "fuel_l_100km": 5.6,
+          "towing_braked_kg": 2000,
+          "notes": "5.6L/100km combined fuel consumption."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XU70",
+          "category": "exterior",
+          "caption": "TOYOTA HIGHLANDER HYBRID (XU70) &amp; TOYOTA CROWN KLUGER HYBRID",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/TOYOTA_HIGHLANDER_HYBRID_%28XU70%29_%26_TOYOTA_CROWN_KLUGER_HYBRID.jpg/1280px-TOYOTA_HIGHLANDER_HYBRID_%28XU70%29_%26_TOYOTA_CROWN_KLUGER_HYBRID.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/toyota/kluger/toyota_kluger_XU70_1_TOYOTA_HIGHLANDER_HYBRID_XU70_TOYOTA_CROWN_KLUGER_HYBRID.jpg",
+          "file_size_bytes": 264317,
+          "sha256": "30578bda9dcd39c394ba0f9f467e3a1b9e254efee6fdfa905e5e1a7bcd90e5df"
+        }
+      ]
+    }
+  ]
+}

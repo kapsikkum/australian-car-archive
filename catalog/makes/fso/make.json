@@ -1,0 +1,42 @@
+{
+  "make_slug": "fso",
+  "name": "FSO",
+  "country_of_origin": "Poland",
+  "years_active_au": {
+    "start": 1988,
+    "end": "1992"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Polish manufacturer that imported the rugged, budget-priced FSO Polonez hatchback and commercial utility into Australia.",
+  "australian_history": "Fabryka Samochodów Osobowych (FSO) of Warsaw, Poland exported vehicles to Australia between 1988 and 1992 through independent importer FSO Motors Australia. Based on Fiat 125 mechanics wrapped in a chunky hatchback body designed by Giorgetto Giugiaro and Walter de Silva, the Polonez offered solid steel gauge construction and simple pushrod mechanics. In addition to the five-door hatchback, the FSO Polonez Truck (a half-tonne pickup utility with separate chassis and leaf springs) found modest use with rural operators looking for the cheapest new ute in Australia. Tightening emissions and crash rules concluded imports in 1992.",
+  "models_catalog": [
+    {
+      "model_slug": "polonez",
+      "name": "Polonez & Polonez Truck",
+      "vehicle_type": "Hatchback / Ute",
+      "segment": "Small / Medium Car & Ute",
+      "years_sold_au": {
+        "start": 1988,
+        "end": "1992"
+      },
+      "locally_built": false,
+      "overview": "Polish utilitarian family hatchback and pickup utility, celebrated for rugged thick steel construction and bargain pricing.",
+      "generations": [
+        {
+          "series_code": "Polonez-MR87",
+          "generation_name": "FSO Polonez & Truck",
+          "years": {
+            "start": 1988,
+            "end": "1992"
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Single-cab ute"
+          ],
+          "summary": "1.5L and 1.6L OHV four-cylinder engines (55kW-64kW), 5-speed manual, live rear axle, and heavy-duty Truck utility."
+        }
+      ]
+    }
+  ]
+}

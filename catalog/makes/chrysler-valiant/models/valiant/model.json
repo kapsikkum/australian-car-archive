@@ -1,0 +1,356 @@
+{
+  "make_slug": "chrysler-valiant",
+  "model_slug": "valiant",
+  "name": "Chrysler Valiant",
+  "vehicle_type": "Sedan / Wagon",
+  "segment": "Large",
+  "years_sold_au": {
+    "start": 1962,
+    "end": 1981
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Tonsley Park, South Australia",
+    "Mile End, South Australia"
+  ],
+  "overview": "The Chrysler Valiant was the spirited contender of the Australian family car triumvirate alongside the Holden Kingswood and Ford Falcon. Manufactured at Chrysler Australia's sprawling Tonsley Park complex in Adelaide from 1962 to 1981 across 13 series (R, S, AP5, AP6, VC, VE, VF, VG, VH, VJ, VK, CL, CM), the Valiant established an enduring reputation for unmatched horsepower, introducing the 145 hp Slant-6 in 1962, Australia's first family car V8 in 1965, the world-renowned Australian-engineered HEMI-6 in 1970, and pioneering Electronic Lean Burn (ELB) computer management.",
+  "australian_market_notes": "When Chrysler assembled 1,008 R-Series Valiants in Adelaide in early 1962, their 225ci Slant-6 engine developed nearly double the power of the contemporary Holden EK, creating queues around dealership blocks. In 1965, the AP6 debuted the 273ci Fireball V8, sparking the Australian V8 era. Under chief engineer David Giles, Chrysler Australia invested $22 million developing the legendary HEMI-6 engine, which debuted in the 1970 VG series with hemispherical combustion chambers in 215ci, 245ci, and 265ci displacements. The 1971 VH was the first Valiant designed and styled completely in Australia. In 1978, the CM series introduced Electronic Lean Burn (ELB) computer spark advance, providing remarkable fuel efficiency before production ceased in August 1981.",
+  "manuals": [
+    {
+      "title": "Chrysler Valiant Chrysler Valiant Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1962,
+      "language": "en",
+      "source_url": "local://catalog/makes/chrysler-valiant/models/valiant/model.json",
+      "local_path": "media/manuals/chrysler-valiant/valiant/chrysler-valiant_valiant_au_technical_manual.pdf",
+      "file_size_bytes": 6176,
+      "sha256": "826a39731a0b3f15476e88537598f13a54d332b64b32868ff060cbe33e952fb8",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Chrysler VE Valiant - 1968 Wheels Car of the Year window sticker",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Chrysler_VE_Valiant_-_1968_Wheels_Car_of_the_Year_window_sticker.jpg/1280px-Chrysler_VE_Valiant_-_1968_Wheels_Car_of_the_Year_window_sticker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Sv1ambo)",
+      "local_path": "media/pictures/chrysler-valiant/valiant/chrysler-valiant_valiant_hero_1_Chrysler_VE_Valiant_-_1968_Wheels_Car_of_the_Year_window_sticker.jpg",
+      "file_size_bytes": 209360,
+      "sha256": "61946275ffa49eadebd8e27be65b27788469f819219344fdfbc572835ff1ac93"
+    },
+    {
+      "category": "exterior",
+      "caption": "1981 Chrysler Valiant sedan, photographed in Adelaide, South Australia, Australia. This is a base model, originally an ex-police car. The compliance plate states that it was built in March 1981 by Mitsubishi Motors Australia, under licence ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Chrysler_Valiant_%2816344954413%29.jpg/1280px-Chrysler_Valiant_%2816344954413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+      "local_path": "media/pictures/chrysler-valiant/valiant/chrysler-valiant_valiant_hero_2_Chrysler_Valiant_16344954413_.jpg",
+      "file_size_bytes": 185207,
+      "sha256": "f27d5c1ee4781794a9d5f409b15f7710277b1b6d7dc0a8161322392343e1251c"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "R-S",
+      "generation_name": "R and S Series",
+      "years": {
+        "start": 1962,
+        "end": 1963
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Chrysler unibody",
+      "ancap_rating": null,
+      "summary": "The car that changed Australian family performance. 225ci Slant-6 producing 145 bhp; torsion bar front suspension; push-button Torqueflite automatic.",
+      "engines": [
+        {
+          "engine_code": "Slant-6-225",
+          "name": "Chrysler 225ci (3.7L) Slant-6",
+          "displacement_cc": 3687,
+          "displacement_litres": 3.7,
+          "cylinders": 6,
+          "configuration": "Inline inclined 30 degrees",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 108.0,
+          "power_rpm": "4000",
+          "torque_nm": 292.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "8.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Single-barrel Carter carburettor; 145 gross horsepower."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Valiant",
+          "years": {
+            "start": 1962,
+            "end": 1963
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual floor shift",
+            "Torqueflite 3-speed push-button auto"
+          ],
+          "msrp_aud_min": 2450,
+          "msrp_aud_max": 2850,
+          "fuel_consumption_l_100km": 13.0,
+          "kerb_weight_kg": 1240,
+          "standard_features": [
+            "Torsion-Aire front suspension",
+            "145hp Slant-6 engine",
+            "Padded dash",
+            "12-volt electrical system"
+          ],
+          "notes": "Instant sell-out sensation across Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Valiant",
+          "body_style": "4-door sedan",
+          "engine_code": "Slant-6-225",
+          "transmission": "Torqueflite 3-speed push-button auto",
+          "drivetrain": "RWD",
+          "msrp_aud": 2680,
+          "power_kw": 108.0,
+          "torque_nm": 292.0,
+          "fuel_l_100km": 13.0,
+          "towing_braked_kg": 1200,
+          "notes": "Out-accelerated all rivals in 1962."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "R-S",
+          "category": "exterior",
+          "caption": "Chryslers on the Murray 2015",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Chrysler_Valiant_R_%26_S_Series_%2816972553816%29.jpg/1280px-Chrysler_Valiant_R_%26_S_Series_%2816972553816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/chrysler-valiant/valiant/chrysler-valiant_valiant_R-S_1_Chrysler_Valiant_R_S_Series_16972553816_.jpg",
+          "file_size_bytes": 557479,
+          "sha256": "0986f007d11c85aea06f189acc130652b9e17db4ed8d3c483d700c5cd1150699"
+        }
+      ]
+    },
+    {
+      "series_code": "VG-VJ",
+      "generation_name": "VG to VJ Series (The Hemi-6 Era)",
+      "years": {
+        "start": 1970,
+        "end": 1975
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door Safari wagon",
+        "2-door hardtop"
+      ],
+      "platform": "Chrysler Australia wide-body chassis",
+      "ancap_rating": null,
+      "summary": "Introduced the legendary Australian-designed and engineered HEMI-6 engine (215, 245, 265ci) with hemispherical combustion chambers, alongside 318ci Fireball V8.",
+      "engines": [
+        {
+          "engine_code": "Hemi-245",
+          "name": "Chrysler Hemi-6 245ci (4.0L) Inline-6",
+          "displacement_cc": 4015,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 123.0,
+          "power_rpm": "4400",
+          "torque_nm": 325.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 12V Hemispherical chambers",
+          "notes": "Carter 2-barrel carburettor; 165 gross hp; massive low-end torque."
+        },
+        {
+          "engine_code": "Hemi-265",
+          "name": "Chrysler Hemi-6 265ci (4.3L) Inline-6",
+          "displacement_cc": 4342,
+          "displacement_litres": 4.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 151.0,
+          "power_rpm": "4800",
+          "torque_nm": 355.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 12V Hemispherical chambers",
+          "notes": "2-barrel Carter BBD; 203 gross hp; standard in Regal 770."
+        },
+        {
+          "engine_code": "Fireball-318-V8",
+          "name": "Chrysler 318ci (5.2L) Fireball V8",
+          "displacement_cc": 5211,
+          "displacement_litres": 5.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 172.0,
+          "power_rpm": "4400",
+          "torque_nm": 461.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Carter 2-barrel; smooth, effortless cruiser."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Regal 770",
+          "years": {
+            "start": 1970,
+            "end": 1975
+          },
+          "body_styles": [
+            "4-door sedan",
+            "2-door hardtop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Torqueflite 3-speed automatic"
+          ],
+          "msrp_aud_min": 3950,
+          "msrp_aud_max": 4890,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1440,
+          "standard_features": [
+            "265 Hemi-6 or 318 V8",
+            "Buffalo grain vinyl roof",
+            "Reclining bucket seats with center console",
+            "Full woodgrain dash",
+            "Front power disc brakes"
+          ],
+          "notes": "High luxury executive flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Regal 770",
+          "body_style": "4-door sedan",
+          "engine_code": "Hemi-265",
+          "transmission": "Torqueflite 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 4350,
+          "power_kw": 151.0,
+          "torque_nm": 355.0,
+          "fuel_l_100km": 14.2,
+          "towing_braked_kg": 1500,
+          "notes": "The great Aussie Hemi six cruiser."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "VG-VJ",
+          "category": "exterior",
+          "caption": "New Spring Gold. \nThe VH Valiant was built in Australia from June 1971 to May 1973, it was fully Australian designed and built. It was a larger car and more rounded than the VG, the grille heavily influenced by its US counterparts. A more p",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1972_Chrysler_Valiant_VH_Regal_Hardtop_%2844634342145%29.jpg/1280px-1972_Chrysler_Valiant_VH_Regal_Hardtop_%2844634342145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/chrysler-valiant/valiant/chrysler-valiant_valiant_VG-VJ_1_1972_Chrysler_Valiant_VH_Regal_Hardtop_44634342145_.jpg",
+          "file_size_bytes": 436243,
+          "sha256": "80bcab2aa628dbbf1ac87829b91f8c52237a12cfb8d4af2c9a3a66e4e30264fb"
+        }
+      ]
+    },
+    {
+      "series_code": "CM",
+      "generation_name": "CM Series (Electronic Lean Burn)",
+      "years": {
+        "start": 1978,
+        "end": 1981
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door Safari wagon"
+      ],
+      "platform": "Chrysler Australia chassis",
+      "ancap_rating": null,
+      "summary": "Final Australian Valiant series. Introduced Electronic Lean Burn (ELB) computer-controlled spark timing on the 4.0L and 4.3L Hemi-6, delivering unmatched large-car fuel efficiency.",
+      "engines": [
+        {
+          "engine_code": "Hemi-265-ELB",
+          "name": "Chrysler Hemi-6 4.3L (265ci) ELB",
+          "displacement_cc": 4342,
+          "displacement_litres": 4.3,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 120.0,
+          "power_rpm": "4400",
+          "torque_nm": 318.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V with Electronic Spark Control",
+          "notes": "Spark Advance computer adjusts timing; 10.5 L/100km highway."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Regal",
+          "years": {
+            "start": 1978,
+            "end": 1981
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Safari wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Borg-Warner)",
+            "Torqueflite 3-speed auto"
+          ],
+          "msrp_aud_min": 7990,
+          "msrp_aud_max": 9850,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1460,
+          "standard_features": [
+            "Electronic Lean Burn",
+            "Cloth seat trim",
+            "Power steering",
+            "Air conditioning option"
+          ],
+          "notes": "Final Australian Valiant."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Regal",
+          "body_style": "4-door sedan",
+          "engine_code": "Hemi-265-ELB",
+          "transmission": "Torqueflite 3-speed auto",
+          "drivetrain": "RWD",
+          "msrp_aud": 8950,
+          "power_kw": 120.0,
+          "torque_nm": 318.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 1500,
+          "notes": "The last Valiant made at Tonsley Park on 28 August 1981."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "CM",
+          "category": "exterior",
+          "caption": "Chrysler Valiant CM sedan",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/1980_Valiant_CM_Standard%3D%3D.JPG/1280px-1980_Valiant_CM_Standard%3D%3D.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Sicnag)",
+          "local_path": "media/pictures/chrysler-valiant/valiant/chrysler-valiant_valiant_CM_1_1980_Valiant_CM_Standard_.JPG",
+          "file_size_bytes": 371394,
+          "sha256": "e918f6de0d1e31978947ac91f77b4d33248413735cdb0ec988e79515ffc331a5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "make_slug": "chrysler-valiant",
+  "model_slug": "sigma",
+  "name": "Chrysler / Mitsubishi Sigma",
+  "vehicle_type": "4-door Sedan / 5-door Station Wagon",
+  "segment": "Mid-size",
+  "years_sold_au": {
+    "start": 1977,
+    "end": 1987
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Tonsley Park, Adelaide, South Australia"
+  ],
+  "overview": "The Chrysler Sigma—later renamed Mitsubishi Sigma after Mitsubishi acquired Chrysler Australia in 1980—was the undisputed king of Australia's four-cylinder family car market across the late 1970s and 1980s. Manufactured at Tonsley Park in Adelaide, the Sigma (GE, GH, GJ, GK, GN) dethroned traditional six-cylinder cars by offering expansive interior space, European-influenced styling, four-wheel coil spring suspension, and revolutionary 'Silent Shaft' counter-rotating balance shafts in its Australian-cast Astron 1.85L, 2.0L, and 2.6L engines. The GH series introduced the legendary limited-edition Sigma Turbo in 1981 (Australia's first locally built turbocharged production car), while the 1982 GJ series spawned the celebrated Peter Wherrett Special. Over 300,000 Sigmas were built in Adelaide before making way for the Magna.",
+  "australian_market_notes": "The Sigma completely altered Australian buying habits, proving that a smooth, balance-shaft four-cylinder car could equal or exceed a traditional Australian straight-six in refinement and towing capability. The Australian-built Sigma Wagon featured a unique Australian-engineered cargo floor and rear roofline not found on Japanese Galants, providing superior cargo volume.",
+  "manuals": [
+    {
+      "title": "Chrysler Valiant Chrysler / Mitsubishi Sigma Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1977,
+      "language": "en",
+      "source_url": "local://catalog/makes/chrysler-valiant/models/sigma/model.json",
+      "local_path": "media/manuals/chrysler-valiant/sigma/chrysler-valiant_sigma_au_technical_manual.pdf",
+      "file_size_bytes": 5015,
+      "sha256": "d39486dde97219f17aaefec7d07b127ed07aee17994eccb77e5514c2a7615d10",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1978 Chrysler CM Valiant GLX sedan. Taken at the Chrysler Car Museum in Grenfell, New South Wales. The CM series was the last of the Australian built Valiants. By the time the last one rolled off the Tonsley Park production line on 28th Aug",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/1978_Chrysler_CM_Valiant_GLX_%285041503338%29.jpg/1280px-1978_Chrysler_CM_Valiant_GLX_%285041503338%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (sv1ambo)",
+      "local_path": "media/pictures/chrysler-valiant/sigma/chrysler-valiant_sigma_hero_1_1978_Chrysler_CM_Valiant_GLX_5041503338_.jpg",
+      "file_size_bytes": 198899,
+      "sha256": "00185389a8a3708ef339ff92ede91980e91ae75560e93f7018215c68b98ec410"
+    },
+    {
+      "category": "exterior",
+      "caption": "1978 Chrysler CM Valiant GLX sedan. Taken at the Chrysler Car Museum in Grenfell, New South Wales. The CM series was the last of the Australian built Valiants. By the time the last one rolled off the Tonsley Park production line on 28th Aug",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/1978_Chrysler_CM_Valiant_GLX_%285041518776%29.jpg/1280px-1978_Chrysler_CM_Valiant_GLX_%285041518776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (sv1ambo)",
+      "local_path": "media/pictures/chrysler-valiant/sigma/chrysler-valiant_sigma_hero_2_1978_Chrysler_CM_Valiant_GLX_5041518776_.jpg",
+      "file_size_bytes": 180170,
+      "sha256": "033aee6dee0d40c9cc7a60fe60c825360833fb11ccfb5827a897a8e3d4b09ec6"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "GE-GH",
+      "generation_name": "GE / GH Chrysler Sigma & Sigma Turbo",
+      "years": {
+        "start": 1977,
+        "end": 1982
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Mitsubishi Galant / Chrysler Australia unibody",
+      "ancap_rating": null,
+      "summary": "First Australian Sigma series. Astron Silent Shaft engine with balance shafts, 4-wheel coil suspension, four-wheel disc brakes on SE, and the historic 1981 GH Sigma Turbo.",
+      "engines": [
+        {
+          "engine_code": "Astron-2.0L-SilentShaft",
+          "name": "Chrysler / Mitsubishi Astron 2.0L OHC Inline-4",
+          "displacement_cc": 1995,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 70.0,
+          "power_rpm": "5400",
+          "torque_nm": 152.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8V Silent Shaft",
+          "notes": "Patented twin counter-rotating balance shafts for six-cylinder smoothness."
+        },
+        {
+          "engine_code": "Astron-2.6L-SilentShaft",
+          "name": "Chrysler / Mitsubishi Astron 2.6L OHC Inline-4",
+          "displacement_cc": 2555,
+          "displacement_litres": 2.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 76.0,
+          "power_rpm": "4800",
+          "torque_nm": 192.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "8.2:1",
+          "valvetrain": "SOHC 8V Silent Shaft",
+          "notes": "World's largest four-cylinder passenger car engine at the time; manufactured at Lonsdale, SA."
+        },
+        {
+          "engine_code": "Astron-2.0L-Turbo-GH",
+          "name": "Mitsubishi Astron 2.0L Turbocharged OHC Inline-4",
+          "displacement_cc": 1995,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 116.0,
+          "power_rpm": "5400",
+          "torque_nm": 235.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "7.6:1",
+          "valvetrain": "SOHC 8V Silent Shaft",
+          "notes": "Garrett AiResearch T03 turbocharger, sodium-filled exhaust valves; Australia's first locally built turbo car."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sigma SE 2.6",
+          "years": {
+            "start": 1980,
+            "end": 1982
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic Borg-Warner 45"
+          ],
+          "msrp_aud_min": 7890,
+          "msrp_aud_max": 8990,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1140,
+          "standard_features": [
+            "2.6L Astron Silent Shaft engine standard",
+            "Four-wheel power disc brakes",
+            "Velour upholstery and cut-pile carpeting",
+            "Overhead console with map reading lamps",
+            "Cast alloy wheels and tinted glass"
+          ],
+          "notes": "Top-tier luxury family saloon."
+        },
+        {
+          "badge_name": "Sigma Turbo (GH)",
+          "years": {
+            "start": 1981,
+            "end": 1981
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual heavy duty"
+          ],
+          "msrp_aud_min": 11990,
+          "msrp_aud_max": 12500,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "116 kW (156 hp) 2.0L Garrett Turbo engine",
+            "Four-wheel disc brakes and sports suspension",
+            "Distinctive front air dam, rear spoiler, and 'TURBO' side graphics",
+            "15-inch alloy wheels and Pirelli Cinturato P6 tyres",
+            "Sports dashboard with turbo boost pressure gauge"
+          ],
+          "notes": "Australia's first factory turbo production car; strictly 500 built."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sigma SE 2.6",
+          "body_style": "Sedan",
+          "engine_code": "Astron-2.6L-SilentShaft",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "msrp_aud": 7890,
+          "power_kw": 76.0,
+          "torque_nm": 192.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1200,
+          "notes": "2.6L Astron 5-speed luxury family sedan."
+        },
+        {
+          "badge_name": "Sigma Turbo (GH)",
+          "body_style": "Sedan",
+          "engine_code": "Astron-2.0L-Turbo-GH",
+          "transmission": "5-speed manual heavy duty",
+          "drivetrain": "RWD",
+          "msrp_aud": 11990,
+          "power_kw": 116.0,
+          "torque_nm": 235.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1100,
+          "notes": "Historic Australian factory turbocharged road car."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "GJ-GK-GN",
+      "generation_name": "GJ / GK / GN Mitsubishi Sigma",
+      "years": {
+        "start": 1982,
+        "end": 1987
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Mitsubishi Sigma Australian unibody",
+      "ancap_rating": null,
+      "summary": "Crisp squared Australian restyle by Mitsubishi Motors Australia Ltd (MMAL). Introduction of the handling-tuned Peter Wherrett Special and luxurious Super Saloon.",
+      "engines": [
+        {
+          "engine_code": "Astron-II-2.6L",
+          "name": "Mitsubishi Astron II 2.6L OHC Inline-4",
+          "displacement_cc": 2555,
+          "displacement_litres": 2.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 76.0,
+          "power_rpm": "4800",
+          "torque_nm": 192.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8V Silent Shaft",
+          "notes": "Astron II cylinder head with hydraulic lash adjusters and MCA-Jet valve."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Peter Wherrett Special (GJ)",
+          "years": {
+            "start": 1982,
+            "end": 1983
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 10500,
+          "msrp_aud_max": 10990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1150,
+          "standard_features": [
+            "Suspension tuned by ABC motoring journalist Peter Wherrett",
+            "Recaro high-bolster front bucket seats",
+            "Momo leather sports steering wheel and gear knob",
+            "15-inch Globe alloy wheels and high-performance tyres",
+            "Distinctive two-tone silver paint and front/rear spoilers"
+          ],
+          "notes": "Celebrated Australian journalist-tuned sports special; 1000 built."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Peter Wherrett Special (GJ)",
+          "body_style": "Sedan",
+          "engine_code": "Astron-II-2.6L",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "msrp_aud": 10500,
+          "power_kw": 76.0,
+          "torque_nm": 192.0,
+          "fuel_l_100km": 10.4,
+          "towing_braked_kg": 1200,
+          "notes": "Peter Wherrett suspension tuned sports sedan."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "make_slug": "honda",
+  "model_slug": "civic",
+  "name": "Civic & Civic Type R",
+  "vehicle_type": "Hatchback / Sedan",
+  "segment": "Small Car / Hot Hatch",
+  "years_sold_au": {
+    "start": 1973,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Honda Civic is an undisputed benchmark of global and Australian automotive engineering. Spanning eleven generations over more than 50 years, the Civic conquered Australian hearts during the 1970s oil crisis with its revolutionary CVCC clean-burn engine, democratized Formula 1-derived VTEC variable valve timing in the 1990s VTi-R, and evolved into front-wheel-drive circuit royalty with the ferocious Civic Type R.",
+  "australian_market_notes": "First sold in Australia in 1973, the first-generation Civic was praised for revolutionary space packaging and front-wheel drive agility. In the 1990s, the EG and EK Civic became tuner royalty with double-wishbone suspension and the screaming 8,200rpm B16A2 VTi-R. In modern times, the British-built FN2, FK8, and Japanese-built FL5 Civic Type R have repeatedly set front-wheel drive lap records at Mount Panorama Bathurst and the Nürburgring Nordschleife.",
+  "manuals": [
+    {
+      "title": "Honda Civic & Civic Type R Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1973,
+      "language": "en",
+      "source_url": "local://catalog/makes/honda/models/civic/model.json",
+      "local_path": "media/manuals/honda/civic/honda_civic_au_technical_manual.pdf",
+      "file_size_bytes": 10101,
+      "sha256": "75a85147ca1c6c8b1cda6cb01d163aa03b59401c7123e8111c007be4152a82ef",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Saturday action and podium presentation at Rally Victoria.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Rally_Victoria-_Saturday_%285180067172%29.jpg/1280px-Rally_Victoria-_Saturday_%285180067172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Tom Reynolds from Melbourne, Australia)",
+      "local_path": "media/pictures/honda/civic/honda_civic_hero_1_Rally_Victoria-_Saturday_5180067172_.jpg",
+      "file_size_bytes": 215109,
+      "sha256": "a02488cf77042ef411f0b903ac71816da9b6d8aad880991defefc3f0ce054e3a"
+    },
+    {
+      "category": "exterior",
+      "caption": "Belem, Lisbon, Portugal\nin Wikipedia\nThe Triumph Motor Company was a British car and motor manufacturing company. The Triumph marque (trade-name) is owned currently by BMW. The marque had its origins in 1885 when Siegfried Bettmann (1863–19",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Triumph_Herald_1200_cabriolet_%288477649603%29.jpg/1280px-Triumph_Herald_1200_cabriolet_%288477649603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Pedro Ribeiro Simões from Lisboa, Portugal)",
+      "local_path": "media/pictures/honda/civic/honda_civic_hero_2_Triumph_Herald_1200_cabriolet_8477649603_.jpg",
+      "file_size_bytes": 486457,
+      "sha256": "07a3e5876833b5f37ec883b55f21da31eb34eebe36f9bfc0befa6d05670c9e93"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "1st & 2nd Gen",
+      "generation_name": "Civic 1st & 2nd Generation",
+      "years": {
+        "start": 1973,
+        "end": 1983
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "4-door Sedan",
+        "5-door Station Wagon"
+      ],
+      "platform": "Honda SB1/SL",
+      "ancap_rating": "Untested",
+      "summary": "1970s economy champion that established Honda as an automotive power in Australia. Introduced CVCC (Compound Vortex Controlled Combustion) clean-burn engine meeting strict emissions without a catalytic converter.",
+      "engines": [
+        {
+          "engine_code": "EB1",
+          "name": "Honda EB1 1.2L OHC",
+          "displacement_cc": 1169,
+          "displacement_litres": 1.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 37.0,
+          "power_rpm": "5500",
+          "torque_nm": 79.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.6:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Lightweight alloy cylinder head transverse engine."
+        },
+        {
+          "engine_code": "ED1-CVCC",
+          "name": "Honda ED1 1.5L CVCC",
+          "displacement_cc": 1488,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 46.0,
+          "power_rpm": "5500",
+          "torque_nm": 95.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "8.1:1",
+          "valvetrain": "SOHC 12-valve CVCC",
+          "notes": "Pioneering pre-chamber stratified charge combustion."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Civic Hatch / Sedan / Wagon",
+          "years": {
+            "start": 1973,
+            "end": 1983
+          },
+          "body_styles": [
+            "Hatch",
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual",
+            "2-speed Hondamatic"
+          ],
+          "msrp_aud_min": 2199,
+          "msrp_aud_max": 5490,
+          "fuel_consumption_l_100km": 6.8,
+          "kerb_weight_kg": 680,
+          "standard_features": [
+            "Four-wheel independent MacPherson strut suspension",
+            "Front disc brakes",
+            "Transverse front-wheel drive",
+            "Reclining vinyl bucket seats"
+          ],
+          "notes": "Revolutionary light runabout weighing under 700kg."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic 1200 Hatch",
+          "body_style": "3-door Hatch",
+          "engine_code": "EB1",
+          "transmission": "4-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1973,
+          "years_end": 1979,
+          "msrp_aud": 2199,
+          "power_kw": 37.0,
+          "torque_nm": 79.0,
+          "fuel_l_100km": 6.8,
+          "towing_braked_kg": 450,
+          "notes": "The original fuel-crisis game changer."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "3rd & 4th Gen",
+      "generation_name": "Civic 3rd & 4th Generation (ED/EF)",
+      "years": {
+        "start": 1983,
+        "end": 1991
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "4-door Sedan",
+        "Shuttle Wagon",
+        "CRX Coupe"
+      ],
+      "platform": "Honda AH / ED",
+      "ancap_rating": "Untested",
+      "summary": "1984 Wheels Car of the Year (Civic Shuttle/CRX). 4th-gen introduced racecar-like double wishbone suspension at all four corners, flush aero styling, and Twin Cam D16 engines in the Si.",
+      "engines": [
+        {
+          "engine_code": "D16A8",
+          "name": "Honda D16A8 1.6L Twin Cam",
+          "displacement_cc": 1590,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 96.0,
+          "power_rpm": "6800",
+          "torque_nm": 144.0,
+          "torque_rpm": "5700",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve PGM-FI",
+          "notes": "Free-revving twin-cam in Civic Si and CRX."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GL / Breeze / Si",
+          "years": {
+            "start": 1987,
+            "end": 1991
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "4-door Sedan",
+            "Shuttle"
+          ],
+          "drivetrain": "FWD (or Real-Time 4WD on Shuttle)",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 14990,
+          "msrp_aud_max": 24990,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 940,
+          "standard_features": [
+            "Four-wheel double wishbone suspension",
+            "PGM-FI electronic fuel injection",
+            "Low bonnet line",
+            "Sports seats (Si)"
+          ],
+          "notes": "Superb handling chassis."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic Si Hatch Manual",
+          "body_style": "3-door Hatch",
+          "engine_code": "D16A8",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1988,
+          "years_end": 1991,
+          "msrp_aud": 22490,
+          "power_kw": 96.0,
+          "torque_nm": 144.0,
+          "fuel_l_100km": 7.5,
+          "towing_braked_kg": 700,
+          "notes": "96kW twin-cam with four-wheel double wishbones."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "5th Gen (EG)",
+      "generation_name": "Civic 5th Generation (inc. VTi)",
+      "years": {
+        "start": 1991,
+        "end": 1995
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "4-door Sedan"
+      ],
+      "platform": "Honda EG",
+      "ancap_rating": "Untested",
+      "summary": "Timeless curved styling, split two-piece rear tailgate hatch, and the introduction of VTEC variable valve timing in the Civic VTi (1.6L D16Y1 SOHC VTEC 96kW).",
+      "engines": [
+        {
+          "engine_code": "D16Y1",
+          "name": "Honda D16Y1 1.6L SOHC VTEC",
+          "displacement_cc": 1590,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 96.0,
+          "power_rpm": "6600",
+          "torque_nm": 145.0,
+          "torque_rpm": "5200",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "SOHC 16-valve VTEC",
+          "notes": "VTEC cam switch at 4,800rpm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Breeze / GL / GLi",
+          "years": {
+            "start": 1991,
+            "end": 1995
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 16990,
+          "msrp_aud_max": 23990,
+          "fuel_consumption_l_100km": 7.2,
+          "kerb_weight_kg": 985,
+          "standard_features": [
+            "Split tailgate",
+            "Double wishbone suspension",
+            "Power steering",
+            "Air conditioning option"
+          ],
+          "notes": "Cult tuner chassis worldwide."
+        },
+        {
+          "badge_name": "VTi",
+          "years": {
+            "start": 1993,
+            "end": 1995
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 25990,
+          "msrp_aud_max": 28990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1030,
+          "standard_features": [
+            "VTEC engine",
+            "Four-wheel disc brakes",
+            "Rear spoiler",
+            "Alloy wheels",
+            "Power windows and sunroof",
+            "Sports seats"
+          ],
+          "notes": "First VTEC Civic in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic VTi Hatch Manual",
+          "body_style": "3-door Hatch",
+          "engine_code": "D16Y1",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1993,
+          "years_end": 1995,
+          "msrp_aud": 25990,
+          "power_kw": 96.0,
+          "torque_nm": 145.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 800,
+          "notes": "VTEC performance hatch icon."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "6th Gen (EK)",
+      "generation_name": "Civic 6th Generation & VTi-R",
+      "years": {
+        "start": 1995,
+        "end": 2000
+      },
+      "body_styles": [
+        "3-door Hatch",
+        "4-door Sedan",
+        "2-door Coupe"
+      ],
+      "platform": "Honda EK",
+      "ancap_rating": "3 stars",
+      "summary": "Spawned the legendary Civic VTi-R (EK4) with the 118kW 1.6L B16A2 DOHC VTEC screamer revving to 8,200rpm with double-wishbone suspension.",
+      "engines": [
+        {
+          "engine_code": "B16A2",
+          "name": "Honda B16A2 1.6L DOHC VTEC",
+          "displacement_cc": 1595,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 118.0,
+          "power_rpm": "7600",
+          "torque_nm": 148.0,
+          "torque_rpm": "7000",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 16-valve VTEC",
+          "notes": "Producing nearly 100hp per litre naturally aspirated; 8,200rpm redline, VTEC cam switch at 5,700rpm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CXi / GLi",
+          "years": {
+            "start": 1995,
+            "end": 2000
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 25990,
+          "fuel_consumption_l_100km": 7.1,
+          "kerb_weight_kg": 1040,
+          "standard_features": [
+            "Double wishbone suspension",
+            "Dual airbags",
+            "Power steering",
+            "Air conditioning"
+          ],
+          "notes": "Mainstay Australian small car."
+        },
+        {
+          "badge_name": "VTi-R (EK4)",
+          "years": {
+            "start": 1996,
+            "end": 2000
+          },
+          "body_styles": [
+            "3-door Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed close-ratio manual"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 34990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1090,
+          "standard_features": [
+            "118kW B16A2 DOHC VTEC engine",
+            "15-inch alloy wheels",
+            "Four-wheel disc brakes with ABS",
+            "Front strut tower brace",
+            "Electric sunroof",
+            "Sports cloth seats with patterned inserts",
+            "Rear spoiler"
+          ],
+          "notes": "0-100 km/h in 7.8s; screaming 8,200rpm hot hatch legend."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic VTi-R EK4 Manual",
+          "body_style": "3-door Hatch",
+          "engine_code": "B16A2",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1996,
+          "years_end": 2000,
+          "msrp_aud": 32990,
+          "power_kw": 118.0,
+          "torque_nm": 148.0,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 800,
+          "notes": "High-revving 8,200rpm VTEC performance icon."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "7th & 8th Gen (EU/FD/FN)",
+      "generation_name": "Civic 7th & 8th Gen (inc. FN2 Type R)",
+      "years": {
+        "start": 2000,
+        "end": 2011
+      },
+      "body_styles": [
+        "5-door Hatch",
+        "4-door Sedan",
+        "3-door Type R Hatch"
+      ],
+      "platform": "Honda Global Small / European Architecture",
+      "ancap_rating": "5 stars (FN2 / FD facelift)",
+      "summary": "8th-gen FD introduced space-age dual-tier digital instrumentation, while the UK-built FN2 Civic Type R introduced Australia to the 148kW 2.0L K20Z4 i-VTEC engine.",
+      "engines": [
+        {
+          "engine_code": "K20Z4",
+          "name": "Honda K20Z4 2.0L DOHC i-VTEC (Type R)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 148.0,
+          "power_rpm": "7800",
+          "torque_nm": 193.0,
+          "torque_rpm": "5600",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "DOHC 16-valve i-VTEC",
+          "notes": "8,000rpm redline, magnesium valve cover, balance shafts removed for rapid rev response."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FN2 Civic Type R",
+          "years": {
+            "start": 2007,
+            "end": 2011
+          },
+          "body_styles": [
+            "3-door Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed close-ratio manual"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1345,
+          "standard_features": [
+            "148kW i-VTEC engine",
+            "Alcantara red/black Recaro sports bucket seats",
+            "18-inch alloy wheels",
+            "Dual-zone digital cockpit",
+            "Aluminium gear knob",
+            "Drilled pedals"
+          ],
+          "notes": "First officially sold Civic Type R in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic Type R FN2",
+          "body_style": "3-door Hatch",
+          "engine_code": "K20Z4",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2007,
+          "years_end": 2011,
+          "msrp_aud": 39990,
+          "power_kw": 148.0,
+          "torque_nm": 193.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 0,
+          "notes": "0-100 km/h in 6.6 seconds with 8,000rpm redline."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "9th & 10th Gen (FK8)",
+      "generation_name": "Civic 9th & 10th Gen (inc. FK8 Type R)",
+      "years": {
+        "start": 2012,
+        "end": "2021"
+      },
+      "body_styles": [
+        "5-door Hatch",
+        "4-door Sedan"
+      ],
+      "platform": "Honda Global Compact Platform",
+      "ancap_rating": "5 stars",
+      "summary": "10th-gen introduced standard multi-link rear suspension and the record-breaking FK8 Civic Type R: 2.0L VTEC Turbo (228kW/400Nm), dual-axis strut suspension, Brembo brakes, and rev-matching manual.",
+      "engines": [
+        {
+          "engine_code": "K20C1",
+          "name": "Honda K20C1 2.0L VTEC Turbo",
+          "displacement_cc": 1996,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Mono-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 228.0,
+          "power_rpm": "6500",
+          "torque_nm": 400.0,
+          "torque_rpm": "2500-4500",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "DOHC 16-valve VTEC",
+          "notes": "Direct-injected turbo producing 228kW and 400Nm of torque."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FK8 Civic Type R",
+          "years": {
+            "start": 2017,
+            "end": "2021"
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD with Helical LSD",
+          "transmissions": [
+            "6-speed manual with rev-matching"
+          ],
+          "msrp_aud_min": 50990,
+          "msrp_aud_max": 54990,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 1393,
+          "standard_features": [
+            "228kW turbo engine",
+            "Dual-Axis strut front suspension eliminating torque steer",
+            "Adaptive damper system (Comfort/Sport/+R)",
+            "Brembo 4-piston 350mm front brakes",
+            "20-inch alloy wheels with Continental SportContact 6 tyres",
+            "Triple exhaust outlets",
+            "Vortex generators & rear wing"
+          ],
+          "notes": "Set production front-wheel-drive lap records at Mount Panorama Bathurst and Nürburgring."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic Type R FK8",
+          "body_style": "5-door Hatch",
+          "engine_code": "K20C1",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2017,
+          "years_end": 2021,
+          "msrp_aud": 50990,
+          "power_kw": 228.0,
+          "torque_nm": 400.0,
+          "fuel_l_100km": 8.8,
+          "towing_braked_kg": 0,
+          "notes": "228kW track-destroying hot hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "11th Gen (FL5)",
+      "generation_name": "Civic 11th Gen & FL5 Type R",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door Hatch"
+      ],
+      "platform": "Honda Architecture (HA)",
+      "ancap_rating": "5 stars (Standard Civic)",
+      "summary": "Sophisticated minimalist styling, standard e:HEV hybrid delivering 4.2L/100km, and the pinnacle FL5 Civic Type R delivering 235kW/420Nm with integrated LogR telemetry and widebody arches.",
+      "engines": [
+        {
+          "engine_code": "K20C1-FL5",
+          "name": "Honda K20C1 2.0L VTEC Turbo (FL5)",
+          "displacement_cc": 1996,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Mono-Scroll Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 235.0,
+          "power_rpm": "6500",
+          "torque_nm": 420.0,
+          "torque_rpm": "2600-4000",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "DOHC 16-valve VTEC",
+          "notes": "Redesigned turbocharger turbine wheel and housing producing 235kW and 420Nm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "e:HEV LX",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "e-CVT electric drive"
+          ],
+          "msrp_aud_min": 55000,
+          "msrp_aud_max": 55000,
+          "fuel_consumption_l_100km": 4.2,
+          "kerb_weight_kg": 1475,
+          "standard_features": [
+            "2.0L Atkinson hybrid with 135kW/315Nm",
+            "10.2-inch digital cluster",
+            "9-inch touchscreen",
+            "Bose 12-speaker audio",
+            "Honda SENSING suite"
+          ],
+          "notes": "4.2L/100km combined economy."
+        },
+        {
+          "badge_name": "FL5 Civic Type R",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD with Helical LSD",
+          "transmissions": [
+            "6-speed close-ratio manual with rev-match"
+          ],
+          "msrp_aud_min": 72600,
+          "msrp_aud_max": 72600,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1429,
+          "standard_features": [
+            "235kW/420Nm turbo engine",
+            "Integrated widebody fenders stamped from factory",
+            "19-inch reverse-rim lightweight alloys with Michelin Pilot Sport 4S tyres",
+            "Die-cast aluminium rear spoiler stanchions",
+            "Red Alcantara bucket seats and red carpeting",
+            "Honda LogR real-time track telemetry app"
+          ],
+          "notes": "Suzuka and Nürburgring FWD record holder; sold out in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Civic Type R FL5",
+          "body_style": "5-door Hatch",
+          "engine_code": "K20C1-FL5",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 72600,
+          "power_kw": 235.0,
+          "torque_nm": 420.0,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 0,
+          "notes": "235kW / 420Nm benchmark front-drive track car; 0-100 km/h in 5.4 seconds."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

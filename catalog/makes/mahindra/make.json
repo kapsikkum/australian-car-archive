@@ -1,0 +1,80 @@
+{
+  "make_slug": "mahindra",
+  "name": "Mahindra",
+  "country_of_origin": "India",
+  "years_active_au": {
+    "start": 2007,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Indian 4x4 powerhouse renowned in regional Australia for the indestructible Pik-Up commercial ute, rugged Scorpio 4WD, and 7-seat XUV700 family SUV.",
+  "australian_history": "Mahindra Automotive entered Australia in 2007 with the rugged Pik-Up commercial utility, establishing direct factory operations with Mahindra Automotive Australia in Brisbane. The Pik-Up, featuring an Eaton automatic locking rear differential and tough ladder chassis, became a staple of Australian farming, agriculture, and mining communities. Mahindra steadily modernized its passenger range with the monocoque XUV500, the luxurious 7-seat XUV700, and the Scorpio ladder-frame off-road 4WD, building a loyal rural dealer network.",
+  "models_catalog": [
+    {
+      "model_slug": "pik-up",
+      "name": "Pik-Up",
+      "vehicle_type": "Ute / Cab-Chassis",
+      "segment": "Mid-size Commercial Ute",
+      "years_sold_au": {
+        "start": 2007,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Uncompromising workhorse loved across rural Australia, featuring 2.2L mHawk turbo diesel and standard Eaton MLocker rear differential.",
+      "generations": [
+        {
+          "series_code": "Pik-Up-Classic-Modern",
+          "generation_name": "Mahindra Pik-Up",
+          "years": {
+            "start": 2007,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single-cab cab-chassis",
+            "Dual-cab ute"
+          ],
+          "summary": "2.2L mHawk CRDe Turbo Diesel (103kW/320Nm), 6-speed manual/automatic, 4x4 with low range and steel tray options."
+        }
+      ]
+    },
+    {
+      "model_slug": "scorpio-xuv700",
+      "name": "Scorpio / XUV700",
+      "vehicle_type": "SUV",
+      "segment": "Medium / Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Mahindra's modern generation: the body-on-frame Scorpio 4x4 and sophisticated 7-seat XUV700 family SUV.",
+      "generations": [
+        {
+          "series_code": "Scorpio-N",
+          "generation_name": "Scorpio",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 4WD SUV"
+          ],
+          "summary": "2.2L mHawk diesel (129kW/400Nm), 4XPLOR terrain response, 6-speed auto, and 6-seat captain's chairs."
+        },
+        {
+          "series_code": "XUV700",
+          "generation_name": "XUV700",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 7-seat SUV"
+          ],
+          "summary": "2.0L mStallion Turbo Petrol (149kW/380Nm), dual 10.25-inch screens, Level 2 ADAS, and Sony 12-speaker sound."
+        }
+      ]
+    }
+  ]
+}

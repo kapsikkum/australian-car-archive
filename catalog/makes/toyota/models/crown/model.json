@@ -1,0 +1,565 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "crown",
+  "name": "Crown",
+  "vehicle_type": "Luxury Sedan / Station Wagon",
+  "segment": "Upper Large / Luxury",
+  "years_sold_au": {
+    "start": 1964,
+    "end": 1988
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Port Melbourne, Victoria (Australian Motor Industries / AMI)"
+  ],
+  "overview": "The Toyota Crown established Toyota's reputation for engineering refinement and reliability in Australia. Built locally from CKD packs by Australian Motor Industries (AMI) in Port Melbourne from 1967 to 1979, the Crown offered six-cylinder prestige, luxurious appointments, and long-legged durability across five distinct Australian generations.",
+  "australian_market_notes": "First imported in 1964, local assembly at AMI's Port Melbourne plant began with the MS55 third generation in 1967. The locally built MS55, MS65 'Whale', and MS85 series became trusted executive transport, luxury hire cars, and government fleet favorites. Following the cessation of local assembly in 1979, the MS112 and MS123 Royal Saloons were imported fully built from Japan until 1988, introducing Australian buyers to cutting-edge electronic luxury including TEMS suspension and digital instrumentation.",
+  "manuals": [
+    {
+      "title": "Toyota Crown Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1964,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/crown/model.json",
+      "local_path": "media/manuals/toyota/crown/toyota_crown_au_technical_manual.pdf",
+      "file_size_bytes": 7245,
+      "sha256": "264ae859cd2cf3b5df1e942461aeaaa231a5c158a96980f9150fa71582092576",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1982 Toyota Crown MS 112 Patrol Car Brochure. Japan, 10 1981",
+      "year": null,
+      "source_url": "https://archive.org/details/1982-toyota-crown-ms-112-patrol-car-brochure.-japan-10-1981",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/crown/toyota_crown_manual_1982_Toyota_Crown_MS_112_Patrol_Car_Brochure._Japan_10_1981.html",
+      "file_size_bytes": 231621,
+      "sha256": "6a731e87d70c1e62099f6fdbed81187d4409a0c1240be298223ad129836c9dcf"
+    },
+    {
+      "title": "toyota crown repair manual",
+      "year": 1986,
+      "source_url": "https://archive.org/details/toyotacrownrepai0000varo",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/crown/toyota_crown_manual_toyota_crown_repair_manual.html",
+      "file_size_bytes": 208039,
+      "sha256": "328c4917e81681824afadef0c88a0fc94552f5f7375bb201d3bbc81bed4e7a34"
+    },
+    {
+      "title": "Toyota Crown Majesta Electrical Wiring Diagram ( 6750902)",
+      "year": null,
+      "source_url": "https://archive.org/details/2026-05-22-toyota-crown-majesta-electrical-wiring-diagram-6750902",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/crown/toyota_crown_manual_Toyota_Crown_Majesta_Electrical_Wiring_Diagram_6750902.html",
+      "file_size_bytes": 232927,
+      "sha256": "236ea588cb332179a3e277a27677f2343fd41dd2e5098ad03ff9de4a68c82dd3"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Toyota Crown was first introduced in 1955 as Toyota's larger saloon.\nThe first model was the 1955-62 S30 1453cc 4 cyl updated to 1897cc in 1960, available in 4 door sedan and wagon\nThe next model was the 1962-67 S40, dramatically restyl",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1973_Toyota_Crown_S60_Saloon_%2845687838172%29.jpg/1280px-1973_Toyota_Crown_S60_Saloon_%2845687838172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/toyota/crown/toyota_crown_hero_1_1973_Toyota_Crown_S60_Saloon_45687838172_.jpg",
+      "file_size_bytes": 415946,
+      "sha256": "d76d2073c62a1525063b48ae82c29e268c8bab5a0a21100975a86fdfe90d2236"
+    },
+    {
+      "category": "exterior",
+      "caption": "1986 Toyota Crown with 5M engine. These were assembled in Australia, at Port Melbourne.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Toyota_Crown_%28S120%29_%288201550123%29.jpg/1280px-Toyota_Crown_%28S120%29_%288201550123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/toyota/crown/toyota_crown_hero_2_Toyota_Crown_S120_8201550123_.jpg",
+      "file_size_bytes": 226920,
+      "sha256": "d281fd88799a11805f122869d31e1ae12d99ec84539ad93354c87ed5740f9c34"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "S50",
+      "generation_name": "Crown 3rd Generation (MS55)",
+      "years": {
+        "start": 1967,
+        "end": 1971
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Station Wagon"
+      ],
+      "platform": "Toyota S50",
+      "ancap_rating": "Untested",
+      "summary": "First locally assembled Toyota Crown built by AMI at Port Melbourne. Powered by the smooth 2.3L M-series inline-six with perimeter frame chassis.",
+      "engines": [
+        {
+          "engine_code": "2M",
+          "name": "Toyota 2M 2.3L SOHC Inline-6",
+          "displacement_cc": 2253,
+          "displacement_litres": 2.3,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 82.0,
+          "power_rpm": "5200",
+          "torque_nm": 175.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Cast iron block with aluminium cylinder head."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Deluxe Sedan",
+          "years": {
+            "start": 1967,
+            "end": 1971
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed Toyoglide automatic"
+          ],
+          "msrp_aud_min": 3690,
+          "msrp_aud_max": 4190,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 1310,
+          "standard_features": [
+            "Deep pile carpeting",
+            "Padded dashboard",
+            "Reclining front bench or bucket seats",
+            "Heater/demister",
+            "Push-button radio"
+          ],
+          "notes": "AMI Port Melbourne assembled."
+        },
+        {
+          "badge_name": "Station Wagon",
+          "years": {
+            "start": 1968,
+            "end": 1971
+          },
+          "body_styles": [
+            "5-door Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed Toyoglide automatic"
+          ],
+          "msrp_aud_min": 3950,
+          "msrp_aud_max": 4350,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1360,
+          "standard_features": [
+            "Power tailgate window",
+            "Fold-flat cargo floor",
+            "Heavy-duty rear suspension",
+            "Luggage rack"
+          ],
+          "notes": "Prestigious family and commercial wagon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Crown Deluxe Sedan",
+          "body_style": "4-door Sedan",
+          "engine_code": "2M",
+          "transmission": "3-speed Toyoglide automatic",
+          "drivetrain": "RWD",
+          "years_start": 1967,
+          "years_end": 1971,
+          "msrp_aud": 4190,
+          "power_kw": 82.0,
+          "torque_nm": 175.0,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 1200,
+          "notes": "Pioneering Japanese luxury sedan assembled in Melbourne."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S50",
+          "category": "exterior",
+          "caption": "1970 Toyota Crown S50 Coupé.Event: Tjolöholm Classic Motor 2012.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Toyota_Crown_S50_Coupe.jpg/1280px-Toyota_Crown_S50_Coupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Herranderssvensson)",
+          "local_path": "media/pictures/toyota/crown/toyota_crown_S50_1_Toyota_Crown_S50_Coupe.jpg",
+          "file_size_bytes": 290682,
+          "sha256": "7374ddde78cc50f4287cee0029dd9583f305f7d6c514ecc9fab71367f538805f"
+        }
+      ]
+    },
+    {
+      "series_code": "S60/S70",
+      "generation_name": "Crown 4th Generation 'Whale' (MS65)",
+      "years": {
+        "start": 1971,
+        "end": 1974
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Station Wagon"
+      ],
+      "platform": "Toyota S60/S70",
+      "ancap_rating": "Untested",
+      "summary": "Distinctive stepped-hood 'spindle shape' styling earning the Australian nickname 'The Whale'. Upgraded to 2.6L 4M six-cylinder engine, assembled by AMI Port Melbourne.",
+      "engines": [
+        {
+          "engine_code": "4M",
+          "name": "Toyota 4M 2.6L SOHC Inline-6",
+          "displacement_cc": 2563,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 104.0,
+          "power_rpm": "5400",
+          "torque_nm": 196.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Substantial torque increase over the 2M."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SE / Super Saloon",
+          "years": {
+            "start": 1971,
+            "end": 1974
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 4790,
+          "msrp_aud_max": 5490,
+          "fuel_consumption_l_100km": 13.0,
+          "kerb_weight_kg": 1380,
+          "standard_features": [
+            "Power steering",
+            "Air conditioning option",
+            "Separate bucket seats",
+            "Electrically heated rear glass"
+          ],
+          "notes": "AMI Port Melbourne assembly."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Crown SE 2600 Sedan",
+          "body_style": "4-door Sedan",
+          "engine_code": "4M",
+          "transmission": "3-speed automatic",
+          "drivetrain": "RWD",
+          "years_start": 1971,
+          "years_end": 1974,
+          "msrp_aud": 5190,
+          "power_kw": 104.0,
+          "torque_nm": 196.0,
+          "fuel_l_100km": 13.0,
+          "towing_braked_kg": 1300,
+          "notes": "Cult 1970s Australian executive cruiser."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S60/S70",
+          "category": "exterior",
+          "caption": "Tail view of a Toyota Crown S60",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toyota_Crown_S60_tail_view.jpg/1280px-Toyota_Crown_S60_tail_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Ypsilon from Finland)",
+          "local_path": "media/pictures/toyota/crown/toyota_crown_S60_S70_1_Toyota_Crown_S60_tail_view.jpg",
+          "file_size_bytes": 407984,
+          "sha256": "fbc6435d8807e5804f929336b4ff3ab59c91dec204e0dbb107fec2b781dc00ab"
+        }
+      ]
+    },
+    {
+      "series_code": "S80/S100",
+      "generation_name": "Crown 5th Generation (MS85)",
+      "years": {
+        "start": 1974,
+        "end": 1979
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Station Wagon"
+      ],
+      "platform": "Toyota S80/S100",
+      "ancap_rating": "Untested",
+      "summary": "Return to formal, conservative three-box sedan styling. Final generation assembled in Port Melbourne by AMI until Australian tariff and local content rules phased it out in 1979.",
+      "engines": [
+        {
+          "engine_code": "4M-ADR",
+          "name": "Toyota 4M 2.6L SOHC Inline-6 (ADR27A)",
+          "displacement_cc": 2563,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 82.0,
+          "power_rpm": "5000",
+          "torque_nm": 181.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Retuned to comply with Australian Design Rule 27A emissions standards."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Super Saloon",
+          "years": {
+            "start": 1974,
+            "end": 1979
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 6890,
+          "msrp_aud_max": 9950,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1420,
+          "standard_features": [
+            "Four-wheel disc brakes",
+            "Power windows",
+            "Power steering",
+            "Velour upholstery",
+            "Tinted glass"
+          ],
+          "notes": "Final Australian assembled Crown."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Crown Super Saloon",
+          "body_style": "4-door Sedan",
+          "engine_code": "4M-ADR",
+          "transmission": "3-speed automatic",
+          "drivetrain": "RWD",
+          "years_start": 1974,
+          "years_end": 1979,
+          "msrp_aud": 8950,
+          "power_kw": 82.0,
+          "torque_nm": 181.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1300,
+          "notes": "Last Crown built at AMI Port Melbourne plant."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S80/S100",
+          "category": "exterior",
+          "caption": "1979 Toyota Crown Hardtop Super Saloon",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/1979_Toyota_Crown_Hardtop_Super_Saloon.jpg/1280px-1979_Toyota_Crown_Hardtop_Super_Saloon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (TTTNIS)",
+          "local_path": "media/pictures/toyota/crown/toyota_crown_S80_S100_1_1979_Toyota_Crown_Hardtop_Super_Saloon.jpg",
+          "file_size_bytes": 195326,
+          "sha256": "72d04c63ff1a00470f87bc20d3b5ad67ab820cf3f9576c6513c6de0714ebf8a7"
+        }
+      ]
+    },
+    {
+      "series_code": "S110",
+      "generation_name": "Crown 6th Generation (MS112)",
+      "years": {
+        "start": 1979,
+        "end": 1983
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Toyota S110",
+      "ancap_rating": "Untested",
+      "summary": "Imported fully built from Japan. Introduced electronic fuel injection (5M-E 2.8L), 4-wheel independent rear suspension, and 4-speed overdrive automatic.",
+      "engines": [
+        {
+          "engine_code": "5M-E",
+          "name": "Toyota 5M-E 2.8L EFI SOHC Inline-6",
+          "displacement_cc": 2759,
+          "displacement_litres": 2.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 107.0,
+          "power_rpm": "5200",
+          "torque_nm": 222.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "SOHC 12-valve EFI",
+          "notes": "Bosch L-Jetronic fuel injection delivering effortless highway cruising."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Royal Saloon",
+          "years": {
+            "start": 1979,
+            "end": 1983
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed automatic with overdrive"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 23500,
+          "fuel_consumption_l_100km": 11.9,
+          "kerb_weight_kg": 1490,
+          "standard_features": [
+            "Dual-zone climate control with rear air controls",
+            "Power front and rear seats",
+            "Cruise control",
+            "Alloy wheels"
+          ],
+          "notes": "Fully imported Japanese luxury flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Crown Royal Saloon 2.8i",
+          "body_style": "4-door Sedan",
+          "engine_code": "5M-E",
+          "transmission": "4-speed automatic with overdrive",
+          "drivetrain": "RWD",
+          "years_start": 1979,
+          "years_end": 1983,
+          "msrp_aud": 21500,
+          "power_kw": 107.0,
+          "torque_nm": 222.0,
+          "fuel_l_100km": 11.9,
+          "towing_braked_kg": 1400,
+          "notes": "Flagship Japanese luxury cruiser in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S110",
+          "category": "exterior",
+          "caption": "Toyota Crown (S110) in Sungai Liang, Brunei 2023",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Toyota_Crown_%28S110%29_Brunei_2023.jpg/1280px-Toyota_Crown_%28S110%29_Brunei_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Pangalau)",
+          "local_path": "media/pictures/toyota/crown/toyota_crown_S110_1_Toyota_Crown_S110_Brunei_2023.jpg",
+          "file_size_bytes": 364249,
+          "sha256": "a350ba6ab4a0710d82972bc5281ece790c60c0171b7c46dcf2caa2d95359d0cf"
+        }
+      ]
+    },
+    {
+      "series_code": "S120",
+      "generation_name": "Crown 7th Generation (MS123)",
+      "years": {
+        "start": 1983,
+        "end": 1988
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Toyota S120",
+      "ancap_rating": "Untested",
+      "summary": "The final official Australian-market Crown generation. Featured the Twin Cam 24 5M-GE engine, digital instruments, and TEMS electronically modulated suspension.",
+      "engines": [
+        {
+          "engine_code": "5M-GE",
+          "name": "Toyota 5M-GE 2.8L DOHC 24V Inline-6",
+          "displacement_cc": 2759,
+          "displacement_litres": 2.8,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "5600",
+          "torque_nm": 226.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "DOHC 24-valve EFI",
+          "notes": "Twin-cam performance shared with MA61 Celica Supra."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Royal Saloon Twin Cam",
+          "years": {
+            "start": 1983,
+            "end": 1988
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed electronic automatic"
+          ],
+          "msrp_aud_min": 28990,
+          "msrp_aud_max": 38500,
+          "fuel_consumption_l_100km": 11.6,
+          "kerb_weight_kg": 1520,
+          "standard_features": [
+            "TEMS electronic suspension damping",
+            "Digital instrument cluster",
+            "Rear seat audio and AC controls",
+            "Electric moonroof"
+          ],
+          "notes": "Final Crown generation officially marketed through Toyota Australia dealer network."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Crown Royal Saloon Twin Cam",
+          "body_style": "4-door Sedan",
+          "engine_code": "5M-GE",
+          "transmission": "4-speed electronic automatic",
+          "drivetrain": "RWD",
+          "years_start": 1983,
+          "years_end": 1988,
+          "msrp_aud": 34990,
+          "power_kw": 125.0,
+          "torque_nm": 226.0,
+          "fuel_l_100km": 11.6,
+          "towing_braked_kg": 1500,
+          "notes": "Ultimate evolution of official Australian-delivered Crown."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "S120",
+          "category": "exterior",
+          "caption": "Toyota Crown en parkumejo. Tjumeno, Rusio.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Toyota_Crown_%28S120%29_en_Tjumeno.jpg/1280px-Toyota_Crown_%28S120%29_en_Tjumeno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (RG72)",
+          "local_path": "media/pictures/toyota/crown/toyota_crown_S120_1_Toyota_Crown_S120_en_Tjumeno.jpg",
+          "file_size_bytes": 393403,
+          "sha256": "0f6b6a71b2f8ef69bc338ce6730a562f55b781ad731f1f3c849062e7939a995d"
+        }
+      ]
+    }
+  ]
+}

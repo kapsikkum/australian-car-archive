@@ -1,0 +1,545 @@
+{
+  "make_slug": "volkswagen",
+  "name": "Volkswagen",
+  "country_of_origin": "Germany",
+  "years_active_au": {
+    "start": 1953,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Volkswagen has been a core pillar of Australian motoring for over seven decades, progressing from local CKD assembly of the Beetle and Kombi at Clayton, Victoria to an expansive European passenger and commercial vehicle line-up.",
+  "australian_history": "Volkswagen entered the Australian market in 1953 when the first 100 CKD Type 1 Beetles were imported and assembled by Regent Motors and Martin & King in Melbourne. In 1954, Volkswagen (Australasia) Pty Ltd was established, acquiring the former Martin & King factory at Clayton, Victoria. The plant expanded rapidly into full manufacturing with local sheet-metal pressings, engine machining, and paint facilities, reaching over 80% Australian domestic content by 1960. Unique Australian creations were engineered at Clayton, most notably the Volkswagen Country Buggy (Type 197) designed by Rudi Herz in 1967. Facing declining air-cooled sales and high local-content tariffs, Volkswagen sold the Clayton manufacturing facility to Motor Producers Limited (Nissan Australia) in 1968, transitioning to CKD assembly and eventually full CBU importation. After distribution through LNC Industries and Ateco in the 1980s and 1990s, Volkswagen Group Australia (VGA) was founded in 2001. Modern VGA models like the Golf, Polo, Tiguan, Touareg, Amarok utility, and ID electric vehicles have cemented Volkswagen as one of Australia's premier European marques.",
+  "models_catalog": [
+    {
+      "model_slug": "golf",
+      "name": "Golf",
+      "vehicle_type": "Hatchback / Wagon",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1976,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "The benchmark European small hatchback in Australia across eight generations, from Clayton-assembled Mk1s to iconic GTI and all-wheel-drive R performance flagships.",
+      "generations": [
+        {
+          "series_code": "Mk1",
+          "generation_name": "Golf Mark 1 (Typ 17)",
+          "years": {
+            "start": 1976,
+            "end": 1982
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Assembled locally at Clayton VIC; powered by 1.5L and 1.6L petrol engines and later 1.5L diesel."
+        },
+        {
+          "series_code": "Mk2",
+          "generation_name": "Golf Mark 2 (Typ 19E)",
+          "years": {
+            "start": 1983,
+            "end": 1992
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Imported in limited numbers, establishing the Australian GTI cult following with the 1.8L 8V engine."
+        },
+        {
+          "series_code": "Mk3",
+          "generation_name": "Golf Mark 3 (Typ 1H)",
+          "years": {
+            "start": 1992,
+            "end": 1998
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback",
+            "Convertible"
+          ],
+          "summary": "Introduced CL, GL, 2.0L GTI and the iconic 2.8L VR6 narrow-angle six-cylinder."
+        },
+        {
+          "series_code": "Mk4",
+          "generation_name": "Golf Mark 4 (Typ 1J)",
+          "years": {
+            "start": 1998,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "Elevated interior quality; introduced 1.8T 20V GTI, 2.3L V5, and halo 3.2L VR6 R32 4Motion."
+        },
+        {
+          "series_code": "Mk5",
+          "generation_name": "Golf Mark 5 (Typ 1K)",
+          "years": {
+            "start": 2004,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Wagon"
+          ],
+          "summary": "Multi-link rear suspension, DSG dual-clutch transmission, 2.0 TFSI GTI (147kW), TDI diesels, and R32."
+        },
+        {
+          "series_code": "Mk6",
+          "generation_name": "Golf Mark 6 (Typ 5K)",
+          "years": {
+            "start": 2009,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Wagon",
+            "Cabriolet"
+          ],
+          "summary": "Refined refinement and acoustics; 118TSI Twincharger, 2.0 TDI, 155kW GTI, and 188kW all-wheel drive Golf R."
+        },
+        {
+          "series_code": "Mk7",
+          "generation_name": "Golf Mark 7 & 7.5 (Typ 5G)",
+          "years": {
+            "start": 2013,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Wagon"
+          ],
+          "summary": "MQB platform lightweight architecture, 90TSI/110TSI, 162kW-180kW GTI, and 206kW-213kW Golf R."
+        },
+        {
+          "series_code": "Mk8",
+          "generation_name": "Golf Mark 8 & 8.5 (Typ CD1)",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Wagon"
+          ],
+          "summary": "Digital cockpit, 1.4 TSI 8-speed automatic, 180kW GTI, and 235kW Golf R with rear torque-vectoring."
+        }
+      ]
+    },
+    {
+      "model_slug": "amarok",
+      "name": "Amarok",
+      "vehicle_type": "Ute / Pickup Truck",
+      "segment": "Mid-size Ute",
+      "years_sold_au": {
+        "start": 2011,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Volkswagen's rugged ladder-frame dual-cab and single-cab ute, revered in Australia for permanent 4Motion AWD and muscular 3.0-litre V6 TDI powertrains.",
+      "generations": [
+        {
+          "series_code": "2H",
+          "generation_name": "Amarok First Generation",
+          "years": {
+            "start": 2011,
+            "end": 2022
+          },
+          "body_styles": [
+            "Dual-cab ute",
+            "Single-cab ute"
+          ],
+          "summary": "Launched with 2.0 Bi-TDI; elevated to legendary status in 2016 with the 3.0L V6 TDI (up to 200kW overboost) and Walkinshaw W580 tuning."
+        },
+        {
+          "series_code": "T1",
+          "generation_name": "Amarok Second Generation",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "summary": "Co-developed with Ford on upgraded T6 platform; offered in Core, Life, Style, PanAmericana, and Aventura with 2.0 TDI, 3.0 V6 TDI, and 2.3 TSI turbo petrol."
+        }
+      ]
+    },
+    {
+      "model_slug": "beetle",
+      "name": "Beetle",
+      "vehicle_type": "Sedan / Hatchback / Convertible",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1953,
+        "end": 2019
+      },
+      "locally_built": true,
+      "overview": "The car that founded Volkswagen in Australia, built with high local content at Clayton VIC before evolving into the retro New Beetle and Beetle A5.",
+      "generations": [
+        {
+          "series_code": "Type 1",
+          "generation_name": "Beetle Classic",
+          "years": {
+            "start": 1953,
+            "end": 1976
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "summary": "Assembled at Clayton VIC with 1192cc, 1285cc, 1493cc, and 1584cc air-cooled boxer-four engines, including Super Beetle 1302/1303."
+        },
+        {
+          "series_code": "Typ 9C",
+          "generation_name": "New Beetle",
+          "years": {
+            "start": 2000,
+            "end": 2011
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "2-door convertible"
+          ],
+          "summary": "Golf Mk4-based retro revival featuring 2.0L, 1.8T, and 1.9 TDI engines."
+        },
+        {
+          "series_code": "Typ 5C",
+          "generation_name": "Beetle A5",
+          "years": {
+            "start": 2013,
+            "end": 2019
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "Lower, wider coupe-like silhouette powered by 1.4 TSI twincharged and 2.0 TSI engines."
+        }
+      ]
+    },
+    {
+      "model_slug": "kombi-transporter",
+      "name": "Kombi / Transporter",
+      "vehicle_type": "Van / People Mover",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1954,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Australia's iconic surf-wagon, delivery van, and camper, assembled at Clayton VIC across T1 and T2 eras, and imported through modern T6.1, T7, and ID.Buzz.",
+      "generations": [
+        {
+          "series_code": "T1-T2",
+          "generation_name": "Kombi Splitty & Bay Window",
+          "years": {
+            "start": 1954,
+            "end": 1979
+          },
+          "body_styles": [
+            "Van",
+            "Camper",
+            "Microbus",
+            "Ute"
+          ],
+          "summary": "Assembled at Clayton; became an enduring cultural icon of Australian beach and holiday culture."
+        },
+        {
+          "series_code": "T3-T4",
+          "generation_name": "Transporter / Caravelle T3 & T4",
+          "years": {
+            "start": 1980,
+            "end": 2003
+          },
+          "body_styles": [
+            "Van",
+            "Caravelle bus"
+          ],
+          "summary": "Transitioned from rear-engine boxer to front-engine front-wheel-drive Transporter T4."
+        },
+        {
+          "series_code": "T5-T6",
+          "generation_name": "Transporter / Multivan T5 & T6",
+          "years": {
+            "start": 2004,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Van",
+            "Crewvan",
+            "Multivan",
+            "California"
+          ],
+          "summary": "TDI turbo-diesel powertrains with 4Motion AWD availability and premium Multivan executive shuttles."
+        }
+      ]
+    },
+    {
+      "model_slug": "passat",
+      "name": "Passat",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Medium / Large Car",
+      "years_sold_au": {
+        "start": 1974,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Volkswagen's flagship executive sedan and wagon, originally assembled at Clayton and later imported across B1 through B8 generations and Alltrack rugged wagons.",
+      "generations": [
+        {
+          "series_code": "B1-B2",
+          "generation_name": "Passat Mark 1 & 2",
+          "years": {
+            "start": 1974,
+            "end": 1988
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Assembled locally in B1 form; later imported as B2 Santana sedan and wagon."
+        },
+        {
+          "series_code": "B5-B6",
+          "generation_name": "Passat Mark 5 & 6",
+          "years": {
+            "start": 1998,
+            "end": 2010
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Longitudinal then transverse platforms with V6, 2.0T, 3.6 FSI R36 sports wagon, and TDI diesels."
+        },
+        {
+          "series_code": "B7-B8",
+          "generation_name": "Passat Mark 7 & 8",
+          "years": {
+            "start": 2011,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Alltrack"
+          ],
+          "summary": "MQB-based premium executive wagon and high-riding Alltrack 4Motion crossover."
+        }
+      ]
+    },
+    {
+      "model_slug": "polo",
+      "name": "Polo",
+      "vehicle_type": "Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Volkswagen's premium compact hatchback in Australia. Across four generations from the 6N to the modern MQB AW, the Polo brought big-car refinement, solid German safety, and pocket-rocket performance through the beloved Polo GTI.",
+      "generations": [
+        {
+          "series_code": "6N",
+          "generation_name": "Polo Third Generation (Typ 6N/6N2)",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Introduced the Polo nameplate to Australia in 1996. Features included galvanized steel body panels, dual airbags, 1.6L 8V engine, and the distinctive Open Air sliding fabric roof."
+        },
+        {
+          "series_code": "9N",
+          "generation_name": "Polo Fourth Generation (Typ 9N/9N3)",
+          "years": {
+            "start": 2002,
+            "end": 2010
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Recognizable by its distinctive twin round headlights (facelifted in 2005 to 9N3 single units). Spawned the first Australian Polo GTI in 2005, powered by the 110kW 1.8L 20V turbo."
+        },
+        {
+          "series_code": "6R/6C",
+          "generation_name": "Polo Fifth Generation (Typ 6R/6C)",
+          "years": {
+            "start": 2010,
+            "end": 2018
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Won 2010 World Car of the Year. Featured 77TSI turbo petrol engines and the GTI with 1.4 TSI twincharged (supercharged and turbocharged, 132kW), followed in the 6C facelift by the 1.8 TSI (141kW) with manual and 7-speed DSG options."
+        },
+        {
+          "series_code": "AW",
+          "generation_name": "Polo Sixth Generation (Typ AW)",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "Built on the MQB A0 platform, offering Golf-sized interior room, 351-litre boot, Digital Cockpit, and the Polo GTI armed with a full 2.0-litre EA888 turbo engine producing 147kW/152kW."
+        }
+      ]
+    },
+    {
+      "model_slug": "tiguan",
+      "name": "Tiguan",
+      "vehicle_type": "Medium SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2008,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Volkswagen's powerhouse medium SUV in Australia, delivering European road manners, turbocharged TSI petrol and TDI diesel powertrains, 4Motion all-wheel drive, spacious 5-seat and 7-seat Allspace layouts, and the blisteringly fast 235kW Tiguan R.",
+      "generations": [
+        {
+          "series_code": "5N",
+          "generation_name": "Tiguan First Generation (Typ 5N)",
+          "years": {
+            "start": 2008,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "First-gen compact/medium SUV with 4Motion Haldex AWD. Engines included 2.0 TDI (103kW), 2.0 TSI (125TSI, 132TSI, and 155TSI R-Line from Golf GTI)."
+        },
+        {
+          "series_code": "AD/BW",
+          "generation_name": "Tiguan Second Generation & Allspace (Typ AD/BW)",
+          "years": {
+            "start": 2016,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV",
+            "7-seat SUV (Allspace)"
+          ],
+          "summary": "Transformative MQB second generation; available in 5-seat and extended 7-seat Allspace bodies. Highlighted by the hugely popular 162TSI Highline/R-Line (EA888 162kW) and the halo Tiguan R with 235kW, 4Motion torque vectoring, and Akrapovic exhaust."
+        },
+        {
+          "series_code": "CT",
+          "generation_name": "Tiguan Third Generation (Typ CT)",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Third-generation Tiguan built on MQB evo with aerodynamic drag reduction (Cd 0.28), massive 15-inch central touchscreen, rotary driving experience dial, and high-output 195TSI R-Line powertrain."
+        }
+      ]
+    },
+    {
+      "model_slug": "touareg",
+      "name": "Touareg",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Full-size luxury off-road SUV famous in Australia for 3,500kg towing and powerhouse V6, V10 TDI, and V8 TDI powertrains.",
+      "generations": [
+        {
+          "series_code": "7L",
+          "generation_name": "Touareg First Generation",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Dual-range transfer case, air suspension, 3.2 V6, 3.0 V6 TDI, and legendary 5.0L V10 TDI."
+        },
+        {
+          "series_code": "7P-CR",
+          "generation_name": "Touareg 2nd & 3rd Gen",
+          "years": {
+            "start": 2011,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "MLB Evo platform sharing with Audi Q7/Porsche Cayenne, 170TDI/210TDI V6, and 340kW Touareg R PHEV."
+        }
+      ]
+    },
+    {
+      "model_slug": "beetle-kombi",
+      "name": "Beetle, Kombi & Country Buggy",
+      "vehicle_type": "Sedan / Convertible / Microbus / Van / Ute / Off-Roader",
+      "segment": "Classic Compact / Light Commercial",
+      "years_sold_au": {
+        "start": 1954,
+        "end": 1979
+      },
+      "locally_built": true,
+      "overview": "The bedrock of Volkswagen's Australian history. Starting with CKD assembly in Melbourne in 1954, the Type 1 Beetle and Type 2 Kombi progressed to full local manufacture at Clayton, Victoria, achieving over 80% Australian domestic content. Clayton also designed and manufactured the unique Australian Volkswagen Country Buggy (Type 197).",
+      "generations": [
+        {
+          "series_code": "Type 1",
+          "generation_name": "Beetle Type 1 (Sedan & Super Beetle)",
+          "years": {
+            "start": 1954,
+            "end": 1976
+          },
+          "body_styles": [
+            "2-door sedan",
+            "2-door cabriolet"
+          ],
+          "summary": "Clayton-assembled air-cooled rear-engine legend. Progressed from 1192cc 1200 through 1285cc 1300, 1493cc 1500, to 1584cc 1600 Super Beetle (1302S and 1303S) with MacPherson strut front suspension."
+        },
+        {
+          "series_code": "Type 197",
+          "generation_name": "Country Buggy (Type 197)",
+          "years": {
+            "start": 1968,
+            "end": 1969
+          },
+          "body_styles": [
+            "2-door open utility / roadster"
+          ],
+          "summary": "Designed, engineered and manufactured exclusively in Australia by Volkswagen Australasia at Clayton, Victoria under project director Rudi Herz. Built using Beetle floorpans, Transporter reduction-gear portal hubs, and folded sheet-metal bodywork for extreme ground clearance in the Australian outback."
+        },
+        {
+          "series_code": "Type 2",
+          "generation_name": "Kombi / Microbus / Transporter (Type 2 T1 & T2)",
+          "years": {
+            "start": 1954,
+            "end": 1979
+          },
+          "body_styles": [
+            "Van",
+            "Microbus",
+            "Dual-cab ute",
+            "Single-cab ute",
+            "Campmobile"
+          ],
+          "summary": "The beloved Australian Kombi across Split-screen (T1) and Bay-window (T2) generations. Clayton-assembled with local interior camper fit-outs, dual-cab work utes, and delivery vans."
+        }
+      ]
+    }
+  ]
+}

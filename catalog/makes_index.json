@@ -1,0 +1,1204 @@
+{
+  "makes": [
+    {
+      "make_slug": "holden",
+      "name": "Holden",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1948,
+        "end": 2020
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Australia's iconic domestic car manufacturer (GM-H), producer of the 48-215, Kingswood, Torana, Monaro, Statesman, and Commodore."
+    },
+    {
+      "make_slug": "hsv",
+      "name": "HSV (Holden Special Vehicles)",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1987,
+        "end": 2020
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Official performance vehicle partner of Holden established by Tom Walkinshaw Racing in Clayton, Victoria, famous for ClubSport, GTS, Maloo, and Senator."
+    },
+    {
+      "make_slug": "hdt",
+      "name": "HDT (Holden Dealer Team)",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1980,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Peter Brock's Special Vehicles operation at Bertie Street, Port Melbourne, creator of VC/VH/VK/VL SS Group A, Director, and Magnum."
+    },
+    {
+      "make_slug": "ford",
+      "name": "Ford Australia",
+      "country_of_origin": "United States / Australia",
+      "years_active_au": {
+        "start": 1925,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Founded in Geelong in 1925; manufacturer of the Australian Falcon, Fairlane, LTD, Territory, Capri, Laser, and Ranger development hub."
+    },
+    {
+      "make_slug": "fpv",
+      "name": "FPV (Ford Performance Vehicles)",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 2002,
+        "end": 2014
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Ford Australia's performance division (successor to Tickford/FTE) producing GT, GT-P, F6 Typhoon, F6 Tornado, and Super Pursuit."
+    },
+    {
+      "make_slug": "chrysler-valiant",
+      "name": "Chrysler / Valiant Australia",
+      "country_of_origin": "United States / Australia",
+      "years_active_au": {
+        "start": 1951,
+        "end": 2021
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Manufactured the Chrysler Royal, Valiant (R/S through CM series), Charger, Regal, and Centura at Tonsley Park, South Australia."
+    },
+    {
+      "make_slug": "leyland-australia",
+      "name": "Leyland / BMC Australia",
+      "country_of_origin": "United Kingdom / Australia",
+      "years_active_au": {
+        "start": 1950,
+        "end": 1982
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Built the Morris Major, Austin Freeway, Kimberley/Tasman, Mini Moke, and the iconic Leyland P76 & Force 7 at Zetland, NSW."
+    },
+    {
+      "make_slug": "lightburn",
+      "name": "Lightburn",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1963,
+        "end": 1966
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "South Australian manufacturer of the fiberglass-bodied Lightburn Zeta microcar and utility."
+    },
+    {
+      "make_slug": "bolwell",
+      "name": "Bolwell",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1962,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Melbourne sports car manufacturer famous for the Mk VII, Nagari (Mk VIII), and modern Nagari 500."
+    },
+    {
+      "make_slug": "goggomobil-dart",
+      "name": "Buckle / Goggomobil Australia",
+      "country_of_origin": "Australia / Germany",
+      "years_active_au": {
+        "start": 1955,
+        "end": 1962
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Bill Buckle Motors in Sydney built the Buckle 2.5L coupe and the iconic fiberglass Goggomobil Dart roadster."
+    },
+    {
+      "make_slug": "giocattolo",
+      "name": "Giocattolo",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1986,
+        "end": 1989
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Queensland supercar maker created by Paul Halstead and Barry Lock, placing a mid-mounted Walkinshaw 5.0L V8 into an Alfa Romeo Sprint body."
+    },
+    {
+      "make_slug": "oka",
+      "name": "OKA",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 1986,
+        "end": 2011
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Western Australian manufacturer of heavy-duty off-road 4WD trucks and tour buses (XT and LT series)."
+    },
+    {
+      "make_slug": "brabham",
+      "name": "Brabham Automotive",
+      "country_of_origin": "Australia",
+      "years_active_au": {
+        "start": 2018,
+        "end": 2024
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Adelaide-based high-performance manufacturer of the Brabham BT62 track and road-compliant supercar."
+    },
+    {
+      "make_slug": "toyota",
+      "name": "Toyota",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1959,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Australia's top-selling automotive brand; manufactured Camry, Aurion, Corolla, Corona, and Crown locally in Port Melbourne and Altona until 2017; market leader with HiLux and LandCruiser."
+    },
+    {
+      "make_slug": "mazda",
+      "name": "Mazda",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1959,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Consistently Australia's second-largest car brand, iconic for rotary models (RX-2, RX-3, RX-4, RX-7, RX-8), 323/Mazda3, 626/Mazda6, MX-5, CX-5, and BT-50."
+    },
+    {
+      "make_slug": "mitsubishi",
+      "name": "Mitsubishi",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1980,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Took over Chrysler's Tonsley Park SA plant in 1980; locally manufactured Sigma, Magna, Verada, and 380 until 2008; famous for Pajero, Triton, Lancer/Evo, and Outlander."
+    },
+    {
+      "make_slug": "nissan",
+      "name": "Nissan / Datsun",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1934,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Manufactured Bluebird, Pintara, Pulsar, and Skyline locally at Clayton, Victoria until 1992; renowned for Patrol, Navara, GT-R (Godzilla), Z-cars, and X-Trail."
+    },
+    {
+      "make_slug": "subaru",
+      "name": "Subaru",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1973,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Pioneered affordable AWD in Australia with the Leone, Brumby ute, Liberty, Impreza WRX/STI, Forester, and Outback."
+    },
+    {
+      "make_slug": "honda",
+      "name": "Honda",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1969,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Major Japanese marque in Australia with Civic, Accord, Accord Euro, Integra, Prelude, S2000, NSX, CR-V, Jazz, and Odyssey."
+    },
+    {
+      "make_slug": "suzuki",
+      "name": "Suzuki",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1974,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Famous in Australia for the Mighty Boy ute, Sierra/Jimny 4x4, Swift/GTi, Vitara, Baleno, and Ignis."
+    },
+    {
+      "make_slug": "isuzu",
+      "name": "Isuzu / Isuzu Ute",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1971,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Originally sold passenger cars (Bellett, Florian, Gemini/Jackaroo via Holden) and returned independently as Isuzu Ute Australia with D-Max and MU-X."
+    },
+    {
+      "make_slug": "lexus",
+      "name": "Lexus",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1990,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Toyota's luxury division launched in Australia in 1990 with the LS400 and ES300, expanding to IS, GS, RX, NX, LX, and GX."
+    },
+    {
+      "make_slug": "daihatsu",
+      "name": "Daihatsu",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1967,
+        "end": 2006
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold compact cars and 4x4s in Australia including Charade, Sirion, Applause, Mira, Handivan, Terios, Feroza, and Rocky."
+    },
+    {
+      "make_slug": "infiniti",
+      "name": "Infiniti",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 2012,
+        "end": 2020
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Nissan's luxury brand sold Q50, Q60, Q70, QX70, and QX80 in Australia between 2012 and 2020."
+    },
+    {
+      "make_slug": "eunos",
+      "name": "Eunos",
+      "country_of_origin": "Japan",
+      "years_active_au": {
+        "start": 1992,
+        "end": 1996
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Mazda's luxury channel in Australia selling the Eunos 30X, 500, and 800 (Miller cycle)."
+    },
+    {
+      "make_slug": "hyundai",
+      "name": "Hyundai",
+      "country_of_origin": "South Korea",
+      "years_active_au": {
+        "start": 1986,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Launched at the 1985 Perth Motor Show with the Excel; grew into a top-5 brand with i30, Tucson, Santa Fe, Kona, Ioniq, and N performance models."
+    },
+    {
+      "make_slug": "kia",
+      "name": "Kia",
+      "country_of_origin": "South Korea",
+      "years_active_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Major Australian seller with locally tuned suspension across Cerato, Sportage, Carnival, Sorento, Picanto, Stinger V6, EV6, EV9, and Tasman."
+    },
+    {
+      "make_slug": "genesis",
+      "name": "Genesis",
+      "country_of_origin": "South Korea",
+      "years_active_au": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Hyundai's luxury brand offering G70, G80, GV60, GV70, and GV80 in Australia."
+    },
+    {
+      "make_slug": "ssangyong-kgm",
+      "name": "SsangYong / KGM",
+      "country_of_origin": "South Korea",
+      "years_active_au": {
+        "start": 1997,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Korean SUV and ute specialist selling Musso, Rexton, Korando, Actyon, Stavic, and Torres."
+    },
+    {
+      "make_slug": "daewoo",
+      "name": "Daewoo",
+      "country_of_origin": "South Korea",
+      "years_active_au": {
+        "start": 1994,
+        "end": 2004
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Popular 1990s-2000s budget brand in Australia (1.5i, Cielo, Lanos, Nubira, Leganza, Matiz, Kalos, Tacuma) before GM transitioned models to Holden badges."
+    },
+    {
+      "make_slug": "byd",
+      "name": "BYD",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Major EV and PHEV brand in Australia selling Atto 3, Dolphin, Seal, Sealion 6, and Shark 6 PHEV ute."
+    },
+    {
+      "make_slug": "mg",
+      "name": "MG (British Classics & SAIC)",
+      "country_of_origin": "United Kingdom / China",
+      "years_active_au": {
+        "start": 1930,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "From MGA/MGB assembled in Sydney to modern SAIC-owned MG3, MG4, ZS, HS, and Cyberster."
+    },
+    {
+      "make_slug": "gwm-haval",
+      "name": "GWM / Haval / Great Wall",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Pioneering Chinese brand in Australia from V200/V240 utes to modern GWM Cannon, Tank 300/500, Haval Jolion, H6, and Ora."
+    },
+    {
+      "make_slug": "ldv",
+      "name": "LDV",
+      "country_of_origin": "China / United Kingdom",
+      "years_active_au": {
+        "start": 2014,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Commercial and SUV brand selling T60 ute, D90 SUV, G10, Deliver 9, and Mifa in Australia."
+    },
+    {
+      "make_slug": "chery",
+      "name": "Chery",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2011,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Initially sold J1/J3/J11 (2011-2015), relaunched in 2023 with Omoda 5, Tiggo 7 Pro, and Tiggo 8 Pro."
+    },
+    {
+      "make_slug": "geely",
+      "name": "Geely",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2010,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold MK in WA initially, returned to national Australian market with EX5 EV SUV."
+    },
+    {
+      "make_slug": "zeekr",
+      "name": "Zeekr",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Premium EV brand from Geely Group offering Zeekr X and Zeekr 009 in Australia."
+    },
+    {
+      "make_slug": "xpeng",
+      "name": "XPeng",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Smart EV brand selling the G6 SUV in Australia."
+    },
+    {
+      "make_slug": "leapmotor",
+      "name": "Leapmotor",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Stellantis-backed EV maker selling the C10 SUV in Australia."
+    },
+    {
+      "make_slug": "deepal",
+      "name": "Deepal",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Changan's EV brand launched in Australia with the S07 SUV."
+    },
+    {
+      "make_slug": "jac",
+      "name": "JAC",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Entered Australia with the JAC T9 dual-cab diesel ute."
+    },
+    {
+      "make_slug": "foton",
+      "name": "Foton",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2012,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold Tunland utes, Sauvana SUV, and light trucks in Australia."
+    },
+    {
+      "make_slug": "jmc",
+      "name": "JMC",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2015,
+        "end": 2019
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold the Vigus utility in Australia."
+    },
+    {
+      "make_slug": "zx-auto",
+      "name": "ZX Auto",
+      "country_of_origin": "China",
+      "years_active_au": {
+        "start": 2013,
+        "end": 2015
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Imported the Grand Tiger ute into Australia."
+    },
+    {
+      "make_slug": "volkswagen",
+      "name": "Volkswagen",
+      "country_of_origin": "Germany",
+      "years_active_au": {
+        "start": 1953,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Assembled the Beetle, Kombi, and Country Buggy at Clayton, Victoria; modern seller of Golf, Polo, Tiguan, Amarok, Passat, and ID.4/ID.Buzz."
+    },
+    {
+      "make_slug": "bmw",
+      "name": "BMW",
+      "country_of_origin": "Germany",
+      "years_active_au": {
+        "start": 1960,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Leading German luxury brand in Australia across 1, 2, 3, 4, 5, 7, 8 Series, X1-X7 SUVs, Z3/Z4, M cars, and i-series EVs."
+    },
+    {
+      "make_slug": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "country_of_origin": "Germany",
+      "years_active_au": {
+        "start": 1958,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Assembled early W108/W110/W114 models at Port Melbourne via Australian Motor Industries (AMI); sells A, C, E, S-Class, G-Wagen, GLA/GLC/GLE/GLS, and AMG models."
+    },
+    {
+      "make_slug": "audi",
+      "name": "Audi",
+      "country_of_origin": "Germany",
+      "years_active_au": {
+        "start": 1967,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Premium German marque selling A1-A8, Q2-Q8, TT, R8, S/RS performance models, and e-tron EVs in Australia."
+    },
+    {
+      "make_slug": "porsche",
+      "name": "Porsche",
+      "country_of_origin": "Germany",
+      "years_active_au": {
+        "start": 1951,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Australia was Porsche's first export market outside Europe (Norman Hamilton imported two 356s in 1951); sells 911, Boxster/Cayman, Cayenne, Macan, Panamera, and Taycan."
+    },
+    {
+      "make_slug": "opel",
+      "name": "Opel",
+      "country_of_origin": "Germany",
+      "years_active_au": {
+        "start": 2012,
+        "end": 2013
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Briefly sold Astra, Corsa, and Insignia under the standalone Opel badge in 2012-2013 (while long supplying designs/cars for Holden)."
+    },
+    {
+      "make_slug": "smart",
+      "name": "Smart",
+      "country_of_origin": "Germany / China",
+      "years_active_au": {
+        "start": 2003,
+        "end": 2015
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold the Fortwo, Roadster, and Forfour city cars in Australia through Mercedes-Benz dealerships."
+    },
+    {
+      "make_slug": "skoda",
+      "name": "Skoda",
+      "country_of_origin": "Czech Republic",
+      "years_active_au": {
+        "start": 1960,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold rear-engine 1000MB/120L in the 1960s-80s, relaunched under VW Group in 2007 with Octavia, Superb, Fabia, Kodiaq, Karoq, Kamiq, and Enyaq."
+    },
+    {
+      "make_slug": "cupra",
+      "name": "Cupra",
+      "country_of_origin": "Spain",
+      "years_active_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Spanish performance brand from VW Group offering Formentor, Leon, Ateca, Born, and Tavascan in Australia."
+    },
+    {
+      "make_slug": "seat",
+      "name": "SEAT",
+      "country_of_origin": "Spain",
+      "years_active_au": {
+        "start": 1995,
+        "end": 1999
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold the Ibiza, Cordoba, and Toledo in Australia during the late 1990s."
+    },
+    {
+      "make_slug": "volvo",
+      "name": "Volvo",
+      "country_of_origin": "Sweden",
+      "years_active_au": {
+        "start": 1960,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Assembled 140/240 series locally at Clayton, Victoria in the 1970s-80s; famous for 240, 850, S60/V60, XC40, XC60, XC90, and EX30."
+    },
+    {
+      "make_slug": "polestar",
+      "name": "Polestar",
+      "country_of_origin": "Sweden / China",
+      "years_active_au": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Electric performance brand selling Polestar 2, Polestar 3, and Polestar 4 in Australia."
+    },
+    {
+      "make_slug": "saab",
+      "name": "Saab",
+      "country_of_origin": "Sweden",
+      "years_active_au": {
+        "start": 1969,
+        "end": 2012
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Swedish marque beloved in Australia for the 99, 900 Turbo, 9000, 9-3, and 9-5."
+    },
+    {
+      "make_slug": "peugeot",
+      "name": "Peugeot",
+      "country_of_origin": "France",
+      "years_active_au": {
+        "start": 1949,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Famous for winning the 1953 Redex Trial (203) and local assembly of 403, 404, and 504 at West Heidelberg/Clayton; sells 208, 308, 408, 508, 2008, 3008, 5008, and Partner."
+    },
+    {
+      "make_slug": "renault",
+      "name": "Renault",
+      "country_of_origin": "France",
+      "years_active_au": {
+        "start": 1949,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Owned the West Heidelberg (Victoria) assembly plant from 1966-1981 building Renault 10, 12, 16, 18, Virage; modern seller of Clio, Megane RS, Koleos, Arkana, Captur, Kangoo, Trafic, and Master."
+    },
+    {
+      "make_slug": "citroen",
+      "name": "Citroen",
+      "country_of_origin": "France",
+      "years_active_au": {
+        "start": 1923,
+        "end": 2024
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Australia's longest continuously sold import marque until 2024; sold Traction Avant, ID/DS, 2CV, CX, BX, Xantia, C3, C4, C5, and Berlingo."
+    },
+    {
+      "make_slug": "alpine",
+      "name": "Alpine",
+      "country_of_origin": "France",
+      "years_active_au": {
+        "start": 2018,
+        "end": 2021
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold the mid-engined Alpine A110 sports coupe in Australia."
+    },
+    {
+      "make_slug": "fiat",
+      "name": "Fiat / Abarth",
+      "country_of_origin": "Italy",
+      "years_active_au": {
+        "start": 1948,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold 500, 600, 124, 125, 127, 128, 131, X1/9, Punto, Ritmo, Ducato, and modern Fiat 500/500e & Abarth 595/695."
+    },
+    {
+      "make_slug": "alfa-romeo",
+      "name": "Alfa Romeo",
+      "country_of_origin": "Italy",
+      "years_active_au": {
+        "start": 1958,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Italian sporting marque famous at Bathurst (Giulia, GTV6) and road models Alfasud, Alfetta, 33, 75, 156, 147, 159, Giulietta, 4C, Giulia, Stelvio, and Tonale."
+    },
+    {
+      "make_slug": "ferrari",
+      "name": "Ferrari",
+      "country_of_origin": "Italy",
+      "years_active_au": {
+        "start": 1952,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold iconic Italian supercars in Australia from 250/Dino/308/328/348/F355/360/F430/458/488/F8 to 296 GTB, SF90, Roma, and Purosangue."
+    },
+    {
+      "make_slug": "lamborghini",
+      "name": "Lamborghini",
+      "country_of_origin": "Italy",
+      "years_active_au": {
+        "start": 1968,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Delivered Miura, Espada, Urraco, Countach, Diablo, Murcielago, Gallardo, Huracan, Aventador, Revuelto, and Urus in Australia."
+    },
+    {
+      "make_slug": "maserati",
+      "name": "Maserati",
+      "country_of_origin": "Italy",
+      "years_active_au": {
+        "start": 1960,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Luxury Italian brand offering Biturbo, Shamal, 3200 GT, Coupe, Quattroporte, Ghibli, GranTurismo, Levante, Grecale, and MC20."
+    },
+    {
+      "make_slug": "lancia",
+      "name": "Lancia",
+      "country_of_origin": "Italy",
+      "years_active_au": {
+        "start": 1953,
+        "end": 1985
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold Aurelia, Flavia, Fulvia, Beta (Coupe, Spider, Montecarlo, HPE), and Gamma in Australia."
+    },
+    {
+      "make_slug": "land-rover",
+      "name": "Land Rover",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1948,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Assembled Series I/II/III and Perentie 4x4s in Sydney (Pressed Metal Corp / Leyland); sells Defender, Discovery, and Range Rover lineup."
+    },
+    {
+      "make_slug": "jaguar",
+      "name": "Jaguar",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1946,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold XK, Mark 2, E-Type, XJ6/XJ12 (including 1985 Bathurst-winning XJS), S-Type, X-Type, XF, XE, F-Type, F-Pace, and I-Pace."
+    },
+    {
+      "make_slug": "mini",
+      "name": "Mini",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1961,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "BMC/Leyland built Morris 850, Cooper S, Clubman GT, and Mini Moke in Sydney; BMW relaunched modern MINI Hatch, Clubman, and Countryman in 2002."
+    },
+    {
+      "make_slug": "aston-martin",
+      "name": "Aston Martin",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1950,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "British grand tourer marque offering DB4/DB5/DB6, V8, DB7, DB9, DB11, DB12, Vantage, Vanquish, DBS, and DBX."
+    },
+    {
+      "make_slug": "bentley",
+      "name": "Bentley",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1925,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Ultra-luxury British marque selling Mark VI, T-Series, Turbo R, Arnage, Continental GT, Flying Spur, and Bentayga."
+    },
+    {
+      "make_slug": "rolls-royce",
+      "name": "Rolls-Royce",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1910,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Pinnacle luxury marque in Australia from Silver Ghost and Silver Shadow to Phantom, Ghost, Wraith, Dawn, Cullinan, and Spectre."
+    },
+    {
+      "make_slug": "mclaren",
+      "name": "McLaren",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 2011,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "British supercar maker selling 12C, 650S, 570S, 720S, 750S, GT, Artura, P1, and Senna in Australia."
+    },
+    {
+      "make_slug": "lotus",
+      "name": "Lotus",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1960,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Lightweight sports car maker famous for Elan, Europa, Esprit, Elise, Exige, Evora, Emira, and Eletre."
+    },
+    {
+      "make_slug": "ineos",
+      "name": "INEOS Automotive",
+      "country_of_origin": "United Kingdom / France",
+      "years_active_au": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sells the rugged Grenadier 4x4 wagon and Quartermaster dual-cab ute in Australia."
+    },
+    {
+      "make_slug": "rover",
+      "name": "Rover",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1948,
+        "end": 2005
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold P4, P5, P6 (2000/3500), SD1, Quintet, 416i, 825/827, and 75 in Australia."
+    },
+    {
+      "make_slug": "triumph",
+      "name": "Triumph",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1948,
+        "end": 1981
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "AMI assembled Herald, 2000/2500 sedans, Stag, Spitfire, TR2-TR7, and Dolomite Sprint in Australia."
+    },
+    {
+      "make_slug": "vauxhall",
+      "name": "Vauxhall",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1920,
+        "end": 1967
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Assembled by GM-H in Australia including Wyvern, Velox, Cresta, and Viva (which evolved into the Holden Torana)."
+    },
+    {
+      "make_slug": "austin-morris",
+      "name": "Austin / Morris / Wolseley / Riley",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1920,
+        "end": 1973
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Nuffield/BMC Australia brands built at Victoria Park (Zetland, Sydney) including Morris Minor, Major, 1100, 1500, Austin A30, A40, Lancer, 1800 ('Landcrab'), and Freeway."
+    },
+    {
+      "make_slug": "hillman-humber-sunbeam",
+      "name": "Hillman / Humber / Sunbeam (Rootes Group)",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1946,
+        "end": 1977
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Rootes Australia assembled the Hillman Minx, Imp, Hunter, Gazelle, Humber Vogue/Super Snipe, and Sunbeam Alpine/Rapier at Port Melbourne before Chrysler takeover."
+    },
+    {
+      "make_slug": "morgan",
+      "name": "Morgan",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1950,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Hand-built British sports cars (4/4, Plus 4, Plus 8, Roadster, Plus Four, Plus Six) sold in small numbers in Australia."
+    },
+    {
+      "make_slug": "caterham",
+      "name": "Caterham",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1980,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Lotus Seven successor sold in ADR-compliant kit and turn-key form in Australia."
+    },
+    {
+      "make_slug": "tvr",
+      "name": "TVR",
+      "country_of_origin": "United Kingdom",
+      "years_active_au": {
+        "start": 1970,
+        "end": 2004
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold Griffith, Chimaera, Cerbera, and Tuscan in limited Australian deliveries."
+    },
+    {
+      "make_slug": "tesla",
+      "name": "Tesla",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 2010,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Launched in Australia with the Roadster (2010), followed by Model S, Model X, and market-leading EVs Model 3 and Model Y."
+    },
+    {
+      "make_slug": "jeep",
+      "name": "Jeep",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 1942,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Assembled CJ/Cherokee/J-Series in Brisbane via Willys Motors Australia (1958-1984); sells Wrangler, Gladiator, Grand Cherokee, Compass, and Avenger."
+    },
+    {
+      "make_slug": "ram",
+      "name": "RAM Trucks Australia",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Right-hand-drive remanufactured in Clayton, Melbourne by Walkinshaw Automotive Group across RAM 1500, 2500, and 3500."
+    },
+    {
+      "make_slug": "chevrolet-gmsv",
+      "name": "Chevrolet / GMSV",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 1918,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": true,
+      "overview": "Assembled locally by GM-H from the 1920s-1968 (Bel Air, Impala, Chevelle); returned via HSV/GMSV with Camaro, C8 Corvette (factory RHD), and Silverado 1500/2500HD."
+    },
+    {
+      "make_slug": "cadillac",
+      "name": "Cadillac",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 1915,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Sold pre-war and 1950s-60s models in Australia, aborted a 2009 CTS launch, and officially launched factory RHD Lyriq EV in 2024."
+    },
+    {
+      "make_slug": "dodge",
+      "name": "Dodge",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 1920,
+        "end": 2016
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Built Dodge Phoenix and AT4 trucks locally via Chrysler Australia; returned in 2006-2016 with Caliber, Avenger, Nitro, and Journey."
+    },
+    {
+      "make_slug": "pontiac",
+      "name": "Pontiac",
+      "country_of_origin": "United States / Canada",
+      "years_active_au": {
+        "start": 1926,
+        "end": 1968
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "GM-H assembled RHD Canadian-sourced Pontiac Laurentian and Parisienne sedans locally until 1968."
+    },
+    {
+      "make_slug": "rambler-amc",
+      "name": "Rambler / AMC",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 1960,
+        "end": 1978
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Australian Motor Industries (AMI) assembled the Rambler Classic, Rebel, Ambassador, Hornet, Matador, and Javelin in Port Melbourne."
+    },
+    {
+      "make_slug": "studebaker",
+      "name": "Studebaker",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 1915,
+        "end": 1966
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": true,
+      "overview": "Assembled Champion, Commander, Lark, and Hawk locally in Victoria (Canada Cycle & Motor Co) in the 1950s-60s."
+    },
+    {
+      "make_slug": "hummer",
+      "name": "Hummer",
+      "country_of_origin": "United States",
+      "years_active_au": {
+        "start": 2007,
+        "end": 2010
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "GM sold the South African-built RHD Hummer H3 (3.7L I5 and 5.3L V8 Alpha) in Australia."
+    },
+    {
+      "make_slug": "proton",
+      "name": "Proton",
+      "country_of_origin": "Malaysia",
+      "years_active_au": {
+        "start": 1995,
+        "end": 2017
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Malaysian carmaker selling Wira, Persona, Satria (including Satria GTi), M21, Jumbuck ute, Gen.2, Savvy, S16, Preve, Exora, and Suprima S in Australia."
+    },
+    {
+      "make_slug": "mahindra",
+      "name": "Mahindra",
+      "country_of_origin": "India",
+      "years_active_au": {
+        "start": 2007,
+        "end": "Present"
+      },
+      "currently_sold_au": true,
+      "local_manufacturer": false,
+      "overview": "Indian SUV and utility manufacturer selling Pik-Up, XUV500, Scorpio, and XUV700 in Australia."
+    },
+    {
+      "make_slug": "tata",
+      "name": "Tata",
+      "country_of_origin": "India",
+      "years_active_au": {
+        "start": 1996,
+        "end": 2019
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold the Tata Telcoline and Xenon utilities in Australia."
+    },
+    {
+      "make_slug": "lada",
+      "name": "Lada",
+      "country_of_origin": "Soviet Union / Russia",
+      "years_active_au": {
+        "start": 1983,
+        "end": 1998
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Sold the Niva 4x4 (including Niva Torino), Samara (including Brock-tuned Samara Volante), and Cevaro in Australia."
+    },
+    {
+      "make_slug": "fso",
+      "name": "FSO",
+      "country_of_origin": "Poland",
+      "years_active_au": {
+        "start": 1989,
+        "end": 1993
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Imported the Polish FSO Polonez / Prima and 125p ute into Australia."
+    },
+    {
+      "make_slug": "yugo",
+      "name": "Yugo / Zastava",
+      "country_of_origin": "Yugoslavia",
+      "years_active_au": {
+        "start": 1986,
+        "end": 1988
+      },
+      "currently_sold_au": false,
+      "local_manufacturer": false,
+      "overview": "Briefly imported the Yugo 55 hatchback into Australia."
+    }
+  ]
+}

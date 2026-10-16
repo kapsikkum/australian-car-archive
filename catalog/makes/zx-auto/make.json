@@ -1,0 +1,41 @@
+{
+  "make_slug": "zx-auto",
+  "name": "ZX Auto",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2013,
+    "end": "2016"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Hebei Zhongxing Automobile sold the GrandTiger dual-cab ute in Australia from 2013 to 2016 via Chinese Automotive Distributors.",
+  "australian_history": "ZX Auto entered the Australian market in mid-2013 through Perth-based Chinese Automotive Distributors (CAD). The company imported the GrandTiger dual-cab utility, pitching it as an ultra-low-cost commercial vehicle for rural and regional buyers. The GrandTiger was powered by a 2.4-litre Mitsubishi petrol engine and a 2.5-litre turbo diesel with a five-speed manual transmission. Low sales and stricter ADR safety regulations led to its withdrawal from Australia in 2016.",
+  "models_catalog": [
+    {
+      "model_slug": "grandtiger",
+      "name": "GrandTiger",
+      "vehicle_type": "Ute / Pickup Truck",
+      "segment": "Mid-size Dual-Cab Ute",
+      "years_sold_au": {
+        "start": 2013,
+        "end": "2016"
+      },
+      "locally_built": false,
+      "overview": "Ultra-budget dual-cab work ute sold through regional dealerships in Western Australia, Queensland, and NSW.",
+      "generations": [
+        {
+          "series_code": "GrandTiger-Gen1",
+          "generation_name": "ZX Auto GrandTiger",
+          "years": {
+            "start": 2013,
+            "end": "2016"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "summary": "2.4L Mitsubishi 4G64 petrol (100kW) and 2.5L Turbo Diesel with dual-range 4WD."
+        }
+      ]
+    }
+  ]
+}

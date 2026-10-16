@@ -1,0 +1,300 @@
+{
+  "make_slug": "audi",
+  "model_slug": "q5-sq5",
+  "name": "Q5 & SQ5",
+  "vehicle_type": "Medium Luxury SUV",
+  "segment": "Medium Luxury SUV",
+  "years_sold_au": {
+    "start": 2009,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "Audi's best-selling luxury SUV in Australia. Built on the longitudinal MLB platform with quattro permanent all-wheel drive, the Q5 balanced executive prestige with family versatility, while the twin-turbo diesel SQ5 BiTDI became an unprecedented cult sales sensation in Australia.",
+  "australian_market_notes": "First arrived in Australia in March 2009 (8R). In 2013, Audi launched the SQ5 TDI powered by a 230kW/650Nm 3.0L twin-turbo diesel V6. Australia immediately became the second-highest volume market for SQ5 globally per capita, accounting for over a third of all Australian Q5 sales.",
+  "manuals": [
+    {
+      "title": "Audi Q5 & SQ5 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2009,
+      "language": "en",
+      "source_url": "local://catalog/makes/audi/models/q5-sq5/model.json",
+      "local_path": "media/manuals/audi/q5-sq5/audi_q5-sq5_au_technical_manual.pdf",
+      "file_size_bytes": 4123,
+      "sha256": "67e46ed5ac6cfd7a25903809347c41ca50aee5444976db79847fcccb29a7f321",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "8R",
+      "generation_name": "Q5 & SQ5 First Generation (Typ 8R)",
+      "years": {
+        "start": 2009,
+        "end": "2017"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Volkswagen Group MLB",
+      "ancap_rating": "5 stars",
+      "summary": "First-generation premium mid-size SUV featuring longitudinal engines, quattro AWD, 2.0 TDI/TFSI, 3.0 TDI, and the market-defining SQ5 TDI with a 230kW/240kW 650Nm twin-turbo diesel V6 and sound actuator exhaust.",
+      "engines": [
+        {
+          "engine_code": "CGQB",
+          "name": "3.0L BiTDI Twin-Turbo Diesel V6 (SQ5)",
+          "displacement_cc": 2967,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 230,
+          "power_rpm": "3900-4500",
+          "torque_nm": 650,
+          "torque_rpm": "1450-2800",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Sequential twin-turbo system with exhaust sound actuator; later upgraded to 240kW SQ5 Plus."
+        },
+        {
+          "engine_code": "CDNC",
+          "name": "2.0L TFSI Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 155,
+          "power_rpm": "4300-6000",
+          "torque_nm": 350,
+          "torque_rpm": "1500-4200",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Core 4-cylinder petrol powertrain paired with 7-speed S tronic / 8-speed tiptronic."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "2.0 TFSI quattro",
+          "years": {
+            "start": 2009,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed S tronic",
+            "8-speed tiptronic"
+          ],
+          "msrp_aud_min": 59900,
+          "msrp_aud_max": 66200,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1750,
+          "standard_features": [
+            "18-inch alloy wheels",
+            "Leather upholstery",
+            "MMI navigation",
+            "quattro permanent AWD",
+            "Tri-zone climate control"
+          ],
+          "notes": "Core luxury SUV."
+        },
+        {
+          "badge_name": "SQ5 TDI",
+          "years": {
+            "start": 2013,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed tiptronic"
+          ],
+          "msrp_aud_min": 89400,
+          "msrp_aud_max": 93900,
+          "fuel_consumption_l_100km": 6.8,
+          "kerb_weight_kg": 1920,
+          "standard_features": [
+            "20-inch 5-parallel-spoke alloys",
+            "S sports suspension (30mm lower)",
+            "Fine Nappa leather S sport seats",
+            "Quad oval exhaust tips with active sound",
+            "Xenon plus headlights"
+          ],
+          "notes": "0-100km/h in 5.1s. Huge Australian sales smash hit."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SQ5 TDI",
+          "body_style": "5-door SUV",
+          "engine_code": "CGQB",
+          "transmission": "8-speed tiptronic",
+          "drivetrain": "AWD",
+          "years_start": 2013,
+          "years_end": 2017,
+          "msrp_aud": 89400,
+          "power_kw": 230,
+          "torque_nm": 650,
+          "fuel_l_100km": 6.8,
+          "towing_braked_kg": 2000,
+          "notes": "230kW twin-turbo diesel performance SUV."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "8R",
+          "category": "exterior",
+          "caption": "Audi SQ5 8R",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Audi_SQ5_8R_%282012%E2%80%932017%29_Wien_26_July_2020_JM_%281%29.jpg/1280px-Audi_SQ5_8R_%282012%E2%80%932017%29_Wien_26_July_2020_JM_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Johannes Maximilian)",
+          "local_path": "media/pictures/audi/q5-sq5/audi_q5-sq5_8R_1_Audi_SQ5_8R_2012_2017_Wien_26_July_2020_JM_1_.jpg",
+          "file_size_bytes": 293012,
+          "sha256": "ffa37ae66c1b4ce810a5106ec4b5257d512920d67200198c6033d0901d48a446"
+        }
+      ]
+    },
+    {
+      "series_code": "FY",
+      "generation_name": "Q5 & SQ5 Second Generation (Typ FY)",
+      "years": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV",
+        "5-door Sportback"
+      ],
+      "platform": "Volkswagen Group MLB evo",
+      "ancap_rating": "5 stars",
+      "summary": "Built on MLB evo platform with up to 90kg weight reduction. Features quattro ultra AWD, Virtual Cockpit, 45 TFSI, and the SQ5 TDI with 48V electric powered compressor (EPC) delivering 251kW and 700Nm.",
+      "engines": [
+        {
+          "engine_code": "DECA",
+          "name": "3.0L V6 Turbo Diesel with 48V EPC (SQ5 TDI)",
+          "displacement_cc": 2967,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged with 48V Electric Powered Compressor",
+          "fuel_type": "Diesel",
+          "power_kw": 251,
+          "power_rpm": "3800-3950",
+          "torque_nm": 700,
+          "torque_rpm": "1750-3250",
+          "compression_ratio": "16.3:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Electric compressor spools in 250 milliseconds eliminating turbo lag."
+        },
+        {
+          "engine_code": "CWGD",
+          "name": "3.0L V6 Turbo Petrol (SQ5 TFSI)",
+          "displacement_cc": 2995,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 260,
+          "power_rpm": "5400-6400",
+          "torque_nm": 500,
+          "torque_rpm": "1370-4500",
+          "compression_ratio": "11.2:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Twin-scroll turbo mounted inside 90-degree vee."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "45 TFSI quattro",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed S tronic"
+          ],
+          "msrp_aud_min": 69900,
+          "msrp_aud_max": 82800,
+          "fuel_consumption_l_100km": 7.3,
+          "kerb_weight_kg": 1825,
+          "standard_features": [
+            "19-inch alloys",
+            "Audi Virtual Cockpit Plus",
+            "quattro ultra technology",
+            "Wireless Apple CarPlay"
+          ],
+          "notes": "Volume Australian luxury seller."
+        },
+        {
+          "badge_name": "SQ5 TDI / Sportback",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "5-door Sportback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed tiptronic"
+          ],
+          "msrp_aud_min": 104900,
+          "msrp_aud_max": 116400,
+          "fuel_consumption_l_100km": 7.0,
+          "kerb_weight_kg": 2010,
+          "standard_features": [
+            "21-inch Audi Sport wheels",
+            "Adaptive air suspension",
+            "Matrix LED headlights with OLED taillights",
+            "Bang & Olufsen 3D sound",
+            "quattro sport rear differential"
+          ],
+          "notes": "0-100km/h in 5.1s. 700Nm diesel rocket."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SQ5 TDI / Sportback",
+          "body_style": "5-door SUV",
+          "engine_code": "DECA",
+          "transmission": "8-speed tiptronic",
+          "drivetrain": "AWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 110400,
+          "power_kw": 251,
+          "torque_nm": 700,
+          "fuel_l_100km": 7.0,
+          "towing_braked_kg": 2000,
+          "notes": "700Nm electric compressor turbo-diesel SUV."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FY",
+          "category": "exterior",
+          "caption": "Audi_Q5_FY_50_TFSI_e_Facelift in Stuttgart-Vaihingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Audi_Q5_FY_50_TFSI_e_Facelift_IMG_5284.jpg/1280px-Audi_Q5_FY_50_TFSI_e_Facelift_IMG_5284.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/audi/q5-sq5/audi_q5-sq5_FY_1_Audi_Q5_FY_50_TFSI_e_Facelift_IMG_5284.jpg",
+          "file_size_bytes": 265388,
+          "sha256": "26bec6c192ea21efefab3f5778c61b7ff8edd598fd304d3d65e45d9e6a26068b"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "make_slug": "goggomobil-dart",
+  "name": "Buckle / Goggomobil Australia",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1955,
+    "end": 1962
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Buckle Motors was founded by Sydney automotive entrepreneur and racing driver Bill Buckle. To bypass steep Australian import tariffs on completed motor vehicles in the late 1950s, Buckle negotiated with Hans Glas GmbH in Germany to import rolling chassis of the Goggomobil microcar, manufacturing fiberglass sedan, coupe, and van bodies at his Punchbowl and Brookvale workshops in Sydney. In 1959, Buckle designed and released his masterpiece: the Goggomobil Dart. A doorless, two-seat aerodynamic roadster weighing only 345 kg and standing just 1.1 meters tall, the Dart was powered by a rear-mounted 300cc or 400cc air-cooled twin-cylinder two-stroke engine. The Dart achieved lasting Australian fame, becoming a beloved cultural icon celebrated for its delightful styling and timeless Yellow Pages television commercials.",
+  "australian_history": "Bill Buckle was one of the true creative visionaries of Australian motoring. In 1955, he designed and constructed the Buckle 2.5 Litre coupe, a lightweight fiberglass grand tourer utilizing Ford Zephyr mechanicals that competed successfully at Mount Panorama and Australian sports car championships.\n\nSeeking a high-volume manufacturing venture, Buckle traveled to Dingolfing, West Germany in 1957 to meet Hans Glas. Australia imposed steep 65% import duties on assembled cars, but imported chassis components attracted only 7.5% duty. Buckle secured exclusive Australian rights to import Goggomobil mechanicals and set up a state-of-the-art fiberglass moulding plant in Brookvale, northern Sydney. Buckle produced hundreds of Goggomobil Sedans (Regent), Coupes (TS), and lightweight Transporter delivery vans.\n\nIn 1958, Buckle conceived an ultra-low, two-seat sports roadster on the 1,800mm Goggomobil chassis. Eschewing heavy doors that would compromise torsional rigidity, Buckle molded an ultra-lightweight one-piece fiberglass tub with scalloped sides that drivers and passengers simply stepped into. The styling featured tiny tail fins, faired-in headlamps, and a wraparound Plexiglas windscreen. Launched in 1959 as the Goggomobil Dart, it retailed for just 635 Australian pounds. Powered by a rear-mounted 293cc (15 hp) or 392cc (20 hp) twin-cylinder air-cooled two-stroke engine coupled to an innovative electric pre-selector transmission, the Dart could reach 100 km/h and offered astonishing agility. Around 700 Darts were built before production ended in 1962 as the BMC Mini arrived. Decades later, the Dart entered Australian pop culture folklore through Tommy Dyson's legendary Yellow Pages television advertisements.",
+  "models_catalog": [
+    {
+      "model_slug": "dart",
+      "name": "Goggomobil Dart",
+      "vehicle_type": "Roadster",
+      "segment": "Micro Sports",
+      "years_sold_au": {
+        "start": 1959,
+        "end": 1962
+      },
+      "locally_built": true,
+      "overview": "The iconic Australian doorless micro-sports roadster designed by Bill Buckle, featuring an ultra-light 345kg fiberglass body and rear-mounted Glas 2-stroke engine.",
+      "generations": [
+        {
+          "series_code": "Dart",
+          "generation_name": "Goggomobil Dart",
+          "years": {
+            "start": 1959,
+            "end": 1962
+          },
+          "body_styles": [
+            "2-door-less open roadster"
+          ],
+          "summary": "Glas 293cc/392cc twin 2-stroke (11kW-15kW), 4-speed electric pre-selector gearbox, 345 kg curb weight; ~700 built in Sydney."
+        }
+      ]
+    },
+    {
+      "model_slug": "sedan-coupe-van",
+      "name": "Buckle Goggomobil Sedan / Coupe / Van",
+      "vehicle_type": "Microcar / Van",
+      "segment": "Microcar",
+      "years_sold_au": {
+        "start": 1958,
+        "end": 1961
+      },
+      "locally_built": true,
+      "overview": "Locally molded fiberglass-bodied Goggomobil microcars produced in Sydney, including the Regent sedan, TS coupe, and Transporter van.",
+      "generations": [
+        {
+          "series_code": "T-TS-TL",
+          "generation_name": "Buckle Goggomobil Range",
+          "years": {
+            "start": 1958,
+            "end": 1961
+          },
+          "body_styles": [
+            "2-door sedan (Regent)",
+            "2-door coupe (TS)",
+            "Panel van (Transporter)"
+          ],
+          "summary": "300cc and 400cc 2-stroke engines, suicide doors, full fiberglass construction made in Brookvale, NSW."
+        }
+      ]
+    }
+  ]
+}

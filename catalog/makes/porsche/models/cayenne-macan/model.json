@@ -1,0 +1,402 @@
+{
+  "make_slug": "porsche",
+  "model_slug": "cayenne-macan",
+  "name": "Cayenne & Macan",
+  "vehicle_type": "Luxury Performance SUV",
+  "segment": "Medium & Large Luxury SUV",
+  "years_sold_au": {
+    "start": 2003,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The commercial lifeblood of modern Porsche. When introduced in 2003, the Cayenne proved that a true Porsche could haul five adults and conquer the Simpson Desert, while setting racetrack lap records. The smaller Macan arrived in 2014, quickly becoming Porsche's best-selling model in Australia, and leading Porsche's electric transformation with the Macan EV.",
+  "australian_market_notes": "The Cayenne arrived in Australia in mid-2003 to initial skepticism that rapidly dissolved as buyers experienced its astonishing handling and 3,500kg towing prowess. In 2014, the Macan debuted, quickly capturing huge waiting lists in Sydney and Melbourne.",
+  "manuals": [
+    {
+      "title": "Porsche Cayenne & Macan Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2003,
+      "language": "en",
+      "source_url": "local://catalog/makes/porsche/models/cayenne-macan/model.json",
+      "local_path": "media/manuals/porsche/cayenne-macan/porsche_cayenne-macan_au_technical_manual.pdf",
+      "file_size_bytes": 5979,
+      "sha256": "59a4c0abe5e66bee4b8611ecbf90081f4b4238e3e70e79805939f1c99c0cc18c",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Techart Macan at Geneva International Motor Show 2018",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Techart_Macan%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1534%29.jpg/1280px-Techart_Macan%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1534%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Matti Blume)",
+      "local_path": "media/pictures/porsche/cayenne-macan/porsche_cayenne-macan_hero_1_Techart_Macan_GIMS_2018_Le_Grand-Saconnex_1X7A1534_.jpg",
+      "file_size_bytes": 318288,
+      "sha256": "bb9c5b45bf428f380407f3544c4e0382ccc1ab9bcf7e7c86440a49a29ea2ea98"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "955/957",
+      "generation_name": "Cayenne First Generation (Typ 955/957)",
+      "years": {
+        "start": 2003,
+        "end": 2010
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Volkswagen Group PL71",
+      "ancap_rating": "Unrated",
+      "summary": "First-generation Cayenne featuring permanent 4WD with low-range transfer case, center and rear locking differentials, air suspension, Cayenne S 4.5/4.8 V8, and the earth-shattering Cayenne Turbo and Turbo S.",
+      "engines": [
+        {
+          "engine_code": "M48/50",
+          "name": "4.5L Twin-Turbo V8 (Cayenne Turbo)",
+          "displacement_cc": 4511,
+          "displacement_litres": 4.5,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 331,
+          "power_rpm": "6000",
+          "torque_nm": 620,
+          "torque_rpm": "2250-4750",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 32-valve VarioCam",
+          "notes": "Twin turbochargers with twin intercoolers; 0-100km/h in 5.6s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cayenne Turbo",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed Tiptronic S"
+          ],
+          "msrp_aud_min": 207900,
+          "msrp_aud_max": 235000,
+          "fuel_consumption_l_100km": 15.7,
+          "kerb_weight_kg": 2355,
+          "standard_features": [
+            "PASM air suspension with ride height adjustment",
+            "Low range transfer case with center diff lock",
+            "19-inch Turbo alloys",
+            "Bose surround sound",
+            "Leather upholstery"
+          ],
+          "notes": "The super-SUV pioneer that rescued Porsche's balance sheet."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cayenne Turbo",
+          "body_style": "5-door SUV",
+          "engine_code": "M48/50",
+          "transmission": "6-speed Tiptronic S",
+          "drivetrain": "AWD",
+          "years_start": 2003,
+          "years_end": 2007,
+          "msrp_aud": 209000,
+          "power_kw": 331,
+          "torque_nm": 620,
+          "fuel_l_100km": 15.7,
+          "towing_braked_kg": 3500,
+          "notes": "Heavy-duty off-road capable 331kW super-SUV."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "955/957",
+          "category": "exterior",
+          "caption": "2010–2011 Porsche Cayenne (92A MY11) S wagon. Photographed in Marrickville, New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2010-2011_Porsche_Cayenne_%2892A_MY11%29_S_wagon_%282011-08-03%29_01.jpg/1280px-2010-2011_Porsche_Cayenne_%2892A_MY11%29_S_wagon_%282011-08-03%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/porsche/cayenne-macan/porsche_cayenne-macan_955_957_1_2010-2011_Porsche_Cayenne_92A_MY11_S_wagon_2011-08-03_01.jpg",
+          "file_size_bytes": 283299,
+          "sha256": "4f18bcf135c4dd347094e7e51dc297e5f1e87cea9a2a5284bc248226b46b0b71"
+        }
+      ]
+    },
+    {
+      "series_code": "9Y0",
+      "generation_name": "Cayenne Third Generation (Typ 9Y0 & Turbo GT)",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV",
+        "5-door Coupé"
+      ],
+      "platform": "Volkswagen Group MLB evo",
+      "ancap_rating": "5 stars",
+      "summary": "Lightweight aluminum chassis MLB evo, rear-axle steering, 48V active anti-roll stabilization, and the record-setting Cayenne Turbo GT Coupé with 471kW 4.0L twin-turbo V8.",
+      "engines": [
+        {
+          "engine_code": "DWD",
+          "name": "4.0L Twin-Turbo V8 (Turbo GT)",
+          "displacement_cc": 3996,
+          "displacement_litres": 4.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 471,
+          "power_rpm": "6000",
+          "torque_nm": 850,
+          "torque_rpm": "2300-4500",
+          "compression_ratio": "9.7:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Upgraded crankshaft, conrods, pistons, and titanium central exhaust."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Cayenne Turbo GT Coupé",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Coupé"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed Tiptronic S"
+          ],
+          "msrp_aud_min": 336100,
+          "msrp_aud_max": 366200,
+          "fuel_consumption_l_100km": 12.6,
+          "kerb_weight_kg": 2220,
+          "standard_features": [
+            "22-inch GT Design wheels in Neodyme",
+            "Carbon ceramic brakes (PCCB)",
+            "Titanium sports exhaust with center tips",
+            "Carbon fibre roof",
+            "Alcantara interior with contrast stitching"
+          ],
+          "notes": "0-100km/h in 3.3s. Nurburgring production SUV lap record."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Cayenne Turbo GT Coupé",
+          "body_style": "5-door Coupé",
+          "engine_code": "DWD",
+          "transmission": "8-speed Tiptronic S",
+          "drivetrain": "AWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 351900,
+          "power_kw": 471,
+          "torque_nm": 850,
+          "fuel_l_100km": 12.6,
+          "towing_braked_kg": 3500,
+          "notes": "471kW track-tuned hyper-SUV Coupé."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "9Y0",
+          "category": "exterior",
+          "caption": "Porsche Cayenne (9Y0) Washington DC, USA",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Porsche_Cayenne_%289Y0%29_Washington_DC_Metro_Area%2C_USA.jpg/1280px-Porsche_Cayenne_%289Y0%29_Washington_DC_Metro_Area%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 4.0 (OWS Photography)",
+          "local_path": "media/pictures/porsche/cayenne-macan/porsche_cayenne-macan_9Y0_1_Porsche_Cayenne_9Y0_Washington_DC_Metro_Area_USA.jpg",
+          "file_size_bytes": 250126,
+          "sha256": "b98839a9f76c25bdee2efa7721a1c8d2992d364285edd3139a8aba0d2c2ee1d9"
+        }
+      ]
+    },
+    {
+      "series_code": "95B",
+      "generation_name": "Macan First Generation (Typ 95B)",
+      "years": {
+        "start": 2014,
+        "end": 2024
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Volkswagen Group MLB (Porsche modified)",
+      "ancap_rating": "5 stars",
+      "summary": "Porsche's mega-volume mid-size SUV. Heavily re-engineered MLB chassis with rear-biased all-wheel drive, dual-clutch PDK, 2.0T four-cylinder, 3.0T/2.9T twin-turbo V6, Macan GTS, and Macan Turbo.",
+      "engines": [
+        {
+          "engine_code": "DGR",
+          "name": "2.9L Twin-Turbo V6 (Macan GTS)",
+          "displacement_cc": 2894,
+          "displacement_litres": 2.9,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 324,
+          "power_rpm": "5700-6600",
+          "torque_nm": 550,
+          "torque_rpm": "1900-5600",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Hot-V twin-turbo engine producing 440hp in flagship Macan GTS."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Macan GTS",
+          "years": {
+            "start": 2016,
+            "end": 2024
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed PDK"
+          ],
+          "msrp_aud_min": 109500,
+          "msrp_aud_max": 141700,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 1960,
+          "standard_features": [
+            "21-inch RS Spyder Design alloys",
+            "GTS sport air suspension (10mm lowered)",
+            "Sport Chrono package",
+            "Porsche Surface Coated Brakes (PSCB)",
+            "GTS sports seats in leather and Race-Tex"
+          ],
+          "notes": "0-100km/h in 4.3s. The driver's medium luxury SUV benchmark."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Macan GTS",
+          "body_style": "5-door SUV",
+          "engine_code": "DGR",
+          "transmission": "7-speed PDK",
+          "drivetrain": "AWD",
+          "years_start": 2021,
+          "years_end": 2024,
+          "msrp_aud": 133900,
+          "power_kw": 324,
+          "torque_nm": 550,
+          "fuel_l_100km": 9.9,
+          "towing_braked_kg": 2400,
+          "notes": "324kW twin-turbo sports flagship Macan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "95B",
+          "category": "exterior",
+          "caption": "Launch: 2014\nGeneration: First (Typ 95B, 2014 - )\nEngine: 2,0 litre turbo R4 (petrol) \nPower: 245 PS\nGearbox: 7 speed PDK\n\nLayout: front engine, all wheel drive",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Porsche_Macan_%282018%29_%2853322690126%29.jpg/1280px-Porsche_Macan_%282018%29_%2853322690126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Charles from Port Chester, New York)",
+          "local_path": "media/pictures/porsche/cayenne-macan/porsche_cayenne-macan_95B_1_Porsche_Macan_2018_53322690126_.jpg",
+          "file_size_bytes": 315632,
+          "sha256": "9278878056b62ccd13945d942c030ca65d4f52d19757105eca02340d877b178d"
+        }
+      ]
+    },
+    {
+      "series_code": "XAB",
+      "generation_name": "Macan Electric (Typ XAB)",
+      "years": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Premium Platform Electric (PPE)",
+      "ancap_rating": "5 stars",
+      "summary": "Next-generation dedicated electric Macan built on the 800V PPE platform. Equipped with 100kWh lithium-ion battery, dual permanently excited synchronous electric motors, rear-axle steering, and up to 470kW (639hp) and 1,130Nm in the Macan Turbo EV.",
+      "engines": [
+        {
+          "engine_code": "PPE-DUAL",
+          "name": "Dual Permanent Magnet Electric Motors (Macan Turbo EV)",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Electric",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Electric",
+          "power_kw": 470,
+          "power_rpm": "Overboost",
+          "torque_nm": 1130,
+          "torque_rpm": "0-6000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "100kWh gross battery; 270kW DC ultra-rapid 800V charging (10-80% in 21 mins)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Macan Turbo EV",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "1-speed direct drive"
+          ],
+          "msrp_aud_min": 180100,
+          "msrp_aud_max": 205000,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 2405,
+          "standard_features": [
+            "21-inch Macan Turbo wheels",
+            "Porsche Torque Vectoring Plus (PTV Plus)",
+            "Air suspension with PASM",
+            "Curved OLED instrument cluster",
+            "Augmented reality head-up display"
+          ],
+          "notes": "0-100km/h in 3.3s. High-voltage EV performance hero."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Macan Turbo EV",
+          "body_style": "5-door SUV",
+          "engine_code": "PPE-DUAL",
+          "transmission": "1-speed direct drive",
+          "drivetrain": "AWD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 180100,
+          "power_kw": 470,
+          "torque_nm": 1130,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 2000,
+          "notes": "470kW electric all-wheel drive SUV with 1130Nm."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "XAB",
+          "category": "exterior",
+          "caption": "Porsche Macan (XAB) in Filderstadt",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Porsche_Macan_%28XAB%29_DSC_6053.jpg/1280px-Porsche_Macan_%28XAB%29_DSC_6053.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/porsche/cayenne-macan/porsche_cayenne-macan_XAB_1_Porsche_Macan_XAB_DSC_6053.jpg",
+          "file_size_bytes": 350451,
+          "sha256": "b5a17abb9d4f0d80440fb76fc3233e1dcc34a8bc604993f818d9464ff2de15f2"
+        }
+      ]
+    }
+  ]
+}

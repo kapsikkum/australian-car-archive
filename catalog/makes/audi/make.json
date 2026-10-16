@@ -1,0 +1,255 @@
+{
+  "make_slug": "audi",
+  "name": "Audi",
+  "country_of_origin": "Germany",
+  "years_active_au": {
+    "start": 1968,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Audi represents Vorsprung durch Technik in Australia, celebrated for quattro all-wheel drive, RS performance estates, and high-tech luxury SUVs.",
+  "australian_history": "Audi entered the Australian market in the late 1960s with models like the Audi Super 90 and 100 sold through Volkswagen dealers. Distribution transitioned through LNC Industries and Ateco Automotive until Audi Australia Pty Ltd was established in 1997. Audi's Australian breakthrough accelerated in the 2000s under managing director Joerg Hofmann, who expanded the national dealer network and established the brand as a core German luxury rival to BMW and Mercedes-Benz. Audi's motorsport triumphs at Mount Panorama—including back-to-back Bathurst 12 Hour victories with the Audi R8 LMS GT3 in 2011 and 2012—cemented its high-performance reputation. Models like the A4, A3, Q5, Q7, and RS performance flagships (RS3, RS4, RS6 Avant) remain Australian automotive favorites.",
+  "models_catalog": [
+    {
+      "model_slug": "a4",
+      "name": "A4",
+      "vehicle_type": "Sedan / Avant Wagon / Allroad",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1995,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Audi's core luxury sedan and Avant wagon, pioneering quattro all-wheel drive in the compact executive class across B5 through B9.",
+      "generations": [
+        {
+          "series_code": "B5-B6",
+          "generation_name": "A4 B5 & B6",
+          "years": {
+            "start": 1995,
+            "end": 2005
+          },
+          "body_styles": [
+            "Sedan",
+            "Avant wagon"
+          ],
+          "summary": "Replaced Audi 80; introduced 1.8 20V, 1.8T quattro, 2.8 V6, S4 2.7 biturbo, and 4.2 V8 B6 S4."
+        },
+        {
+          "series_code": "B7-B8",
+          "generation_name": "A4 B7 & B8",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "Sedan",
+            "Avant",
+            "Allroad"
+          ],
+          "summary": "Singleframe grille, 2.0 TFSI, 3.0 TDI, high-revving 4.2L V8 RS4 (309kW), and MLB platform B8."
+        },
+        {
+          "series_code": "B9",
+          "generation_name": "A4 B9",
+          "years": {
+            "start": 2016,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Avant",
+            "Allroad"
+          ],
+          "summary": "Virtual Cockpit, 35/40/45 TFSI, 2.9L twin-turbo V6 RS4 Avant (331kW / 600Nm)."
+        }
+      ]
+    },
+    {
+      "model_slug": "q5",
+      "name": "Q5",
+      "vehicle_type": "SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Audi's top-selling vehicle in Australia, revered by families for its refined quattro dynamics, TDI torque, and high-performance SQ5 variant.",
+      "generations": [
+        {
+          "series_code": "8R",
+          "generation_name": "Q5 First Generation",
+          "years": {
+            "start": 2009,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "MLB architecture, 2.0 TFSI, 3.0 TDI, and wildly popular twin-turbo diesel SQ5 TDI (230kW / 650Nm)."
+        },
+        {
+          "series_code": "FY",
+          "generation_name": "Q5 Second Generation",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "Sportback"
+          ],
+          "summary": "Quattro with ultra technology, 40 TDI, 45 TFSI, Sportback coupe silhouette, and SQ5 3.0 TDI."
+        }
+      ]
+    },
+    {
+      "model_slug": "rs6-avant",
+      "name": "RS6 Avant",
+      "vehicle_type": "Wagon",
+      "segment": "High Performance Luxury",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The ultimate high-performance family supercar wagon in Australia, featuring twin-turbo V8 and V10 power with quattro traction.",
+      "generations": [
+        {
+          "series_code": "C5-C6",
+          "generation_name": "RS6 C5 & C6",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "Sedan",
+            "Avant wagon"
+          ],
+          "summary": "C5 4.2L twin-turbo V8 (331kW); C6 monumental 5.0L twin-turbo V10 (426kW / 650Nm)."
+        },
+        {
+          "series_code": "C7-C8",
+          "generation_name": "RS6 C7 & C8",
+          "years": {
+            "start": 2013,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Avant wagon"
+          ],
+          "summary": "4.0L twin-turbo V8 producing up to 463kW (630hp) in RS6 Performance with flared widebody."
+        }
+      ]
+    },
+    {
+      "model_slug": "a3-s3-rs3",
+      "name": "A3, S3 & RS3",
+      "vehicle_type": "Hatchback (Sportback) / Sedan / Cabriolet",
+      "segment": "Small Luxury Sports Car",
+      "years_sold_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The pioneer of the premium compact segment in Australia. Spanning four generations (8L, 8P, 8V, and 8Y), the A3 introduced luxury hatchback packaging and quattro all-wheel drive, reaching high-performance zeniths with the S3 quattro and the spine-tingling 2.5-litre turbocharged inline-5 Audi RS3 producing 294kW.",
+      "generations": [
+        {
+          "series_code": "8L",
+          "generation_name": "A3 & S3 First Generation (Typ 8L)",
+          "years": {
+            "start": 1996,
+            "end": 2003
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "Introduced premium German finish to the compact class. Highlighted by the original S3 quattro powered by a 1.8-litre 20-valve turbo with Haldex AWD and flared front and rear arches."
+        },
+        {
+          "series_code": "8P",
+          "generation_name": "A3, S3 & RS3 Second Generation (Typ 8P)",
+          "years": {
+            "start": 2003,
+            "end": 2012
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door Sportback",
+            "Cabriolet"
+          ],
+          "summary": "Pioneered the Sportback body style and dual-clutch S tronic transmission. Featured 2.0 TFSI, 3.2 VR6, S3 quattro (188kW), and the debut of the RS3 Sportback with the 250kW 2.5L 5-cylinder turbo."
+        },
+        {
+          "series_code": "8V",
+          "generation_name": "A3, S3 & RS3 Third Generation (Typ 8V)",
+          "years": {
+            "start": 2012,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door Sportback",
+            "4-door Sedan",
+            "Cabriolet"
+          ],
+          "summary": "Built on the MQB platform, introducing the wildly popular A3/S3/RS3 Sedan body style. S3 delivered 206kW-228kW, while the RS3 featured the all-aluminium DAZA 2.5L five-cylinder pumping out 294kW and 480Nm."
+        },
+        {
+          "series_code": "8Y",
+          "generation_name": "A3, S3 & RS3 Fourth Generation (Typ 8Y)",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Sportback",
+            "4-door Sedan"
+          ],
+          "summary": "Built on MQB evo with sharp polygonal styling. Features the 228kW S3 and the flagship RS3 armed with 294kW, 500Nm, and the revolutionary RS Torque Splitter rear differential with RS Torque Rear drift mode."
+        }
+      ]
+    },
+    {
+      "model_slug": "q5-sq5",
+      "name": "Q5 & SQ5",
+      "vehicle_type": "Medium Luxury SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2009,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Audi's best-selling luxury SUV in Australia. Built on the longitudinal MLB platform with quattro permanent all-wheel drive, the Q5 balanced executive prestige with family versatility, while the twin-turbo diesel SQ5 BiTDI became an unprecedented cult sales sensation in Australia.",
+      "generations": [
+        {
+          "series_code": "8R",
+          "generation_name": "Q5 & SQ5 First Generation (Typ 8R)",
+          "years": {
+            "start": 2009,
+            "end": "2017"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "First-generation premium mid-size SUV featuring longitudinal engines, quattro AWD, 2.0 TDI/TFSI, 3.0 TDI, and the market-defining SQ5 TDI with a 230kW/240kW 650Nm twin-turbo diesel V6 and sound actuator exhaust."
+        },
+        {
+          "series_code": "FY",
+          "generation_name": "Q5 & SQ5 Second Generation (Typ FY)",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "5-door Sportback"
+          ],
+          "summary": "Built on MLB evo platform with up to 90kg weight reduction. Features quattro ultra AWD, Virtual Cockpit, 45 TFSI, and the SQ5 TDI with 48V electric powered compressor (EPC) delivering 251kW and 700Nm."
+        }
+      ]
+    }
+  ]
+}

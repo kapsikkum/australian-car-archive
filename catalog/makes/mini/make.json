@@ -1,0 +1,147 @@
+{
+  "make_slug": "mini",
+  "name": "MINI",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1961,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "One of Australia's most revered nameplates, manufactured at BMC Zetland Sydney (yielding unique Australian features, 1966 Bathurst 500 class domination, and the Australian Moke) and reborn globally under BMW.",
+  "australian_history": "The Mini made Australian history from the moment production commenced in 1961 at the British Motor Corporation (BMC) plant in Zetland, Sydney. Australian engineers adapted Sir Alec Issigonis' masterpiece for local conditions, engineering wind-up windows with quarter-vent lights years before the UK model adopted them, as well as unique door locks and Australian upholstery. In October 1966, the Mini Cooper S etched its name into Bathurst history: Rauno Aaltonen and Bob Holden drove a Zetland-built Cooper S to outright victory at the Gallaher 500, with Cooper S models famously sweeping the top nine outright positions! The Zetland plant also designed and manufactured the Mini Moke, converting it into the rugged Australian 'Californian' recreational utility and exporting thousands globally. Modern MINI returned to Australia in 2002 under the BMW Group, delighting drivers with go-kart handling across Hatch, Convertible, Clubman, and Countryman variants.",
+  "models_catalog": [
+    {
+      "model_slug": "mini-classic-moke",
+      "name": "Classic Mini / Cooper / Moke",
+      "vehicle_type": "Hatchback / Utility / Roadster",
+      "segment": "Small / Micro Car",
+      "years_sold_au": {
+        "start": 1961,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "The complete Australian Mini story, from Zetland-manufactured Morris 850, Bathurst-winning Cooper S, Clubman GT, and Aussie Moke to modern BMW MINI generations.",
+      "generations": [
+        {
+          "series_code": "Morris-850-Cooper",
+          "generation_name": "Mini Mk I & II (Australian)",
+          "years": {
+            "start": 1961,
+            "end": 1970
+          },
+          "body_styles": [
+            "2-door saloon",
+            "Van"
+          ],
+          "summary": "Built at Zetland NSW; 848cc, 998cc Cooper, and twin-carb 1275cc Cooper S (1966 Bathurst 500 outright winner)."
+        },
+        {
+          "series_code": "Clubman-GT",
+          "generation_name": "Mini Clubman & Clubman GT",
+          "years": {
+            "start": 1971,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door saloon",
+            "Van"
+          ],
+          "summary": "Australian-exclusive Clubman GT featuring twin 1.5-inch SU carbs, Bathurst sports dash, and 10-inch Rostyle wheels."
+        },
+        {
+          "series_code": "Californian-Moke",
+          "generation_name": "Australian Mini Moke",
+          "years": {
+            "start": 1966,
+            "end": 1981
+          },
+          "body_styles": [
+            "Open utility / recreational"
+          ],
+          "summary": "Designed and built at Zetland; 998cc and 1275cc Californian with 13-inch wheels, tubular bullbars, and denim trim."
+        },
+        {
+          "series_code": "R50-R53",
+          "generation_name": "New MINI First Generation",
+          "years": {
+            "start": 2002,
+            "end": 2006
+          },
+          "body_styles": [
+            "3-door hatch",
+            "Convertible"
+          ],
+          "summary": "BMW revival; 1.6L Tritec engine, Cooper, and supercharged 125kW Cooper S with bonnet scoop."
+        },
+        {
+          "series_code": "R56",
+          "generation_name": "New MINI Second Generation",
+          "years": {
+            "start": 2007,
+            "end": 2013
+          },
+          "body_styles": [
+            "3-door hatch",
+            "Convertible",
+            "Clubman",
+            "Coupe"
+          ],
+          "summary": "Prince 1.6L Turbo engine, Cooper S (128kW/135kW), and 155kW John Cooper Works (JCW)."
+        },
+        {
+          "series_code": "F56",
+          "generation_name": "MINI Third Generation",
+          "years": {
+            "start": 2014,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch",
+            "Convertible"
+          ],
+          "summary": "UKL platform, 1.5T 3-cylinder Cooper, 2.0T 4-cylinder Cooper S (141kW), 170kW JCW, and 225kW GP3."
+        }
+      ]
+    },
+    {
+      "model_slug": "countryman",
+      "name": "Countryman",
+      "vehicle_type": "SUV",
+      "segment": "Compact Luxury SUV",
+      "years_sold_au": {
+        "start": 2011,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The largest MINI, offering genuine five-seat family room, ALL4 all-wheel drive, and punchy turbo performance.",
+      "generations": [
+        {
+          "series_code": "R60",
+          "generation_name": "Countryman First Generation",
+          "years": {
+            "start": 2011,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Four doors, centre rail storage, ALL4 all-wheel drive, Cooper S and JCW."
+        },
+        {
+          "series_code": "F60-U25",
+          "generation_name": "Countryman 2nd & 3rd Gen",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Grown family proportions; plug-in hybrid SE ALL4, 225kW JCW, and all-electric U25 Countryman E/SE."
+        }
+      ]
+    }
+  ]
+}

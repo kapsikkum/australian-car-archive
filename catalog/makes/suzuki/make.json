@@ -1,0 +1,319 @@
+{
+  "make_slug": "suzuki",
+  "name": "Suzuki",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1974,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Masters of lightweight 4x4s, cheerful hatchbacks, and cult oddities like the Mighty Boy. Celebrated for Jimny, Swift GTi, and Vitara.",
+  "australian_history": "Suzuki's Australian adventure kicked off in 1974 with the importation of lightweight 4x4 vehicles by Mayne Nickless and regional distributors like MW Suzuki in Queensland. The tiny two-stroke LJ50 4WD immediately gained a cult following for its ability to float over soft coastal sand dunes and scramble up rock trails where heavy trucks got bogged.\n\nIn 1981, Suzuki introduced the Sierra (SJ410/SJ413), a ladder-chassis, dual-range 4WD that became an Australian icon. Lightweight, cheap to run, and endlessly customizable, the Sierra introduced thousands of young Australians to four-wheel driving. In 1985, Suzuki launched the Mighty Boy, a 543cc, front-wheel-drive micro-ute. Classified as a commercial vehicle with lower tariffs, the Mighty Boy became a quirky Aussie pop-culture legend.\n\nIn the small car arena, Suzuki struck gold in 1986 with the Swift GTi. Packing a 1.3L DOHC 16-valve engine revving to 7,500 rpm into a sub-800kg hatchback, the GTi became the quintessential giant-killer on road and rally stages. Through a long-running joint venture with General Motors, Suzuki's Swift was also assembled and sold in Australia as the Holden Barina (MB through MH series) from 1985 to 1994, winning Wheels Car of the Year in 1985.\n\nIn 1988, Suzuki created the compact lifestyle 4WD class with the Vitara, combining coil-spring road comfort with dual-range off-road hardware. In 1998, the Jimny replaced the Sierra, maintaining a live-axle ladder chassis while modernizing safety. The 2018 fourth-generation Jimny (JB74) ignited unprecedented demand in Australia, with waitlists stretching beyond two years. Today, Suzuki Australia operates through Suzuki Australia (eastern states) and independent distributor MW Suzuki (Western Australia).",
+  "models_catalog": [
+    {
+      "model_slug": "jimny",
+      "name": "Jimny",
+      "vehicle_type": "4WD SUV",
+      "segment": "Compact 4WD",
+      "years_sold_au": {
+        "start": 1998,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The world's purest mini off-roader: separate ladder chassis, live axles front and rear, and dual-range 4WD.",
+      "generations": [
+        {
+          "series_code": "JB23/JB43",
+          "generation_name": "Jimny 3rd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2018
+          },
+          "body_styles": [
+            "3-door Hardtop",
+            "Cabrio Soft-top"
+          ],
+          "summary": "1.3L G13BB then M13A engine, coil springs, vacuum-locking hubs; 20-year Australian sales run."
+        },
+        {
+          "series_code": "JB64/JB74/JC74",
+          "generation_name": "Jimny 4th Gen",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door 4WD",
+            "5-door XL 4WD"
+          ],
+          "summary": "Retro boxy styling, 1.5L K15B engine, AllGrip Pro 4WD; 3-door Jimny and 5-door Jimny XL."
+        }
+      ]
+    },
+    {
+      "model_slug": "sierra",
+      "name": "Sierra",
+      "vehicle_type": "4WD SUV / Ute",
+      "segment": "Compact 4WD",
+      "years_sold_au": {
+        "start": 1981,
+        "end": "1999"
+      },
+      "locally_built": false,
+      "overview": "Australian bush legend, famous for lightweight rock climbing, beach running, and unstoppable off-road tenacity.",
+      "generations": [
+        {
+          "series_code": "SJ410/SJ413",
+          "generation_name": "Sierra",
+          "years": {
+            "start": 1981,
+            "end": 1999
+          },
+          "body_styles": [
+            "Soft-top",
+            "Hardtop",
+            "Long Wheelbase Ute"
+          ],
+          "summary": "1.0L F10A and 1.3L G13A/BA engines, dual-range transfer case, leaf springs, LWB tray-back ute."
+        }
+      ]
+    },
+    {
+      "model_slug": "mighty-boy",
+      "name": "Mighty Boy",
+      "vehicle_type": "Micro Ute",
+      "segment": "Kei Commercial",
+      "years_sold_au": {
+        "start": 1985,
+        "end": "1988"
+      },
+      "locally_built": false,
+      "overview": "Australia's smallest production ute, a 543cc front-wheel-drive cult hero with a 550kg kerb weight.",
+      "generations": [
+        {
+          "series_code": "SS40T",
+          "generation_name": "Mighty Boy",
+          "years": {
+            "start": 1985,
+            "end": 1988
+          },
+          "body_styles": [
+            "2-door Micro Ute"
+          ],
+          "summary": "543cc F5A 3-cylinder engine (21kW), 4-speed manual or 2-speed automatic, iconic Aussie cult classic."
+        }
+      ]
+    },
+    {
+      "model_slug": "swift",
+      "name": "Swift",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1984,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Australia's favourite pocket rocket in GTi trim, and later a stylish, fun-to-drive world hatchback.",
+      "generations": [
+        {
+          "series_code": "SA/AA",
+          "generation_name": "Swift 1st Gen",
+          "years": {
+            "start": 1984,
+            "end": 1989
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch"
+          ],
+          "summary": "1.0L 3-cyl and 1.3L 4-cyl; basis for Holden Barina MB/ML (Wheels COTY 1985); first GTi in 1986."
+        },
+        {
+          "series_code": "SF",
+          "generation_name": "Swift 2nd Gen",
+          "years": {
+            "start": 1989,
+            "end": 2000
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Convertible"
+          ],
+          "summary": "Legendary Swift GTi with 1.3L DOHC 16V G13B 74kW at 7,500rpm in an 810kg body."
+        },
+        {
+          "series_code": "RS/ZC21",
+          "generation_name": "Swift 3rd Gen (World Car)",
+          "years": {
+            "start": 2005,
+            "end": 2011
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "European-inspired styling, 1.5L M15A and Swift Sport 1.6L M16A (92kW); huge sales success."
+        },
+        {
+          "series_code": "FZ/ZC32",
+          "generation_name": "Swift 4th Gen",
+          "years": {
+            "start": 2011,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "1.4L K14B petrol and Swift Sport 1.6L M16A 100kW with 6-speed manual."
+        },
+        {
+          "series_code": "AZ/ZC33",
+          "generation_name": "Swift 5th Gen",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "Heartect platform, 1.2L Dualjet, 1.0L Boosterjet turbo, and 1.4L Boosterjet Turbo Swift Sport (103kW/230Nm)."
+        }
+      ]
+    },
+    {
+      "model_slug": "vitara",
+      "name": "Vitara",
+      "vehicle_type": "SUV",
+      "segment": "Compact / Small SUV",
+      "years_sold_au": {
+        "start": 1988,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The pioneer of the compact lifestyle 4WD, evolving into the rugged Grand Vitara and modern crossover.",
+      "generations": [
+        {
+          "series_code": "ET/TA",
+          "generation_name": "Vitara 1st Gen",
+          "years": {
+            "start": 1988,
+            "end": 1998
+          },
+          "body_styles": [
+            "SWB Soft/Hardtop",
+            "LWB 5-door"
+          ],
+          "summary": "1.6L G16A/B petrol, 2.0L V6 in 5-door, separate ladder chassis with dual-range 4WD."
+        },
+        {
+          "series_code": "FT/GT",
+          "generation_name": "Grand Vitara 2nd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door SUV",
+            "5-door SUV",
+            "XL-7 7-seater"
+          ],
+          "summary": "1.6L, 2.0L, 2.5L V6, and 2.7L V6 in stretched 7-seat XL-7; dual-range 4WD."
+        },
+        {
+          "series_code": "JT",
+          "generation_name": "Grand Vitara 3rd Gen",
+          "years": {
+            "start": 2005,
+            "end": 2014
+          },
+          "body_styles": [
+            "3-door SUV",
+            "5-door SUV"
+          ],
+          "summary": "Built-in ladder frame monocoque, IRS, 2.4L 4-cylinder, 2.7L/3.2L V6, and 1.9L diesel."
+        },
+        {
+          "series_code": "LY",
+          "generation_name": "Vitara 4th Gen",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Monocoque crossover, 1.6L naturally aspirated and 1.4L Boosterjet turbo (AllGrip AWD)."
+        }
+      ]
+    },
+    {
+      "model_slug": "jimny-sierra",
+      "name": "Jimny / Sierra / Stockman",
+      "vehicle_type": "Compact 4WD SUV",
+      "segment": "Light 4WD",
+      "years_sold_au": {
+        "start": 1974,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The Suzuki Jimny, Sierra, and Stockman represent Australia's most revered lightweight, go-anywhere 4WD institution. Defying its miniature dimensions with a genuine ladder-frame cha",
+      "generations": [
+        {
+          "series_code": "LJ50/LJ80",
+          "generation_name": "LJ50 & LJ80 (Stockman / Brute)",
+          "years": {
+            "start": 1974,
+            "end": 1981
+          },
+          "body_styles": [
+            "Soft-top Canvas",
+            "Hardtop Metal-roof",
+            "Cab Chassis Tray Ute"
+          ],
+          "summary": "The pioneer. LJ50 (539cc 3-cylinder 2-stroke water-cooled), followed by LJ80 (797cc 4-stroke 4-cylinder), ladder-frame c"
+        },
+        {
+          "series_code": "SJ410/SJ413",
+          "generation_name": "Sierra (SJ Series)",
+          "years": {
+            "start": 1981,
+            "end": 1998
+          },
+          "body_styles": [
+            "Soft-top Canvas",
+            "Hardtop Van",
+            "Long Wheelbase Tray Ute (Stockman)"
+          ],
+          "summary": "17-year reign that defined affordable 4WD culture in Australia. SJ410 (1.0L F10A) and SJ413 (1.3L G13A), wide-track upda"
+        },
+        {
+          "series_code": "JB33/JB43",
+          "generation_name": "Jimny 3rd Generation",
+          "years": {
+            "start": 1998,
+            "end": 2018
+          },
+          "body_styles": [
+            "3-door Hardtop SUV"
+          ],
+          "summary": "20-year production lifespan. Introduced aerodynamic rounded styling, coil-sprung 3-link rigid live axles front and rear,"
+        },
+        {
+          "series_code": "JB64/JB74",
+          "generation_name": "Jimny 4th Gen & 5-Door XL",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door SUV",
+            "5-door SUV (Jimny XL)"
+          ],
+          "summary": "Sensational retro boxy styling that created nationwide multi-year waiting lists. Features 1.5L K15B engine, AllGrip Pro "
+        }
+      ]
+    }
+  ]
+}

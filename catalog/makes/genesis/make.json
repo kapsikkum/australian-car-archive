@@ -1,0 +1,95 @@
+{
+  "make_slug": "genesis",
+  "name": "Genesis",
+  "country_of_origin": "South Korea",
+  "years_active_au": {
+    "start": 2019,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Hyundai Motor Group's standalone luxury brand, operating an agency model with luxury studios in Sydney, Melbourne, Brisbane, and Perth.",
+  "australian_history": "Genesis originally debuted in Australia in 2014 as a single model under the Hyundai banner: the Hyundai Genesis sedan (DH series). Praised for its 3.8L V6 powertrain, whisper-quiet cabin, and a then-record ANCAP safety score of 36.88 out of 37, it served as an executive limousine and government hire car.\n\nIn June 2019, Genesis officially launched as an independent luxury brand in Australia, opening its first opulent 'Genesis Studio' in Sydney's Pitt Street Mall. Genesis adopted an innovative fixed-price direct-to-consumer agency model, eliminating dealership price haggling and offering the 'Genesis Difference'—a 5-year warranty, complimentary scheduled servicing, and valet pick-up with loan cars.\n\nThe standalone rollout began with the G70 rear-wheel-drive sports sedan and G80 executive sedan. In 2020, Genesis introduced the GV80 luxury SUV, featuring 3.0L inline-6 turbo-diesel and 3.5L twin-turbo V6 power. The mid-size GV70 arrived in 2021, swiftly becoming the brand's top seller in Australia. In 2022, Genesis launched its dedicated electric vehicles: the GV60 on the 800V E-GMP platform, alongside electrified versions of the G80 and GV70.",
+  "models_catalog": [
+    {
+      "model_slug": "g70",
+      "name": "G70",
+      "vehicle_type": "Sedan / Shooting Brake",
+      "segment": "Medium Luxury Sedan",
+      "years_sold_au": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Rear-wheel-drive sports sedan and Shooting Brake wagon taking on the BMW 3 Series with 3.3L twin-turbo V6 power.",
+      "generations": [
+        {
+          "series_code": "IK",
+          "generation_name": "G70",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan",
+            "Shooting Brake"
+          ],
+          "summary": "2.0L Turbo (179kW) and 3.3L Twin-Turbo V6 (274kW/510Nm); Brembo brakes, mechanical LSD."
+        }
+      ]
+    },
+    {
+      "model_slug": "gv70",
+      "name": "GV70",
+      "vehicle_type": "SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Genesis's best-selling model in Australia, combining athletic design with 280kW V6 turbo and Electrified twin-motor EV options.",
+      "generations": [
+        {
+          "series_code": "JK1",
+          "generation_name": "GV70",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.5L Turbo petrol (224kW), 3.5L Twin-Turbo V6 (280kW), 2.2L diesel, and Electrified GV70 EV (360kW)."
+        }
+      ]
+    },
+    {
+      "model_slug": "gv80",
+      "name": "GV80",
+      "vehicle_type": "SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Full-size flagship luxury SUV offering 7 seats, rear-drive architecture, and Road Preview electronic suspension.",
+      "generations": [
+        {
+          "series_code": "JX1",
+          "generation_name": "GV80",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "Coupe"
+          ],
+          "summary": "2.5L Turbo petrol, 3.0L Inline-6 Turbo-diesel (204kW/588Nm), and 3.5L Twin-Turbo V6 (280kW/530Nm)."
+        }
+      ]
+    }
+  ]
+}

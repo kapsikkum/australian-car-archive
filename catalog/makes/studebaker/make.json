@@ -1,0 +1,43 @@
+{
+  "make_slug": "studebaker",
+  "name": "Studebaker",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 1960,
+    "end": "1966"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "Manufactured locally at Canada Bay (Sydney) and Motor Producers (Clayton), Studebaker was celebrated for the Lark V8, which served as Australia's first purpose-built high-speed police pursuit vehicle.",
+  "australian_history": "Studebaker vehicles were assembled in Australia from 1960 to 1966 by York Motors at Canada Bay in Sydney and by Motor Producers Limited in Clayton, Melbourne. The compact Studebaker Lark—fitted with the 259ci and 289ci V8 engines—became an Australian automotive sensation. In 1961, the Victoria Police and New South Wales Police selected the Studebaker Lark V8 as Australia's very first high-speed highway patrol pursuit car. The Lark could reach 105 mph (170 km/h) and outrun almost anything on Australian highways at the time. When Studebaker ceased car production in Canada in 1966, Australian assembly came to an end.",
+  "models_catalog": [
+    {
+      "model_slug": "lark",
+      "name": "Lark / Cruiser",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Medium / Large Car",
+      "years_sold_au": {
+        "start": 1960,
+        "end": "1966"
+      },
+      "locally_built": true,
+      "overview": "Locally assembled in Sydney and Melbourne; legendary as Australia's premier high-speed police pursuit special of the 1960s.",
+      "generations": [
+        {
+          "series_code": "Lark-Series",
+          "generation_name": "Studebaker Lark",
+          "years": {
+            "start": 1960,
+            "end": "1966"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Cruiser sedan",
+            "Wagon"
+          ],
+          "summary": "259ci and 289ci Studebaker V8, Borg-Warner automatic, disc front brakes, and Police Pursuit Special packages."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "make_slug": "byd",
+  "name": "BYD",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2022,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Build Your Dreams has rapidly evolved into Australia's second-biggest electric vehicle brand, celebrated for ultra-safe Blade Battery tech, the Atto 3, Seal sports sedan, and the groundbreaking Shark 6 plug-in hybrid ute.",
+  "australian_history": "BYD entered the Australian passenger car market in 2022 through local distributor EVDirect. Debuting with the Atto 3 electric compact SUV built on e-Platform 3.0, BYD gained immediate traction with high standard equipment, class-leading Blade Battery (LFP) safety, and competitive pricing. The line-up expanded rapidly with the Dolphin urban hatchback, the aerodynamic Seal performance sedan (rivaling the Tesla Model 3), and the Sealion 6 midsize PHEV SUV. In late 2024, BYD launched the Shark 6 dual-cab ute—a purpose-built plug-in hybrid utility featuring the DMO Super Hybrid platform with 321kW and extensive Australian outback suspension tuning, igniting huge consumer interest.",
+  "models_catalog": [
+    {
+      "model_slug": "shark-6-atto-3",
+      "name": "Shark 6 / Atto 3 / Seal",
+      "vehicle_type": "Ute / SUV / Sedan",
+      "segment": "Electric & PHEV Pioneers",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "BYD's trailblazing Australian pillars: the compact Atto 3 electric SUV, dynamic Seal electric sedan, and the muscular 321kW Shark 6 PHEV dual-cab ute.",
+      "generations": [
+        {
+          "series_code": "Atto-3",
+          "generation_name": "Atto 3 Electric SUV",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Standard Range (49.9kWh) and Extended Range (60.5kWh Blade Battery), 150kW front motor, rotating touchscreen."
+        },
+        {
+          "series_code": "Seal",
+          "generation_name": "Seal Electric Sports Sedan",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Dynamic RWD (150kW), Premium RWD (230kW), and Performance AWD (390kW / 670Nm, 0-100 in 3.8s, CTB cell-to-body tech)."
+        },
+        {
+          "series_code": "Shark-6",
+          "generation_name": "Shark 6 DMO Super Hybrid Ute",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "summary": "DMO ladder-frame platform; 1.5L turbo petrol + dual electric motors producing 321kW/650Nm, 29.58kWh Blade battery, 100km EV range, 2,500kg towing."
+        }
+      ]
+    },
+    {
+      "model_slug": "dolphin",
+      "name": "Dolphin",
+      "vehicle_type": "Hatchback",
+      "segment": "Electric Small Car",
+      "years_sold_au": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "One of Australia's most affordable new electric cars, delivering high five-star ANCAP safety and ocean-inspired styling.",
+      "generations": [
+        {
+          "series_code": "Dolphin-Gen1",
+          "generation_name": "Dolphin",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "Dynamic (44.9kWh, 70kW motor) and Premium (60.5kWh, 150kW motor, multi-link rear suspension)."
+        }
+      ]
+    }
+  ]
+}

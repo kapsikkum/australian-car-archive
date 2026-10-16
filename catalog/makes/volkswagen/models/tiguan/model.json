@@ -1,0 +1,448 @@
+{
+  "make_slug": "volkswagen",
+  "model_slug": "tiguan",
+  "name": "Tiguan",
+  "vehicle_type": "Medium SUV",
+  "segment": "Medium SUV",
+  "years_sold_au": {
+    "start": 2008,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "Volkswagen's powerhouse medium SUV in Australia, delivering European road manners, turbocharged TSI petrol and TDI diesel powertrains, 4Motion all-wheel drive, spacious 5-seat and 7-seat Allspace layouts, and the blisteringly fast 235kW Tiguan R.",
+  "australian_market_notes": "Introduced to Australia in May 2008 on the PQ35 platform. The second-generation MQB Tiguan arrived in 2016 and became a runaway hit with Australian family buyers, particularly the Golf GTI-engined 162TSI Highline/R-Line and the 235kW Tiguan R launched in 2022.",
+  "manuals": [
+    {
+      "title": "Volkswagen Tiguan Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2008,
+      "language": "en",
+      "source_url": "local://catalog/makes/volkswagen/models/tiguan/model.json",
+      "local_path": "media/manuals/volkswagen/tiguan/volkswagen_tiguan_au_technical_manual.pdf",
+      "file_size_bytes": 5351,
+      "sha256": "174cb98b8ce2c99414344d3b1665f613d5ec330f114cbcb71d2e938ad9b0296f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Volkswagen Tiguan Car Brochure (2016)",
+      "year": 2016,
+      "source_url": "https://archive.org/details/volkswagen-tiguan-car-brochure-2016",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/tiguan/volkswagen_tiguan_manual_Volkswagen_Tiguan_Car_Brochure_2016.html",
+      "file_size_bytes": 209508,
+      "sha256": "6b0d9f5a9fe1bc3bce7c79a0557e645af9ac5aaec517225801d8ea7f3312ce6e"
+    },
+    {
+      "title": "Volkswagen Tiguan Car Brochure (2014)",
+      "year": 2014,
+      "source_url": "https://archive.org/details/volkswagen-tiguan-car-brochure-2014",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/tiguan/volkswagen_tiguan_manual_Volkswagen_Tiguan_Car_Brochure_2014.html",
+      "file_size_bytes": 217309,
+      "sha256": "a504875884df2872e5900a9065772e629f9638c0acb7b11def60e3b84205eb4a"
+    },
+    {
+      "title": "Volkswagen TIGUAN - User manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzz-id-1259757",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/volkswagen/tiguan/volkswagen_tiguan_manual_Volkswagen_TIGUAN_-_User_manual.html",
+      "file_size_bytes": 215080,
+      "sha256": "b790698d4d8ca2197de29c3752aa8d92ee1f610dfbbf82a0e694e2c31a526af0"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "You can find the complete review here: www.mynrma.com.au/motoring-services/reviews/car-reviews/v...",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/MY15_Volkswagen_Tiguan_-_Review_%2815536479638%29.jpg/1280px-MY15_Volkswagen_Tiguan_-_Review_%2815536479638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (NRMA Motoring and Services from Sydney, Australia)",
+      "local_path": "media/pictures/volkswagen/tiguan/volkswagen_tiguan_hero_1_MY15_Volkswagen_Tiguan_-_Review_15536479638_.jpg",
+      "file_size_bytes": 199732,
+      "sha256": "cdc21337cab11ca57a37319543b630a442798b4fba97a1ba1b827ab1aae84ae0"
+    },
+    {
+      "category": "exterior",
+      "caption": "You can find the complete review here: www.mynrma.com.au/motoring-services/reviews/car-reviews/v...",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/MY15_Volkswagen_Tiguan_-_Review_%2815536727397%29.jpg/1280px-MY15_Volkswagen_Tiguan_-_Review_%2815536727397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (NRMA Motoring and Services from Sydney, Australia)",
+      "local_path": "media/pictures/volkswagen/tiguan/volkswagen_tiguan_hero_2_MY15_Volkswagen_Tiguan_-_Review_15536727397_.jpg",
+      "file_size_bytes": 225301,
+      "sha256": "48b075de08becd12d31d15ba2b3bccf30da6c44f1a75c172b76bdece96ca265e"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "5N",
+      "generation_name": "Tiguan First Generation (Typ 5N)",
+      "years": {
+        "start": 2008,
+        "end": 2016
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Volkswagen Group PQ35",
+      "ancap_rating": "5 stars",
+      "summary": "First-gen compact/medium SUV with 4Motion Haldex AWD. Engines included 2.0 TDI (103kW), 2.0 TSI (125TSI, 132TSI, and 155TSI R-Line from Golf GTI).",
+      "engines": [
+        {
+          "engine_code": "CAWA",
+          "name": "2.0L TSI Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 125,
+          "power_rpm": "4300",
+          "torque_nm": 280,
+          "torque_rpm": "1700-4200",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA888 Gen 1 turbo petrol engine."
+        },
+        {
+          "engine_code": "CCZB",
+          "name": "2.0L TSI 155TSI Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 155,
+          "power_rpm": "5300",
+          "torque_nm": 280,
+          "torque_rpm": "1700-5200",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Golf GTI Mk6 powertrain in 155TSI R-Line."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "125TSI / 132TSI Pacific",
+          "years": {
+            "start": 2008,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 33990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 1630,
+          "standard_features": [
+            "16-inch alloy wheels",
+            "Dual-zone climate control",
+            "4Motion AWD",
+            "Roof rails"
+          ],
+          "notes": "Core Australian family specification."
+        },
+        {
+          "badge_name": "155TSI R-Line",
+          "years": {
+            "start": 2013,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 48990,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 1660,
+          "standard_features": [
+            "18-inch Mallory alloys",
+            "R-Line body kit",
+            "Sports suspension",
+            "Vienna leather upholstery"
+          ],
+          "notes": "Performance flagship of the 5N range."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "155TSI R-Line",
+          "body_style": "5-door SUV",
+          "engine_code": "CCZB",
+          "transmission": "7-speed DSG",
+          "drivetrain": "AWD",
+          "years_start": 2013,
+          "years_end": 2016,
+          "msrp_aud": 46990,
+          "power_kw": 155,
+          "torque_nm": 280,
+          "fuel_l_100km": 8.7,
+          "towing_braked_kg": 2000,
+          "notes": "Top-tier 5N Tiguan with Golf GTI power."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "5N",
+          "category": "exterior",
+          "caption": "Volkswagen Tiguan (5N) front view",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Volkswagen_Tiguan_%285N%29_front.jpg/1280px-Volkswagen_Tiguan_%285N%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 4.0 (Mateusmatsuda)",
+          "local_path": "media/pictures/volkswagen/tiguan/volkswagen_tiguan_5N_1_Volkswagen_Tiguan_5N_front.jpg",
+          "file_size_bytes": 457185,
+          "sha256": "1c046615a2da40cbb3a0a889f1db2f97f5943723e1c459f6c89721e2ace7104c"
+        }
+      ]
+    },
+    {
+      "series_code": "AD/BW",
+      "generation_name": "Tiguan Second Generation & Allspace (Typ AD/BW)",
+      "years": {
+        "start": 2016,
+        "end": 2023
+      },
+      "body_styles": [
+        "5-door SUV",
+        "7-seat SUV (Allspace)"
+      ],
+      "platform": "Volkswagen Group MQB",
+      "ancap_rating": "5 stars",
+      "summary": "Transformative MQB second generation; available in 5-seat and extended 7-seat Allspace bodies. Highlighted by the hugely popular 162TSI Highline/R-Line (EA888 162kW) and the halo Tiguan R with 235kW, 4Motion torque vectoring, and Akrapovic exhaust.",
+      "engines": [
+        {
+          "engine_code": "CHHB",
+          "name": "2.0L TSI 162TSI Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 162,
+          "power_rpm": "4500-6200",
+          "torque_nm": 350,
+          "torque_rpm": "1500-4400",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Golf GTI engine tuned for AWD Tiguan; accounted for majority of AU Tiguan sales."
+        },
+        {
+          "engine_code": "DNF",
+          "name": "2.0L TSI Tiguan R Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 235,
+          "power_rpm": "5200-6600",
+          "torque_nm": 400,
+          "torque_rpm": "2100-5350",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "EA888 evo4 shared with Golf 8 R, with R-Performance Torque Vectoring."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "162TSI Highline / R-Line",
+          "years": {
+            "start": 2016,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV",
+            "7-seat SUV (Allspace)"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 48490,
+          "msrp_aud_max": 59990,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 1695,
+          "standard_features": [
+            "Digital Cockpit",
+            "9.2-inch Discover Pro nav",
+            "Adaptive Chassis Control",
+            "Vienna leather",
+            "20-inch Suzuka alloys"
+          ],
+          "notes": "Australia's favorite performance family SUV."
+        },
+        {
+          "badge_name": "Tiguan R",
+          "years": {
+            "start": 2022,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 68990,
+          "msrp_aud_max": 73790,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 1740,
+          "standard_features": [
+            "21-inch Estoril alloys",
+            "Blue Nappa leather R seats",
+            "Torque Vectoring rear differential",
+            "Matrix LED headlights",
+            "R front bumper with large air intakes"
+          ],
+          "notes": "0-100km/h in 4.9 seconds. Cult performance hit."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "162TSI Highline / R-Line",
+          "body_style": "5-door SUV",
+          "engine_code": "CHHB",
+          "transmission": "7-speed DSG",
+          "drivetrain": "AWD",
+          "years_start": 2016,
+          "years_end": 2023,
+          "msrp_aud": 54990,
+          "power_kw": 162,
+          "torque_nm": 350,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 2500,
+          "notes": "Benchmark family SUV with 2500kg towing capacity."
+        },
+        {
+          "badge_name": "Tiguan R",
+          "body_style": "5-door SUV",
+          "engine_code": "DNF",
+          "transmission": "7-speed DSG",
+          "drivetrain": "AWD",
+          "years_start": 2022,
+          "years_end": 2023,
+          "msrp_aud": 70990,
+          "power_kw": 235,
+          "torque_nm": 400,
+          "fuel_l_100km": 8.8,
+          "towing_braked_kg": 2200,
+          "notes": "235kW hyper-SUV sprint champion."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "AD/BW",
+          "category": "exterior",
+          "caption": "VOLKSWAGEN TIGUAN (AD,BW) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/VOLKSWAGEN_TIGUAN_%28AD%2CBW%29_China.jpg/1280px-VOLKSWAGEN_TIGUAN_%28AD%2CBW%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/volkswagen/tiguan/volkswagen_tiguan_AD_BW_1_VOLKSWAGEN_TIGUAN_AD_BW_China.jpg",
+          "file_size_bytes": 381485,
+          "sha256": "908a8b8c31942668f7fd0f701b8182ff1764bfd919bee66c615ca7ecce8d94e2"
+        }
+      ]
+    },
+    {
+      "series_code": "CT",
+      "generation_name": "Tiguan Third Generation (Typ CT)",
+      "years": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Volkswagen Group MQB evo",
+      "ancap_rating": "5 stars",
+      "summary": "Third-generation Tiguan built on MQB evo with aerodynamic drag reduction (Cd 0.28), massive 15-inch central touchscreen, rotary driving experience dial, and high-output 195TSI R-Line powertrain.",
+      "engines": [
+        {
+          "engine_code": "EA888-evo4-195",
+          "name": "2.0L TSI 195TSI Turbo Petrol",
+          "displacement_cc": 1984,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 195,
+          "power_rpm": "5000-6500",
+          "torque_nm": 400,
+          "torque_rpm": "1600-4300",
+          "compression_ratio": "9.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Direct-injected 195kW EA888 evo4 petrol turbo."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "195TSI R-Line",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "7-speed DSG"
+          ],
+          "msrp_aud_min": 62990,
+          "msrp_aud_max": 68990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1720,
+          "standard_features": [
+            "15-inch MIB4 infotainment",
+            "DCC Pro twin-valve dampers",
+            "IQ.LIGHT HD Matrix LEDs",
+            "HUD"
+          ],
+          "notes": "New-generation technology flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "195TSI R-Line",
+          "body_style": "5-door SUV",
+          "engine_code": "EA888-evo4-195",
+          "transmission": "7-speed DSG",
+          "drivetrain": "AWD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 64990,
+          "power_kw": 195,
+          "torque_nm": 400,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 2300,
+          "notes": "Next-generation 195kW AWD Tiguan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "CT",
+          "category": "exterior",
+          "caption": "A very nicely done Kombi here with vaguely Porsche looking wheels, no doubt now worth insane money as a split screen. An unrestored, rusty split screen 1957 Type 2 for sale here in NZ that had been in the same family since new and been out ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/1961_Volkswagen_Kombi_%28Type_2%29_%2826858348921%29.jpg/1280px-1961_Volkswagen_Kombi_%28Type_2%29_%2826858348921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+          "local_path": "media/pictures/volkswagen/tiguan/volkswagen_tiguan_CT_1_1961_Volkswagen_Kombi_Type_2_26858348921_.jpg",
+          "file_size_bytes": 237469,
+          "sha256": "ebca21ff96ac4a7fa476eb2cb95ca0602d2fc3589b742a2e778cba5afa67c0b2"
+        }
+      ]
+    }
+  ]
+}

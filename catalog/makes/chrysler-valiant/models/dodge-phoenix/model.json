@@ -1,0 +1,225 @@
+{
+  "make_slug": "chrysler-valiant",
+  "model_slug": "dodge-phoenix",
+  "name": "Dodge Phoenix",
+  "vehicle_type": "4-door Sedan / 4-door Hardtop (pillarless)",
+  "segment": "Luxury Full-size American Flagship",
+  "years_sold_au": {
+    "start": 1960,
+    "end": 1973
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Mile End, Adelaide, South Australia (1960-1964)",
+    "Tonsley Park, Adelaide, South Australia (1964-1973)"
+  ],
+  "overview": "The Dodge Phoenix was Chrysler Australia's grand American luxury flagship from 1960 to 1973. Conceived to compete head-on with the Ford Galaxie and Chevrolet Impala/Bel Air in the prestige government, executive, and pastoralist market, the Phoenix was assembled in Adelaide from North American CKD packs, using Dodge Dart/Polara, Plymouth Fury, and Chrysler bodies married to bespoke factory right-hand drive Plymouth dashboards. Spanning the early finned PD/RD series through to the majestic 'fuselage'-bodied models of 1969-1973, every Phoenix was powered by burly American Chrysler V8 engines—predominantly the 318ci (5.2L) 'Poly' and 'LA' small-block V8s, and the optional 383ci (6.3L) 'B-block' Big Block V8 in the opulent Phoenix 400 Hardtop. Sumptuously appointed with Torqueflite 3-speed automatic transmissions, power steering, push-button radios, and deep plush interiors, the Phoenix was the undisputed car of choice for Australian politicians, judges, and graziers.",
+  "australian_market_notes": "Because full right-hand drive manufacturing of American full-size cars ceased in North America, Chrysler Australia created bespoke tooling at Tonsley Park to assemble the Phoenix with right-hand drive steering boxes, Australian-made glass, batteries, tyres, and interior trim. The pillarless 400 Hardtop introduced in 1967 represented the absolute summit of Chrysler Australia luxury before the model was retired in 1973.",
+  "manuals": [
+    {
+      "title": "Chrysler Valiant Dodge Phoenix Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1960,
+      "language": "en",
+      "source_url": "local://catalog/makes/chrysler-valiant/models/dodge-phoenix/model.json",
+      "local_path": "media/manuals/chrysler-valiant/dodge-phoenix/chrysler-valiant_dodge-phoenix_au_technical_manual.pdf",
+      "file_size_bytes": 4913,
+      "sha256": "f0eb61c6ac33a75a3064e83cfc8c8229da33b722138bf2903cb75510fb254eb1",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "In 1928, Chrysler acquired Fargo Trucks and Dodge Brothers and also established Plymouth and DeSoto brands.  Plymouth was Chryslers lowest priced car, Dodge was next, then Desoto and Chrysler was top of the line.\nFor 1961, Dodge dropped the",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1961_Dodge_Dart_Phoenix_2_door_Hardtop_%2831738653608%29.jpg/1280px-1961_Dodge_Dart_Phoenix_2_door_Hardtop_%2831738653608%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/chrysler-valiant/dodge-phoenix/chrysler-valiant_dodge-phoenix_hero_1_1961_Dodge_Dart_Phoenix_2_door_Hardtop_31738653608_.jpg",
+      "file_size_bytes": 353285,
+      "sha256": "f306fce26ee9d9427b9db2fc4fa0abb6edd6a42ee1e0f24d00ab10c465efbbd0"
+    },
+    {
+      "category": "exterior",
+      "caption": "In 1928, Chrysler acquired Fargo Trucks and Dodge Brothers and also established Plymouth and DeSoto brands.  Plymouth was Chryslers lowest priced car, Dodge was next, then Desoto and Chrysler was top of the line.\nFor 1961, Dodge dropped the",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1961_Dodge_Dart_Phoenix_2_door_Hardtop_%2845610723961%29.jpg/1280px-1961_Dodge_Dart_Phoenix_2_door_Hardtop_%2845610723961%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/chrysler-valiant/dodge-phoenix/chrysler-valiant_dodge-phoenix_hero_2_1961_Dodge_Dart_Phoenix_2_door_Hardtop_45610723961_.jpg",
+      "file_size_bytes": 413533,
+      "sha256": "c8a085f7e6e0612ad7f5a054663123a0788f7f43b0960b57924497d049df6662"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "PD-PF",
+      "generation_name": "PD / PF Dodge Phoenix",
+      "years": {
+        "start": 1960,
+        "end": 1964
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "Chrysler B-body unibody architecture",
+      "ancap_rating": null,
+      "summary": "Early finned tail and slab-side Plymouth Fury-derived body, assembled at Mile End, Adelaide. Powered by the 318ci 'Poly' V8 with push-button Torqueflite automatic.",
+      "engines": [
+        {
+          "engine_code": "Poly-318-V8",
+          "name": "Chrysler 'Poly' 318ci (5.2L) V8",
+          "displacement_cc": 5211,
+          "displacement_litres": 5.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 168.0,
+          "power_rpm": "4400",
+          "torque_nm": 420.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V Polyspherical",
+          "notes": "Polyspherical combustion chamber V8; Carter 2-barrel carburettor; 225 bhp."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Phoenix Sedan",
+          "years": {
+            "start": 1960,
+            "end": 1964
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed push-button Torqueflite automatic"
+          ],
+          "msrp_aud_min": 4400,
+          "msrp_aud_max": 4850,
+          "fuel_consumption_l_100km": 16.5,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "318 Poly V8 engine",
+            "Push-button dashboard Torqueflite transmission control",
+            "Torsion-Aire front torsion bar suspension",
+            "Power steering and power drum brakes",
+            "Full-width bench seating for six with deep foam padding"
+          ],
+          "notes": "Luxury American flagship sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Phoenix Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Poly-318-V8",
+          "transmission": "3-speed push-button Torqueflite automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 4400,
+          "power_kw": 168.0,
+          "torque_nm": 420.0,
+          "fuel_l_100km": 16.5,
+          "towing_braked_kg": 1600,
+          "notes": "Classic push-button Torqueflite 318 V8 sedan."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "DB-RD",
+      "generation_name": "DB / RD Dodge Phoenix & 400 Hardtop",
+      "years": {
+        "start": 1965,
+        "end": 1973
+      },
+      "body_styles": [
+        "4-door sedan",
+        "4-door pillarless hardtop"
+      ],
+      "platform": "Chrysler C-body unibody architecture",
+      "ancap_rating": null,
+      "summary": "Long-wheelbase full-size luxury cruiser and iconic 'fuselage' body styling from 1969. Assembled at Tonsley Park with 318ci LA V8 and 383ci Big Block in Phoenix 400 Hardtop.",
+      "engines": [
+        {
+          "engine_code": "LA-318-V8-Phoenix",
+          "name": "Chrysler LA 318ci (5.2L) OHV V8",
+          "displacement_cc": 5211,
+          "displacement_litres": 5.2,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 172.0,
+          "power_rpm": "4400",
+          "torque_nm": 461.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Lightweight wedge-head small-block V8; standard on Phoenix Sedan."
+        },
+        {
+          "engine_code": "BigBlock-383-V8",
+          "name": "Chrysler 'B' 383ci (6.3L) Big Block V8",
+          "displacement_cc": 6277,
+          "displacement_litres": 6.3,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 201.0,
+          "power_rpm": "4400",
+          "torque_nm": 529.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Carter 2-barrel carburettor; 270 bhp and 390 lb-ft torque; exclusive to Phoenix 400 Hardtop."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Phoenix 400 Hardtop",
+          "years": {
+            "start": 1967,
+            "end": 1973
+          },
+          "body_styles": [
+            "Hardtop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed column Torqueflite automatic"
+          ],
+          "msrp_aud_min": 5990,
+          "msrp_aud_max": 7250,
+          "fuel_consumption_l_100km": 18.5,
+          "kerb_weight_kg": 1860,
+          "standard_features": [
+            "383ci 6.3L Big Block V8 standard",
+            "Pillarless 4-door hardtop roofline",
+            "Glove-soft pleated vinyl upholstery and deep cut-pile carpets",
+            "Electric power windows and power antenna",
+            "Front power disc brakes and heavy-duty front torsion bars"
+          ],
+          "notes": "Prestige flagship luxury hardtop."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Phoenix 400 Hardtop",
+          "body_style": "Hardtop",
+          "engine_code": "BigBlock-383-V8",
+          "transmission": "3-speed column Torqueflite automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 6490,
+          "power_kw": 201.0,
+          "torque_nm": 529.0,
+          "fuel_l_100km": 18.5,
+          "towing_braked_kg": 1800,
+          "notes": "383ci Big Block V8 pillarless luxury hardtop."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

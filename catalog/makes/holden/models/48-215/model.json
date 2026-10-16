@@ -1,0 +1,224 @@
+{
+  "make_slug": "holden",
+  "model_slug": "48-215",
+  "name": "Holden 48-215 (FX)",
+  "vehicle_type": "Sedan / Coupe Utility / Business Sedan",
+  "segment": "Mid-size",
+  "years_sold_au": {
+    "start": 1948,
+    "end": 1953
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Woodville, South Australia",
+    "Pagewood, New South Wales",
+    "The Valley (Fortitude Valley), Queensland",
+    "Mosman Park, Western Australia",
+    "Birkenhead, South Australia"
+  ],
+  "overview": "The Holden 48-215 (retrospectively referred to as the 'FX') was Australia's first mass-produced domestic motor vehicle, famously unveiled on 29 November 1948 by Prime Minister Ben Chifley with the words: 'She's a beauty!'. Developed under GM Project 2000, it combined American interior room and robust unibody construction with European operating economy, tailored specifically for Australia's harsh corrugated roads. In January 1951, the 50-2106 Coupe Utility was launched, defining the iconic Australian 'ute', followed in July 1953 by the 48-215-257 Business Sedan for taxi operators. Over 120,402 examples were produced.",
+  "australian_market_notes": "The 48-215 introduced unitary (monocoque) construction to Australian volume manufacturing, eliminating heavy separate chassis rails while providing extraordinary torsional rigidity. Powered by the legendary 132.5ci (2.16L) overhead valve 'Grey Motor' inline-six, it easily outperformed British four-cylinder rivals in hill-climbing, highway cruising, and reliability. Customer demand was so overwhelming that waiting lists stretched out past two years, establishing Holden's 70-year reign over Australian automotive culture.",
+  "manuals": [
+    {
+      "title": "Holden Holden 48-215 (FX) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1948,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/48-215/model.json",
+      "local_path": "media/manuals/holden/48-215/holden_48-215_au_technical_manual.pdf",
+      "file_size_bytes": 4090,
+      "sha256": "6c041de11b10876a4ecc53a0c9914d449679d7d8d7258c22d13de526ef384887",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Holden 48/215",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Holden_48-215_%2815817581857%29.jpg/1280px-Holden_48-215_%2815817581857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/48-215/holden_48-215_hero_1_Holden_48-215_15817581857_.jpg",
+      "file_size_bytes": 319941,
+      "sha256": "c4afcb99cbfec04e18989eadd5e6e61a3c202dc1bf013cf6c064616fac92edb5"
+    },
+    {
+      "category": "exterior",
+      "caption": "1948-1953 Holden 48-215, photographed in Queensland, Australia. You are free to use this photo for any reason, including commercial reasons, but you must include either a link to www.brisbaneishome.com or print the URL www.brisbaneishome.co",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Holden_FX.jpg/1280px-Holden_FX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.0 (David Jackmanson from Brisbane, Australia)",
+      "local_path": "media/pictures/holden/48-215/holden_48-215_hero_2_Holden_FX.jpg",
+      "file_size_bytes": 370420,
+      "sha256": "71da94d74ae90d37d7d8844e7f68939e4cf15bf18d78a26b72d62dfc311ea8f1"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "48-215",
+      "generation_name": "Holden 48-215 / 50-2106",
+      "years": {
+        "start": 1948,
+        "end": 1953
+      },
+      "body_styles": [
+        "4-door sedan",
+        "2-door coupe utility",
+        "4-door business sedan"
+      ],
+      "platform": "GM-H 48-215 integral body-frame",
+      "ancap_rating": null,
+      "summary": "First Australian-manufactured mass-market automobile. Features integral chassis-body construction, 2.16L Grey motor, 3-speed manual column shift, and independent front coil spring suspension.",
+      "engines": [
+        {
+          "engine_code": "Grey-132",
+          "name": "Holden Grey 132.5ci (2.16L) OHV Inline-6",
+          "displacement_cc": 2160,
+          "displacement_litres": 2.16,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 45.0,
+          "power_rpm": "3800",
+          "torque_nm": 136.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "6.5:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Cast iron block and cylinder head, 3-main bearing crankshaft, single Bendix-Stromberg single-barrel downdraft carburettor, 6-volt electrical system."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Standard Sedan",
+          "years": {
+            "start": 1948,
+            "end": 1953
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1466,
+          "msrp_aud_max": 1580,
+          "fuel_consumption_l_100km": 9.4,
+          "kerb_weight_kg": 1010,
+          "standard_features": [
+            "Integral body construction",
+            "6-passenger seating",
+            "15-inch steel wheels",
+            "Hydraulic drum brakes all round",
+            "Rubber floor mats",
+            "Dual front vent windows"
+          ],
+          "notes": "The original 'Australia's Own Car' model 48-215."
+        },
+        {
+          "badge_name": "Coupe Utility (50-2106)",
+          "years": {
+            "start": 1951,
+            "end": 1953
+          },
+          "body_styles": [
+            "Coupe Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1380,
+          "msrp_aud_max": 1490,
+          "fuel_consumption_l_100km": 9.6,
+          "kerb_weight_kg": 995,
+          "standard_features": [
+            "Hardwood floor with protective steel skid strips",
+            "Removable tonneau cover cleats",
+            "Heavy-duty rear semi-elliptic leaf springs",
+            "500 kg payload capacity"
+          ],
+          "notes": "First factory-built Holden coupe utility, released January 1951."
+        },
+        {
+          "badge_name": "Business Sedan (48-215-257)",
+          "years": {
+            "start": 1953,
+            "end": 1953
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1550,
+          "msrp_aud_max": 1620,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1025,
+          "standard_features": [
+            "Heavy-duty seat springs and commercial vinyl upholstery",
+            "Rear door assist straps",
+            "Taxi meter dashboard mounting provision",
+            "Heavy-duty front and rear springs"
+          ],
+          "notes": "Introduced in July 1953 specifically for commercial and taxi fleets."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Standard Sedan",
+          "body_style": "Sedan",
+          "engine_code": "Grey-132",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1466,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.4,
+          "towing_braked_kg": 680,
+          "notes": "Australia's own family sedan."
+        },
+        {
+          "badge_name": "Coupe Utility (50-2106)",
+          "body_style": "Coupe Utility",
+          "engine_code": "Grey-132",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1380,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.6,
+          "towing_braked_kg": 750,
+          "notes": "Definitive early Australian workhorse ute."
+        },
+        {
+          "badge_name": "Business Sedan (48-215-257)",
+          "body_style": "Sedan",
+          "engine_code": "Grey-132",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1550,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 680,
+          "notes": "Heavy-duty fleet and taxi specification."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "48-215",
+          "category": "exterior",
+          "caption": "Holden 48-215 sedan. Taken at the National Holden Museum in Echuca Victoria. These were the first model produced by Holden, with production starting in November 1948. The official designation for the model was 48-215, however they are more ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Holden_48-215_%28FX%29_%284989208761%29.jpg/1280px-Holden_48-215_%28FX%29_%284989208761%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (sv1ambo)",
+          "local_path": "media/pictures/holden/48-215/holden_48-215_48-215_1_Holden_48-215_FX_4989208761_.jpg",
+          "file_size_bytes": 270179,
+          "sha256": "618c06ecd4feb25892b07b3e0a95d15280e32b5a81b93160e707832423842a35"
+        }
+      ]
+    }
+  ]
+}

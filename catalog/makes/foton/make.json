@@ -1,0 +1,54 @@
+{
+  "make_slug": "foton",
+  "name": "Foton",
+  "country_of_origin": "China",
+  "years_active_au": {
+    "start": 2012,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Commercial vehicle specialist that pioneered Cummins-powered utes (Tunland) and Aumark light trucks in Australia, evolving into the Tunland V9 hybrid.",
+  "australian_history": "Foton entered Australia in 2012 through FAA Automotive with the Tunland dual-cab ute, uniquely powered by an authentic American Cummins ISF 2.8-litre turbo diesel engine paired with a Getrag manual gearbox, BorgWarner transfer case, and Dana rear axle. Foton followed with the Sauvana 7-seat 4WD SUV and established a solid position in commercial trucks (Aumark and T5 EV light trucks). In 2024, Foton returned to the consumer passenger market with the large Tunland V9 hybrid ute.",
+  "models_catalog": [
+    {
+      "model_slug": "tunland",
+      "name": "Tunland",
+      "vehicle_type": "Ute / Pickup Truck",
+      "segment": "Mid-size Ute",
+      "years_sold_au": {
+        "start": 2012,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Rugged commercial ute featuring Cummins turbo diesel engineering and evolving into the full-size V9 mild-hybrid.",
+      "generations": [
+        {
+          "series_code": "Tunland-Classic",
+          "generation_name": "Tunland Cummins 2.8",
+          "years": {
+            "start": 2012,
+            "end": "2019"
+          },
+          "body_styles": [
+            "Single-cab ute",
+            "Dual-cab ute"
+          ],
+          "summary": "Cummins ISF 2.8L turbo diesel (120kW/360Nm), Getrag 5-speed manual, Dana 44 limited slip differential."
+        },
+        {
+          "series_code": "Tunland-V9",
+          "generation_name": "Tunland V7 & V9 Hybrid",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "summary": "2.0L Turbo Diesel with 48V mild-hybrid system, 8-speed ZF automatic, and multi-link rear coil suspension."
+        }
+      ]
+    }
+  ]
+}

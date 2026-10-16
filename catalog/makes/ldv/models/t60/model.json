@@ -1,0 +1,294 @@
+{
+  "make_slug": "ldv",
+  "model_slug": "t60",
+  "name": "T60 & eT60",
+  "vehicle_type": "Dual-Cab Utility / Cab-Chassis",
+  "segment": "Light Commercial 1-Tonne Ute",
+  "years_sold_au": {
+    "start": 2017,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Chinese 1-tonne ute that disrupted the Australian market. Debuting in 2017 as the first Chinese-manufactured vehicle to achieve a 5-star ANCAP safety rating, the LDV T60 delivered unmatched equipment-for-price value. The 2021 T60 Max raised the stakes with a class-leading 160kW/500Nm 2.0L Bi-Turbo diesel, while the 2022 eT60 became Australia's first commercially available electric factory ute.",
+  "australian_market_notes": "Distributed in Australia by Ateco Automotive since 2017. To tailor the ute for tough Australian roads, LDV engaged Walkinshaw Automotive Group in Clayton, Victoria to calibrate a bespoke Australian suspension tune for the Trailrider edition. The T60 Max has become a volume rival to Hilux and Ranger across Australian trade and fleet buyers.",
+  "manuals": [
+    {
+      "title": "Ldv T60 & eT60 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2017,
+      "language": "en",
+      "source_url": "local://catalog/makes/ldv/models/t60/model.json",
+      "local_path": "media/manuals/ldv/t60/ldv_t60_au_technical_manual.pdf",
+      "file_size_bytes": 5456,
+      "sha256": "359bffae1074332a65c47c1ddd565bd70347d3a1a22ca6ca0f8610cf950e1905",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Maple Orange 2024 LDV T60 Max Pro parked outside within the Salisbury Hotel vehicle parking area",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Salisbury_Hotel%2C_Salisbury_20250904-123549.jpg/1280px-Salisbury_Hotel%2C_Salisbury_20250904-123549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (RegionVisitor90)",
+      "local_path": "media/pictures/ldv/t60/ldv_t60_hero_1_Salisbury_Hotel_Salisbury_20250904-123549.jpg",
+      "file_size_bytes": 384025,
+      "sha256": "dd04a6cc4d21be31a3f9f35b4e90d3065dfe7f844300323dff92398fb24a9ed9"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "SK8C Series I",
+      "generation_name": "LDV T60 Series I (Pro / Luxe / Trailrider)",
+      "years": {
+        "start": 2017,
+        "end": 2021
+      },
+      "body_styles": [
+        "Dual-cab utility",
+        "Cab-chassis"
+      ],
+      "platform": "SAIC Light Truck Platform",
+      "ancap_rating": "5 stars",
+      "summary": "First Chinese vehicle to receive a 5-star ANCAP safety rating. 2.8L VM Motori turbo-diesel (110kW/360Nm), 6-speed manual or Punch automatic, Eaton rear diff lock, and the Trailrider edition featuring Walkinshaw-developed Australian suspension calibration.",
+      "engines": [
+        {
+          "engine_code": "SC28R",
+          "name": "2.8L VGT Turbo Diesel (VM Motori)",
+          "displacement_cc": 2776,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 110,
+          "power_rpm": "3400",
+          "torque_nm": 360,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "17.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Variable geometry turbocharger; Bosch common rail fuel injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "T60 Trailrider (Walkinshaw Tune)",
+          "years": {
+            "start": 2019,
+            "end": 2021
+          },
+          "body_styles": [
+            "Dual-cab utility"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 2060,
+          "standard_features": [
+            "Walkinshaw Australian-calibrated suspension",
+            "19-inch black alloy wheels",
+            "Mountain Top lockable roller tonneau cover",
+            "Eaton rear automatic differential lock",
+            "10-inch touchscreen with Apple CarPlay"
+          ],
+          "notes": "Bespoke Australian engineering by Walkinshaw in Clayton."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "T60 Trailrider (Walkinshaw Tune)",
+          "body_style": "Dual-cab utility",
+          "engine_code": "SC28R",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2019,
+          "years_end": 2021,
+          "msrp_aud": 41990,
+          "power_kw": 110,
+          "torque_nm": 360,
+          "fuel_l_100km": 8.8,
+          "towing_braked_kg": 3000,
+          "notes": "Walkinshaw tuned dual-cab 4x4 ute."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "SK8C Series II",
+      "generation_name": "LDV T60 Max (Bi-Turbo)",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Dual-cab utility",
+        "Megatub long-wheelbase utility"
+      ],
+      "platform": "SAIC Light Truck Platform",
+      "ancap_rating": "5 stars",
+      "summary": "Major powertrain revolution: SAIC D20 2.0L Bi-Turbo diesel engine delivering 160kW and 500Nm, ZF 8-speed automatic transmission, Pro and LUXE trims, and the stretched Megatub model with an 1,800mm long cargo tray.",
+      "engines": [
+        {
+          "engine_code": "SC20M163",
+          "name": "2.0L Bi-Turbo Diesel (SAIC D20)",
+          "displacement_cc": 1996,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 160,
+          "power_rpm": "4000",
+          "torque_nm": 500,
+          "torque_rpm": "1500-2400",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Class-leading 160kW 4-cylinder diesel; Honeywell sequential twin turbochargers."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "T60 Max LUXE / Megatub",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab utility",
+            "Megatub long-wheelbase utility"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "8-speed ZF automatic"
+          ],
+          "msrp_aud_min": 41990,
+          "msrp_aud_max": 49490,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 2150,
+          "standard_features": [
+            "160kW / 500Nm Bi-Turbo diesel",
+            "ZF 8-speed automatic",
+            "Stretched 1800mm tub (Megatub)",
+            "Leather interior with 6-way electric driver's seat",
+            "360-degree camera system"
+          ],
+          "notes": "Australia's highest-power 4-cylinder diesel ute under $50k."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "T60 Max LUXE / Megatub",
+          "body_style": "Dual-cab utility",
+          "engine_code": "SC20M163",
+          "transmission": "8-speed ZF automatic",
+          "drivetrain": "4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 43990,
+          "power_kw": 160,
+          "torque_nm": 500,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 3000,
+          "notes": "160kW/500Nm ZF 8-speed automatic 4x4 ute."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "eT60",
+      "generation_name": "LDV eT60 Electric Dual-Cab",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Dual-cab utility"
+      ],
+      "platform": "SAIC Light Truck EV Platform",
+      "ancap_rating": "Unrated (EV)",
+      "summary": "Australia's first commercially available factory electric ute. Powered by an 88.5kWh lithium iron phosphate (LFP) battery pack, rear-axle permanent magnet motor delivering 130kW and 310Nm, CCS2 DC fast charging, and up to 330km WLTP range.",
+      "engines": [
+        {
+          "engine_code": "TZ204XS",
+          "name": "Rear Permanent Magnet Electric Motor",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Electric",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Electric",
+          "power_kw": 130,
+          "power_rpm": "5000",
+          "torque_nm": 310,
+          "torque_rpm": "0-3000",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "88.5kWh CATL LFP battery; 80kW DC fast charging."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "eT60 Electric",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "1-speed direct drive"
+          ],
+          "msrp_aud_min": 92990,
+          "msrp_aud_max": 95990,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 2300,
+          "standard_features": [
+            "88.5kWh LFP battery",
+            "10.25-inch infotainment screen",
+            "17-inch alloy wheels",
+            "1,000kg payload capacity",
+            "Spray-in bed liner"
+          ],
+          "notes": "First commercial electric ute available in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "eT60 Electric",
+          "body_style": "Dual-cab utility",
+          "engine_code": "TZ204XS",
+          "transmission": "1-speed direct drive",
+          "drivetrain": "RWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 92990,
+          "power_kw": 130,
+          "torque_nm": 310,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 1000,
+          "notes": "First factory electric dual-cab ute in Australia."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "eT60",
+          "category": "exterior",
+          "caption": "Maple Orange 2024 LDV T60 Max Pro parked outside within the Salisbury Hotel vehicle parking area",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Salisbury_Hotel%2C_Salisbury_20250904-123549.jpg/1280px-Salisbury_Hotel%2C_Salisbury_20250904-123549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (RegionVisitor90)",
+          "local_path": "media/pictures/ldv/t60/ldv_t60_eT60_1_Salisbury_Hotel_Salisbury_20250904-123549.jpg",
+          "file_size_bytes": 384025,
+          "sha256": "dd04a6cc4d21be31a3f9f35b4e90d3065dfe7f844300323dff92398fb24a9ed9"
+        }
+      ]
+    }
+  ]
+}

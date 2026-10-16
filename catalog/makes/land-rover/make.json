@@ -1,0 +1,252 @@
+{
+  "make_slug": "land-rover",
+  "name": "Land Rover",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1949,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "The backbone of Australian outback exploration, military transport, and luxury off-roading, with extensive local assembly at Enfield and Moorebank NSW including the iconic Australian Army Perentie 4x4 and 6x6.",
+  "australian_history": "Land Rover arrived in Australia in 1949 with early Series I models deployed on the monumental Snowy Mountains Hydro-Electric Scheme, where their indestructible four-wheel drive capability established their reputation. To meet high demand and local content rules, Pressed Metal Corporation (PMC) in Enfield, Sydney began assembling CKD kits in 1956. By the 1970s and 1980s, Jaguar Rover Australia (JRA) in Moorebank, NSW was manufacturing Australian-specific Land Rovers, notably fitting the local 3.5L Rover V8 and Australian-exclusive Isuzu 4BD1 3.9-litre four-cylinder diesel engine into civilian County 110s. In the late 1980s, JRA won the Australian Army's Project Perentie contract, designing and building over 3,700 military-spec 4x4 and wide-cab 6x6 Land Rovers with galvanized chassis, leaf-spring rocker suspension, and Isuzu diesel power. Today, Land Rover Australia thrives with the modern Defender (L663), Discovery, and Range Rover luxury sub-brands.",
+  "models_catalog": [
+    {
+      "model_slug": "defender",
+      "name": "Defender / Series I-III",
+      "vehicle_type": "4WD / Off-Road Utility",
+      "segment": "Heavy Off-Road 4WD",
+      "years_sold_au": {
+        "start": 1949,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Australia's legendary outback and military workhorse, spanning Series I-III, County 110, Australian Army Perentie 4x4/6x6, and modern L663.",
+      "generations": [
+        {
+          "series_code": "Series-I-III",
+          "generation_name": "Series I, II, IIA & III",
+          "years": {
+            "start": 1949,
+            "end": 1984
+          },
+          "body_styles": [
+            "Short-wheelbase 88",
+            "Long-wheelbase 109",
+            "Cab-chassis"
+          ],
+          "summary": "Assembled at Pressed Metal Corp Sydney; 1.6L to 2.25L petrol/diesel, 2.6L six, and Stage 1 3.5L V8."
+        },
+        {
+          "series_code": "County-Defender-Classic",
+          "generation_name": "County 110 & Defender",
+          "years": {
+            "start": 1984,
+            "end": 2016
+          },
+          "body_styles": [
+            "Defender 90",
+            "Defender 110",
+            "Defender 130 dual-cab"
+          ],
+          "summary": "Coil-spring chassis; Isuzu 4BD1 3.9L diesel, 300Tdi, 5-cylinder Td5 (90kW), and Ford Puma 2.4/2.2 TDCi."
+        },
+        {
+          "series_code": "Perentie",
+          "generation_name": "Australian Army Perentie 4x4 & 6x6",
+          "years": {
+            "start": 1987,
+            "end": 2013
+          },
+          "body_styles": [
+            "4x4 Soft Top",
+            "4x4 Survey",
+            "6x6 Long Wheelbase",
+            "6x6 Ambulance"
+          ],
+          "summary": "Engineered at Moorebank NSW; galvanized chassis, naturally aspirated Isuzu 4BD1 3.9L (4x4) and turbo 4BD1T (6x6)."
+        },
+        {
+          "series_code": "L663",
+          "generation_name": "Defender Modern L663",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Defender 90 (3-door)",
+            "Defender 110 (5-door)",
+            "Defender 130 (8-seat)"
+          ],
+          "summary": "D7x all-aluminium monocoque, D250/D300 inline-6 turbo diesel MHEV, P400 petrol, and 386kW V8."
+        }
+      ]
+    },
+    {
+      "model_slug": "discovery",
+      "name": "Discovery",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 1991,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The family 4WD that combined Range Rover off-road ability with 7-seat suburban usability across five generations.",
+      "generations": [
+        {
+          "series_code": "Discovery-1-2",
+          "generation_name": "Discovery Series I & II",
+          "years": {
+            "start": 1991,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door 4WD"
+          ],
+          "summary": "Live axle chassis; 3.5/3.9 V8, 200Tdi/300Tdi, and 2.5 Td5 five-cylinder diesel with ACE active anti-roll."
+        },
+        {
+          "series_code": "Discovery-3-4",
+          "generation_name": "Discovery 3 & 4 (L319)",
+          "years": {
+            "start": 2004,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door 4WD"
+          ],
+          "summary": "Integrated Body Frame, Terrain Response, 2.7 TDV6, 3.0 SDV6 twin-turbo diesel, and 5.0 V8."
+        },
+        {
+          "series_code": "Discovery-5",
+          "generation_name": "Discovery 5 (L462)",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 4WD"
+          ],
+          "summary": "Aluminium monocoque, offset rear number plate, D300 Ingenium mild-hybrid diesel, 3,500kg towing."
+        }
+      ]
+    },
+    {
+      "model_slug": "range-rover",
+      "name": "Range Rover",
+      "vehicle_type": "SUV",
+      "segment": "Upper Luxury 4WD",
+      "years_sold_au": {
+        "start": 1972,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The master of luxury 4WD motoring, from the hose-out interior Classic to the pinnacle of contemporary British opulence.",
+      "generations": [
+        {
+          "series_code": "Classic",
+          "generation_name": "Range Rover Classic",
+          "years": {
+            "start": 1972,
+            "end": 1996
+          },
+          "body_styles": [
+            "2-door",
+            "4-door"
+          ],
+          "summary": "Permanent 4WD, all-coil suspension, 3.5L/3.9L Rover V8, and luxury Vogue SE."
+        },
+        {
+          "series_code": "P38A-L322",
+          "generation_name": "Range Rover P38A & L322",
+          "years": {
+            "start": 1995,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "P38A air suspension; L322 monocoque with BMW/Jaguar V8s and monumental 4.4 TDV8 twin-turbo diesel."
+        },
+        {
+          "series_code": "L405-L460",
+          "generation_name": "Range Rover L405 & L460",
+          "years": {
+            "start": 2013,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV",
+            "Long Wheelbase (LWB)"
+          ],
+          "summary": "All-aluminium architecture, SV Autobiography, 4.4 twin-turbo V8, and 390kW/452kW mild-hybrid powertrains."
+        }
+      ]
+    },
+    {
+      "model_slug": "range-rover-discovery",
+      "name": "Range Rover & Discovery",
+      "vehicle_type": "Large Luxury 4WD / Family SUV",
+      "segment": "Large Luxury SUV",
+      "years_sold_au": {
+        "start": 1972,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The twin benchmarks of British luxury and all-terrain expedition mastery in Australia. The Range Rover created the luxury 4WD genre in 1972, proving that supreme off-road capability could coexist with peerless aristocratic comfort. The Land Rover Discovery launched in Australia in 1991, democratizing Range Rover technology into an iconic stepped-roof, 7-seat family adventurer.",
+      "generations": [
+        {
+          "series_code": "Classic & P38A",
+          "generation_name": "Range Rover Classic & P38A",
+          "years": {
+            "start": 1972,
+            "end": 2002
+          },
+          "body_styles": [
+            "2-door 4WD wagon",
+            "4-door 4WD wagon"
+          ],
+          "summary": "The original luxury 4x4. Permanent four-wheel drive, all-coil spring suspension, aluminum body panels, Rover 3.5L/3.9L/4.6L V8s, and Electronic Air Suspension (EAS)."
+        },
+        {
+          "series_code": "Discovery 1 & 2",
+          "generation_name": "Discovery Series I & II",
+          "years": {
+            "start": 1991,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door 4WD wagon"
+          ],
+          "summary": "Stepped roof, alpine roof glass, 7-seater packaging, Conran-designed interior, 3.9L V8, 300Tdi diesel, and Discovery 2 (1999) with Td5 5-cylinder turbo-diesel and Active Cornering Enhancement (ACE)."
+        },
+        {
+          "series_code": "Discovery 3 & 4",
+          "generation_name": "Discovery 3 & 4 (Terrain Response Era)",
+          "years": {
+            "start": 2004,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door 4WD wagon"
+          ],
+          "summary": "Pioneered the patented Terrain Response rotary system, cross-linked air suspension, integrated body-frame chassis, and the twin-turbo 3.0L SDV6 diesel delivering 183kW and 600Nm. Regarded as one of the finest all-round touring vehicles ever sold in Australia."
+        },
+        {
+          "series_code": "L460 & Discovery 5",
+          "generation_name": "Modern Range Rover (L460) & Discovery 5",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 4WD wagon",
+            "Long Wheelbase 7-seat (L460 LWB)"
+          ],
+          "summary": "Ultra-lightweight aerospace aluminium architecture. Range Rover L460 features four-wheel steering, P530 4.4L twin-turbo BMW V8 (390kW 750Nm), while Discovery 5 brings family versatility with D300 Ingenium 3.0L inline-6 twin-turbo diesel and 3,500kg towing."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "make_slug": "jeep",
+  "model_slug": "grand-cherokee",
+  "name": "Grand Cherokee",
+  "vehicle_type": "Large SUV",
+  "segment": "Large SUV",
+  "years_sold_au": {
+    "start": 1996,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The American flagship that revolutionized Australia's large SUV market. Across five generations (ZJ, WJ, WK, WK2, and WL), the Grand Cherokee blended authentic Jeep trail capability with luxury appointments, muscular HEMI V8s, efficient 3.0L diesels with 3,500kg towing, and the earth-shattering 522kW Grand Cherokee Trackhawk.",
+  "australian_market_notes": "Introduced in 1996 with the ZJ. The WK2 generation (2011-2021) was an unprecedented commercial triumph in Australia, regularly challenging the Toyota Prado as Australia's favorite large SUV thanks to its 3,500kg towing capacity. In 2018, Jeep delivered the Trackhawk—a supercharged 522kW (707hp) Hellcat-powered SUV that became an instant Australian cult icon.",
+  "manuals": [
+    {
+      "title": "Jeep Grand Cherokee Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1996,
+      "language": "en",
+      "source_url": "local://catalog/makes/jeep/models/grand-cherokee/model.json",
+      "local_path": "media/manuals/jeep/grand-cherokee/jeep_grand-cherokee_au_technical_manual.pdf",
+      "file_size_bytes": 5653,
+      "sha256": "8c0cf055c3a69e4c952938eaa68ce48d54bad2688e7549cfb93de050248ae535",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "2013 Jeep Grand Cherokee Owner`s Manual - Dealer e",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-5924791",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/jeep/grand-cherokee/jeep_grand-cherokee_manual_2013_Jeep_Grand_Cherokee_Owner_s_Manual_-_Dealer_e.html",
+      "file_size_bytes": 214812,
+      "sha256": "5f1198cad1dd4b09797bc970e26b0dbe85b1baf6eeea62029a86527a64a59e20"
+    },
+    {
+      "title": "2014 Jeep Grand Cherokee Owner`s Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-5910719",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/jeep/grand-cherokee/jeep_grand-cherokee_manual_2014_Jeep_Grand_Cherokee_Owner_s_Manual.html",
+      "file_size_bytes": 214662,
+      "sha256": "89a3e218ff6c8bd0e0bb4adcdadcacea9ebdce8a66a0159681ef2bc21d7c5597"
+    },
+    {
+      "title": "2009 Jeep Grand Cherokee SRT8 Owners Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6037023",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/jeep/grand-cherokee/jeep_grand-cherokee_manual_2009_Jeep_Grand_Cherokee_SRT8_Owners_Manual.html",
+      "file_size_bytes": 214559,
+      "sha256": "ce9c0cc45b4d7bbb2a1ecdd4b3dc44d97a0825b388e757a785943618cf7f868d"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Jeep Grand Cherokee (WL) 4xe in Stuttgart",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Jeep_Grand_Cherokee_%28WL%29_4xe_IMG_8479_%28cropped%29.jpg/1280px-Jeep_Grand_Cherokee_%28WL%29_4xe_IMG_8479_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+      "local_path": "media/pictures/jeep/grand-cherokee/jeep_grand-cherokee_hero_1_Jeep_Grand_Cherokee_WL_4xe_IMG_8479_cropped_.jpg",
+      "file_size_bytes": 293872,
+      "sha256": "4f855b6505105d68aea09e18a211a5d378599f67f58e5a8b5d3c6c690f7404a5"
+    },
+    {
+      "category": "exterior",
+      "caption": "Jeep Grand Cherokee (WL) 4xe in Stuttgart",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jeep_Grand_Cherokee_%28WL%29_4xe_IMG_8481_%28cropped%29.jpg/1280px-Jeep_Grand_Cherokee_%28WL%29_4xe_IMG_8481_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+      "local_path": "media/pictures/jeep/grand-cherokee/jeep_grand-cherokee_hero_2_Jeep_Grand_Cherokee_WL_4xe_IMG_8481_cropped_.jpg",
+      "file_size_bytes": 288169,
+      "sha256": "0b5869b40f9d161528ecf38cbe6cdccbcfa786286cfd84e453354a9dc9b6ba96"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "WJ",
+      "generation_name": "Grand Cherokee Second Generation (WJ)",
+      "years": {
+        "start": 1999,
+        "end": 2005
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Jeep WJ Uniframe",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Sophisticated Uniframe construction, Quadra-Drive full-time 4WD with Vari-Lok gerotor progressive axles, 4.0L straight-six, 4.7L PowerTech V8, and Mercedes-sourced 2.7 CRD 5-cylinder turbo-diesel.",
+      "engines": [
+        {
+          "engine_code": "PowerTech 4.7",
+          "name": "4.7L SOHC V8 Petrol",
+          "displacement_cc": 4701,
+          "displacement_litres": 4.7,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 164,
+          "power_rpm": "4600",
+          "torque_nm": 400,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 16-valve",
+          "notes": "Cast iron block with aluminium cylinder heads; upgraded to 175kW High Output."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Laredo / Limited 4.7 V8",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "4-speed automatic",
+            "5-speed automatic (545RFE)"
+          ],
+          "msrp_aud_min": 45990,
+          "msrp_aud_max": 62990,
+          "fuel_consumption_l_100km": 15.6,
+          "kerb_weight_kg": 1890,
+          "standard_features": [
+            "Quadra-Drive 4WD with Vari-Lok progressive axles",
+            "Leather upholstery (Limited)",
+            "Infinity gold audio system",
+            "Dual-zone climate control"
+          ],
+          "notes": "Core American luxury 4WD."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Laredo / Limited 4.7 V8",
+          "body_style": "5-door SUV",
+          "engine_code": "PowerTech 4.7",
+          "transmission": "5-speed automatic (545RFE)",
+          "drivetrain": "4WD",
+          "years_start": 2001,
+          "years_end": 2005,
+          "msrp_aud": 56900,
+          "power_kw": 164,
+          "torque_nm": 400,
+          "fuel_l_100km": 15.6,
+          "towing_braked_kg": 3360,
+          "notes": "Quadra-Drive 4.7 V8 luxury 4x4."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "WJ",
+          "category": "exterior",
+          "caption": "File:Jeep Grand Cherokee WJ 34h.jpg",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jeep_Grand_Cherokee_WJ_34h.jpg/1280px-Jeep_Grand_Cherokee_WJ_34h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0",
+          "local_path": "media/pictures/jeep/grand-cherokee/jeep_grand-cherokee_WJ_1_Jeep_Grand_Cherokee_WJ_34h.jpg",
+          "file_size_bytes": 285820,
+          "sha256": "bb37cd04428c2faa4ce7d1fa6746ffc74d1836b455681ea3eb133bdba673d89f"
+        }
+      ]
+    },
+    {
+      "series_code": "WK2",
+      "generation_name": "Grand Cherokee Fourth Generation (WK2 & Trackhawk)",
+      "years": {
+        "start": 2011,
+        "end": 2022
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Chrysler WK2",
+      "ancap_rating": "5 stars",
+      "summary": "Australian sales sensation. Co-developed with Mercedes-Benz ML platform, independent suspension, 3.6L Pentastar V6, 3.0L EcoDiesel V6 (184kW/570Nm, 3500kg towing), 5.7L HEMI V8, SRT 6.4L HEMI (344kW), and the legendary 522kW supercharged Trackhawk.",
+      "engines": [
+        {
+          "engine_code": "A630",
+          "name": "3.0L V6 EcoDiesel (VM Motori)",
+          "displacement_cc": 2987,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 184,
+          "power_rpm": "4000",
+          "torque_nm": 570,
+          "torque_rpm": "2000",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Class-leading 3500kg towing capacity with sub-8.0L/100km highway economy."
+        },
+        {
+          "engine_code": "Hellcat 6.2",
+          "name": "6.2L Supercharged HEMI V8 (Trackhawk)",
+          "displacement_cc": 6166,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol",
+          "power_kw": 522,
+          "power_rpm": "6000",
+          "torque_nm": 868,
+          "torque_rpm": "4800",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 16-valve",
+          "notes": "2.38-litre IHI twin-screw supercharger delivering 11.6psi boost; 707 horsepower."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Overland 3.0 CRD",
+          "years": {
+            "start": 2011,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "8-speed ZF automatic"
+          ],
+          "msrp_aud_min": 65000,
+          "msrp_aud_max": 79950,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 2327,
+          "standard_features": [
+            "Quadra-Lift air suspension",
+            "Quadra-Drive II 4WD with rear ELSD",
+            "Nappa leather seating with ventilated front seats",
+            "Dual-pane panoramic sunroof",
+            "3,500kg towing capacity"
+          ],
+          "notes": "Top-selling luxury tow vehicle in Australia."
+        },
+        {
+          "badge_name": "Grand Cherokee Trackhawk",
+          "years": {
+            "start": 2018,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed Torqueflite automatic"
+          ],
+          "msrp_aud_min": 134900,
+          "msrp_aud_max": 139950,
+          "fuel_consumption_l_100km": 16.8,
+          "kerb_weight_kg": 2433,
+          "standard_features": [
+            "522kW 707hp Hellcat supercharged V8",
+            "Brembo 400mm 2-piece front brake discs with 6-piston yellow calipers",
+            "Quad black exhaust tips",
+            "Laguna leather interior",
+            "Launch control and performance pages"
+          ],
+          "notes": "0-100km/h in 3.7 seconds. Quarter mile in 11.6s. The most powerful factory SUV sold in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Overland 3.0 CRD",
+          "body_style": "5-door SUV",
+          "engine_code": "A630",
+          "transmission": "8-speed ZF automatic",
+          "drivetrain": "4WD",
+          "years_start": 2013,
+          "years_end": 2021,
+          "msrp_aud": 74950,
+          "power_kw": 184,
+          "torque_nm": 570,
+          "fuel_l_100km": 7.5,
+          "towing_braked_kg": 3500,
+          "notes": "Benchmark 3500kg tow rating 8-speed diesel."
+        },
+        {
+          "badge_name": "Grand Cherokee Trackhawk",
+          "body_style": "5-door SUV",
+          "engine_code": "Hellcat 6.2",
+          "transmission": "8-speed Torqueflite automatic",
+          "drivetrain": "AWD",
+          "years_start": 2018,
+          "years_end": 2021,
+          "msrp_aud": 134900,
+          "power_kw": 522,
+          "torque_nm": 868,
+          "fuel_l_100km": 16.8,
+          "towing_braked_kg": 2949,
+          "notes": "522kW 707hp supercharged Hellcat SUV."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "WK2",
+          "category": "exterior",
+          "caption": "2018 Jeep Grand Cherokee (WK2) SRT8 in Stuttgart",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2018_Jeep_Grand_Cherokee_%28WK2%29_SRT8_DSC_7222.jpg/1280px-2018_Jeep_Grand_Cherokee_%28WK2%29_SRT8_DSC_7222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/jeep/grand-cherokee/jeep_grand-cherokee_WK2_1_2018_Jeep_Grand_Cherokee_WK2_SRT8_DSC_7222.jpg",
+          "file_size_bytes": 382933,
+          "sha256": "0878a6d531b9cd1b9f48f6a7129b5686b90837dde5b639c3561a5bdcad687397"
+        }
+      ]
+    },
+    {
+      "series_code": "WL",
+      "generation_name": "Grand Cherokee Fifth Generation (WL & WL L)",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV (SWB)",
+        "5-door 7-seat SUV (LWB)"
+      ],
+      "platform": "STLA Large (Giorgio evolution)",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the Giorgio-derived STLA Large platform. Offered in three-row 7-seat (LWB) and two-row 5-seat (SWB) configurations with 3.6L Pentastar V6 and the advanced 4xe Plug-in Hybrid delivering 280kW and 637Nm.",
+      "engines": [
+        {
+          "engine_code": "4xe-PHEV",
+          "name": "2.0L Turbo PHEV Dual-Motor",
+          "displacement_cc": 1995,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged with Dual Electric Motors",
+          "fuel_type": "Plug-in Hybrid",
+          "power_kw": 280,
+          "power_rpm": "5250",
+          "torque_nm": 637,
+          "torque_rpm": "3000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "17.3kWh battery pack; 52km pure electric range."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Summit Reserve 4xe",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV (SWB)"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 129950,
+          "msrp_aud_max": 139950,
+          "fuel_consumption_l_100km": 3.2,
+          "kerb_weight_kg": 2520,
+          "standard_features": [
+            "Palermo quilted leather seating",
+            "19-speaker McIntosh audio system",
+            "Quadra-Trac II 4WD",
+            "Front passenger touchscreen display",
+            "Night vision camera"
+          ],
+          "notes": "High-tech plug-in hybrid flagship."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Summit Reserve 4xe",
+          "body_style": "5-door SUV (SWB)",
+          "engine_code": "4xe-PHEV",
+          "transmission": "8-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 129950,
+          "power_kw": 280,
+          "torque_nm": 637,
+          "fuel_l_100km": 3.2,
+          "towing_braked_kg": 2720,
+          "notes": "280kW plug-in hybrid luxury 4x4."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "WL",
+          "category": "exterior",
+          "caption": "File:Jeep Grand Cherokee L Overland at Automesse Ludwigsburg 2022",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jeep_Grand_Cherokee_L_Overland_Automesse_Ludwigsburg_2022_1X7A5918.jpg/1280px-Jeep_Grand_Cherokee_L_Overland_Automesse_Ludwigsburg_2022_1X7A5918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/jeep/grand-cherokee/jeep_grand-cherokee_WL_1_Jeep_Grand_Cherokee_L_Overland_Automesse_Ludwigsburg_2022_1X7A5918.jpg",
+          "file_size_bytes": 327965,
+          "sha256": "22909940cc78dffb6ceedf775706a15e38a4ae9f985a7ffe453eeac92e783684"
+        }
+      ]
+    }
+  ]
+}

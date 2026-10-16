@@ -1,0 +1,327 @@
+{
+  "make_slug": "ford",
+  "model_slug": "laser",
+  "name": "Ford Laser",
+  "vehicle_type": "3-door & 5-door Hatchback / 4-door Sedan / 5-door Wagon",
+  "segment": "Small",
+  "years_sold_au": {
+    "start": 1981,
+    "end": 2002
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Homebush, New South Wales (KA, KB, KC, KE, KF, KH, 1981-1994)",
+    "Hofu, Japan (KJ, KL, KQ, 1994-2002)"
+  ],
+  "overview": "The Ford Laser was one of Australia's most beloved small cars, dominating private sales and motoring awards across the 1980s and 1990s. Born from Ford's global partnership with Mazda (sharing the 323 platform), the Laser was manufactured at Ford's Homebush assembly plant in Sydney with distinct styling penned by Ford Australia's design studio. The Laser spawned the iconic 'TX3' badge—an Australian performance sensation that progressed from the twin-carb KA/KB Sport to the ferocious KC/KE and KF/KH TX3 Turbo 4WD, packing a 1.6L/1.8L turbocharged DOHC engine, full-time four-wheel drive, and digital instruments. Sourcing shifted to Japan in 1994 with the imported KJ, KL, and KQ series before the model was succeeded by the Focus.",
+  "australian_market_notes": "The Laser was the best-selling small car in Australia throughout the 1980s, repeatedly outselling the Toyota Corolla and Holden Gemini. The TX3 Turbo 4WD became an Australian rally weapon, dominating Group A and Group N showroom-stock rally championships in the hands of privateers and creating a genuine cult classic today.",
+  "manuals": [
+    {
+      "title": "Ford Ford Laser Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1981,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/laser/model.json",
+      "local_path": "media/manuals/ford/laser/ford_laser_au_technical_manual.pdf",
+      "file_size_bytes": 5614,
+      "sha256": "2af5d5c859125845aa1f1c17397b924b442abe0e02bd7932761abad5a0203d28",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Gregorys Ford Laser KA-KB Meteor GA-GB Service and Repair Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/laser_ka_kb_meteor_ga_gb_service_manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/laser/ford_laser_manual_Gregorys_Ford_Laser_KA-KB_Meteor_GA-GB_Service_and_Repair_Manual.html",
+      "file_size_bytes": 203982,
+      "sha256": "13aa9a463d616cd64c7039e03e86c3f45dcca56bb00c4bf22e818614d16de004"
+    },
+    {
+      "title": "1985 Ford Laser Accessories Brochure. Australia",
+      "year": null,
+      "source_url": "https://archive.org/details/1985-ford-laser-accessories-brochure.-australia",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/laser/ford_laser_manual_1985_Ford_Laser_Accessories_Brochure._Australia.html",
+      "file_size_bytes": 223630,
+      "sha256": "87f4272750130e9f8a5319b2cacc1056ec002b33930cf8f174d2b2efe5777c41"
+    },
+    {
+      "title": "1993 Ford Laser S And TX 3 Brochure. Australia, July 1993",
+      "year": null,
+      "source_url": "https://archive.org/details/1993-ford-laser-s-and-tx-3-brochure.-australia-july-1993",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/laser/ford_laser_manual_1993_Ford_Laser_S_And_TX_3_Brochure._Australia_July_1993.html",
+      "file_size_bytes": 235935,
+      "sha256": "94e926ecf9593abbf63b30fff2e2f7d97c740359079db1deff9b6b5a5431995d"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1986 Ford Laser (KC) GL 5-door hatchback. Photographed in Brunswick East, Victoria, Australia.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1986_Ford_Laser_%28KC%29_GL_5-door_hatchback_%282015-07-14%29_01.jpg/1280px-1986_Ford_Laser_%28KC%29_GL_5-door_hatchback_%282015-07-14%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "Public domain (OSX)",
+      "local_path": "media/pictures/ford/laser/ford_laser_hero_1_1986_Ford_Laser_KC_GL_5-door_hatchback_2015-07-14_01.jpg",
+      "file_size_bytes": 286835,
+      "sha256": "9ee877f7dd41fc000392b6101e5ecf90afb9cb459d070b79b52abba13bf3b988"
+    },
+    {
+      "category": "exterior",
+      "caption": "This model Laser was another big seller for Ford in Australia, but by this time, the Laser had grown in size, mainly to meet the US market requirements, where it would be sold as the Ford Escort and Mercury Tracer and sales would now start ",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/1990-1991_Ford_Laser_%28KF%29_TX3_Turbo_3-door_hatchback_%2814292571369%29.jpg/1280px-1990-1991_Ford_Laser_%28KF%29_TX3_Turbo_3-door_hatchback_%2814292571369%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+      "local_path": "media/pictures/ford/laser/ford_laser_hero_2_1990-1991_Ford_Laser_KF_TX3_Turbo_3-door_hatchback_14292571369_.jpg",
+      "file_size_bytes": 114859,
+      "sha256": "380593ddc2bdb712f80048dc4ca942ca6e5853f078fb41a5c9ed13aae68f9a8c"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "KA-KB",
+      "generation_name": "KA / KB Laser",
+      "years": {
+        "start": 1981,
+        "end": 1985
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback"
+      ],
+      "platform": "Ford/Mazda BD platform",
+      "ancap_rating": null,
+      "summary": "First front-wheel-drive Laser built at Homebush, Sydney. Crisp European-inspired hatchback styling, 1.3L and 1.5L E-series engines, and the peppy Laser Sport.",
+      "engines": [
+        {
+          "engine_code": "Mazda-E5S-TwinCarb",
+          "name": "Ford / Mazda E5S 1.5L Twin-Carb Inline-4",
+          "displacement_cc": 1490,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 59.0,
+          "power_rpm": "5800",
+          "torque_nm": 115.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Twin-barrel downdraft carburettor; powers Laser Sport."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Laser Sport",
+          "years": {
+            "start": 1981,
+            "end": 1985
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 7890,
+          "msrp_aud_max": 8990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 850,
+          "standard_features": [
+            "1.5L twin-carb engine",
+            "Rear tailgate spoiler",
+            "Sports steering wheel and tachometer",
+            "Front bucket seats with striped velour"
+          ],
+          "notes": "Precursor to the famous TX3."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Laser Sport",
+          "body_style": "3-door hatchback",
+          "engine_code": "Mazda-E5S-TwinCarb",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 7890,
+          "power_kw": 59.0,
+          "torque_nm": 115.0,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 600,
+          "notes": "Featherweight 850 kg sporty Aussie hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "KA-KB",
+          "category": "exterior",
+          "caption": "The Laser was a restyled Mazda 323, The 1st, the KA Laser, was introduced in March 1981. In January 1983 it underwent a facelift to become the KB. Built in Japan, Australia and New Zealand. Originally sold only with the 1.3, Later, 1.5 litr",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1982_Ford_KA_Laser_S_Hatchback_%2812427849133%29.jpg/1280px-1982_Ford_KA_Laser_S_Hatchback_%2812427849133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/ford/laser/ford_laser_KA-KB_1_1982_Ford_KA_Laser_S_Hatchback_12427849133_.jpg",
+          "file_size_bytes": 379900,
+          "sha256": "ad7548c1affbc71d1a5ccc999e28c7982b8e60bd79c2a25d459b54a0e1a150e9"
+        }
+      ]
+    },
+    {
+      "series_code": "KC-KE",
+      "generation_name": "KC / KE Laser & TX3 Turbo",
+      "years": {
+        "start": 1985,
+        "end": 1990
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback",
+        "4-door sedan (Meteor)",
+        "5-door wagon"
+      ],
+      "platform": "Ford/Mazda BF platform",
+      "ancap_rating": null,
+      "summary": "Aerodynamic styling, Homebush production. Historic launch of the TX3 Turbo and TX3 Turbo 4WD with 100 kW B6T engine, digital instruments, and all-wheel drive.",
+      "engines": [
+        {
+          "engine_code": "Mazda-B6T-Laser",
+          "name": "Ford / Mazda B6T 1.6L DOHC 16V Turbo Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 100.0,
+          "power_rpm": "5500",
+          "torque_nm": 184.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "7.9:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Water-cooled turbocharger, air-to-air intercooler, electronic fuel injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "TX3 Turbo 4WD",
+          "years": {
+            "start": 1987,
+            "end": 1990
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 27990,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1080,
+          "standard_features": [
+            "100 kW 1.6L DOHC 16V Turbo engine",
+            "Permanent full-time 4WD with central differential lock",
+            "Electronic liquid-crystal digital instrument cluster",
+            "Four-wheel disc brakes and sports alloy wheels",
+            "Dual rear spoilers and sports bucket seats"
+          ],
+          "notes": "Legendary pocket rally homologation missile."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "TX3 Turbo 4WD",
+          "body_style": "3-door hatchback",
+          "engine_code": "Mazda-B6T-Laser",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "msrp_aud": 24990,
+          "power_kw": 100.0,
+          "torque_nm": 184.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 800,
+          "notes": "All-wheel-drive 1.6L turbo hot hatch."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "KF-KH",
+      "generation_name": "KF / KH Laser & TX3 Turbo 4WD",
+      "years": {
+        "start": 1990,
+        "end": 1994
+      },
+      "body_styles": [
+        "3-door hatchback",
+        "5-door hatchback",
+        "4-door sedan"
+      ],
+      "platform": "Ford/Mazda BG platform",
+      "ancap_rating": 2,
+      "summary": "Final Homebush Sydney-manufactured Laser. Distinctive quad round headlight front styling on TX3, packing the upgraded 117 kW 1.8L DOHC Turbo BP-T engine and full-time 4WD.",
+      "engines": [
+        {
+          "engine_code": "Mazda-BP-T-1.8L",
+          "name": "Ford / Mazda BP-T 1.8L DOHC 16V Turbo Inline-4",
+          "displacement_cc": 1839,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 117.0,
+          "power_rpm": "6500",
+          "torque_nm": 206.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.2:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "IHI VJ20 turbocharger, large front intercooler; 117 kW (157 hp)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "TX3 Turbo 4WD",
+          "years": {
+            "start": 1990,
+            "end": 1994
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 33990,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1195,
+          "standard_features": [
+            "117 kW 1.8L DOHC Turbo engine",
+            "Permanent AWD with viscous-coupling center and rear limited-slip differential",
+            "Distinctive four round projector headlamps",
+            "15-inch alloy wheels and ABS brakes option",
+            "Sports bucket seats and leather steering wheel"
+          ],
+          "notes": "Pinnacle of Laser performance; 0-100 km/h in 7.4 seconds."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "TX3 Turbo 4WD",
+          "body_style": "3-door hatchback",
+          "engine_code": "Mazda-BP-T-1.8L",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "msrp_aud": 29990,
+          "power_kw": 117.0,
+          "torque_nm": 206.0,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 900,
+          "notes": "117 kW 1.8L Turbo AWD hot hatch."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

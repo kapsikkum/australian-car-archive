@@ -1,0 +1,393 @@
+{
+  "make_slug": "land-rover",
+  "model_slug": "range-rover-discovery",
+  "name": "Range Rover & Discovery",
+  "vehicle_type": "Large Luxury 4WD / Family SUV",
+  "segment": "Large Luxury SUV",
+  "years_sold_au": {
+    "start": 1972,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The twin benchmarks of British luxury and all-terrain expedition mastery in Australia. The Range Rover created the luxury 4WD genre in 1972, proving that supreme off-road capability could coexist with peerless aristocratic comfort. The Land Rover Discovery launched in Australia in 1991, democratizing Range Rover technology into an iconic stepped-roof, 7-seat family adventurer.",
+  "australian_market_notes": "First imported to Australia in 1972 with the 2-door Range Rover Classic. It quickly proved itself indispensable across pastoral stations and remote outback expeditions. Discovery 1 & 2 became beloved overland tourers, while Discovery 3 & 4 with Terrain Response and 3500kg towing became Australia's premier luxury caravan hauler.",
+  "manuals": [
+    {
+      "title": "Land Rover Range Rover & Discovery Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1972,
+      "language": "en",
+      "source_url": "local://catalog/makes/land-rover/models/range-rover-discovery/model.json",
+      "local_path": "media/manuals/land-rover/range-rover-discovery/land-rover_range-rover-discovery_au_technical_manual.pdf",
+      "file_size_bytes": 6407,
+      "sha256": "b0c73276728d7cf41e1c549e5d3934d42b558973be683be3d08d8337d1607d48",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Разные автомобили в Замоскворечье",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Moscow%2C_Land_Rover_Discovery_4_black%2C_Oct_2025_01.jpg/1280px-Moscow%2C_Land_Rover_Discovery_4_black%2C_Oct_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (Retired electrician)",
+      "local_path": "media/pictures/land-rover/range-rover-discovery/land-rover_range-rover-discovery_hero_1_Moscow_Land_Rover_Discovery_4_black_Oct_2025_01.jpg",
+      "file_size_bytes": 335642,
+      "sha256": "266f1d8746bb18f4cb832f3a9f1ce0f994bd7b73c9b6f1e0a0c9781bd99547cb"
+    },
+    {
+      "category": "exterior",
+      "caption": "Range Rover Evoques at the Land Rover Discovery Centre, Rockingham",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Range_Rover_Evoques.jpg/1280px-Range_Rover_Evoques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Adam Loader)",
+      "local_path": "media/pictures/land-rover/range-rover-discovery/land-rover_range-rover-discovery_hero_2_Range_Rover_Evoques.jpg",
+      "file_size_bytes": 480076,
+      "sha256": "c58259e58e1a15a493249e18388e41daf316c133db0a1bf66728dcad703b92b3"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Classic & P38A",
+      "generation_name": "Range Rover Classic & P38A",
+      "years": {
+        "start": 1972,
+        "end": 2002
+      },
+      "body_styles": [
+        "2-door 4WD wagon",
+        "4-door 4WD wagon"
+      ],
+      "platform": "Range Rover Classic / P38A",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "The original luxury 4x4. Permanent four-wheel drive, all-coil spring suspension, aluminum body panels, Rover 3.5L/3.9L/4.6L V8s, and Electronic Air Suspension (EAS).",
+      "engines": [
+        {
+          "engine_code": "Rover V8 3.9",
+          "name": "3.9L OHV V8 Petrol",
+          "displacement_cc": 3946,
+          "displacement_litres": 3.9,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 134,
+          "power_rpm": "4750",
+          "torque_nm": 304,
+          "torque_rpm": "2600",
+          "compression_ratio": "9.35:1",
+          "valvetrain": "OHV 16-valve",
+          "notes": "Lucas 14CUX electronic fuel injection; all-aluminium V8."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Range Rover Vogue",
+          "years": {
+            "start": 1984,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door 4WD wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed ZF automatic"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 99990,
+          "fuel_consumption_l_100km": 15.2,
+          "kerb_weight_kg": 1930,
+          "standard_features": [
+            "Burr walnut wood trim",
+            "Connolly leather upholstery",
+            "Air suspension (late)",
+            "Split rear tailgate",
+            "Permanent 4WD with center diff lock"
+          ],
+          "notes": "Created the luxury 4WD category in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Range Rover Vogue",
+          "body_style": "4-door 4WD wagon",
+          "engine_code": "Rover V8 3.9",
+          "transmission": "4-speed ZF automatic",
+          "drivetrain": "4WD",
+          "years_start": 1989,
+          "years_end": 1996,
+          "msrp_aud": 69900,
+          "power_kw": 134,
+          "torque_nm": 304,
+          "fuel_l_100km": 15.2,
+          "towing_braked_kg": 3500,
+          "notes": "3.9L V8 fuel injected Vogue."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "Discovery 1 & 2",
+      "generation_name": "Discovery Series I & II",
+      "years": {
+        "start": 1991,
+        "end": 2004
+      },
+      "body_styles": [
+        "5-door 4WD wagon"
+      ],
+      "platform": "Land Rover Discovery 1 / T5",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Stepped roof, alpine roof glass, 7-seater packaging, Conran-designed interior, 3.9L V8, 300Tdi diesel, and Discovery 2 (1999) with Td5 5-cylinder turbo-diesel and Active Cornering Enhancement (ACE).",
+      "engines": [
+        {
+          "engine_code": "Td5",
+          "name": "2.5L Turbo Diesel Inline-5",
+          "displacement_cc": 2495,
+          "displacement_litres": 2.5,
+          "cylinders": 5,
+          "configuration": "Inline-5",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 101,
+          "power_rpm": "4200",
+          "torque_nm": 300,
+          "torque_rpm": "1950",
+          "compression_ratio": "19.5:1",
+          "valvetrain": "SOHC 10-valve with electronic unit injectors",
+          "notes": "Lucas electronic unit injectors, renowned for outback reliability."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Discovery Td5 / V8",
+          "years": {
+            "start": 1999,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door 4WD wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed ZF automatic"
+          ],
+          "msrp_aud_min": 44990,
+          "msrp_aud_max": 65990,
+          "fuel_consumption_l_100km": 9.4,
+          "kerb_weight_kg": 2150,
+          "standard_features": [
+            "7-passenger seating",
+            "Dual electric glass sunroofs",
+            "Electronic Traction Control",
+            "Hill Descent Control",
+            "ACE hydraulic active anti-roll"
+          ],
+          "notes": "Australia's overland adventure favorite."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Discovery Td5 / V8",
+          "body_style": "5-door 4WD wagon",
+          "engine_code": "Td5",
+          "transmission": "4-speed ZF automatic",
+          "drivetrain": "4WD",
+          "years_start": 1999,
+          "years_end": 2004,
+          "msrp_aud": 52900,
+          "power_kw": 101,
+          "torque_nm": 300,
+          "fuel_l_100km": 9.4,
+          "towing_braked_kg": 3500,
+          "notes": "5-cylinder turbo-diesel Discovery 2."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Discovery 1 & 2",
+          "category": "exterior",
+          "caption": "There were quite a lot of Defenders, Dosciveries, range Rovers and RR Sports out on the roads.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Land_Rover_Discovery_%286177891894%29.jpg/1280px-Land_Rover_Discovery_%286177891894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Bryn Pinzgauer)",
+          "local_path": "media/pictures/land-rover/range-rover-discovery/land-rover_range-rover-discovery_Discovery_1_2_1_Land_Rover_Discovery_6177891894_.jpg",
+          "file_size_bytes": 225332,
+          "sha256": "0fd65c7e0879e5db09cce8d46799ef278a6cf848350d1d483bcd0ad621c3ec13"
+        }
+      ]
+    },
+    {
+      "series_code": "Discovery 3 & 4",
+      "generation_name": "Discovery 3 & 4 (Terrain Response Era)",
+      "years": {
+        "start": 2004,
+        "end": 2016
+      },
+      "body_styles": [
+        "5-door 4WD wagon"
+      ],
+      "platform": "Land Rover Integrated Body Frame (T5)",
+      "ancap_rating": "4 stars",
+      "summary": "Pioneered the patented Terrain Response rotary system, cross-linked air suspension, integrated body-frame chassis, and the twin-turbo 3.0L SDV6 diesel delivering 183kW and 600Nm. Regarded as one of the finest all-round touring vehicles ever sold in Australia.",
+      "engines": [
+        {
+          "engine_code": "306DT",
+          "name": "3.0L SDV6 Twin-Turbo Diesel V6",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 183,
+          "power_rpm": "4000",
+          "torque_nm": 600,
+          "torque_rpm": "2000",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Parallel-sequential turbochargers; huge torque delivery for towing."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Discovery 4 SDV6 SE / HSE",
+          "years": {
+            "start": 2009,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door 4WD wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic",
+            "8-speed ZF automatic"
+          ],
+          "msrp_aud_min": 68490,
+          "msrp_aud_max": 95900,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 2565,
+          "standard_features": [
+            "Terrain Response rotary dial",
+            "Height-adjustable air suspension",
+            "7 full-sized adult seats",
+            "3,500kg towing capacity",
+            "Harman Kardon LOGIC7 sound"
+          ],
+          "notes": "The benchmark luxury caravan tow vehicle in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Discovery 4 SDV6 SE / HSE",
+          "body_style": "5-door 4WD wagon",
+          "engine_code": "306DT",
+          "transmission": "8-speed ZF automatic",
+          "drivetrain": "4WD",
+          "years_start": 2012,
+          "years_end": 2016,
+          "msrp_aud": 84900,
+          "power_kw": 183,
+          "torque_nm": 600,
+          "fuel_l_100km": 8.0,
+          "towing_braked_kg": 3500,
+          "notes": "600Nm 8-speed ZF automatic touring legend."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Discovery 3 & 4",
+          "category": "exterior",
+          "caption": "Salon de l'auto de Genève 2014 - 20140305 - Range Rover",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Range_Rover_1.jpg/1280px-Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Range_Rover_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Clément Bucco-Lechat)",
+          "local_path": "media/pictures/land-rover/range-rover-discovery/land-rover_range-rover-discovery_Discovery_3_4_1_Salon_de_l_auto_de_Gen_ve_2014_-_20140305_-_Range_Rover_1.jpg",
+          "file_size_bytes": 214240,
+          "sha256": "02578b7986291d0d5512eef9636e3672cb035f9587b25fed396f03002927e687"
+        }
+      ]
+    },
+    {
+      "series_code": "L460 & Discovery 5",
+      "generation_name": "Modern Range Rover (L460) & Discovery 5",
+      "years": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door 4WD wagon",
+        "Long Wheelbase 7-seat (L460 LWB)"
+      ],
+      "platform": "Jaguar Land Rover MLA-Flex / PLA",
+      "ancap_rating": "5 stars",
+      "summary": "Ultra-lightweight aerospace aluminium architecture. Range Rover L460 features four-wheel steering, P530 4.4L twin-turbo BMW V8 (390kW 750Nm), while Discovery 5 brings family versatility with D300 Ingenium 3.0L inline-6 twin-turbo diesel and 3,500kg towing.",
+      "engines": [
+        {
+          "engine_code": "N63-JLR",
+          "name": "4.4L Twin-Turbo V8 (Range Rover P530)",
+          "displacement_cc": 4395,
+          "displacement_litres": 4.4,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 390,
+          "power_rpm": "5500-6000",
+          "torque_nm": 750,
+          "torque_rpm": "1800-4600",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "Twin-scroll turbochargers inside vee; 0-100km/h in 4.6s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Range Rover P530 Autobiography",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 4WD wagon",
+            "Long Wheelbase 7-seat (L460 LWB)"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed ZF automatic"
+          ],
+          "msrp_aud_min": 250000,
+          "msrp_aud_max": 395000,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 2585,
+          "standard_features": [
+            "All-wheel steering (7.3 degrees rear lock)",
+            "Electronic air suspension with Dynamic Response Pro",
+            "Meridian Signature 35-speaker sound with active noise cancelling",
+            "Executive Class rear seating"
+          ],
+          "notes": "Pinnacle of luxury all-terrain travel."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Range Rover P530 Autobiography",
+          "body_style": "5-door 4WD wagon",
+          "engine_code": "N63-JLR",
+          "transmission": "8-speed ZF automatic",
+          "drivetrain": "AWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 315000,
+          "power_kw": 390,
+          "torque_nm": 750,
+          "fuel_l_100km": 11.8,
+          "towing_braked_kg": 3500,
+          "notes": "390kW twin-turbo V8 luxury flagship."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

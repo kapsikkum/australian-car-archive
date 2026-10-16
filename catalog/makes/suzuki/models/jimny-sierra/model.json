@@ -1,0 +1,511 @@
+{
+  "make_slug": "suzuki",
+  "model_slug": "jimny-sierra",
+  "name": "Jimny / Sierra / Stockman",
+  "vehicle_type": "Compact 4WD SUV",
+  "segment": "Light 4WD",
+  "years_sold_au": {
+    "start": 1974,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Suzuki Jimny, Sierra, and Stockman represent Australia's most revered lightweight, go-anywhere 4WD institution. Defying its miniature dimensions with a genuine ladder-frame chassis, dual-range transfer case, and live beam axles front and rear, it has conquered the Simpson Desert, Victorian High Country, and outback cattle stations for half a century.",
+  "australian_market_notes": "First imported in 1974 as the two-stroke LJ50 and four-stroke LJ80 Stockman, it became an agricultural essential on Aussie farms. In 1981, the SJ410 and SJ413 Sierra ignited a 4WD craze among Australian youth, delivering unbeatable rock-crawling capability for a fraction of the cost of a LandCruiser. The 1998 JB33/JB43 introduced coil springs, while the 2018 JB74 retro styling sparked unprecedented multi-year Australian dealer waitlists, expanded in 2024 with the 5-door Jimny XL.",
+  "manuals": [
+    {
+      "title": "Suzuki Jimny / Sierra / Stockman Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1974,
+      "language": "en",
+      "source_url": "local://catalog/makes/suzuki/models/jimny-sierra/model.json",
+      "local_path": "media/manuals/suzuki/jimny-sierra/suzuki_jimny-sierra_au_technical_manual.pdf",
+      "file_size_bytes": 6795,
+      "sha256": "1d02449b492630471d6770b5a1fcc672c91a5f1c71536ba6160028683356ce69",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2021-2024 Suzuki Jimny XL",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2021-2024_Suzuki_Jimny_XL.jpg/1280px-2021-2024_Suzuki_Jimny_XL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (TTTNIS)",
+      "local_path": "media/pictures/suzuki/jimny-sierra/suzuki_jimny-sierra_hero_1_2021-2024_Suzuki_Jimny_XL.jpg.jpg",
+      "file_size_bytes": 213380,
+      "sha256": "e8bd259b74025440b0b5cc72b898f2756ccc80ffaef2cdcba71e6b9e05e9f3c5"
+    },
+    {
+      "category": "exterior",
+      "caption": "Suzuki Jimny in Fagradalsfjall Mountains, Iceland",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg/1280px-Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Jakub Hałun)",
+      "local_path": "media/pictures/suzuki/jimny-sierra/suzuki_jimny-sierra_hero_2_Suzuki_Jimny_Iceland_20230430_1704_3701.jpg.jpg",
+      "file_size_bytes": 346180,
+      "sha256": "bf13e73cc401ed90a77e18670b36d71fae145c9f9a0fb1f375307d8d99c74573"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "LJ50/LJ80",
+      "generation_name": "LJ50 & LJ80 (Stockman / Brute)",
+      "years": {
+        "start": 1974,
+        "end": 1981
+      },
+      "body_styles": [
+        "Soft-top Canvas",
+        "Hardtop Metal-roof",
+        "Cab Chassis Tray Ute"
+      ],
+      "platform": "Suzuki LJ",
+      "ancap_rating": "Untested",
+      "summary": "The pioneer. LJ50 (539cc 3-cylinder 2-stroke water-cooled), followed by LJ80 (797cc 4-stroke 4-cylinder), ladder-frame chassis, live leaf-sprung axles, and sub-700kg weight.",
+      "engines": [
+        {
+          "engine_code": "LJ50-2T",
+          "name": "Suzuki 539cc 3-Cylinder 2-Stroke",
+          "displacement_cc": 539,
+          "displacement_litres": 0.5,
+          "cylinders": 3,
+          "configuration": "Inline-3 (2-Stroke)",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Pre-mix)",
+          "power_kw": 25.0,
+          "power_rpm": "4500",
+          "torque_nm": 52.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "6.8:1",
+          "valvetrain": "Piston Port 2-Stroke",
+          "notes": "Water-cooled 3-cylinder two-stroke engine in early Australian LJ50s."
+        },
+        {
+          "engine_code": "F8A",
+          "name": "Suzuki F8A 797cc 4-Stroke",
+          "displacement_cc": 797,
+          "displacement_litres": 0.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 31.0,
+          "power_rpm": "5500",
+          "torque_nm": 60.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "8.7:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Suzuki's first 4-stroke automotive engine fitted to LJ80."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Stockman / Brute",
+          "years": {
+            "start": 1974,
+            "end": 1981
+          },
+          "body_styles": [
+            "Canvas Soft Top",
+            "Metal Top",
+            "Cab Chassis Ute"
+          ],
+          "drivetrain": "Part-Time 4WD with low-range transfer case",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 1995,
+          "msrp_aud_max": 3495,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 670,
+          "standard_features": [
+            "Ladder chassis",
+            "Live axles with leaf springs front and rear",
+            "Dual-range transfer case",
+            "Canvas doors (removable)",
+            "Fold-down windscreen"
+          ],
+          "notes": "Pioneering bush runabout."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Suzuki LJ80 Stockman",
+          "body_style": "Soft-top Canvas",
+          "engine_code": "F8A",
+          "transmission": "4-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1978,
+          "years_end": 1981,
+          "msrp_aud": 2995,
+          "power_kw": 31.0,
+          "torque_nm": 60.0,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 450,
+          "notes": "Featherweight 4-stroke outback legend."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "LJ50/LJ80",
+          "category": "exterior",
+          "caption": "Suzuki Jimny in Fagradalsfjall Mountains, Iceland",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg/1280px-Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Jakub Hałun)",
+          "local_path": "media/pictures/suzuki/jimny-sierra/suzuki_jimny-sierra_LJ50_LJ80_1_Suzuki_Jimny_Iceland_20230430_1704_3701.jpg.jpg",
+          "file_size_bytes": 346180,
+          "sha256": "bf13e73cc401ed90a77e18670b36d71fae145c9f9a0fb1f375307d8d99c74573"
+        }
+      ]
+    },
+    {
+      "series_code": "SJ410/SJ413",
+      "generation_name": "Sierra (SJ Series)",
+      "years": {
+        "start": 1981,
+        "end": 1998
+      },
+      "body_styles": [
+        "Soft-top Canvas",
+        "Hardtop Van",
+        "Long Wheelbase Tray Ute (Stockman)"
+      ],
+      "platform": "Suzuki SJ",
+      "ancap_rating": "Untested",
+      "summary": "17-year reign that defined affordable 4WD culture in Australia. SJ410 (1.0L F10A) and SJ413 (1.3L G13A), wide-track updates, and coil-sprung Samurai.",
+      "engines": [
+        {
+          "engine_code": "G13A / G13BA",
+          "name": "Suzuki G13 1.3L OHC",
+          "displacement_cc": 1324,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 47.0,
+          "power_rpm": "5300",
+          "torque_nm": 100.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.9:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Fitted to SJ413 and wide-track Sierra."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sierra Soft Top & Hardtop",
+          "years": {
+            "start": 1981,
+            "end": 1998
+          },
+          "body_styles": [
+            "Soft-top",
+            "Hardtop"
+          ],
+          "drivetrain": "Part-Time 4WD with low range",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 6990,
+          "msrp_aud_max": 16990,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 890,
+          "standard_features": [
+            "Dual-range transfer case",
+            "Manual freewheeling front hubs",
+            "Front disc brakes (SJ413)",
+            "Roll bar",
+            "Fold-down windscreen"
+          ],
+          "notes": "Unstoppable rock crawler and budget 4x4 icon."
+        },
+        {
+          "badge_name": "Sierra Stockman Tray Ute",
+          "years": {
+            "start": 1982,
+            "end": 1998
+          },
+          "body_styles": [
+            "Long Wheelbase Cab Chassis Tray"
+          ],
+          "drivetrain": "Part-Time 4WD with low range",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 8990,
+          "msrp_aud_max": 17990,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 950,
+          "standard_features": [
+            "Long wheelbase chassis",
+            "Dropside aluminium or steel tray",
+            "Heavy-duty rear leaf springs",
+            "Vinyl interior"
+          ],
+          "notes": "Australian agricultural workhorse."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Suzuki Sierra Soft Top 1.3",
+          "body_style": "Soft-top Canvas",
+          "engine_code": "G13A / G13BA",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1988,
+          "years_end": 1996,
+          "msrp_aud": 12990,
+          "power_kw": 47.0,
+          "torque_nm": 100.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 750,
+          "notes": "Wide-track Australian Sierra."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SJ410/SJ413",
+          "category": "exterior",
+          "caption": "Suzuki Jimny in Fagradalsfjall Mountains, Iceland",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg/1280px-Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Jakub Hałun)",
+          "local_path": "media/pictures/suzuki/jimny-sierra/suzuki_jimny-sierra_SJ410_SJ413_1_Suzuki_Jimny_Iceland_20230430_1704_3701.jpg.jpg",
+          "file_size_bytes": 346180,
+          "sha256": "bf13e73cc401ed90a77e18670b36d71fae145c9f9a0fb1f375307d8d99c74573"
+        }
+      ]
+    },
+    {
+      "series_code": "JB33/JB43",
+      "generation_name": "Jimny 3rd Generation",
+      "years": {
+        "start": 1998,
+        "end": 2018
+      },
+      "body_styles": [
+        "3-door Hardtop SUV"
+      ],
+      "platform": "Suzuki JB",
+      "ancap_rating": "3 stars",
+      "summary": "20-year production lifespan. Introduced aerodynamic rounded styling, coil-sprung 3-link rigid live axles front and rear, push-button electronic 4WD, and 1.3L M13A engine.",
+      "engines": [
+        {
+          "engine_code": "M13A",
+          "name": "Suzuki M13A 1.3L DOHC VVT",
+          "displacement_cc": 1328,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 63.0,
+          "power_rpm": "6000",
+          "torque_nm": 110.0,
+          "torque_rpm": "4100",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve VVT",
+          "notes": "Aluminium twin-cam engine with variable valve timing from 2005."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "JLX / Sierra",
+          "years": {
+            "start": 1998,
+            "end": 2018
+          },
+          "body_styles": [
+            "3-door SUV"
+          ],
+          "drivetrain": "Drive Action 4x4 with low range",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 16990,
+          "msrp_aud_max": 22990,
+          "fuel_consumption_l_100km": 7.3,
+          "kerb_weight_kg": 1060,
+          "standard_features": [
+            "Coil-sprung live axles front & rear",
+            "Push-button low-range 4WD",
+            "Dual front airbags",
+            "Air conditioning",
+            "Roof rails",
+            "15-inch alloys"
+          ],
+          "notes": "Beloved compact mountain goat."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Jimny Sierra Manual",
+          "body_style": "3-door Hardtop SUV",
+          "engine_code": "M13A",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 2005,
+          "years_end": 2018,
+          "msrp_aud": 19990,
+          "power_kw": 63.0,
+          "torque_nm": 110.0,
+          "fuel_l_100km": 7.3,
+          "towing_braked_kg": 950,
+          "notes": "Coil-sprung solid axles front and rear."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "JB33/JB43",
+          "category": "exterior",
+          "caption": "SUZUKI JIMNY (JB23 JB33 JB43 JB53) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/SUZUKI_JIMNY_%28JB23_JB33_JB43_JB53%29_China.jpg/1280px-SUZUKI_JIMNY_%28JB23_JB33_JB43_JB53%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/suzuki/jimny-sierra/suzuki_jimny-sierra_JB33_JB43_1_SUZUKI_JIMNY_JB23_JB33_JB43_JB53_China.jpg.jpg",
+          "file_size_bytes": 247863,
+          "sha256": "6d0cbe5d2ab004cd6969ed3eb78e1da95db79c97e28be9cf4500241bbf45de70"
+        }
+      ]
+    },
+    {
+      "series_code": "JB64/JB74",
+      "generation_name": "Jimny 4th Gen & 5-Door XL",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "3-door SUV",
+        "5-door SUV (Jimny XL)"
+      ],
+      "platform": "Suzuki JB74",
+      "ancap_rating": "3 stars",
+      "summary": "Sensational retro boxy styling that created nationwide multi-year waiting lists. Features 1.5L K15B engine, AllGrip Pro 4WD with low-range transfer lever, and the 340mm longer 5-door Jimny XL launched in 2024.",
+      "engines": [
+        {
+          "engine_code": "K15B",
+          "name": "Suzuki K15B 1.5L DOHC VVT",
+          "displacement_cc": 1462,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 75.0,
+          "power_rpm": "6000",
+          "torque_nm": 130.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve VVT",
+          "notes": "Lightweight 1.5L engine matched to mechanical transfer case."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Lite / GLX (3-Door)",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "3-door SUV"
+          ],
+          "drivetrain": "AllGrip Pro part-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 25990,
+          "msrp_aud_max": 33490,
+          "fuel_consumption_l_100km": 6.4,
+          "kerb_weight_kg": 1095,
+          "standard_features": [
+            "Ladder chassis with X-member bracing",
+            "3-link rigid live axles with coil springs",
+            "Autonomous emergency braking & lane departure warning",
+            "LED projector headlamps (GLX)",
+            "7-inch touchscreen with Apple CarPlay (GLX)"
+          ],
+          "notes": "Australian cult vehicle with extreme resale values."
+        },
+        {
+          "badge_name": "Jimny XL (5-Door)",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "AllGrip Pro part-time 4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 34990,
+          "msrp_aud_max": 36490,
+          "fuel_consumption_l_100km": 6.9,
+          "kerb_weight_kg": 1185,
+          "standard_features": [
+            "340mm longer wheelbase",
+            "5 full passenger doors",
+            "9.0-inch touchscreen infotainment",
+            "Wireless Apple CarPlay",
+            "Dual camera brake support",
+            "211 litres luggage capacity"
+          ],
+          "notes": "Long-awaited 5-door practical adventure model."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Jimny GLX 3-door Manual",
+          "body_style": "3-door SUV",
+          "engine_code": "K15B",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 2018,
+          "years_end": "Present",
+          "msrp_aud": 28490,
+          "power_kw": 75.0,
+          "torque_nm": 130.0,
+          "fuel_l_100km": 6.4,
+          "towing_braked_kg": 1300,
+          "notes": "Cult hero off-roader with 37-degree approach angle."
+        },
+        {
+          "badge_name": "Jimny XL 5-door Auto",
+          "body_style": "5-door SUV",
+          "engine_code": "K15B",
+          "transmission": "4-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 36490,
+          "power_kw": 75.0,
+          "torque_nm": 130.0,
+          "fuel_l_100km": 6.9,
+          "towing_braked_kg": 1300,
+          "notes": "5-door practical variant launched in 2024."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "JB64/JB74",
+          "category": "exterior",
+          "caption": "Suzuki Jimny in Fagradalsfjall Mountains, Iceland",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg/1280px-Suzuki_Jimny%2C_Iceland%2C_20230430_1704_3701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Jakub Hałun)",
+          "local_path": "media/pictures/suzuki/jimny-sierra/suzuki_jimny-sierra_JB64_JB74_1_Suzuki_Jimny_Iceland_20230430_1704_3701.jpg.jpg",
+          "file_size_bytes": 346180,
+          "sha256": "bf13e73cc401ed90a77e18670b36d71fae145c9f9a0fb1f375307d8d99c74573"
+        }
+      ]
+    }
+  ]
+}

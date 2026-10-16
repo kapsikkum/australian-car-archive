@@ -1,0 +1,589 @@
+{
+  "make_slug": "bmw",
+  "model_slug": "5-series-m5",
+  "name": "5 Series & M5",
+  "vehicle_type": "Sedan / Touring Wagon",
+  "segment": "Large Luxury Executive Sedan",
+  "years_sold_au": {
+    "start": 1973,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The definitive executive express in Australia across eight generations. The 5 Series established BMW's benchmark rear-wheel-drive chassis dynamics, silky inline-sixes, and thunderous V8s, culminating in the peerless BMW M5 from the high-revving S38, naturally aspirated V8 S62, screaming V10 S85, to the twin-turbo V8 M xDrive M5 Competition.",
+  "australian_market_notes": "First sold in Australia in 1973 with the E12 520. Frank Gardner and Allan Grice famously raced the E12 and E28 in the Australian Touring Car Championship. The E39 M5 and E60 V10 M5 hold revered places in Australian motoring folklore, with Australia consistently ranking in the top five per-capita markets for M5 sales globally.",
+  "manuals": [
+    {
+      "title": "Bmw 5 Series & M5 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1973,
+      "language": "en",
+      "source_url": "local://catalog/makes/bmw/models/5-series-m5/model.json",
+      "local_path": "media/manuals/bmw/5-series-m5/bmw_5-series-m5_au_technical_manual.pdf",
+      "file_size_bytes": 7301,
+      "sha256": "76f911285ad94dc74772ed86ac023371c6f6dc14d39a8d998105a2586703d05b",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Launch: 1985 (as M5, 1972 as 5-Series)\nGeneration: Sixth (F90, 2017 - )\nEngine: 4,4 litre biturbo V8 (petrol)\nPower: 635 PS\nGearbox: 8 speed automatic \nLayout: front engine,  all wheel drive \n\nLocation: New Canaan, Connecticut (USA)",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/BMW_M5_CS_%28F90%2C_2022%29_-_52453966001.jpg/1280px-BMW_M5_CS_%28F90%2C_2022%29_-_52453966001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Charles)",
+      "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_hero_1_BMW_M5_CS_F90_2022_-_52453966001.jpg",
+      "file_size_bytes": 335687,
+      "sha256": "1e51821376df39385b422e755a14940ecc1e4c702f203c3fa11155dd44db4543"
+    },
+    {
+      "category": "exterior",
+      "caption": "Test mule for the G90 BMW m5 in Munich",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/BMW_M5_mule%2C_Munich_%28P1190468%29.jpg/1280px-BMW_M5_mule%2C_Munich_%28P1190468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Matti Blume)",
+      "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_hero_2_BMW_M5_mule_Munich_P1190468_.jpg",
+      "file_size_bytes": 308642,
+      "sha256": "2db7f9ebf39143b39072886a6c809bba602de01e0b5e3852d0a9b4df85015848"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "E28",
+      "generation_name": "5 Series E28 & M535i",
+      "years": {
+        "start": 1981,
+        "end": 1988
+      },
+      "body_styles": [
+        "4-door sedan"
+      ],
+      "platform": "BMW E28",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "The shark-nose executive sports sedan; 520i, 528i, and halo M535i engineered by BMW Motorsport with 3.4L M30 big-six, M-Technic suspension, and limited-slip differential.",
+      "engines": [
+        {
+          "engine_code": "M30B34",
+          "name": "3.4L SOHC Inline-6",
+          "displacement_cc": 3430,
+          "displacement_litres": 3.4,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 136,
+          "power_rpm": "5400",
+          "torque_nm": 290,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.0:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "ADR unleaded specification with Bosch Motronic injection."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "M535i",
+          "years": {
+            "start": 1985,
+            "end": 1988
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (dogleg)",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 64500,
+          "msrp_aud_max": 76900,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "M Technic bodykit",
+            "Bilstein sports dampers",
+            "25% LSD",
+            "Recaro sports seats"
+          ],
+          "notes": "Precursor to full Australian M5 delivery."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M535i",
+          "body_style": "4-door sedan",
+          "engine_code": "M30B34",
+          "transmission": "5-speed manual (dogleg)",
+          "drivetrain": "RWD",
+          "years_start": 1985,
+          "years_end": 1988,
+          "msrp_aud": 69900,
+          "power_kw": 136,
+          "torque_nm": 290,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 1400,
+          "notes": "Australian delivery M-Technic sports sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E28",
+          "category": "exterior",
+          "caption": "Launch: 1972 (5-Series)\nGeneration: Second (1981 - 1988) (first M5 generation)\nEngine: 3,5 litre I6 (petrol)\nPower: 286 PS\nGearbox: 5-speed manual\nLayout: front engine, rear drive\nLocation: Lakeville, Connecticut\nTotal made: 2.241",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/BMW_M5_%28E28%2C_1988%29_%2852227836331%29.jpg/1280px-BMW_M5_%28E28%2C_1988%29_%2852227836331%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Charles from Port Chester, New York)",
+          "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_E28_1_BMW_M5_E28_1988_52227836331_.jpg",
+          "file_size_bytes": 305352,
+          "sha256": "768510cc1b86e72d21ee84e4362892defbaef8c78546fb7cff219b0832e9ee8e"
+        }
+      ]
+    },
+    {
+      "series_code": "E34",
+      "generation_name": "5 Series E34 & M5",
+      "years": {
+        "start": 1988,
+        "end": 1996
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Touring wagon"
+      ],
+      "platform": "BMW E34",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Classic Claus Luthe design. Featured multi-link rear suspension, 24V M50 sixes, the muscular 540i 4.0L V8, and the hand-built S38-powered BMW M5.",
+      "engines": [
+        {
+          "engine_code": "M60B40",
+          "name": "4.0L 32V DOHC V8",
+          "displacement_cc": 3982,
+          "displacement_litres": 4.0,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 210,
+          "power_rpm": "5800",
+          "torque_nm": 400,
+          "torque_rpm": "4500",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "All-aluminium V8, 5-speed automatic or 6-speed manual."
+        },
+        {
+          "engine_code": "S38B36",
+          "name": "3.6L DOHC 24V M-Power Inline-6",
+          "displacement_cc": 3535,
+          "displacement_litres": 3.6,
+          "cylinders": 6,
+          "configuration": "Inline-6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 232,
+          "power_rpm": "6900",
+          "torque_nm": 360,
+          "torque_rpm": "4750",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Hand-built at BMW M in Garching; individual throttle bodies."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "540i",
+          "years": {
+            "start": 1993,
+            "end": 1996
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 142500,
+          "msrp_aud_max": 154000,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1680,
+          "standard_features": [
+            "Leather upholstery",
+            "Wood trim",
+            "Electronic damper control",
+            "Sunroof",
+            "ABS"
+          ],
+          "notes": "V8 luxury powerhouse."
+        },
+        {
+          "badge_name": "M5 3.6",
+          "years": {
+            "start": 1990,
+            "end": 1994
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 168000,
+          "msrp_aud_max": 182000,
+          "fuel_consumption_l_100km": 12.5,
+          "kerb_weight_kg": 1670,
+          "standard_features": [
+            "Turbine alloy wheels",
+            "Nappa leather interior",
+            "M sport steering wheel",
+            "Self-levelling rear suspension"
+          ],
+          "notes": "The original hand-assembled four-door supercar."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M5 3.6",
+          "body_style": "4-door sedan",
+          "engine_code": "S38B36",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1990,
+          "years_end": 1994,
+          "msrp_aud": 172000,
+          "power_kw": 232,
+          "torque_nm": 360,
+          "fuel_l_100km": 12.5,
+          "towing_braked_kg": 1600,
+          "notes": "Hand-crafted Motorsport legend."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E34",
+          "category": "exterior",
+          "caption": "The photo is taken from a BMW Alpina E39 5-series.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/3_Generations_BMW_5_Series_%286155852765%29.jpg/1280px-3_Generations_BMW_5_Series_%286155852765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (nakhon100)",
+          "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_E34_1_3_Generations_BMW_5_Series_6155852765_.jpg",
+          "file_size_bytes": 222833,
+          "sha256": "a8923bb0033e72c77db142bc7da1f4c8438fba5b14bcd94eef81ccbcb20788be"
+        }
+      ]
+    },
+    {
+      "series_code": "E39",
+      "generation_name": "5 Series E39 & M5",
+      "years": {
+        "start": 1996,
+        "end": 2003
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Touring wagon"
+      ],
+      "platform": "BMW E39",
+      "ancap_rating": "4 stars",
+      "summary": "Widely heralded as one of the finest sedans ever built. Featured all-aluminium suspension, 528i/530i inline-sixes, 540i V8, and the iconic E39 M5 with 294kW S62 4.9L V8, 6-speed manual, and limited-slip differential.",
+      "engines": [
+        {
+          "engine_code": "M62B44",
+          "name": "4.4L DOHC 32V V8",
+          "displacement_cc": 4398,
+          "displacement_litres": 4.4,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 210,
+          "power_rpm": "5400",
+          "torque_nm": 440,
+          "torque_rpm": "3600",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 32-valve",
+          "notes": "VANOS variable valve timing."
+        },
+        {
+          "engine_code": "S62B50",
+          "name": "4.9L DOHC 32V M-Power V8",
+          "displacement_cc": 4941,
+          "displacement_litres": 4.9,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 294,
+          "power_rpm": "6600",
+          "torque_nm": 500,
+          "torque_rpm": "3800",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "DOHC 32-valve Double-VANOS",
+          "notes": "Individual electronically controlled throttle bodies; 7000rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "540i Executive / Sport",
+          "years": {
+            "start": 1996,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed Steptronic automatic",
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 145000,
+          "msrp_aud_max": 162900,
+          "fuel_consumption_l_100km": 12.3,
+          "kerb_weight_kg": 1660,
+          "standard_features": [
+            "Montana leather",
+            "Navigation display",
+            "Glass sunroof",
+            "Xenon headlamps"
+          ],
+          "notes": "Consummate executive grand tourer."
+        },
+        {
+          "badge_name": "M5",
+          "years": {
+            "start": 1999,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (Getrag 420G)"
+          ],
+          "msrp_aud_min": 198500,
+          "msrp_aud_max": 208500,
+          "fuel_consumption_l_100km": 13.9,
+          "kerb_weight_kg": 1795,
+          "standard_features": [
+            "18-inch Style 65 Shadow Chrome alloys",
+            "Dual quad exhaust pipes",
+            "Nappa Heritage leather",
+            "Sport button with sharpened throttle",
+            "Mechanical LSD"
+          ],
+          "notes": "0-100km/h in 5.3s. The undisputed gold standard of sports sedans."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M5",
+          "body_style": "4-door sedan",
+          "engine_code": "S62B50",
+          "transmission": "6-speed manual (Getrag 420G)",
+          "drivetrain": "RWD",
+          "years_start": 1999,
+          "years_end": 2003,
+          "msrp_aud": 204000,
+          "power_kw": 294,
+          "torque_nm": 500,
+          "fuel_l_100km": 13.9,
+          "towing_braked_kg": 1800,
+          "notes": "Naturally aspirated 400hp V8 manual sports sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E39",
+          "category": "exterior",
+          "caption": "Team Polizei M5. Look at what happened when they encountered the Italian police in Florence during the 2005 Gumball 3000.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/E39_M5_2007_Gumball_3000.jpg/1280px-E39_M5_2007_Gumball_3000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (edvvc from London, UK)",
+          "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_E39_1_E39_M5_2007_Gumball_3000.jpg",
+          "file_size_bytes": 385715,
+          "sha256": "f5650c5398b310f635e2905b0926be144a2be11b5c8a3b912352e86e401ae5e4"
+        }
+      ]
+    },
+    {
+      "series_code": "E60",
+      "generation_name": "5 Series E60 & M5 V10",
+      "years": {
+        "start": 2003,
+        "end": 2010
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Touring wagon"
+      ],
+      "platform": "BMW E60",
+      "ancap_rating": "5 stars",
+      "summary": "Chris Bangle flame-surfacing design with aluminum front chassis structure. Highlighted by the Formula 1-inspired BMW M5 powered by the magnificent 373kW 5.0L V10 S85 engine revving to 8,250rpm.",
+      "engines": [
+        {
+          "engine_code": "S85B50",
+          "name": "5.0L DOHC 40V V10 M-Power",
+          "displacement_cc": 4999,
+          "displacement_litres": 5.0,
+          "cylinders": 10,
+          "configuration": "V10",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 373,
+          "power_rpm": "7750",
+          "torque_nm": 520,
+          "torque_rpm": "6100",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 40-valve Double-VANOS",
+          "notes": "Formula 1 technology transfer; individual throttle bodies, 8250rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "M5 V10",
+          "years": {
+            "start": 2005,
+            "end": 2010
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "7-speed SMG-III automated manual"
+          ],
+          "msrp_aud_min": 226900,
+          "msrp_aud_max": 242000,
+          "fuel_consumption_l_100km": 14.8,
+          "kerb_weight_kg": 1830,
+          "standard_features": [
+            "19-inch M Radial alloys",
+            "Variable M differential lock",
+            "EDC electronic dampers",
+            "Active side bolsters",
+            "Head-up display"
+          ],
+          "notes": "0-100km/h in 4.7s. 507hp V10 scream."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M5 V10",
+          "body_style": "4-door sedan",
+          "engine_code": "S85B50",
+          "transmission": "7-speed SMG-III automated manual",
+          "drivetrain": "RWD",
+          "years_start": 2005,
+          "years_end": 2010,
+          "msrp_aud": 235000,
+          "power_kw": 373,
+          "torque_nm": 520,
+          "fuel_l_100km": 14.8,
+          "towing_braked_kg": 1800,
+          "notes": "Naturally aspirated V10 performance pinnacle."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "E60",
+          "category": "exterior",
+          "caption": "BMW M5",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/BMW_M5_-_Flickr_-_The_Car_Spy_%2810%29.jpg/1280px-BMW_M5_-_Flickr_-_The_Car_Spy_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (The Car Spy)",
+          "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_E60_1_BMW_M5_-_Flickr_-_The_Car_Spy_10_.jpg",
+          "file_size_bytes": 235153,
+          "sha256": "d27bd6a7f5cac7e04b57e3f96369c8598fe38ee824ada150ae3a0e0e0365d2fb"
+        }
+      ]
+    },
+    {
+      "series_code": "G30/F90",
+      "generation_name": "5 Series G30 & M5 Competition",
+      "years": {
+        "start": 2017,
+        "end": 2023
+      },
+      "body_styles": [
+        "4-door sedan",
+        "Touring wagon"
+      ],
+      "platform": "BMW CLAR",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the lightweight CLAR carbon core platform. Lineup featured the 530i, 540i xDrive, M550i V8, and the ferocious F90 M5 Competition packing a 460kW 4.4L twin-turbo V8 and switchable M xDrive AWD.",
+      "engines": [
+        {
+          "engine_code": "S63B44T4",
+          "name": "4.4L TwinPower Turbo V8 (M5 Competition)",
+          "displacement_cc": 4395,
+          "displacement_litres": 4.4,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 460,
+          "power_rpm": "6000",
+          "torque_nm": 750,
+          "torque_rpm": "1800-5800",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 32-valve Valvetronic",
+          "notes": "Cross-bank exhaust manifolds and twin-scroll turbochargers."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "M5 Competition",
+          "years": {
+            "start": 2018,
+            "end": 2023
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "8-speed M Steptronic automatic"
+          ],
+          "msrp_aud_min": 229900,
+          "msrp_aud_max": 273900,
+          "fuel_consumption_l_100km": 10.6,
+          "kerb_weight_kg": 1895,
+          "standard_features": [
+            "20-inch forged M alloys",
+            "M Carbon ceramic brakes option",
+            "Carbon fibre roof",
+            "Bowers & Wilkins Diamond surround sound",
+            "M xDrive with 2WD rear-drive drift mode"
+          ],
+          "notes": "0-100km/h in 3.3s. Supercar obliterator."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "M5 Competition",
+          "body_style": "4-door sedan",
+          "engine_code": "S63B44T4",
+          "transmission": "8-speed M Steptronic automatic",
+          "drivetrain": "AWD",
+          "years_start": 2018,
+          "years_end": 2023,
+          "msrp_aud": 259900,
+          "power_kw": 460,
+          "torque_nm": 750,
+          "fuel_l_100km": 10.6,
+          "towing_braked_kg": 2000,
+          "notes": "460kW all-wheel drive M flagship."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "G30/F90",
+          "category": "exterior",
+          "caption": "BMW M5 in Krakow, Poland",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/BMW_M5_G30_Krakow.jpg/1280px-BMW_M5_G30_Krakow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Peter.shaman)",
+          "local_path": "media/pictures/bmw/5-series-m5/bmw_5-series-m5_G30_F90_1_BMW_M5_G30_Krakow.jpg",
+          "file_size_bytes": 366063,
+          "sha256": "86f95f365974f9a59251a31ce79c444ec8384a4351f11acb6f5a3219ba3cf1af"
+        }
+      ]
+    }
+  ]
+}

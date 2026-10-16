@@ -1,0 +1,467 @@
+{
+  "make_slug": "volkswagen",
+  "model_slug": "beetle-kombi",
+  "name": "Beetle, Kombi & Country Buggy",
+  "vehicle_type": "Sedan / Convertible / Microbus / Van / Ute / Off-Roader",
+  "segment": "Classic Compact / Light Commercial",
+  "years_sold_au": {
+    "start": 1954,
+    "end": 1979
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria (1954-1976)"
+  ],
+  "overview": "The bedrock of Volkswagen's Australian history. Starting with CKD assembly in Melbourne in 1954, the Type 1 Beetle and Type 2 Kombi progressed to full local manufacture at Clayton, Victoria, achieving over 80% Australian domestic content. Clayton also designed and manufactured the unique Australian Volkswagen Country Buggy (Type 197).",
+  "australian_market_notes": "First assembled at Martin & King in Clayton in 1954 before Volkswagen Australasia purchased the plant. The Beetle became Australia's top-selling small car through the 1960s, while the Kombi became an indelible part of Australian surf culture, commercial trades, and camper touring. Clayton produced 1,956 Australian-exclusive Country Buggies in 1968.",
+  "manuals": [
+    {
+      "title": "Volkswagen Beetle, Kombi & Country Buggy Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1954,
+      "language": "en",
+      "source_url": "local://catalog/makes/volkswagen/models/beetle-kombi/model.json",
+      "local_path": "media/manuals/volkswagen/beetle-kombi/volkswagen_beetle-kombi_au_technical_manual.pdf",
+      "file_size_bytes": 6320,
+      "sha256": "b7ad8078af5075806eb6ee66d51a164681faff8ea13d42663d415e176e403b2b",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "Type 1",
+      "generation_name": "Beetle Type 1 (Sedan & Super Beetle)",
+      "years": {
+        "start": 1954,
+        "end": 1976
+      },
+      "body_styles": [
+        "2-door sedan",
+        "2-door cabriolet"
+      ],
+      "platform": "Volkswagen Type 1",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Clayton-assembled air-cooled rear-engine legend. Progressed from 1192cc 1200 through 1285cc 1300, 1493cc 1500, to 1584cc 1600 Super Beetle (1302S and 1303S) with MacPherson strut front suspension.",
+      "engines": [
+        {
+          "engine_code": "1200",
+          "name": "1.2L Air-Cooled Flat-4",
+          "displacement_cc": 1192,
+          "displacement_litres": 1.2,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 25,
+          "power_rpm": "3400",
+          "torque_nm": 82,
+          "torque_rpm": "2000",
+          "compression_ratio": "6.6:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Single Solex downdraft carburettor, 6-volt electrical system on early models."
+        },
+        {
+          "engine_code": "1300",
+          "name": "1.3L Air-Cooled Flat-4",
+          "displacement_cc": 1285,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 29,
+          "power_rpm": "4100",
+          "torque_nm": 87,
+          "torque_rpm": "2600",
+          "compression_ratio": "7.3:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Introduced in 1966 with slotted wheels and upgraded brakes."
+        },
+        {
+          "engine_code": "1500",
+          "name": "1.5L Air-Cooled Flat-4",
+          "displacement_cc": 1493,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 33,
+          "power_rpm": "4200",
+          "torque_nm": 106,
+          "torque_rpm": "2600",
+          "compression_ratio": "7.5:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Standard front disc brakes on Australian delivered 1500 Beetles from 1967."
+        },
+        {
+          "engine_code": "1600",
+          "name": "1.6L Air-Cooled Flat-4 Twin-Port",
+          "displacement_cc": 1584,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 37,
+          "power_rpm": "4400",
+          "torque_nm": 106,
+          "torque_rpm": "3000",
+          "compression_ratio": "7.5:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Twin-port cylinder heads, fitted to Super Beetle 1302S and 1303S."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Standard 1200",
+          "years": {
+            "start": 1954,
+            "end": 1965
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 1798,
+          "msrp_aud_max": 2040,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 730,
+          "standard_features": [
+            "Vinyl seating",
+            "Spare wheel under front hood",
+            "Torsion bar suspension"
+          ],
+          "notes": "The foundation car that established Volkswagen throughout regional and urban Australia."
+        },
+        {
+          "badge_name": "Deluxe 1300",
+          "years": {
+            "start": 1966,
+            "end": 1970
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 1990,
+          "msrp_aud_max": 2250,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 780,
+          "standard_features": [
+            "Chrome bumpers",
+            "Ventilated wheels",
+            "Push-button door handles",
+            "Padded dash"
+          ],
+          "notes": "Major Australian volume seller built in Melbourne."
+        },
+        {
+          "badge_name": "Super Beetle 1302S / 1303S",
+          "years": {
+            "start": 1971,
+            "end": 1976
+          },
+          "body_styles": [
+            "2-door sedan",
+            "2-door cabriolet"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed Semi-Automatic"
+          ],
+          "msrp_aud_min": 2565,
+          "msrp_aud_max": 3290,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 870,
+          "standard_features": [
+            "MacPherson front struts",
+            "Curved windscreen (1303)",
+            "Bigger boot space",
+            "1600 engine"
+          ],
+          "notes": "Final evolution of the Clayton-assembled Beetle."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Standard 1200",
+          "body_style": "2-door sedan",
+          "engine_code": "1200",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1954,
+          "years_end": 1965,
+          "msrp_aud": 1850,
+          "power_kw": 25,
+          "torque_nm": 82,
+          "fuel_l_100km": 7.5,
+          "towing_braked_kg": 400,
+          "notes": "Clayton CKD / full manufacture specification."
+        },
+        {
+          "badge_name": "Super Beetle 1302S / 1303S",
+          "body_style": "2-door sedan",
+          "engine_code": "1600",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1971,
+          "years_end": 1976,
+          "msrp_aud": 2795,
+          "power_kw": 37,
+          "torque_nm": 106,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 500,
+          "notes": "Independent rear suspension and MacPherson strut front."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Type 1",
+          "category": "exterior",
+          "caption": "Volkswagen Beetle, export model, built 1957 (licence plate modified for privacy reasons), in front of UNESCO world heritage site Porta Nigra in Trier.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1957_Volkswagen_Beetle%2C_export_model%2C_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg/1280px-1957_Volkswagen_Beetle%2C_export_model%2C_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Palauenc05)",
+          "local_path": "media/pictures/volkswagen/beetle-kombi/volkswagen_beetle-kombi_Type_1_1_1957_Volkswagen_Beetle_export_model_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg",
+          "file_size_bytes": 400064,
+          "sha256": "0ea1840a7cca771113e8e65be7e839160d3cd57287579acc01af76afc76cc2eb"
+        }
+      ]
+    },
+    {
+      "series_code": "Type 197",
+      "generation_name": "Country Buggy (Type 197)",
+      "years": {
+        "start": 1968,
+        "end": 1969
+      },
+      "body_styles": [
+        "2-door open utility / roadster"
+      ],
+      "platform": "Modified Type 1 chassis with Type 2 reduction hubs",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "Designed, engineered and manufactured exclusively in Australia by Volkswagen Australasia at Clayton, Victoria under project director Rudi Herz. Built using Beetle floorpans, Transporter reduction-gear portal hubs, and folded sheet-metal bodywork for extreme ground clearance in the Australian outback.",
+      "engines": [
+        {
+          "engine_code": "1300",
+          "name": "1.3L Air-Cooled Flat-4",
+          "displacement_cc": 1285,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 29,
+          "power_rpm": "4100",
+          "torque_nm": 87,
+          "torque_rpm": "2600",
+          "compression_ratio": "7.3:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Robust air-cooled engine with heavy-duty oil-bath air cleaner for bulldust."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Country Buggy",
+          "years": {
+            "start": 1968,
+            "end": 1969
+          },
+          "body_styles": [
+            "2-door open utility / roadster"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual with reduction hubs"
+          ],
+          "msrp_aud_min": 1598,
+          "msrp_aud_max": 1820,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 760,
+          "standard_features": [
+            "Canvas soft-top",
+            "Folding windshield",
+            "High ground clearance (230mm)",
+            "Rear cargo tray"
+          ],
+          "notes": "1,956 units built at Clayton. Highly prized Australian collector's icon."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Country Buggy",
+          "body_style": "2-door open utility / roadster",
+          "engine_code": "1300",
+          "transmission": "4-speed manual with reduction hubs",
+          "drivetrain": "RWD",
+          "years_start": 1968,
+          "years_end": 1969,
+          "msrp_aud": 1695,
+          "power_kw": 29,
+          "torque_nm": 87,
+          "fuel_l_100km": 8.9,
+          "towing_braked_kg": 400,
+          "notes": "Australian engineered Type 197 open off-road utility."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Type 197",
+          "category": "exterior",
+          "caption": "Strassenkreuzer Treffen Kaunitz 2018",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Engine_of_an_Australian_Volkswagen_Buggy_Type_197_%2828558788898%29.jpg/1280px-Engine_of_an_Australian_Volkswagen_Buggy_Type_197_%2828558788898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.0 (Thomas Vogt from Paderborn, Deutschland)",
+          "local_path": "media/pictures/volkswagen/beetle-kombi/volkswagen_beetle-kombi_Type_197_1_Engine_of_an_Australian_Volkswagen_Buggy_Type_197_28558788898_.jpg",
+          "file_size_bytes": 187549,
+          "sha256": "f30a01ce8c8f8325a28c3a764e3be6f5bb3f580703919440bed25b0cc22fbcf3"
+        }
+      ]
+    },
+    {
+      "series_code": "Type 2",
+      "generation_name": "Kombi / Microbus / Transporter (Type 2 T1 & T2)",
+      "years": {
+        "start": 1954,
+        "end": 1979
+      },
+      "body_styles": [
+        "Van",
+        "Microbus",
+        "Dual-cab ute",
+        "Single-cab ute",
+        "Campmobile"
+      ],
+      "platform": "Volkswagen Type 2",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "The beloved Australian Kombi across Split-screen (T1) and Bay-window (T2) generations. Clayton-assembled with local interior camper fit-outs, dual-cab work utes, and delivery vans.",
+      "engines": [
+        {
+          "engine_code": "1600-T2",
+          "name": "1.6L Air-Cooled Flat-4",
+          "displacement_cc": 1584,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 37,
+          "power_rpm": "4000",
+          "torque_nm": 106,
+          "torque_rpm": "2800",
+          "compression_ratio": "7.5:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Standard power unit on late Split and early Bay window Kombis."
+        },
+        {
+          "engine_code": "2.0-Type4",
+          "name": "2.0L Air-Cooled Flat-4 Twin-Carb",
+          "displacement_cc": 1970,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Flat-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 52,
+          "power_rpm": "4200",
+          "torque_nm": 143,
+          "torque_rpm": "2800",
+          "compression_ratio": "7.3:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Type 4 pancake engine with twin Solex carburettors for Australian highway touring."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Transporter Van / Ute",
+          "years": {
+            "start": 1954,
+            "end": 1979
+          },
+          "body_styles": [
+            "Van",
+            "Single-cab ute",
+            "Dual-cab ute"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 2150,
+          "msrp_aud_max": 4200,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Flat cargo floor",
+            "Drop-side ute gates",
+            "Sliding side cargo door (T2)"
+          ],
+          "notes": "Clayton-assembled commercial workhorse."
+        },
+        {
+          "badge_name": "Microbus Deluxe & Campmobile",
+          "years": {
+            "start": 1955,
+            "end": 1979
+          },
+          "body_styles": [
+            "Microbus",
+            "Campmobile"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 2690,
+          "msrp_aud_max": 5990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1340,
+          "standard_features": [
+            "8-seater / 9-seater seating",
+            "Pop-top camper roof option",
+            "Twin beds",
+            "Sink and icebox"
+          ],
+          "notes": "Icon of Australian surfing and camping holidays."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Microbus Deluxe & Campmobile",
+          "body_style": "Campmobile",
+          "engine_code": "2.0-Type4",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1976,
+          "years_end": 1979,
+          "msrp_aud": 5690,
+          "power_kw": 52,
+          "torque_nm": 143,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1000,
+          "notes": "Peak Australian specification Bay-window camper with 2.0L twin-carb engine."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Type 2",
+          "category": "exterior",
+          "caption": "A Volkswagen T2 Kombi painted pink and white on a street of the city. The Kombi was built in Brazil from 1957 to 2013, longer than anywhere else. São Paulo, Brazil.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Volkswagen_Kombi_rose.jpg/1280px-Volkswagen_Kombi_rose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Wilfredor)",
+          "local_path": "media/pictures/volkswagen/beetle-kombi/volkswagen_beetle-kombi_Type_2_1_Volkswagen_Kombi_rose.jpg",
+          "file_size_bytes": 344007,
+          "sha256": "7a299c904a02a89140b317d672730101e97a37fe19c20c9ee2a4ab4206563e5e"
+        }
+      ]
+    }
+  ]
+}

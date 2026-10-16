@@ -1,0 +1,167 @@
+{
+  "make_slug": "alfa-romeo",
+  "name": "Alfa Romeo",
+  "country_of_origin": "Italy",
+  "years_active_au": {
+    "start": 1960,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The passionate Italian driver's marque, renowned in Australia for melodic twin-cam engines, Bathurst class victories, and the Giorgio-platform Giulia and Stelvio.",
+  "australian_history": "Alfa Romeo established strong Australian presence in the 1960s with distributor Alec Mildren, whose racing team campaigned Giulia and GTA models with immense success. At the Bathurst 500, Alfa Romeo GT and 1750 GTVs won their classes repeatedly. The 105 Series Giulia, Bertone Coupe (1750/2000 GTV), and Spider Veloce became Australian motoring royalty. Transaxle models like the Alfetta, GTV6, and 75 followed in the 1970s and 1980s. Modern Alfa Romeo is represented by the 156, 147, 159, and the celebrated rear-wheel-drive Giorgio platform: the Giulia sports sedan and Stelvio SUV, crowned by 375kW Ferrari-developed 2.9L twin-turbo V6 Quadrifoglio models.",
+  "models_catalog": [
+    {
+      "model_slug": "giulia",
+      "name": "Giulia",
+      "vehicle_type": "Sedan",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1963,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The quintessential sports sedan across classic 105 series and modern Giorgio-platform Type 952 with 50:50 weight balance.",
+      "generations": [
+        {
+          "series_code": "105-Series",
+          "generation_name": "Giulia 105 Series",
+          "years": {
+            "start": 1963,
+            "end": 1977
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Giulia TI, Super, and Nuova Super with all-alloy DOHC twin-cam 1.3L and 1.6L and 5-speed manual."
+        },
+        {
+          "series_code": "Type 952",
+          "generation_name": "Giulia Modern",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Carbon-fibre driveshaft, 2.0L Turbo (147kW/206kW Veloce), and 375kW 2.9L Twin-Turbo V6 Quadrifoglio."
+        }
+      ]
+    },
+    {
+      "model_slug": "105-gtv-spider",
+      "name": "105 GTV / Spider",
+      "vehicle_type": "Coupe / Convertible",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1965,
+        "end": "1994"
+      },
+      "locally_built": false,
+      "overview": "Bertone-designed Giulia Sprint GT, 1750 GTV, and Pininfarina Spider; revered collector cars in Australia.",
+      "generations": [
+        {
+          "series_code": "105-Coupe",
+          "generation_name": "GTV Stepnose, 1750 & 2000",
+          "years": {
+            "start": 1965,
+            "end": 1976
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "Sprint GT, GT Veloce, 1750 GTV, and 2000 GTV with limited-slip differential and 4-wheel disc brakes."
+        },
+        {
+          "series_code": "105-115-Spider",
+          "generation_name": "Spider Duetto & Series 2-4",
+          "years": {
+            "start": 1967,
+            "end": 1994
+          },
+          "body_styles": [
+            "2-door convertible"
+          ],
+          "summary": "Osso di seppia 'boat tail' Duetto through Kamm-tail Spider 2000 Veloce."
+        }
+      ]
+    },
+    {
+      "model_slug": "stelvio",
+      "name": "Stelvio",
+      "vehicle_type": "SUV",
+      "segment": "Medium Luxury SUV",
+      "years_sold_au": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Alfa Romeo's first production SUV, sharing the Giorgio architecture and steering sharpness of the Giulia.",
+      "generations": [
+        {
+          "series_code": "Type 949",
+          "generation_name": "Stelvio",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Q4 all-wheel drive, 2.0T (147kW/206kW Veloce), and 375kW Quadrifoglio with torque-vectoring rear diff."
+        }
+      ]
+    },
+    {
+      "model_slug": "giulia-gtv",
+      "name": "Giulia Sprint GT, GTV & Giulia Quadrifoglio",
+      "vehicle_type": "Coupe / Sports Sedan",
+      "segment": "Medium Luxury Sports Car",
+      "years_sold_au": {
+        "start": 1964,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The passionate soul of Italian motoring in Australia. Spanning from the Bertone-styled 105 Series Giulia Sprint GT and Bathurst-winning 1750/2000 GTV, through the transaxle Alfetta GTV6 Group A touring car, to the spine-tingling Busso V6 156 GTA and the modern Giorgio-platform Giulia Quadrifoglio with its Ferrari-derived 375kW twin-turbo V6.",
+      "generations": [
+        {
+          "series_code": "105/115 Series",
+          "generation_name": "Giulia Sprint GT & GTV (105/115 Series)",
+          "years": {
+            "start": 1964,
+            "end": "1976"
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "Masterpiece designed by Giorgetto Giugiaro for Bertone. Featured all-alloy twin-cam four-cylinder engines, twin Weber/Dell'Orto carburettors, 5-speed manual, four-wheel disc brakes, and Bathurst 500 class dominance."
+        },
+        {
+          "series_code": "Alfetta GTV",
+          "generation_name": "Alfetta GT, GTV & GTV6",
+          "years": {
+            "start": 1975,
+            "end": 1987
+          },
+          "body_styles": [
+            "2-door fastback coupe"
+          ],
+          "summary": "Innovative 50:50 weight distribution chassis featuring a rear-mounted transaxle gearbox/clutch, inboard rear disc brakes, De Dion rear axle, 2.0L twin-cam, and the glorious 2.5L Busso V6 GTV6 raced in the ATCC by Colin Bond."
+        },
+        {
+          "series_code": "952 Series",
+          "generation_name": "Giulia & Giulia Quadrifoglio (Type 952)",
+          "years": {
+            "start": 2016,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sports sedan"
+          ],
+          "summary": "Built on the clean-sheet Giorgio rear-wheel-drive platform with 50:50 weight distribution and carbon-fibre driveshaft. Features the 206kW Veloce and the halo Quadrifoglio powered by a 375kW 2.9L 90-degree twin-turbo V6 developed in collaboration with Ferrari engineers."
+        }
+      ]
+    }
+  ]
+}

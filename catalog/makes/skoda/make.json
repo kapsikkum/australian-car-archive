@@ -1,0 +1,94 @@
+{
+  "make_slug": "skoda",
+  "name": "Škoda",
+  "country_of_origin": "Czech Republic",
+  "years_active_au": {
+    "start": 1950,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Czech automotive excellence under the Volkswagen Group, celebrated in Australia for 'Simply Clever' packaging, cavernous wagon space, and value-packed Octavia RS performance.",
+  "australian_history": "Škoda vehicles were first sold in Australia in the 1950s and 1960s through independent distributors, offering the rear-engine 1000MB and front-engine Octavia. The brand was formally relaunched in October 2007 by Volkswagen Group Australia (VGA). Škoda positioned itself as the smart, practical alternative to mainstream Japanese and German rivals, delivering Volkswagen Group MQB platforms, turbocharged engines, and DSG gearboxes with added practicality and standard equipment. The Octavia RS quickly became an Australian cult performance hero, accounting for nearly 40% of all Octavia sales in Australia. Škoda expanded its footprint with family SUVs like the Yeti, Karoq, and 7-seat Kodiaq.",
+  "models_catalog": [
+    {
+      "model_slug": "octavia",
+      "name": "Octavia",
+      "vehicle_type": "Sedan (Liftback) / Wagon (Combi)",
+      "segment": "Medium Car",
+      "years_sold_au": {
+        "start": 2007,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The intelligent family choice in Australia. Since spearheading Skoda's return to Australia in October 2007, the Octavia has won legions of loyal fans by combining Volkswagen Group engineering and Golf GTI drivetrains with cavernous boot space and 'Simply Clever' practical details. The Octavia RS Liftback and Combi wagon represent Australia's favorite value performance family express.",
+      "generations": [
+        {
+          "series_code": "1Z",
+          "generation_name": "Octavia Second Generation (Typ 1Z)",
+          "years": {
+            "start": 2007,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door Liftback",
+            "5-door Combi wagon"
+          ],
+          "summary": "Relaunched Skoda to Australia in 2007. Featured 1.8 TSI, 2.0 TDI, rugged Octavia Scout 4x4 wagon, and the cult Octavia RS (2.0 TSI 147kW and 2.0 TDI 125kW)."
+        },
+        {
+          "series_code": "5E",
+          "generation_name": "Octavia Third Generation (Typ 5E)",
+          "years": {
+            "start": 2013,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door Liftback",
+            "5-door Combi wagon"
+          ],
+          "summary": "Built on the MQB platform with 100kg weight reduction and massive 590L/610L boot. Powered by 103TSI, 110TSI, and the acclaimed Octavia RS (162TSI, 169TSI, and the flagship RS 245 with VAQ electronic front differential lock)."
+        },
+        {
+          "series_code": "NX",
+          "generation_name": "Octavia Fourth Generation (Typ NX)",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Liftback",
+            "5-door Combi wagon"
+          ],
+          "summary": "Sharp crystalline design, shift-by-wire DSG, Matrix LED headlights, class-leading 600L/640L boot, Style 110TSI, and the hero Octavia RS with 180kW/370Nm 2.0 TSI engine and standard VAQ differential."
+        }
+      ]
+    },
+    {
+      "model_slug": "kodiaq",
+      "name": "Kodiaq",
+      "vehicle_type": "SUV",
+      "segment": "Large 7-seat SUV",
+      "years_sold_au": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "A benchmark family 7-seat SUV in Australia, offering 132TSI/140TSI 4x4 versatility and twin-turbo diesel / 180kW 2.0 TSI Kodiaq RS.",
+      "generations": [
+        {
+          "series_code": "NS7-PS7",
+          "generation_name": "Kodiaq 1st & 2nd Gen",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door 7-seat SUV"
+          ],
+          "summary": "Style, SportLine, and RS with progressive steering, Canton audio, and sliding second row."
+        }
+      ]
+    }
+  ]
+}

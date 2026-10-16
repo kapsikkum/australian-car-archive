@@ -1,0 +1,143 @@
+{
+  "make_slug": "saab",
+  "name": "Saab",
+  "country_of_origin": "Sweden",
+  "years_active_au": {
+    "start": 1962,
+    "end": 2012
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "Quirky, aerospace-inspired Swedish carmaker celebrated in Australia for turbocharging leadership, wraparound windscreens, and ignition keys between the front seats.",
+  "australian_history": "Saab entered Australia in the early 1960s with the two-stroke 96 and V4. The brand gained a passionate following among Australian architects, academics, and doctors with the launch of the 99 Turbo in 1978 and the iconic 900. The classic Saab 900 Turbo and 900 Convertible became status symbols in Sydney and Melbourne through the 1980s. General Motors acquired a 50% stake in 1989 and full ownership in 2000, integrating Saab distribution into GM-Holden's network. Following GM's bankruptcy and Spyker's brief ownership, Saab ceased vehicle production globally in late 2011, and Saab Australia wound up operations in 2012.",
+  "models_catalog": [
+    {
+      "model_slug": "900",
+      "name": "900",
+      "vehicle_type": "Hatchback / Sedan / Convertible",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1978,
+        "end": 1998
+      },
+      "locally_built": false,
+      "overview": "The definitive classic Saab, featuring aircraft cockpit ergonomics, front-hinged clamshell bonnet, and punchy turbo power.",
+      "generations": [
+        {
+          "series_code": "Classic-900",
+          "generation_name": "Saab 900 Classic",
+          "years": {
+            "start": 1978,
+            "end": 1993
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch",
+            "4-door sedan",
+            "Convertible"
+          ],
+          "summary": "Slant-four 2.0L B-engine and H-engine, Turbo, Turbo 16S, Aero, and iconic full four-seater Convertible."
+        },
+        {
+          "series_code": "NG900",
+          "generation_name": "Saab 900 New Generation",
+          "years": {
+            "start": 1994,
+            "end": 1998
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch",
+            "Convertible"
+          ],
+          "summary": "GM2900 platform, Night Panel display, 2.0i, 2.3i, 2.5 V6, and 2.0 Turbo."
+        }
+      ]
+    },
+    {
+      "model_slug": "9-3",
+      "name": "9-3",
+      "vehicle_type": "Sedan / SportCombi Wagon / Convertible",
+      "segment": "Medium Luxury Car",
+      "years_sold_au": {
+        "start": 1998,
+        "end": 2011
+      },
+      "locally_built": false,
+      "overview": "Successor to the 900, offered in Linear, Arc, Vector, Aero, and rare all-wheel drive Turbo X.",
+      "generations": [
+        {
+          "series_code": "YS3D-YS3F",
+          "generation_name": "Saab 9-3 1st & 2nd Gen",
+          "years": {
+            "start": 1998,
+            "end": 2011
+          },
+          "body_styles": [
+            "4-door sedan",
+            "SportCombi wagon",
+            "Convertible"
+          ],
+          "summary": "First gen hatch/cabriolet; second gen Sport Sedan with ReAxs passive rear steering, 2.8T V6 Aero, and XWD."
+        }
+      ]
+    },
+    {
+      "model_slug": "900-9-3",
+      "name": "900 & 9-3",
+      "vehicle_type": "Sedan / Hatchback / Convertible / Wagon",
+      "segment": "Medium Executive Sports Car",
+      "years_sold_au": {
+        "start": 1979,
+        "end": 2011
+      },
+      "locally_built": false,
+      "overview": "Born from jets. Saab brought Swedish aircraft engineering, wraparound windscreens, night panels, and turbocharging mastery to Australia across more than three decades. The Classic 900 Turbo established Saab's intellectual cool, followed by the lightning-quick 9-3 Viggen and the 206kW 2.8T Aero V6.",
+      "generations": [
+        {
+          "series_code": "Classic 900",
+          "generation_name": "Saab 900 'Classic' Generation",
+          "years": {
+            "start": 1979,
+            "end": 1993
+          },
+          "body_styles": [
+            "3-door combi-coupe",
+            "5-door combi-coupe",
+            "4-door sedan",
+            "2-door convertible"
+          ],
+          "summary": "Aircraft cockpit ergonomics, center ignition switch, longitudinal engine tilted backwards at 45 degrees over the gearbox. Highlighted by the 900 Turbo 16S / Aero with 129kW APC boost control and the beloved Convertible."
+        },
+        {
+          "series_code": "9-3 OG",
+          "generation_name": "Saab 9-3 First Generation & Viggen",
+          "years": {
+            "start": 1998,
+            "end": 2002
+          },
+          "body_styles": [
+            "3-door coupe",
+            "5-door hatchback",
+            "2-door convertible"
+          ],
+          "summary": "Introduced over 1,100 mechanical improvements, Saab Active Head Restraints (SAHR), Night Panel blackout dash, and the ultra-rare 9-3 Viggen powered by the 169kW 2.3L High Output Turbo."
+        },
+        {
+          "series_code": "9-3 SS/SC",
+          "generation_name": "Saab 9-3 Sport Sedan, SportCombi & Turbo X",
+          "years": {
+            "start": 2003,
+            "end": 2011
+          },
+          "body_styles": [
+            "4-door Sport Sedan",
+            "5-door SportCombi wagon",
+            "2-door convertible"
+          ],
+          "summary": "Built on GM Epsilon platform with Saab-exclusive ReAxs passive rear-wheel steering. Highlighted by the Aero 2.8T V6 (up to 206kW) and the limited-edition all-wheel-drive Turbo X with Haldex XWD and eLSD."
+        }
+      ]
+    }
+  ]
+}

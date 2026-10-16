@@ -1,0 +1,301 @@
+{
+  "make_slug": "holden",
+  "model_slug": "monaro",
+  "name": "Holden Monaro",
+  "vehicle_type": "Coupe / Sedan",
+  "segment": "Sports / Muscle Car",
+  "years_sold_au": {
+    "start": 1968,
+    "end": 2006
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Dandenong, Victoria",
+    "Elizabeth, South Australia",
+    "Pagewood, New South Wales"
+  ],
+  "overview": "The Holden Monaro is Australia's most revered two-door muscle car and grand tourer. Introduced in July 1968 with the HK series, the pillarless hardtop coupe captured national imagination by winning the 1968 Bathurst 500 on debut with Bruce McPhee and Barry Mulholland in a GTS 327, followed by Colin Bond's win in the 1969 HT GTS 350. Resurrected thirty-three years later following a sensational reception as the 'Coupe 22' concept at the 1998 Sydney Motor Show, the modern V2 and VZ Monaro CV8 captivated enthusiasts globally and was exported to North America as the Pontiac GTO and the UK as the Vauxhall Monaro.",
+  "australian_market_notes": "The original HK Monaro was styled under GM-H design chief Joe Schemansky and project designer John Schinella, featuring sweeping Coke-bottle rear hips, a dramatic semi-fastback roofline, and imported Chevrolet 327ci and 350ci small-block V8s. The HQ series brought softer, more organic proportions, offering the GTS 350 and introducing the 4-door GTS sedan in 1973. The modern rebirth engineered by Mike Simcoe in 2001 (V2/VZ) utilized the VT/VX Commodore platform, packing the 5.7L LS1 V8 and supercharged V6, before culminating in the twin-hood-scoop 2005 CV8-Z.",
+  "manuals": [
+    {
+      "title": "Holden Holden Monaro Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1968,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/monaro/model.json",
+      "local_path": "media/manuals/holden/monaro/holden_monaro_au_technical_manual.pdf",
+      "file_size_bytes": 4799,
+      "sha256": "a2847a519212a02b9c7bd36052ef491b4bbd5188f548ffacddb9df22e619a69f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1969 Holden Monaro HT Brochure. Australia. 6 1969",
+      "year": null,
+      "source_url": "https://archive.org/details/1969-holden-monaro-ht-brochure.-australia.-6-1969",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/monaro/holden_monaro_manual_1969_Holden_Monaro_HT_Brochure._Australia._6_1969.html",
+      "file_size_bytes": 229994,
+      "sha256": "60351af996438c214b30af9ac7337dda3709b5db27eac85edc323db3ef7922c4"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Holden Monaro V2 CV8",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2002_Holden_Monaro_%28V2%29_CV8_coupe_%2814905650168%29.jpg/1280px-2002_Holden_Monaro_%28V2%29_CV8_coupe_%2814905650168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/monaro/holden_monaro_hero_1_2002_Holden_Monaro_V2_CV8_coupe_14905650168_.jpg",
+      "file_size_bytes": 494233,
+      "sha256": "a1bafa32033668469060f986565acd321ad5d4add3638f26a031edadad5b503e"
+    },
+    {
+      "category": "exterior",
+      "caption": "A coastal, seaside photo shoot with one of the last Holden Monaros",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2005_Holden_Monaro_CV8_Z_in_the_colour_Fusion.jpg/1280px-2005_Holden_Monaro_CV8_Z_in_the_colour_Fusion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (CarCollector)",
+      "local_path": "media/pictures/holden/monaro/holden_monaro_hero_2_2005_Holden_Monaro_CV8_Z_in_the_colour_Fusion.jpg",
+      "file_size_bytes": 198820,
+      "sha256": "318d70c2dc92a102d3e12fc3c33a353b319b29e113f86f58e360c8413b2aed75"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "HK-HG",
+      "generation_name": "First Generation (HK, HT, HG)",
+      "years": {
+        "start": 1968,
+        "end": 1971
+      },
+      "body_styles": [
+        "2-door hardtop coupe"
+      ],
+      "platform": "GM-H full-size hardtop",
+      "ancap_rating": null,
+      "summary": "Original pillarless hardtop coupe. 1968 Wheels Car of the Year, winner of the 1968 Bathurst 500 (GTS 327) and 1969 Bathurst 500 (GTS 350).",
+      "engines": [
+        {
+          "engine_code": "Chevy-327-V8",
+          "name": "Chevrolet 327ci (5.4L) Small-Block V8 (GTS 327)",
+          "displacement_cc": 5354,
+          "displacement_litres": 5.4,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 186.0,
+          "power_rpm": "4800",
+          "torque_nm": 434.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.75:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel carburettor; 1968 Bathurst winner."
+        },
+        {
+          "engine_code": "Chevy-350-V8",
+          "name": "Chevrolet 350ci (5.7L) Small-Block V8 (GTS 350)",
+          "displacement_cc": 5733,
+          "displacement_litres": 5.7,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 224.0,
+          "power_rpm": "4800",
+          "torque_nm": 515.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "10.25:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Rochester 4-barrel Quadrajet; 1969 Bathurst winner."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Monaro GTS 327",
+          "years": {
+            "start": 1968,
+            "end": 1969
+          },
+          "body_styles": [
+            "2-door hardtop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Saginaw)"
+          ],
+          "msrp_aud_min": 3790,
+          "msrp_aud_max": 4200,
+          "fuel_consumption_l_100km": 16.5,
+          "kerb_weight_kg": 1420,
+          "standard_features": [
+            "327ci V8",
+            "Tachometer on center console",
+            "Power front disc brakes",
+            "Limited slip differential",
+            "GTS racing stripes"
+          ],
+          "notes": "Winner of the 1968 Bathurst 500."
+        },
+        {
+          "badge_name": "Monaro GTS 350",
+          "years": {
+            "start": 1969,
+            "end": 1971
+          },
+          "body_styles": [
+            "2-door hardtop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Muncie)",
+            "Powerglide / TH350 auto"
+          ],
+          "msrp_aud_min": 3995,
+          "msrp_aud_max": 4500,
+          "fuel_consumption_l_100km": 17.0,
+          "kerb_weight_kg": 1445,
+          "standard_features": [
+            "350ci V8 (300 hp)",
+            "Heavy-duty suspension",
+            "Twin bonnet scoops",
+            "Rally wheels",
+            "Front disc brakes"
+          ],
+          "notes": "Bathurst 1969 winner; ultimate first-generation Monaro."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Monaro GTS 350",
+          "body_style": "2-door hardtop",
+          "engine_code": "Chevy-350-V8",
+          "transmission": "4-speed manual (Muncie)",
+          "drivetrain": "RWD",
+          "msrp_aud": 4150,
+          "power_kw": 224.0,
+          "torque_nm": 515.0,
+          "fuel_l_100km": 17.0,
+          "towing_braked_kg": 1400,
+          "notes": "0-100 km/h in 7.0s; 215 km/h top speed."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HK-HG",
+          "category": "exterior",
+          "caption": "Kashmir White.\nBuilt from July 1970-July 1971. \nThe 2nd facelift on the HK; the HT the 1st, and now the HG, it got a revised grille again and the Powerglide transmission dropped for the Australian made Trimatic. All V8 cars got disc brakes.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1970_Holden_HG_Monaro_GTS_%288487576183%29.jpg/1280px-1970_Holden_HG_Monaro_GTS_%288487576183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/holden/monaro/holden_monaro_HK-HG_1_1970_Holden_HG_Monaro_GTS_8487576183_.jpg",
+          "file_size_bytes": 334105,
+          "sha256": "fc8fab6eb21966afcac792eb16d6d02442f6c439401f133c370a207b234a01bd"
+        }
+      ]
+    },
+    {
+      "series_code": "V2-VZ",
+      "generation_name": "Third Generation (V2 & VZ)",
+      "years": {
+        "start": 2001,
+        "end": 2006
+      },
+      "body_styles": [
+        "2-door coupe"
+      ],
+      "platform": "GM V-body (VT/VX coupe architecture)",
+      "ancap_rating": null,
+      "summary": "Modern rebirth designed by Mike Simcoe. Powered by the 5.7L LS1 V8 and supercharged V6, exported to the US as the Pontiac GTO and the UK as the Vauxhall Monaro.",
+      "engines": [
+        {
+          "engine_code": "LS1-Gen-III-5.7",
+          "name": "Chevrolet Gen III LS1 5.7L V8 (CV8)",
+          "displacement_cc": 5665,
+          "displacement_litres": 5.7,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 260.0,
+          "power_rpm": "5600",
+          "torque_nm": 500.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.1:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Twin dual exhaust with throaty burble; 260kW in VZ."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "CV8",
+          "years": {
+            "start": 2001,
+            "end": 2005
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (Tremec T56)",
+            "4-speed automatic (4L60-E)"
+          ],
+          "msrp_aud_min": 56990,
+          "msrp_aud_max": 62500,
+          "fuel_consumption_l_100km": 13.0,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "5.7L LS1 V8",
+            "Leather sports seats",
+            "18-inch 5-spoke alloys",
+            "Climate control",
+            "10-speaker audio with 6-disc CD"
+          ],
+          "notes": "Modern grand-touring masterpiece."
+        },
+        {
+          "badge_name": "CV8-Z",
+          "years": {
+            "start": 2005,
+            "end": 2006
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (T56)",
+            "4-speed automatic (4L65-E)"
+          ],
+          "msrp_aud_min": 60490,
+          "msrp_aud_max": 65000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1675,
+          "standard_features": [
+            "260kW LS1 V8",
+            "Twin functional bonnet scoops",
+            "Sunroof",
+            "Modified rear fascia with twin exhaust",
+            "Signature Fusion orange paint option"
+          ],
+          "notes": "Final edition limited production send-off."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "CV8-Z",
+          "body_style": "2-door coupe",
+          "engine_code": "LS1-Gen-III-5.7",
+          "transmission": "6-speed manual (Tremec T56)",
+          "drivetrain": "RWD",
+          "msrp_aud": 60490,
+          "power_kw": 260.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 1600,
+          "notes": "0-100 km/h in 5.6s; modern collector icon."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "make_slug": "holden",
+  "model_slug": "jackaroo",
+  "name": "Holden Jackaroo",
+  "vehicle_type": "4WD SUV / Wagon (3-door & 5-door)",
+  "segment": "Mid-size / Large 4WD SUV",
+  "years_sold_au": {
+    "start": 1981,
+    "end": 2004
+  },
+  "locally_built": false,
+  "assembly_plants_au": [
+    "Imported (Fujisawa, Japan - Isuzu Motors)"
+  ],
+  "overview": "The Holden Jackaroo (Isuzu Trooper / Bighorn) was Holden's frontline heavy-duty four-wheel-drive wagon from 1981 to 2004. Engineered to conquer the Australian outback, the Jackaroo competed directly against the Toyota LandCruiser Prado, Mitsubishi Pajero, and Nissan Patrol. The first-generation UBS-1 (1981-1992) offered short and long wheelbase bodies with rugged four-cylinder petrol and diesel engines. The second-generation UBS-2 (1992-2004) expanded into a wide-body luxury family 4WD featuring coil-sprung rear suspension, shift-on-the-fly 4WD, potent 3.2L and 3.5L DOHC 24V V6 petrol engines (158 kW), and advanced 3.0L 4JX1 common-rail turbo-diesel. The flagship Monterey added leather trim, woodgrain, climate control, and heated seats.",
+  "australian_market_notes": "The Jackaroo earned widespread admiration for its exceptional interior room, expansive glasshouse visibility, and compliant ride over outback corrugations. In 1993, legendary Australian rally driver Peter Brock competed in the Australian Safari behind the wheel of an Isuzu/Holden Jackaroo, demonstrating its extreme durability. The 3.5L V6 Monterey was regarded as one of the best-value luxury tow vehicles of its era.",
+  "manuals": [
+    {
+      "title": "Holden Holden Jackaroo Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1981,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/jackaroo/model.json",
+      "local_path": "media/manuals/holden/jackaroo/holden_jackaroo_au_technical_manual.pdf",
+      "file_size_bytes": 4874,
+      "sha256": "a7c6c2677b9a34b915392a9a8ca616eb975ed5dba2cc7afddaf8afd4e33e9750",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1985 Holden Jackaroo 4 WD Wagon Brochure. Australia, December 1984",
+      "year": null,
+      "source_url": "https://archive.org/details/1985-holden-jackaroo-4-wd-wagon-brochure.-australia-december-1984",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/jackaroo/holden_jackaroo_manual_1985_Holden_Jackaroo_4_WD_Wagon_Brochure._Australia_December_1984.html",
+      "file_size_bytes": 232618,
+      "sha256": "0e76473810c020d034aa9ca971fbb84cc7e841b13af8c783f2ef7cd11551aca7"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1985 Holden Jackaroo SWB, a rebadged Isuzu Trooper sold in Australia and New Zealand.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1985_Holden_Jackaroo_%28New_Zealand%29.jpg/1280px-1985_Holden_Jackaroo_%28New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 3.0 (NZ Car Freak)",
+      "local_path": "media/pictures/holden/jackaroo/holden_jackaroo_hero_1_1985_Holden_Jackaroo_New_Zealand_.jpg",
+      "file_size_bytes": 398299,
+      "sha256": "7fa15dd40deca67f5e3dd7e1c05ce93c77924492cce6f078e8161074cd646e15"
+    },
+    {
+      "category": "exterior",
+      "caption": "Australia and NZ got this locally rebadged version of the Isuzu Bighorn/Trooper.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/1987_Holden_Jackaroo.jpg/1280px-1987_Holden_Jackaroo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley)",
+      "local_path": "media/pictures/holden/jackaroo/holden_jackaroo_hero_2_1987_Holden_Jackaroo.jpg",
+      "file_size_bytes": 280918,
+      "sha256": "d843849a780fbd7c917626eb5ccb964f09f021bc581ed3550f60f62ac42d92dd"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "UBS-1",
+      "generation_name": "UBS-1 Jackaroo",
+      "years": {
+        "start": 1981,
+        "end": 1992
+      },
+      "body_styles": [
+        "3-door wagon (SWB)",
+        "5-door wagon (LWB)"
+      ],
+      "platform": "Isuzu UBS platform",
+      "ancap_rating": null,
+      "summary": "First-generation boxy 4WD wagon. Dual-range transfer case, manual free-wheeling hubs, leaf-sprung rear axle, and durable 4-cylinder petrol and diesel powerplants.",
+      "engines": [
+        {
+          "engine_code": "Isuzu-4ZE1",
+          "name": "Isuzu 4ZE1 2.6L EFI Inline-4",
+          "displacement_cc": 2559,
+          "displacement_litres": 2.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 88.0,
+          "power_rpm": "5000",
+          "torque_nm": 195.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Electronic multi-point fuel injection introduced in late 1980s."
+        },
+        {
+          "engine_code": "Isuzu-4JB1-T-Jackaroo",
+          "name": "Isuzu 4JB1-T 2.8L Turbo Diesel Inline-4",
+          "displacement_cc": 2771,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 78.0,
+          "power_rpm": "3800",
+          "torque_nm": 230.0,
+          "torque_rpm": "2300",
+          "compression_ratio": "18.2:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Direct injection turbo diesel; popular outback touring choice."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LS LWB 4WD",
+          "years": {
+            "start": 1985,
+            "end": 1992
+          },
+          "body_styles": [
+            "5-door wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 29990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1690,
+          "standard_features": [
+            "Selectable 4WD with low-range",
+            "Power steering",
+            "Air conditioning",
+            "Velour upholstery",
+            "Roof rails and side steps"
+          ],
+          "notes": "Family outback explorer."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "LS LWB 4WD",
+          "body_style": "5-door wagon",
+          "engine_code": "Isuzu-4ZE1",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "msrp_aud": 26990,
+          "power_kw": 88.0,
+          "torque_nm": 195.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1800,
+          "notes": "2.6L petrol 5-door family 4WD."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "UBS-1",
+          "category": "exterior",
+          "caption": "1994-1995 Holden Jackaroo (UBS) XS LWB photographed in New South Wales, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/1994-1995_Holden_Jackaroo_%28UBS%29_XS_LWB.jpg/1280px-1994-1995_Holden_Jackaroo_%28UBS%29_XS_LWB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Bidgee)",
+          "local_path": "media/pictures/holden/jackaroo/holden_jackaroo_UBS-1_1_1994-1995_Holden_Jackaroo_UBS_XS_LWB.jpg",
+          "file_size_bytes": 445778,
+          "sha256": "d028cea8727a953a4b3800f158cc8467b77c459d76f7d2b81141f47fcdc0bd75"
+        }
+      ]
+    },
+    {
+      "series_code": "UBS-2",
+      "generation_name": "UBS-2 Jackaroo / Monterey",
+      "years": {
+        "start": 1992,
+        "end": 2004
+      },
+      "body_styles": [
+        "5-door wagon"
+      ],
+      "platform": "Isuzu UBS second generation platform",
+      "ancap_rating": 3,
+      "summary": "Wide-body full-size luxury 4WD. Coil spring suspension all round, Shift-on-the-Fly 4WD, 3.5L DOHC 24V V6, 3.0L direct-injection turbo diesel, and prestige Monterey flagship.",
+      "engines": [
+        {
+          "engine_code": "Isuzu-6VE1-3.5L",
+          "name": "Isuzu 6VE1 3.5L DOHC 24V V6",
+          "displacement_cc": 3494,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 158.0,
+          "power_rpm": "5400",
+          "torque_nm": 310.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.1:1",
+          "valvetrain": "DOHC 24V",
+          "notes": "Quad-cam 24-valve alloy V6 introduced in 1998."
+        },
+        {
+          "engine_code": "Isuzu-4JX1-3.0TD",
+          "name": "Isuzu 4JX1 3.0L DOHC 16V Turbo Diesel Inline-4",
+          "displacement_cc": 2999,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 118.0,
+          "power_rpm": "3900",
+          "torque_nm": 333.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "19.0:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Common-rail HEUI direct-injection turbo diesel with intercooler."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Jackaroo SE / Equipe",
+          "years": {
+            "start": 1998,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic with Torque-on-Demand"
+          ],
+          "msrp_aud_min": 41990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1980,
+          "standard_features": [
+            "Shift-on-the-fly 4WD up to 100 km/h",
+            "Dual front airbags and 4-wheel ABS disc brakes",
+            "16-inch alloy wheels",
+            "7-passenger 3-row seating",
+            "Dual air conditioning"
+          ],
+          "notes": "Popular mainstream family touring specification."
+        },
+        {
+          "badge_name": "Monterey",
+          "years": {
+            "start": 1998,
+            "end": 2004
+          },
+          "body_styles": [
+            "5-door wagon"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "4-speed automatic with Torque-on-Demand"
+          ],
+          "msrp_aud_min": 52990,
+          "msrp_aud_max": 57990,
+          "fuel_consumption_l_100km": 13.2,
+          "kerb_weight_kg": 2040,
+          "standard_features": [
+            "3.5L DOHC V6 standard",
+            "Torque-On-Demand (TOD) active AWD/4WD system",
+            "Leather upholstery and walnut woodgrain trim",
+            "Heated front seats with electric adjustment",
+            "Power glass sunroof and 6-disc CD changer"
+          ],
+          "notes": "Prestige flagship competitor to LandCruiser Prado Grande."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Monterey",
+          "body_style": "5-door wagon",
+          "engine_code": "Isuzu-6VE1-3.5L",
+          "transmission": "4-speed automatic with Torque-on-Demand",
+          "drivetrain": "4WD",
+          "msrp_aud": 52990,
+          "power_kw": 158.0,
+          "torque_nm": 310.0,
+          "fuel_l_100km": 13.2,
+          "towing_braked_kg": 2500,
+          "notes": "158 kW 3.5L V6 flagship luxury 4WD."
+        },
+        {
+          "badge_name": "Jackaroo SE / Equipe",
+          "body_style": "5-door wagon",
+          "engine_code": "Isuzu-4JX1-3.0TD",
+          "transmission": "4-speed automatic with Torque-on-Demand",
+          "drivetrain": "4WD",
+          "msrp_aud": 45990,
+          "power_kw": 118.0,
+          "torque_nm": 333.0,
+          "fuel_l_100km": 10.4,
+          "towing_braked_kg": 2500,
+          "notes": "3.0L turbo diesel 7-seat family wagon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "UBS-2",
+          "category": "exterior",
+          "caption": "1997 Holden Jackaroo (UBS) SE 3.2 5-door wagon. Photographed in Blackburn, Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1997_Holden_Jackaroo_%28UBS%29_SE_3.2_5-door_wagon_%282015-08-07%29_01.jpg/1280px-1997_Holden_Jackaroo_%28UBS%29_SE_3.2_5-door_wagon_%282015-08-07%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (OSX)",
+          "local_path": "media/pictures/holden/jackaroo/holden_jackaroo_UBS-2_1_1997_Holden_Jackaroo_UBS_SE_3.2_5-door_wagon_2015-08-07_01.jpg",
+          "file_size_bytes": 323612,
+          "sha256": "d792c754f729ce6dc4c31a7c4b2e3bd87d5ad264f737b69a50fe2377aec85f69"
+        }
+      ]
+    }
+  ]
+}

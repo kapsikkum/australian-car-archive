@@ -1,0 +1,184 @@
+{
+  "make_slug": "leyland-australia",
+  "model_slug": "leyland-p76",
+  "name": "Leyland P76",
+  "vehicle_type": "Sedan",
+  "segment": "Full-size",
+  "years_sold_au": {
+    "start": 1973,
+    "end": 1975
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Zetland, New South Wales"
+  ],
+  "overview": "The Leyland P76 was Australia's most daring automotive gamble. Developed under project leader Peter North at BMC/Leyland's Zetland plant in Sydney to break the Holden-Ford-Chrysler monopoly, the P76 was styled by Italian master Giovanni Michelotti. It boasted world-class engineering: an all-aluminium 4.4-litre V8 derived from Rover weighing less than rivals' iron sixes, standard front power disc brakes, MacPherson strut front suspension, side-impact door bars, and a boot famously demonstrated by swallowing an entire 44-gallon drum. The P76 won the 1973 Wheels Car of the Year and conquered the 1974 World Cup Rally across the Sahara before factory closure cut short its life.",
+  "australian_market_notes": "Launched in June 1973, the P76 suffered from supplier strikes and early teething quality defects that tarnished its market launch. Despite these setbacks, the car was praised by motoring journalists for exceptional ride comfort, steering precision, and fuel economy from the lightweight alloy V8. Around 18,000 sedans were built at Zetland before Leyland Australia's parent company collapsed in the UK, leading to the closure of the Sydney plant in late 1974.",
+  "manuals": [
+    {
+      "title": "Leyland Australia Leyland P76 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1973,
+      "language": "en",
+      "source_url": "local://catalog/makes/leyland-australia/models/leyland-p76/model.json",
+      "local_path": "media/manuals/leyland-australia/leyland-p76/leyland-australia_leyland-p76_au_technical_manual.pdf",
+      "file_size_bytes": 3658,
+      "sha256": "3538c17885cb1754945f5560585e4eda40d182a1c6c744c85bee8868273a2041",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "The Leyland P76 was a large car that was produced by Leyland Australia, the Australian subsidiary of British Leyland, Built from 1973-75, It was direct competition for the Australian for the Ford Falcon, Holden Kingswood and Chrysler Valian",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/1974_Leyland_P76_Deluxe.jpg/1280px-1974_Leyland_P76_Deluxe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/leyland-australia/leyland-p76/leyland-australia_leyland-p76_hero_1_1974_Leyland_P76_Deluxe.jpg",
+      "file_size_bytes": 255109,
+      "sha256": "5b26164d48beecd863cdb763d45d3fa22ae911e9db59d708644ebfcc6d29d06d"
+    },
+    {
+      "category": "exterior",
+      "caption": "The Leyland P76 was a large car that was produced by Leyland Australia, the Australian subsidiary of British Leyland, Built from 1973-75, It was direct competition for the Australian for the Ford Falcon, Holden Kingswood and Chrysler Valian",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/1974_Leyland_P76_Executive_%2815500331156%29_%28cropped%29.jpg/1280px-1974_Leyland_P76_Executive_%2815500331156%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/leyland-australia/leyland-p76/leyland-australia_leyland-p76_hero_2_1974_Leyland_P76_Executive_15500331156_cropped_.jpg",
+      "file_size_bytes": 415020,
+      "sha256": "28c96204847706dffff6a51dd110e1511a55ae5bcb20ac27b222ed5940075aa9"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "P76",
+      "generation_name": "Leyland P76 Series",
+      "years": {
+        "start": 1973,
+        "end": 1975
+      },
+      "body_styles": [
+        "4-door full-size sedan"
+      ],
+      "platform": "Leyland Australia unibody",
+      "ancap_rating": null,
+      "summary": "1973 Wheels Car of the Year winner; Michelotti styling, 4.4L all-alloy V8 and 2.6L OHC six; cavernous boot; Deluxe, Super, and Executive trims.",
+      "engines": [
+        {
+          "engine_code": "E6-2.6-OHC",
+          "name": "Leyland E-Series 2.6L OHC Inline-6",
+          "displacement_cc": 2622,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 82.0,
+          "power_rpm": "4500",
+          "torque_nm": 204.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHC 12V",
+          "notes": "Single twin-choke downdraft carburettor."
+        },
+        {
+          "engine_code": "Alloy-4.4-V8",
+          "name": "Leyland 4.4L All-Aluminium V8",
+          "displacement_cc": 4416,
+          "displacement_litres": 4.4,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 143.0,
+          "power_rpm": "4250",
+          "torque_nm": 386.0,
+          "torque_rpm": "2500",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 16V All-Alloy Block & Heads",
+          "notes": "Stromberg twin carburettors; weighs only 220kg; exceptional power-to-weight ratio."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Deluxe",
+          "years": {
+            "start": 1973,
+            "end": 1975
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed column manual",
+            "4-speed floor manual",
+            "Borg-Warner 35 3-speed auto"
+          ],
+          "msrp_aud_min": 2842,
+          "msrp_aud_max": 3450,
+          "fuel_consumption_l_100km": 12.0,
+          "kerb_weight_kg": 1245,
+          "standard_features": [
+            "Front disc brakes",
+            "MacPherson strut suspension",
+            "Bench front seat",
+            "Cavernous 44-gallon drum boot"
+          ],
+          "notes": "Base specification."
+        },
+        {
+          "badge_name": "Executive",
+          "years": {
+            "start": 1973,
+            "end": 1975
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Borg-Warner 35 3-speed automatic"
+          ],
+          "msrp_aud_min": 4104,
+          "msrp_aud_max": 4650,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1330,
+          "standard_features": [
+            "4.4L All-Aluminium V8 standard",
+            "Reclining bucket seats",
+            "Power steering",
+            "Brocade or vinyl upholstery",
+            "Woodgrain dash fascia"
+          ],
+          "notes": "Luxury executive cruiser."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Executive",
+          "body_style": "4-door sedan",
+          "engine_code": "Alloy-4.4-V8",
+          "transmission": "Borg-Warner 35 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 4104,
+          "power_kw": 143.0,
+          "torque_nm": 386.0,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 1500,
+          "notes": "1973 Wheels Car of the Year winner."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "P76",
+          "category": "exterior",
+          "caption": "Leyland P76 Sandgate Rd Virginia",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Leyland_P76_Sandgate_Rd_Virginia_L1130365.jpg/1280px-Leyland_P76_Sandgate_Rd_Virginia_L1130365.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (John Robert McPherson)",
+          "local_path": "media/pictures/leyland-australia/leyland-p76/leyland-australia_leyland-p76_P76_1_Leyland_P76_Sandgate_Rd_Virginia_L1130365.jpg",
+          "file_size_bytes": 383800,
+          "sha256": "a5abc54cc358c44442a046dad648fe60e62b57a284f1724950c2f4d4f6a1f632"
+        }
+      ]
+    }
+  ]
+}

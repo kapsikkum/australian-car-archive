@@ -1,0 +1,832 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "celica",
+  "name": "Celica",
+  "vehicle_type": "Sports Coupe / Liftback",
+  "segment": "Sports Coupe",
+  "years_sold_au": {
+    "start": 1971,
+    "end": 2005
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota Celica was Australia's definitive Japanese sports coupe for 34 years across seven generations. From the Mustang-inspired TA22 and RA28 liftbacks of the 1970s to the championship-winning turbo all-wheel-drive GT-Four rally homologation specials and high-revving 2ZZ-GE VVTL-i ZR, the Celica defined stylish sports performance.",
+  "australian_market_notes": "Introduced to Australia in 1971 by Thiess Toyota and AMI, the Celica won immense praise for pairing affordable coupe styling with bulletproof mechanicals. In motorsport, the Celica ST185 and ST205 GT-Four dominated the Australian Rally Championship with Neal Bates and Coral Taylor, securing four ARC national titles in 1993, 1994, 1995, and 2008.",
+  "manuals": [
+    {
+      "title": "Toyota Celica Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1971,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/celica/model.json",
+      "local_path": "media/manuals/toyota/celica/toyota_celica_au_technical_manual.pdf",
+      "file_size_bytes": 8704,
+      "sha256": "f1cd6de34bc16fa021631f8a19b5de101a6ae72b2fe3ac23c8da6de21c0abc09",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Toyota Celica owners workshop manual",
+      "year": 1986,
+      "source_url": "https://archive.org/details/toyotacelica82to0000unse",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/celica/toyota_celica_manual_Toyota_Celica_owners_workshop_manual.html",
+      "file_size_bytes": 209884,
+      "sha256": "92c3d154ff3ff90790f75020a5f361ed61a26a5d892818bfd8737a6de89609a4"
+    },
+    {
+      "title": "Toyota Celica Owners Manual RA 24 RA 29",
+      "year": null,
+      "source_url": "https://archive.org/details/ToyotaCelicaOwnersManualRA24RA29",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/celica/toyota_celica_manual_Toyota_Celica_Owners_Manual_RA_24_RA_29.html",
+      "file_size_bytes": 213173,
+      "sha256": "e55960b8291a967cd17237893425c5d87ab1ef815fca47c2dbd407835a07b6ea"
+    },
+    {
+      "title": "1990 Toyota Celica (FWD) AT180/ST184 Wiring Diagram Repair Manual",
+      "year": 1990,
+      "source_url": "https://archive.org/details/1990-toyota-celica-fwd-at180st184-wiring-diagram-repair-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/celica/toyota_celica_manual_1990_Toyota_Celica_FWD_AT180_ST184_Wiring_Diagram_Repair_Manual.html",
+      "file_size_bytes": 225354,
+      "sha256": "63f920ce43d545c3c95358c32f153a1ed201915cc5b206e9d96f7a235dcbc188"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "A very clean RA40, imported from Australia in 2016.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1979_Toyota_Celica.jpg/1280px-1979_Toyota_Celica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley)",
+      "local_path": "media/pictures/toyota/celica/toyota_celica_hero_1_1979_Toyota_Celica.jpg",
+      "file_size_bytes": 282964,
+      "sha256": "7554475035e59fe24bd698bf0288eb3c29e89698445233748fad1a8faa0f4e29"
+    },
+    {
+      "category": "exterior",
+      "caption": "Toyota Celica Peter Williamson",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Toyota_Celica_Peter_Williamson_%2815324517133%29.jpg/1280px-Toyota_Celica_Peter_Williamson_%2815324517133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/toyota/celica/toyota_celica_hero_2_Toyota_Celica_Peter_Williamson_15324517133_.jpg",
+      "file_size_bytes": 193165,
+      "sha256": "534b17cb8b397eaa1fcfc571f204a7184f407e7e42f8f700c3a428d45cc6e080"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "A20/A30",
+      "generation_name": "Celica 1st Generation",
+      "years": {
+        "start": 1971,
+        "end": 1977
+      },
+      "body_styles": [
+        "2-door Notchback Coupe",
+        "3-door Liftback"
+      ],
+      "platform": "Toyota A20",
+      "ancap_rating": "Untested",
+      "summary": "The 'Japanese Mustang' that started the coupe craze in Australia. TA22 notchback followed by the stunning RA28 fastback Liftback with vertical triple taillights.",
+      "engines": [
+        {
+          "engine_code": "2T-B",
+          "name": "Toyota 2T-B 1.6L Twin-Carb",
+          "displacement_cc": 1588,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 75.0,
+          "power_rpm": "6000",
+          "torque_nm": 137.0,
+          "torque_rpm": "4200",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Twin Aisan side-draught carburettors in TA22 LT/ST."
+        },
+        {
+          "engine_code": "18R-C",
+          "name": "Toyota 18R-C 2.0L SOHC",
+          "displacement_cc": 1968,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 66.0,
+          "power_rpm": "5000",
+          "torque_nm": 145.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Standard engine in RA23 and RA28 Australian delivered cars."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "TA22 LT / ST",
+          "years": {
+            "start": 1971,
+            "end": 1975
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 3195,
+          "msrp_aud_max": 3890,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 965,
+          "standard_features": [
+            "High-back bucket seats",
+            "Wood-grain steering wheel",
+            "Sports instrumentation with tachometer",
+            "Front disc brakes"
+          ],
+          "notes": "Initial Australian launch hit."
+        },
+        {
+          "badge_name": "RA28 Liftback",
+          "years": {
+            "start": 1976,
+            "end": 1977
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed automatic"
+          ],
+          "msrp_aud_min": 5690,
+          "msrp_aud_max": 6450,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1050,
+          "standard_features": [
+            "Mustang-inspired fastback styling",
+            "Fold-down rear seat",
+            "Twin bonnet vents",
+            "5-speed manual transmission"
+          ],
+          "notes": "Highly collectible 1970s coupe in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica RA28 Liftback",
+          "body_style": "3-door Liftback",
+          "engine_code": "18R-C",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1976,
+          "years_end": 1977,
+          "msrp_aud": 5690,
+          "power_kw": 66.0,
+          "torque_nm": 145.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 900,
+          "notes": "Iconic Australian classic."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "A20/A30",
+          "category": "exterior",
+          "caption": "A20系トヨタ・セリカリフトバック1600GTを撮影。",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Toyota_CELICA_LIFTBACK_1600GT_%28A20%29.jpg/1280px-Toyota_CELICA_LIFTBACK_1600GT_%28A20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Tokumeigakarinoaoshima)",
+          "local_path": "media/pictures/toyota/celica/toyota_celica_A20_A30_1_Toyota_CELICA_LIFTBACK_1600GT_A20_.jpg",
+          "file_size_bytes": 311242,
+          "sha256": "8e934b07fd713fd11c70aa0dd767c895c8952225e4430ebc80a1da82df8efe2f"
+        }
+      ]
+    },
+    {
+      "series_code": "A40/A60",
+      "generation_name": "Celica 2nd & 3rd Generation",
+      "years": {
+        "start": 1978,
+        "end": 1985
+      },
+      "body_styles": [
+        "2-door Coupe",
+        "3-door Liftback"
+      ],
+      "platform": "Toyota A40/A60",
+      "ancap_rating": "Untested",
+      "summary": "Crisp wedge styling in A40, followed by pop-up headlamps and fuel-injected 2.4L 22R-E power in the RA65 SX.",
+      "engines": [
+        {
+          "engine_code": "22R-E",
+          "name": "Toyota 22R-E 2.4L EFI",
+          "displacement_cc": 2366,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 87.0,
+          "power_rpm": "4800",
+          "torque_nm": 192.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.3:1",
+          "valvetrain": "SOHC 8-valve EFI",
+          "notes": "Torquey 2.4-litre introduced in 1984 RA65 SX."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RA60 / RA65 SX",
+          "years": {
+            "start": 1982,
+            "end": 1985
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 14990,
+          "msrp_aud_max": 18200,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1130,
+          "standard_features": [
+            "Pop-up headlights",
+            "14-inch sports alloys",
+            "8-way adjustable driver's sports seat",
+            "Four-wheel disc brakes"
+          ],
+          "notes": "Final rear-wheel drive Celica generation."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica SX Liftback",
+          "body_style": "3-door Liftback",
+          "engine_code": "22R-E",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1984,
+          "years_end": 1985,
+          "msrp_aud": 16990,
+          "power_kw": 87.0,
+          "torque_nm": 192.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 1000,
+          "notes": "Last of the rear-drive Celicas."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "A40/A60",
+          "category": "exterior",
+          "caption": "The Supra was derived from the Celica, but it was longer and wider, the first 4 generations got a 6 cyl engine (standard Celicas were 4 cyl)\nThe Supra was built from 1978-2002, from 1986 the Celica name was dropped, now just Toyota Supra.\nT",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1983_Toyota_Supra_A60_MkII_2800GT_%2830529730192%29.jpg/1280px-1983_Toyota_Supra_A60_MkII_2800GT_%2830529730192%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/toyota/celica/toyota_celica_A40_A60_1_1983_Toyota_Supra_A60_MkII_2800GT_30529730192_.jpg",
+          "file_size_bytes": 451876,
+          "sha256": "3cf9fafece6ea34f938a153375fd5c4e09f3b2731e40f42af54087a24183205f"
+        }
+      ]
+    },
+    {
+      "series_code": "T160",
+      "generation_name": "Celica 4th Generation (ST162 / ST165)",
+      "years": {
+        "start": 1985,
+        "end": 1989
+      },
+      "body_styles": [
+        "3-door Liftback",
+        "2-door Coupe"
+      ],
+      "platform": "Toyota T160",
+      "ancap_rating": "Untested",
+      "summary": "Switched to front-wheel drive with Yamaha-developed 3S-GE DOHC engine, and introduced the legendary ST165 GT-Four full-time AWD turbo rally weapon.",
+      "engines": [
+        {
+          "engine_code": "3S-GE",
+          "name": "Toyota 3S-GE 2.0L Twin-Cam 16",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 103.0,
+          "power_rpm": "6200",
+          "torque_nm": 175.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Yamaha cylinder head with wide-angle valves."
+        },
+        {
+          "engine_code": "3S-GTE",
+          "name": "Toyota 3S-GTE 2.0L Turbocharged",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 136.0,
+          "power_rpm": "6000",
+          "torque_nm": 240.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Water-to-air intercooler in ST165 GT-Four."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SX",
+          "years": {
+            "start": 1985,
+            "end": 1989
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 31500,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 1160,
+          "standard_features": [
+            "14-inch alloys",
+            "Power steering",
+            "Air conditioning",
+            "Velour sports seats"
+          ],
+          "notes": "Mainstream FWD hot coupe."
+        },
+        {
+          "badge_name": "GT-Four",
+          "years": {
+            "start": 1988,
+            "end": 1989
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 45000,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1350,
+          "standard_features": [
+            "Full-time AWD with center diff lock",
+            "Water-to-air intercooler",
+            "Twin exhaust",
+            "15-inch alloys"
+          ],
+          "notes": "Toyota's first AWD rally homologation car in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica GT-Four AWD",
+          "body_style": "3-door Liftback",
+          "engine_code": "3S-GTE",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 1988,
+          "years_end": 1989,
+          "msrp_aud": 42990,
+          "power_kw": 136.0,
+          "torque_nm": 240.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1200,
+          "notes": "First Celica GT-Four delivered to Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T160",
+          "category": "exterior",
+          "caption": "1988 Toyota Celica GT Coupe",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1988_Toyota_Celica_GT.jpg/1280px-1988_Toyota_Celica_GT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (Pediacontrib)",
+          "local_path": "media/pictures/toyota/celica/toyota_celica_T160_1_1988_Toyota_Celica_GT.jpg",
+          "file_size_bytes": 246244,
+          "sha256": "f694449e4110e7004a36fc27a3954581e6efc45301b3ec04009ab4604b8e9765"
+        }
+      ]
+    },
+    {
+      "series_code": "T180",
+      "generation_name": "Celica 5th Generation (ST184 / ST185)",
+      "years": {
+        "start": 1989,
+        "end": 1993
+      },
+      "body_styles": [
+        "3-door Liftback",
+        "2-door Coupe",
+        "Convertible"
+      ],
+      "platform": "Toyota T180",
+      "ancap_rating": "Untested",
+      "summary": "Curvaceous 'bio-kinetic' aero styling. Produced the world rally champion ST185 GT-Four Group A Rallye Carlos Sainz limited edition.",
+      "engines": [
+        {
+          "engine_code": "5S-FE",
+          "name": "Toyota 5S-FE 2.2L Twin-Cam",
+          "displacement_cc": 2164,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 100.0,
+          "power_rpm": "5400",
+          "torque_nm": 189.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Torquey 2.2L engine in Australian ST184 SX."
+        },
+        {
+          "engine_code": "3S-GTE-Gen2",
+          "name": "Toyota 3S-GTE 2.0L Turbo (Group A)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Entry Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 153.0,
+          "power_rpm": "6000",
+          "torque_nm": 275.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Air-to-air intercooler with distinctive bonnet bulge and extraction vent."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SX",
+          "years": {
+            "start": 1989,
+            "end": 1993
+          },
+          "body_styles": [
+            "3-door Liftback",
+            "2-door Coupe"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 28990,
+          "msrp_aud_max": 38000,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1210,
+          "standard_features": [
+            "Curved styling",
+            "14-inch alloys",
+            "Pop-up lights",
+            "Power mirrors",
+            "Sports interior"
+          ],
+          "notes": "Volume Australian sports coupe."
+        },
+        {
+          "badge_name": "GT-Four Group A Rallye",
+          "years": {
+            "start": 1991,
+            "end": 1992
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 52990,
+          "msrp_aud_max": 54500,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1460,
+          "standard_features": [
+            "150 Australian numbered units",
+            "Torsen rear LSD",
+            "Round air intake for intercooler",
+            "Lightweight front bumper",
+            "Numbered commemorative plaque"
+          ],
+          "notes": "Homologation special for Carlos Sainz's WRC campaign; ARC winner with Neal Bates."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica GT-Four Group A Rallye",
+          "body_style": "3-door Liftback",
+          "engine_code": "3S-GTE-Gen2",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 1991,
+          "years_end": 1992,
+          "msrp_aud": 52990,
+          "power_kw": 153.0,
+          "torque_nm": 275.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 1200,
+          "notes": "Numbered Australian limited edition (150 units)."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T180",
+          "category": "exterior",
+          "caption": "Airport Rd 2017: Once again!",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Toyota_Celica_T180%2C_Bangladesh._%2833148144730%29.jpg/1280px-Toyota_Celica_T180%2C_Bangladesh._%2833148144730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.0 (Shadman Samee from Dhaka, Bangladesh)",
+          "local_path": "media/pictures/toyota/celica/toyota_celica_T180_1_Toyota_Celica_T180_Bangladesh._33148144730_.jpg",
+          "file_size_bytes": 167878,
+          "sha256": "49bda3e2b78201b42b7283549388fea3eeb0104622cfefa5b5a5850653eb3b32"
+        }
+      ]
+    },
+    {
+      "series_code": "T200",
+      "generation_name": "Celica 6th Generation (ST204 / ST205)",
+      "years": {
+        "start": 1994,
+        "end": 1999
+      },
+      "body_styles": [
+        "3-door Liftback",
+        "2-door Coupe"
+      ],
+      "platform": "Toyota T200",
+      "ancap_rating": "Untested",
+      "summary": "Distinctive quad round headlights. Spawned the ultimate 178kW ST205 GT-Four Group A (only 77 officially sold in Australia), as well as popular ST204 SX and ZR liftbacks.",
+      "engines": [
+        {
+          "engine_code": "5S-FE-Gen2",
+          "name": "Toyota 5S-FE 2.2L Twin-Cam",
+          "displacement_cc": 2164,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 100.0,
+          "power_rpm": "5200",
+          "torque_nm": 196.0,
+          "torque_rpm": "4400",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Mainstream ST204 engine."
+        },
+        {
+          "engine_code": "3S-GTE-Gen3",
+          "name": "Toyota 3S-GTE 2.0L Turbo (ST205)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Entry Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 178.0,
+          "power_rpm": "6000",
+          "torque_nm": 302.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Aluminium bonnet, water-injection manifold, anti-lag hardware; 178kW Australian spec."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SX / ZR",
+          "years": {
+            "start": 1994,
+            "end": 1999
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 35990,
+          "msrp_aud_max": 44500,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 1190,
+          "standard_features": [
+            "Quad projector headlights",
+            "15-inch alloys (ZR)",
+            "Driver airbag",
+            "Rear spoiler",
+            "ABS (ZR)"
+          ],
+          "notes": "Staple Aussie sports coupe of the late 1990s."
+        },
+        {
+          "badge_name": "GT-Four Group A (ST205)",
+          "years": {
+            "start": 1994,
+            "end": 1995
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 79990,
+          "msrp_aud_max": 81990,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "77 Australian delivered units",
+            "Super Strut front suspension",
+            "High rear aero wing with riser blocks",
+            "4-pot front brake calipers",
+            "Aluminium bonnet"
+          ],
+          "notes": "Hyper-rare WRC homologation holy grail in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica GT-Four Group A (ST205)",
+          "body_style": "3-door Liftback",
+          "engine_code": "3S-GTE-Gen3",
+          "transmission": "5-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 1994,
+          "years_end": 1995,
+          "msrp_aud": 81990,
+          "power_kw": 178.0,
+          "torque_nm": 302.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1200,
+          "notes": "Just 77 cars officially imported to Australia for Group A rallying."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T200",
+          "category": "exterior",
+          "caption": "1995 Toyota Celica Convertible",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1995_Toyota_Celica_Convertible.jpg/1280px-1995_Toyota_Celica_Convertible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (TTTNIS)",
+          "local_path": "media/pictures/toyota/celica/toyota_celica_T200_1_1995_Toyota_Celica_Convertible.jpg",
+          "file_size_bytes": 279809,
+          "sha256": "ec2df4002ce1413c5dc10496aa22a855017318435b9b74ce416692697cbad790"
+        }
+      ]
+    },
+    {
+      "series_code": "T230",
+      "generation_name": "Celica 7th Generation (ZZT231)",
+      "years": {
+        "start": 1999,
+        "end": 2005
+      },
+      "body_styles": [
+        "3-door Liftback"
+      ],
+      "platform": "Toyota T230",
+      "ancap_rating": "Untested",
+      "summary": "Dramatic sharp-edged cab-forward styling with Yamaha-developed 140kW 2ZZ-GE high-rpm screamer with VVTL-i and 6-speed manual.",
+      "engines": [
+        {
+          "engine_code": "2ZZ-GE",
+          "name": "Toyota/Yamaha 2ZZ-GE 1.8L VVTL-i",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 140.0,
+          "power_rpm": "7600",
+          "torque_nm": 180.0,
+          "torque_rpm": "6800",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "DOHC 16-valve VVTL-i",
+          "notes": "Variable valve timing and high-lift cam switch at 6,200rpm; 8,200rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SX",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 42500,
+          "fuel_consumption_l_100km": 8.2,
+          "kerb_weight_kg": 1120,
+          "standard_features": [
+            "15-inch alloy wheels",
+            "Dual airbags",
+            "ABS with EBD",
+            "Air conditioning",
+            "Power windows",
+            "CD player"
+          ],
+          "notes": "Lightweight 1,120kg kerb weight."
+        },
+        {
+          "badge_name": "ZR",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door Liftback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 43990,
+          "msrp_aud_max": 46990,
+          "fuel_consumption_l_100km": 8.2,
+          "kerb_weight_kg": 1140,
+          "standard_features": [
+            "16-inch alloy wheels",
+            "Power glass moonroof",
+            "Front fog lamps",
+            "Aluminium pedals",
+            "Side airbags"
+          ],
+          "notes": "Flagship final Celica trim."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Celica ZR Manual",
+          "body_style": "3-door Liftback",
+          "engine_code": "2ZZ-GE",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1999,
+          "years_end": 2005,
+          "msrp_aud": 43990,
+          "power_kw": 140.0,
+          "torque_nm": 180.0,
+          "fuel_l_100km": 8.2,
+          "towing_braked_kg": 900,
+          "notes": "0-100 km/h in 7.4 seconds with 8,200rpm screaming redline."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "T230",
+          "category": "exterior",
+          "caption": "2003 Toyota Celica with Action Package body kits, photographed in Montreal, Quebec, Canada at Gibeau Orange Julep",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Toyota_T230_Celica_%28Orange_Julep%29.jpg/1280px-Toyota_T230_Celica_%28Orange_Julep%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "Public domain (Bull-Doser)",
+          "local_path": "media/pictures/toyota/celica/toyota_celica_T230_1_Toyota_T230_Celica_Orange_Julep_.jpg",
+          "file_size_bytes": 238960,
+          "sha256": "e2c87f2ca53854ca14ea908e4ac1f589d06ac78bdd7eb940b63c0219ce4baf11"
+        }
+      ]
+    }
+  ]
+}

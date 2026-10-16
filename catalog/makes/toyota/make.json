@@ -1,0 +1,1930 @@
+{
+  "make_slug": "toyota",
+  "name": "Toyota",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1959,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Australia's perpetual market leader and automotive titan. Toyota began Australian operations in 1958 with LandCruisers on the Snowy Mountains Scheme and assembled vehicles locally at Port Melbourne and Altona from 1963 to 2017.",
+  "australian_history": "Toyota's Australian story began in 1958 when civil engineering contractor Leslie Thiess imported 13 FJ25 LandCruisers for use on the rugged construction terrain of the Snowy Mountains Hydro-Electric Scheme. Impressed by their unbreakable mechanical toughness, Thiess secured Queensland distribution rights in 1959, forming Thiess Toyota.\n\nIn 1963, Australian Motor Industries (AMI) at Port Melbourne, Victoria negotiated CKD (Complete Knock Down) assembly rights for Toyota passenger cars, making Australia Toyota's very first vehicle manufacturing site outside of Japan. The first vehicle assembled was the Tiara (RT20/RT30), quickly followed by the Corona in 1964, the Crown luxury sedan, and the Corolla (KE10) in 1968.\n\nBy the 1970s, Toyota had expanded into full Australian manufacturing. Toyota Motor Corporation Japan gradually acquired shares in AMI, renaming the operation Toyota Motor Corporation Australia (TMCA). Under the Federal Government's Button Car Plan in 1989, Toyota and General Motors-Holden established the United Australian Automotive Industries (UAAI) joint venture. Holden built the Commodore for Toyota to sell as the Toyota Lexcen, while Toyota manufactured the Corolla and Camry for Holden to sell as the Holden Nova and Apollo.\n\nIn 1994, Toyota commissioned a brand new, world-class vehicle manufacturing complex at Altona in Melbourne's western suburbs, transitioning Port Melbourne to engine manufacturing and casting. In 2000, Toyota introduced the Altona-built Avalon large sedan, later replaced in 2006 by the 3.5L V6 Aurion alongside the Camry. In 2010, Altona launched Australia's very first locally manufactured hybrid passenger car, the Camry Hybrid (AHV40), unveiled by Prime Minister Kevin Rudd.\n\nToyota officially overtook Holden and Ford in 2003 to become Australia's overall best-selling automotive brand, a crown it has held without interruption for over two decades. The HiLux utility and RAV4 crossover have repeatedly been Australia's #1 selling individual vehicles. Local car assembly concluded at Altona on October 3, 2017 after 54 years and 3,451,115 vehicles built. Toyota maintains its Australian headquarters, national engineering center, product design studio, and extensive testing grounds at Altona and Anglesea.",
+  "models_catalog": [
+    {
+      "model_slug": "tiara",
+      "name": "Tiara",
+      "vehicle_type": "Sedan",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1963,
+        "end": 1965
+      },
+      "locally_built": true,
+      "overview": "The first Toyota assembled in Australia by AMI in Port Melbourne, laying the foundation for Toyota's domestic manufacturing history.",
+      "generations": [
+        {
+          "series_code": "RT20",
+          "generation_name": "Tiara 1500 / 1900",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Ute"
+          ],
+          "summary": "1.5L and 1.9L pushrod 4-cylinder engine, 3-speed manual, CKD assembly at Port Melbourne."
+        }
+      ]
+    },
+    {
+      "model_slug": "corona",
+      "name": "Corona",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 1964,
+        "end": 1987
+      },
+      "locally_built": true,
+      "overview": "Long-running Australian family car assembled in Port Melbourne across multiple generations until succeeded by the Camry.",
+      "generations": [
+        {
+          "series_code": "RT40",
+          "generation_name": "Corona 3rd Gen",
+          "years": {
+            "start": 1964,
+            "end": 1970
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Ute"
+          ],
+          "summary": "Shovel-nose design, 1.5L 2R engine, established Toyota's reputation for build quality."
+        },
+        {
+          "series_code": "RT80",
+          "generation_name": "Corona 4th Gen",
+          "years": {
+            "start": 1970,
+            "end": 1974
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "1.6L 12R engine, improved passenger comfort and local suspension tuning."
+        },
+        {
+          "series_code": "RT104",
+          "generation_name": "Corona 5th Gen",
+          "years": {
+            "start": 1974,
+            "end": 1979
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "1.8L 16R and 2.0L 18R engines, popular company fleet and family vehicle."
+        },
+        {
+          "series_code": "RT132",
+          "generation_name": "Corona 6th Gen",
+          "years": {
+            "start": 1979,
+            "end": 1983
+          },
+          "body_styles": [
+            "Sedan",
+            "Liftback",
+            "Wagon"
+          ],
+          "summary": "Square-edged styling, Holden 1.9L Starfire 4-cylinder fitted to meet local content rules, also 2.0L 18R-C."
+        },
+        {
+          "series_code": "RT142",
+          "generation_name": "Corona 7th Gen (Avante)",
+          "years": {
+            "start": 1983,
+            "end": 1987
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Last RWD Corona in Australia, 2.4L 22R-E EFI engine on Avante, IRS rear suspension."
+        }
+      ]
+    },
+    {
+      "model_slug": "crown",
+      "name": "Crown",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Luxury Car",
+      "years_sold_au": {
+        "start": 1964,
+        "end": 1991
+      },
+      "locally_built": true,
+      "overview": "Toyota's flagship executive sedan and wagon, assembled locally by AMI until 1980 and then fully imported until 1991.",
+      "generations": [
+        {
+          "series_code": "S40",
+          "generation_name": "Crown 2nd Gen",
+          "years": {
+            "start": 1964,
+            "end": 1967
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "First Crown in Australia, 1.9L 3R engine, durable body-on-frame chassis."
+        },
+        {
+          "series_code": "S50",
+          "generation_name": "Crown 3rd Gen",
+          "years": {
+            "start": 1967,
+            "end": 1971
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.0L M-series inline-6 introduced, Port Melbourne assembly."
+        },
+        {
+          "series_code": "S60",
+          "generation_name": "Crown 4th Gen 'Whale'",
+          "years": {
+            "start": 1971,
+            "end": 1974
+          },
+          "body_styles": [
+            "Sedan",
+            "Coupe",
+            "Wagon"
+          ],
+          "summary": "Distinctive avant-garde body, 2.3L and 2.6L inline-6 engines."
+        },
+        {
+          "series_code": "S80",
+          "generation_name": "Crown 5th Gen",
+          "years": {
+            "start": 1974,
+            "end": 1979
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Royal Lounge trim, 2.6L 4M engine, 4-speed automatic options."
+        },
+        {
+          "series_code": "S110",
+          "generation_name": "Crown 6th Gen",
+          "years": {
+            "start": 1979,
+            "end": 1983
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "2.8L 5M-E fuel-injected engine, digital instruments, imported from Japan."
+        },
+        {
+          "series_code": "S120",
+          "generation_name": "Crown 7th Gen",
+          "years": {
+            "start": 1983,
+            "end": 1988
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Royal Saloon with 2.8L DOHC 5M-GE, TEMS electronic suspension."
+        },
+        {
+          "series_code": "S130",
+          "generation_name": "Crown 8th Gen",
+          "years": {
+            "start": 1988,
+            "end": 1991
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Final Australian-market Crown, 3.0L 7M-GE inline-6, succeeded by Lexus LS400."
+        }
+      ]
+    },
+    {
+      "model_slug": "corolla",
+      "name": "Corolla",
+      "vehicle_type": "Hatchback / Sedan / Wagon",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1967,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "Australia's defining small car nameplate, built locally in Victoria from 1968 to 1999 across Port Melbourne, Duncans Road, and Altona.",
+      "generations": [
+        {
+          "series_code": "KE10",
+          "generation_name": "Corolla 1st Gen",
+          "years": {
+            "start": 1967,
+            "end": 1970
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "1.1L K engine, local CKD assembly commenced July 1968 at Port Melbourne."
+        },
+        {
+          "series_code": "KE20",
+          "generation_name": "Corolla 2nd Gen",
+          "years": {
+            "start": 1970,
+            "end": 1974
+          },
+          "body_styles": [
+            "Sedan",
+            "Coupe",
+            "Wagon"
+          ],
+          "summary": "1.2L 3K engine, famous 'coke bottle' styling, strong seller."
+        },
+        {
+          "series_code": "KE30/KE55",
+          "generation_name": "Corolla 3rd Gen",
+          "years": {
+            "start": 1974,
+            "end": 1981
+          },
+          "body_styles": [
+            "Sedan",
+            "Coupe",
+            "Liftback",
+            "Wagon"
+          ],
+          "summary": "1.2L 3K and 1.3L 4K engines, SE, CS, and Sport Coupe models."
+        },
+        {
+          "series_code": "KE70/AE71",
+          "generation_name": "Corolla 4th Gen",
+          "years": {
+            "start": 1981,
+            "end": 1985
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Panel Van"
+          ],
+          "summary": "1.3L 4K-C and 1.6L 4A-C engines, rack and pinion steering, T-18 liftback."
+        },
+        {
+          "series_code": "AE80/AE82/AE86",
+          "generation_name": "Corolla 5th Gen",
+          "years": {
+            "start": 1985,
+            "end": 1989
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Coupe"
+          ],
+          "summary": "Switch to FWD, famous 4A-GE Twin Cam in Seca SX; imported RWD AE86 Sprinter 1983-1985."
+        },
+        {
+          "series_code": "AE90/AE92",
+          "generation_name": "Corolla 6th Gen",
+          "years": {
+            "start": 1989,
+            "end": 1994
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Seca"
+          ],
+          "summary": "1.4L 6A-FC, 1.6L 4A-FE, and 100kW 4A-GE SX; also sold as Holden Nova."
+        },
+        {
+          "series_code": "AE101/AE102",
+          "generation_name": "Corolla 7th Gen",
+          "years": {
+            "start": 1994,
+            "end": 1999
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Seca"
+          ],
+          "summary": "Built at new Altona plant; 1.6L 4A-FE and 1.8L 7A-FE; CSi, Conquest, RV, and Ultima."
+        },
+        {
+          "series_code": "AE112",
+          "generation_name": "Corolla 8th Gen",
+          "years": {
+            "start": 1998,
+            "end": 2001
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Seca Liftback"
+          ],
+          "summary": "Last locally built Corolla; 1.8L 7A-FE, Levin, and limited-edition 115kW Turbo Sportivo."
+        },
+        {
+          "series_code": "ZZE122",
+          "generation_name": "Corolla 9th Gen",
+          "years": {
+            "start": 2001,
+            "end": 2007
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Fully imported from Japan/South Africa; 1.8L 1ZZ-FE; Sportivo featured 141kW 2ZZ-GE VVTL-i."
+        },
+        {
+          "series_code": "ZRE152",
+          "generation_name": "Corolla 10th Gen",
+          "years": {
+            "start": 2007,
+            "end": 2012
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.8L 2ZR-FE Dual VVT-i 100kW, Ascent, Conquest, Levin SX, and Levin ZR."
+        },
+        {
+          "series_code": "ZRE182/ZWE186",
+          "generation_name": "Corolla 11th Gen",
+          "years": {
+            "start": 2012,
+            "end": 2018
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Sharp wedge styling; introduced Corolla Hybrid in 2016 pairing 1.8L with electric motor."
+        },
+        {
+          "series_code": "E210",
+          "generation_name": "Corolla 12th Gen",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "TNGA-C platform, 2.0L M20A-FKS petrol, 1.8L Hybrid, and AWD GR Corolla 221kW turbo."
+        }
+      ]
+    },
+    {
+      "model_slug": "camry",
+      "name": "Camry",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 1983,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "The cornerstone of Australian automotive manufacturing from 1987 to 2017, built in Altona and Port Melbourne and Australia's #1 mid-size car for over 30 years.",
+      "generations": [
+        {
+          "series_code": "SV11",
+          "generation_name": "Camry 1st Gen",
+          "years": {
+            "start": 1983,
+            "end": 1987
+          },
+          "body_styles": [
+            "Sedan",
+            "Liftback"
+          ],
+          "summary": "Imported liftback and sedan with 2.0L 2S-C engine, establishing Camry nametag in Australia."
+        },
+        {
+          "series_code": "SV21",
+          "generation_name": "Camry 2nd Gen",
+          "years": {
+            "start": 1987,
+            "end": 1993
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "First Australian-built Camry at Port Melbourne; 2.0L 3S-FE; CS, CSX, Ultima; rebadged as Holden Apollo."
+        },
+        {
+          "series_code": "SDV10/SXV10",
+          "generation_name": "Camry 3rd Gen (Widebody)",
+          "years": {
+            "start": 1993,
+            "end": 1997
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Altona production started; 2.2L 5S-FE 4-cylinder and 3.0L 3VZ-FE V6 (Camry Vienta)."
+        },
+        {
+          "series_code": "SXV20/MCV20",
+          "generation_name": "Camry 4th Gen",
+          "years": {
+            "start": 1997,
+            "end": 2002
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Major export earner to the Middle East; 2.2L 5S-FE and 3.0L 1MZ-FE V6; Touring and Azura."
+        },
+        {
+          "series_code": "ACV36/MCV36",
+          "generation_name": "Camry 5th Gen",
+          "years": {
+            "start": 2002,
+            "end": 2006
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "2.4L 2AZ-FE VVTi and 3.0L 1MZ-FE V6; Altise, Ateva, Sportivo, and Azura grades."
+        },
+        {
+          "series_code": "ACV40/AHV40",
+          "generation_name": "Camry 6th Gen",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "2.4L 2AZ-FE; 2010 launched Australia's first locally built hybrid passenger car (Camry Hybrid)."
+        },
+        {
+          "series_code": "ASV50/AVV50",
+          "generation_name": "Camry 7th Gen",
+          "years": {
+            "start": 2011,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "2.5L 2AR-FE and 2AR-FXE Hybrid; Altise, Atara S/SX/SL; final vehicle off Altona line 3 Oct 2017."
+        },
+        {
+          "series_code": "AXVH70/GSV70",
+          "generation_name": "Camry 8th Gen",
+          "years": {
+            "start": 2017,
+            "end": 2024
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Imported on TNGA-K platform; 2.5L Hybrid, 2.5L petrol, and 224kW 3.5L V6 (Ascent, SX, SL)."
+        },
+        {
+          "series_code": "XV80",
+          "generation_name": "Camry 9th Gen",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Hybrid-only range featuring 5th-gen Toyota Hybrid System with 2.5L 4-cylinder."
+        }
+      ]
+    },
+    {
+      "model_slug": "aurion",
+      "name": "Aurion",
+      "vehicle_type": "Sedan",
+      "segment": "Large Car",
+      "years_sold_au": {
+        "start": 2006,
+        "end": 2017
+      },
+      "locally_built": true,
+      "overview": "Australian-designed and built large front-wheel-drive sedan, powered exclusively by the 3.5L 2GR-FE V6 and built at Altona.",
+      "generations": [
+        {
+          "series_code": "GSV40",
+          "generation_name": "Aurion 1st Gen",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "3.5L 2GR-FE 200kW V6; AT-X, Touring, Sportivo, Prodigy, Presara; TRD supercharged 241kW model in 2007."
+        },
+        {
+          "series_code": "GSV50",
+          "generation_name": "Aurion 2nd Gen",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Refined 3.5L V6 200kW, 6-speed auto, built at Altona until plant closure in 2017."
+        }
+      ]
+    },
+    {
+      "model_slug": "avalon",
+      "name": "Avalon",
+      "vehicle_type": "Sedan",
+      "segment": "Large Car",
+      "years_sold_au": {
+        "start": 2000,
+        "end": 2005
+      },
+      "locally_built": true,
+      "overview": "Spacious family and taxi sedan built at Altona to take on Holden Commodore and Ford Falcon.",
+      "generations": [
+        {
+          "series_code": "MCX10",
+          "generation_name": "Avalon Mark I & II",
+          "years": {
+            "start": 2000,
+            "end": 2005
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "3.0L 1MZ-FE V6, Conquest, CSX, Grande, and sporty Advantage models; Altona assembly."
+        }
+      ]
+    },
+    {
+      "model_slug": "celica",
+      "name": "Celica",
+      "vehicle_type": "Coupe / Liftback",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1971,
+        "end": 2005
+      },
+      "locally_built": false,
+      "overview": "Toyota's iconic sports coupe in Australia, from classic 1970s rear-drive models to AWD turbo GT-Four rally weapons.",
+      "generations": [
+        {
+          "series_code": "TA22/RA23",
+          "generation_name": "Celica 1st Gen",
+          "years": {
+            "start": 1971,
+            "end": 1977
+          },
+          "body_styles": [
+            "Coupe",
+            "Liftback"
+          ],
+          "summary": "1.6L 2T-G and 2.0L 18R engines, Australian motorsport cult classic."
+        },
+        {
+          "series_code": "RA40",
+          "generation_name": "Celica 2nd Gen",
+          "years": {
+            "start": 1977,
+            "end": 1981
+          },
+          "body_styles": [
+            "Coupe",
+            "Liftback"
+          ],
+          "summary": "2.0L 18R-C, round then square headlights, LT and XT trims."
+        },
+        {
+          "series_code": "RA60/RA65",
+          "generation_name": "Celica 3rd Gen",
+          "years": {
+            "start": 1981,
+            "end": 1985
+          },
+          "body_styles": [
+            "Coupe",
+            "Liftback"
+          ],
+          "summary": "Pop-up lights, 2.0L 21R-C and 2.4L 22R-E EFI, IRS rear suspension."
+        },
+        {
+          "series_code": "ST162",
+          "generation_name": "Celica 4th Gen",
+          "years": {
+            "start": 1985,
+            "end": 1989
+          },
+          "body_styles": [
+            "Coupe",
+            "Liftback"
+          ],
+          "summary": "Transition to FWD, 2.0L 3S-GE DOHC 103kW engine; SX trim."
+        },
+        {
+          "series_code": "ST184/ST185",
+          "generation_name": "Celica 5th Gen",
+          "years": {
+            "start": 1989,
+            "end": 1993
+          },
+          "body_styles": [
+            "Liftback",
+            "Coupe"
+          ],
+          "summary": "Curvaceous styling, 2.2L 5S-FE, and world rally champion GT-Four turbo AWD (ST185)."
+        },
+        {
+          "series_code": "ST204/ST205",
+          "generation_name": "Celica 6th Gen",
+          "years": {
+            "start": 1993,
+            "end": 1999
+          },
+          "body_styles": [
+            "Liftback",
+            "Coupe"
+          ],
+          "summary": "Quad round headlights, 2.2L 5S-FE, and limited Group A Rallye GT-Four (ST205)."
+        },
+        {
+          "series_code": "ZZT231",
+          "generation_name": "Celica 7th Gen",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "Liftback"
+          ],
+          "summary": "High-revving 1.8L 2ZZ-GE VVTL-i 140kW engine, 6-speed manual, SX and ZR grades."
+        }
+      ]
+    },
+    {
+      "model_slug": "supra",
+      "name": "Supra",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1983,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Toyota's flagship high-performance sports car, from the Celica Supra MA61 through the twin-turbo 2JZ A80 to the modern GR Supra.",
+      "generations": [
+        {
+          "series_code": "MA61",
+          "generation_name": "Celica Supra (A60)",
+          "years": {
+            "start": 1983,
+            "end": 1986
+          },
+          "body_styles": [
+            "Liftback Coupe"
+          ],
+          "summary": "2.8L 5M-E and DOHC 5M-GE inline-6, flared wheelarches, pop-up lights."
+        },
+        {
+          "series_code": "MA70",
+          "generation_name": "Supra 3rd Gen (A70)",
+          "years": {
+            "start": 1986,
+            "end": 1992
+          },
+          "body_styles": [
+            "Liftback Coupe",
+            "Targa"
+          ],
+          "summary": "3.0L 7M-GE and 7M-GTE Turbo (173kW), TEMS electronic dampers, digital dash."
+        },
+        {
+          "series_code": "JZA80",
+          "generation_name": "Supra 4th Gen (A80)",
+          "years": {
+            "start": 1993,
+            "end": 1996
+          },
+          "body_styles": [
+            "Coupe",
+            "Targa"
+          ],
+          "summary": "Legendary 2JZ-GTE 3.0L Twin-Turbo 243kW, 6-speed Getrag manual, active aero spoiler."
+        },
+        {
+          "series_code": "DB/A90",
+          "generation_name": "GR Supra 5th Gen (A90)",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "BMW B58 3.0L Turbo inline-6 (250kW-285kW), 8-speed auto and 6-speed manual; GT and GTS."
+        }
+      ]
+    },
+    {
+      "model_slug": "mr2",
+      "name": "MR2",
+      "vehicle_type": "Coupe / Roadster",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1987,
+        "end": 2005
+      },
+      "locally_built": false,
+      "overview": "Mid-engine, rear-wheel-drive sports car celebrated for razor-sharp handling across three distinct generations.",
+      "generations": [
+        {
+          "series_code": "AW11",
+          "generation_name": "MR2 1st Gen",
+          "years": {
+            "start": 1987,
+            "end": 1989
+          },
+          "body_styles": [
+            "Coupe",
+            "T-Bar"
+          ],
+          "summary": "Mid-mounted 1.6L 4A-GE Twin Cam, Lotus-assisted suspension tuning, wedge styling."
+        },
+        {
+          "series_code": "SW20",
+          "generation_name": "MR2 2nd Gen",
+          "years": {
+            "start": 1990,
+            "end": 1999
+          },
+          "body_styles": [
+            "Coupe",
+            "T-Bar"
+          ],
+          "summary": "2.0L 3S-GE naturally aspirated (Bathurst trim) and imported 3S-GTE turbo models."
+        },
+        {
+          "series_code": "ZZW30",
+          "generation_name": "MR2 Spyder 3rd Gen",
+          "years": {
+            "start": 2000,
+            "end": 2005
+          },
+          "body_styles": [
+            "Roadster Convertible"
+          ],
+          "summary": "Lightweight 975kg roadster with mid-mounted 1.8L 1ZZ-FE engine and sequential manual."
+        }
+      ]
+    },
+    {
+      "model_slug": "paseo",
+      "name": "Paseo",
+      "vehicle_type": "Coupe",
+      "segment": "Small Sports Car",
+      "years_sold_au": {
+        "start": 1991,
+        "end": 1999
+      },
+      "locally_built": false,
+      "overview": "Compact, affordable coupe based on the Starlet/Tercel platform.",
+      "generations": [
+        {
+          "series_code": "EL44",
+          "generation_name": "Paseo 1st Gen",
+          "years": {
+            "start": 1991,
+            "end": 1995
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "1.5L 5E-FE 74kW engine, front-wheel drive, sporty budget transport."
+        },
+        {
+          "series_code": "EL54",
+          "generation_name": "Paseo 2nd Gen",
+          "years": {
+            "start": 1995,
+            "end": 1999
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "Refreshed aerodynamic styling, 1.5L 5E-FE with improved torque delivery."
+        }
+      ]
+    },
+    {
+      "model_slug": "starlet",
+      "name": "Starlet",
+      "vehicle_type": "Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1996,
+        "end": 1999
+      },
+      "locally_built": false,
+      "overview": "Toyota's entry-level light hatchback in Australia prior to the arrival of the Echo.",
+      "generations": [
+        {
+          "series_code": "EP91",
+          "generation_name": "Starlet 5th Gen",
+          "years": {
+            "start": 1996,
+            "end": 1999
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch"
+          ],
+          "summary": "1.3L 4E-FE 55kW engine; Life, Group, and Style trims."
+        }
+      ]
+    },
+    {
+      "model_slug": "echo",
+      "name": "Echo",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 1999,
+        "end": 2005
+      },
+      "locally_built": false,
+      "overview": "Innovative, space-efficient light car with central digital dashboard, a runaway sales hit.",
+      "generations": [
+        {
+          "series_code": "NCP10/NCP12",
+          "generation_name": "Echo 1st Gen",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "1.3L 2NZ-FE and 1.5L 1NZ-FE (Sportivo) VVT-i engines, upright spacious packaging."
+        }
+      ]
+    },
+    {
+      "model_slug": "yaris",
+      "name": "Yaris",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 2005,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Successor to the Echo and a cornerstone of the Australian light car market, including the rally-bred GR Yaris.",
+      "generations": [
+        {
+          "series_code": "XP90",
+          "generation_name": "Yaris 1st Gen (AU)",
+          "years": {
+            "start": 2005,
+            "end": 2011
+          },
+          "body_styles": [
+            "3-door Hatch",
+            "5-door Hatch",
+            "Sedan"
+          ],
+          "summary": "1.3L 2NZ-FE and 1.5L 1NZ-FE; YR, YRS, and YRX trims."
+        },
+        {
+          "series_code": "XP130",
+          "generation_name": "Yaris 2nd Gen (AU)",
+          "years": {
+            "start": 2011,
+            "end": 2020
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "Sedan"
+          ],
+          "summary": "Sharp modern styling, 1.3L and 1.5L engines; Ascent, SX, and ZR grades."
+        },
+        {
+          "series_code": "XP210",
+          "generation_name": "Yaris 3rd Gen (AU)",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "TNGA-B platform, 1.5L 3-cylinder M15A-FKS petrol and hybrid; GR Yaris 200kW/370Nm AWD."
+        }
+      ]
+    },
+    {
+      "model_slug": "yaris-cross",
+      "name": "Yaris Cross",
+      "vehicle_type": "SUV",
+      "segment": "Light SUV",
+      "years_sold_au": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Subcompact high-riding crossover on the TNGA-B platform, highly popular for fuel-sipping hybrid variants.",
+      "generations": [
+        {
+          "series_code": "XP210-SUV",
+          "generation_name": "Yaris Cross 1st Gen",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.5L 3-cylinder petrol and hybrid 2WD/AWD; GX, GXL, Urban, and GR Sport."
+        }
+      ]
+    },
+    {
+      "model_slug": "prius",
+      "name": "Prius",
+      "vehicle_type": "Liftback / Sedan",
+      "segment": "Small / Medium Hybrid",
+      "years_sold_au": {
+        "start": 2001,
+        "end": 2022
+      },
+      "locally_built": false,
+      "overview": "The pioneer of petrol-electric hybrid motoring in Australia, transforming environmental awareness across fleets and private buyers.",
+      "generations": [
+        {
+          "series_code": "NHW11",
+          "generation_name": "Prius 1st Gen",
+          "years": {
+            "start": 2001,
+            "end": 2003
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "1.5L 1NZ-FXE with Toyota Hybrid System, Australia's first mass-market hybrid car."
+        },
+        {
+          "series_code": "NHW20",
+          "generation_name": "Prius 2nd Gen",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "Liftback"
+          ],
+          "summary": "Iconic aerodynamic kammback liftback silhouette, 1.5L THS-II hybrid, 4.4L/100km."
+        },
+        {
+          "series_code": "ZVW30",
+          "generation_name": "Prius 3rd Gen",
+          "years": {
+            "start": 2009,
+            "end": 2015
+          },
+          "body_styles": [
+            "Liftback"
+          ],
+          "summary": "1.8L 2ZR-FXE Atkinson-cycle hybrid, solar roof panel option, 3.9L/100km."
+        },
+        {
+          "series_code": "ZVW50",
+          "generation_name": "Prius 4th Gen",
+          "years": {
+            "start": 2016,
+            "end": 2022
+          },
+          "body_styles": [
+            "Liftback"
+          ],
+          "summary": "TNGA-K platform, independent rear suspension, 3.4L/100km fuel economy."
+        }
+      ]
+    },
+    {
+      "model_slug": "c-hr",
+      "name": "C-HR",
+      "vehicle_type": "SUV",
+      "segment": "Small SUV",
+      "years_sold_au": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Distinctively styled coupe-crossover offering agile TNGA handling and turbo/hybrid drivetrains.",
+      "generations": [
+        {
+          "series_code": "AX10",
+          "generation_name": "C-HR 1st Gen",
+          "years": {
+            "start": 2017,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.2L turbo 8NR-FTS and 1.8L 2ZR-FXE hybrid; GXL, Koba, and GR Sport grades."
+        },
+        {
+          "series_code": "AX20",
+          "generation_name": "C-HR 2nd Gen",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "European-designed hybrid-only model, 1.8L and 2.0L AWD hybrid powertrains."
+        }
+      ]
+    },
+    {
+      "model_slug": "corolla-cross",
+      "name": "Corolla Cross",
+      "vehicle_type": "SUV",
+      "segment": "Small SUV",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Practical compact SUV slotting between Yaris Cross and RAV4, featuring 5th-generation hybrid technology.",
+      "generations": [
+        {
+          "series_code": "XG10",
+          "generation_name": "Corolla Cross 1st Gen",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L M20A-FKS petrol and 2.0L 5th-gen Hybrid with E-Four AWD; GX, GXL, Atmos."
+        }
+      ]
+    },
+    {
+      "model_slug": "rav4",
+      "name": "RAV4",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 1994,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The pioneer of the monocoque lifestyle SUV market in 1994, now one of Australia's highest-selling passenger vehicles.",
+      "generations": [
+        {
+          "series_code": "XA10",
+          "generation_name": "RAV4 1st Gen",
+          "years": {
+            "start": 1994,
+            "end": 2000
+          },
+          "body_styles": [
+            "3-door SUV",
+            "5-door SUV"
+          ],
+          "summary": "2.0L 3S-FE engine, monocoque chassis with full-time AWD, fun city-to-beach runabout."
+        },
+        {
+          "series_code": "XA20",
+          "generation_name": "RAV4 2nd Gen",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "3-door SUV",
+            "5-door SUV"
+          ],
+          "summary": "2.0L 1AZ-FE and 2.4L 2AZ-FE VVTi engines; Edge, Cruiser, and Extreme grades."
+        },
+        {
+          "series_code": "XA30",
+          "generation_name": "RAV4 3rd Gen",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.4L 4-cylinder and powerful 201kW 3.5L 2GR-FE V6 (CV6, SX6, ZR6)."
+        },
+        {
+          "series_code": "XA40",
+          "generation_name": "RAV4 4th Gen",
+          "years": {
+            "start": 2012,
+            "end": 2019
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L petrol 2WD, 2.5L petrol AWD, and 2.2L turbo-diesel; GX, GXL, Cruiser."
+        },
+        {
+          "series_code": "XA50",
+          "generation_name": "RAV4 5th Gen",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "TNGA-K platform, runaway market success with 2.5L Hybrid e-Four; GX, GXL, Cruiser, Edge."
+        }
+      ]
+    },
+    {
+      "model_slug": "kluger",
+      "name": "Kluger",
+      "vehicle_type": "SUV",
+      "segment": "Large SUV",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Spacious 7-seat family crossover that became Australia's premier car-like family SUV alternative to Ford Territory and Holden Commodore wagons.",
+      "generations": [
+        {
+          "series_code": "MCU28",
+          "generation_name": "Kluger 1st Gen",
+          "years": {
+            "start": 2003,
+            "end": 2007
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "3.3L 3MZ-FE V6, full-time AWD, CV, CVX, and Grande models."
+        },
+        {
+          "series_code": "GSU40/45",
+          "generation_name": "Kluger 2nd Gen",
+          "years": {
+            "start": 2007,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "3.5L 2GR-FE 201kW V6, 2WD and AWD, KX-R, KX-S, and Grande."
+        },
+        {
+          "series_code": "GSU50/55",
+          "generation_name": "Kluger 3rd Gen",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Built in Indiana, USA for Australia; 3.5L direct-injected V6, GX, GXL, Grande."
+        },
+        {
+          "series_code": "GSU60/AXUH78",
+          "generation_name": "Kluger 4th Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "TNGA-K platform, introduces 2.5L Hybrid AWD alongside 2.4L turbo petrol."
+        }
+      ]
+    },
+    {
+      "model_slug": "fortuner",
+      "name": "Fortuner",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Rugged 7-seat 4WD wagon built on the HiLux ladder chassis with coil-spring rear suspension.",
+      "generations": [
+        {
+          "series_code": "AN160",
+          "generation_name": "Fortuner 1st Gen (AU)",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.8L 1GD-FTV turbo-diesel (130kW-150kW), dual-range 4WD, GX, GXL, Crusade."
+        }
+      ]
+    },
+    {
+      "model_slug": "prado",
+      "name": "LandCruiser Prado",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 1996,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Australia's favourite long-range outback touring 4WD, pairing dual fuel tanks and heavy towing capability with daily comfort.",
+      "generations": [
+        {
+          "series_code": "90 Series",
+          "generation_name": "Prado 90 Series",
+          "years": {
+            "start": 1996,
+            "end": 2002
+          },
+          "body_styles": [
+            "3-door Wagon",
+            "5-door Wagon"
+          ],
+          "summary": "3.4L 5VZ-FE V6 and 3.0L 1KZ-TE turbo-diesel; RV, GXL, TX, Grande."
+        },
+        {
+          "series_code": "120 Series",
+          "generation_name": "Prado 120 Series",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "summary": "4.0L 1GR-FE V6 and 3.0L 1KD-FTV D-4D diesel, 180-litre fuel capacity; GX, GXL, VX, Grande."
+        },
+        {
+          "series_code": "150 Series",
+          "generation_name": "Prado 150 Series",
+          "years": {
+            "start": 2009,
+            "end": 2024
+          },
+          "body_styles": [
+            "3-door Wagon",
+            "5-door Wagon"
+          ],
+          "summary": "3.0L 1KD-FTV then 2.8L 1GD-FTV diesel, KDSS suspension; GX, GXL, VX, Kakadu."
+        },
+        {
+          "series_code": "250 Series",
+          "generation_name": "Prado 250 Series",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door Wagon"
+          ],
+          "summary": "TNGA-F platform, 2.8L 1GD-FTV 48V V-Active mild hybrid, 8-speed automatic."
+        }
+      ]
+    },
+    {
+      "model_slug": "landcruiser",
+      "name": "LandCruiser",
+      "vehicle_type": "4WD / Wagon / Cab Chassis",
+      "segment": "Upper Large 4WD",
+      "years_sold_au": {
+        "start": 1958,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The undisputed King of the Australian Outback, an indelible part of national infrastructure, agriculture, mining, and remote exploration.",
+      "generations": [
+        {
+          "series_code": "40 Series",
+          "generation_name": "LandCruiser 40 Series",
+          "years": {
+            "start": 1960,
+            "end": 1984
+          },
+          "body_styles": [
+            "SWB Soft/Hardtop",
+            "Troop Carrier",
+            "Cab Chassis"
+          ],
+          "summary": "F, 2F petrol and B, 2H diesel engines; FJ40, FJ45, BJ42, HJ47; Snowy Mountains legend."
+        },
+        {
+          "series_code": "55 Series",
+          "generation_name": "LandCruiser 55 Series",
+          "years": {
+            "start": 1969,
+            "end": 1980
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "summary": "'Iron Pig' wagon, 3.9L F and 4.2L 2F inline-6 petrol engines, first dedicated comfort wagon."
+        },
+        {
+          "series_code": "60 Series",
+          "generation_name": "LandCruiser 60 Series",
+          "years": {
+            "start": 1980,
+            "end": 1990
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "summary": "2H 4.0L diesel, 12H-T turbo-diesel, 2F/3F petrol; introduced Sahara luxury grade."
+        },
+        {
+          "series_code": "70 Series",
+          "generation_name": "LandCruiser 70 Series",
+          "years": {
+            "start": 1984,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single Cab",
+            "Double Cab",
+            "Troop Carrier",
+            "Wagon"
+          ],
+          "summary": "Heavy-duty icon: HZJ75, HDJ79, VDJ79 4.5L V8 turbo-diesel, and 2024 GDJ79 2.8L 4-cyl."
+        },
+        {
+          "series_code": "80 Series",
+          "generation_name": "LandCruiser 80 Series",
+          "years": {
+            "start": 1990,
+            "end": 1998
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "summary": "All-coil suspension revolution; 1HZ 4.2L diesel, 1HD-T turbo-diesel, 1FZ-FE 4.5L twin-cam; GXL, Sahara."
+        },
+        {
+          "series_code": "100/105 Series",
+          "generation_name": "LandCruiser 100/105 Series",
+          "years": {
+            "start": 1998,
+            "end": 2007
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "summary": "IFS 100 series (4.7L 2UZ-FE V8, 4.2L 1HD-FTE turbo-diesel) and live-axle 105 series (1HZ, 1FZ-FE)."
+        },
+        {
+          "series_code": "200 Series",
+          "generation_name": "LandCruiser 200 Series",
+          "years": {
+            "start": 2007,
+            "end": 2021
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "summary": "4.5L 1VD-FTV Twin-Turbo V8 diesel (200kW/650Nm) and 4.6L/4.7L petrol V8; GX, GXL, VX, Sahara."
+        },
+        {
+          "series_code": "300 Series",
+          "generation_name": "LandCruiser 300 Series",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Station Wagon"
+          ],
+          "summary": "TNGA-F platform, 3.3L F33A-FTV Twin-Turbo V6 diesel 227kW/700Nm, 10-speed auto; GR Sport, Sahara ZX."
+        }
+      ]
+    },
+    {
+      "model_slug": "fj-cruiser",
+      "name": "FJ Cruiser",
+      "vehicle_type": "SUV",
+      "segment": "Large 4WD SUV",
+      "years_sold_au": {
+        "start": 2011,
+        "end": 2016
+      },
+      "locally_built": false,
+      "overview": "Retro-styled homage to the iconic FJ40 LandCruiser, featuring suicide rear doors and serious off-road capability.",
+      "generations": [
+        {
+          "series_code": "GSJ15",
+          "generation_name": "FJ Cruiser",
+          "years": {
+            "start": 2011,
+            "end": 2016
+          },
+          "body_styles": [
+            "5-door SUV (Suicide doors)"
+          ],
+          "summary": "4.0L 1GR-FE V6 200kW, part-time 4WD, rear differential lock, active traction control."
+        }
+      ]
+    },
+    {
+      "model_slug": "hilux",
+      "name": "HiLux",
+      "vehicle_type": "Ute / Cab Chassis",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1968,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Australia's top-selling vehicle for seven consecutive years, an unstoppable workhorse from job sites to remote stations.",
+      "generations": [
+        {
+          "series_code": "RN10",
+          "generation_name": "HiLux 1st Gen",
+          "years": {
+            "start": 1968,
+            "end": 1972
+          },
+          "body_styles": [
+            "Single Cab Ute"
+          ],
+          "summary": "1.5L 2R engine, 4-speed column shift, payload capacity 1 ton."
+        },
+        {
+          "series_code": "RN20",
+          "generation_name": "HiLux 2nd Gen",
+          "years": {
+            "start": 1972,
+            "end": 1978
+          },
+          "body_styles": [
+            "Single Cab Ute"
+          ],
+          "summary": "1.6L 12R and 2.0L 18R engines, longer cargo bed options."
+        },
+        {
+          "series_code": "RN30/LN40",
+          "generation_name": "HiLux 3rd Gen",
+          "years": {
+            "start": 1978,
+            "end": 1983
+          },
+          "body_styles": [
+            "Single Cab",
+            "Dual Cab"
+          ],
+          "summary": "Introduced factory 4WD and 2.2L L-series diesel engine; pioneer of the family dual-cab ute."
+        },
+        {
+          "series_code": "LN65/YN65",
+          "generation_name": "HiLux 4th Gen",
+          "years": {
+            "start": 1983,
+            "end": 1988
+          },
+          "body_styles": [
+            "Single Cab",
+            "Xtra Cab",
+            "Dual Cab"
+          ],
+          "summary": "Solid beam axles front and rear, 2.4L 2L diesel and 4Y petrol engines; rugged legend."
+        },
+        {
+          "series_code": "LN106/RN105",
+          "generation_name": "HiLux 5th Gen",
+          "years": {
+            "start": 1988,
+            "end": 1997
+          },
+          "body_styles": [
+            "Single Cab",
+            "Xtra Cab",
+            "Dual Cab"
+          ],
+          "summary": "2.8L 3L diesel and 2.4L 22R petrol, leaf-sprung beam axles, unbreakable reputation."
+        },
+        {
+          "series_code": "KZN165/RZN149",
+          "generation_name": "HiLux 6th Gen",
+          "years": {
+            "start": 1997,
+            "end": 2005
+          },
+          "body_styles": [
+            "Single Cab",
+            "Xtra Cab",
+            "Dual Cab"
+          ],
+          "summary": "IFS front suspension, 3.0L 1KZ-TE turbo-diesel and 3.4L 5VZ-FE V6; SR5 badge established."
+        },
+        {
+          "series_code": "KUN26/GGN25",
+          "generation_name": "HiLux 7th Gen",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "Single Cab",
+            "Extra Cab",
+            "Double Cab"
+          ],
+          "summary": "3.0L 1KD-FTV D-4D common-rail diesel and 4.0L 1GR-FE V6; TRD supercharged 225kW model."
+        },
+        {
+          "series_code": "N80/GUN126",
+          "generation_name": "HiLux 8th Gen",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Single Cab",
+            "Extra Cab",
+            "Double Cab"
+          ],
+          "summary": "2.8L 1GD-FTV turbo-diesel, WorkMate, SR, SR5, Rogue, Rugged X, and wide-track GR Sport."
+        }
+      ]
+    },
+    {
+      "model_slug": "stout",
+      "name": "Stout",
+      "vehicle_type": "Ute / Light Truck",
+      "segment": "Light Commercial",
+      "years_sold_au": {
+        "start": 1964,
+        "end": 1979
+      },
+      "locally_built": false,
+      "overview": "Heavy-duty commercial utility predating and overlapping early HiLux models, revered by Australian farmers.",
+      "generations": [
+        {
+          "series_code": "RK41/RK101",
+          "generation_name": "Stout 2nd Gen",
+          "years": {
+            "start": 1964,
+            "end": 1979
+          },
+          "body_styles": [
+            "Cab Chassis",
+            "Single Cab Ute"
+          ],
+          "summary": "1.9L 3R and 2.0L 5R engines, rugged solid chassis, 1.5-ton load carrying capability."
+        }
+      ]
+    },
+    {
+      "model_slug": "lexcen",
+      "name": "Lexcen",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Large Car",
+      "years_sold_au": {
+        "start": 1989,
+        "end": 1997
+      },
+      "locally_built": true,
+      "overview": "Holden Commodore rebadged as a Toyota under the Button Plan joint venture (UAAI), built at Holden's Elizabeth plant.",
+      "generations": [
+        {
+          "series_code": "VN",
+          "generation_name": "Lexcen VN",
+          "years": {
+            "start": 1989,
+            "end": 1991
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "3.8L Buick V6, unique Toyota grille and badging; CSi, GLX, Newport."
+        },
+        {
+          "series_code": "VP",
+          "generation_name": "Lexcen VP",
+          "years": {
+            "start": 1991,
+            "end": 1993
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "IRS rear suspension available, CSi and Newport grades."
+        },
+        {
+          "series_code": "VR",
+          "generation_name": "Lexcen VR",
+          "years": {
+            "start": 1993,
+            "end": 1995
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "Driver airbag introduced, CSi, GLX, and Newport trims."
+        },
+        {
+          "series_code": "VS",
+          "generation_name": "Lexcen VS",
+          "years": {
+            "start": 1995,
+            "end": 1997
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "summary": "3.8L ECOTEC V6 engine 147kW, final model before UAAI venture dissolved."
+        }
+      ]
+    },
+    {
+      "model_slug": "tarago",
+      "name": "Tarago",
+      "vehicle_type": "People Mover",
+      "segment": "Van / People Mover",
+      "years_sold_au": {
+        "start": 1983,
+        "end": 2019
+      },
+      "locally_built": false,
+      "overview": "Australia's definitive family people mover for over three decades across four generations.",
+      "generations": [
+        {
+          "series_code": "YR22/CR21",
+          "generation_name": "Tarago 1st Gen",
+          "years": {
+            "start": 1983,
+            "end": 1990
+          },
+          "body_styles": [
+            "Van / People Mover"
+          ],
+          "summary": "Cab-over design, 2.0L 3Y and 2.2L 4Y engines, 4WD versions available; DX and GL."
+        },
+        {
+          "series_code": "TCR10/11",
+          "generation_name": "Tarago 2nd Gen ('Egg')",
+          "years": {
+            "start": 1990,
+            "end": 2000
+          },
+          "body_styles": [
+            "People Mover"
+          ],
+          "summary": "Futuristic mid-engine layout, 2.4L 2TZ-FE, GLi, GLX, and luxury Ultima."
+        },
+        {
+          "series_code": "ACR30/CLR30",
+          "generation_name": "Tarago 3rd Gen",
+          "years": {
+            "start": 2000,
+            "end": 2006
+          },
+          "body_styles": [
+            "People Mover"
+          ],
+          "summary": "Front-engine FWD platform, 2.4L 2AZ-FE VVTi, sliding dual doors."
+        },
+        {
+          "series_code": "ACR50/GSR50",
+          "generation_name": "Tarago 4th Gen",
+          "years": {
+            "start": 2006,
+            "end": 2019
+          },
+          "body_styles": [
+            "People Mover"
+          ],
+          "summary": "2.4L 4-cyl and 3.5L 2GR-FE V6 202kW; succeeded by Granvia in 2019."
+        }
+      ]
+    },
+    {
+      "model_slug": "hiace",
+      "name": "HiAce",
+      "vehicle_type": "Van / Commuter Bus",
+      "segment": "Commercial Van",
+      "years_sold_au": {
+        "start": 1971,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The ubiquitous Australian tradie, delivery, and camper van, legendary for million-kilometre reliability.",
+      "generations": [
+        {
+          "series_code": "H10",
+          "generation_name": "HiAce 1st Gen",
+          "years": {
+            "start": 1971,
+            "end": 1977
+          },
+          "body_styles": [
+            "Van",
+            "Commuter"
+          ],
+          "summary": "1.3L and 1.6L engines, cab-over commercial layout."
+        },
+        {
+          "series_code": "H20-H40",
+          "generation_name": "HiAce 2nd Gen",
+          "years": {
+            "start": 1977,
+            "end": 1982
+          },
+          "body_styles": [
+            "Van",
+            "Commuter"
+          ],
+          "summary": "1.6L 12R and 2.0L 18R petrol, first 2.2L L-series diesel models."
+        },
+        {
+          "series_code": "H50",
+          "generation_name": "HiAce 3rd Gen",
+          "years": {
+            "start": 1982,
+            "end": 1989
+          },
+          "body_styles": [
+            "Van",
+            "Commuter"
+          ],
+          "summary": "2.0L 3Y, 2.4L 2L diesel, wide-body and high-roof commuter bus variants."
+        },
+        {
+          "series_code": "H100",
+          "generation_name": "HiAce 4th Gen",
+          "years": {
+            "start": 1989,
+            "end": 2004
+          },
+          "body_styles": [
+            "Van",
+            "Commuter"
+          ],
+          "summary": "2.4L 2RZ-E, 2.8L 3L, and 3.0L 5L diesel; SBV semi-bonnet version 1995-2003."
+        },
+        {
+          "series_code": "H200",
+          "generation_name": "HiAce 5th Gen",
+          "years": {
+            "start": 2004,
+            "end": 2019
+          },
+          "body_styles": [
+            "LWB Van",
+            "SLWB Van",
+            "Commuter"
+          ],
+          "summary": "3.0L 1KD-FTV turbo-diesel and 2.7L 2TR-FE petrol; dominant delivery vehicle."
+        },
+        {
+          "series_code": "H300",
+          "generation_name": "HiAce 6th Gen",
+          "years": {
+            "start": 2019,
+            "end": "Present"
+          },
+          "body_styles": [
+            "LWB Van",
+            "SLWB Van",
+            "Commuter"
+          ],
+          "summary": "Semi-bonnet configuration for 5-star ANCAP safety, 2.8L 1GD-FTV turbo-diesel."
+        }
+      ]
+    },
+    {
+      "model_slug": "86",
+      "name": "86 / GR86",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2012,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Lightweight, rear-wheel-drive sports coupe developed in partnership with Subaru, spiritual successor to the AE86 Sprinter.",
+      "generations": [
+        {
+          "series_code": "ZN6",
+          "generation_name": "86 1st Gen",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "2.0L FA20 boxer engine 147kW/152kW with D-4S injection, 6-speed manual/auto; GT and GTS."
+        },
+        {
+          "series_code": "ZN8",
+          "generation_name": "GR86 2nd Gen",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "Gazoo Racing tuned 2.4L FA24 boxer 174kW/250Nm, stiffer chassis; GT and GTS."
+        }
+      ]
+    },
+    {
+      "model_slug": "86-gr86",
+      "name": "86 / GR86",
+      "vehicle_type": "Sports Coupe",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2012,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The Toyota 86 and GR86 re-energized accessible rear-wheel-drive sports motoring in Australia. Developed jointly with Subaru (who built the cars at the Gunma Main Plant), the 86 com",
+      "generations": [
+        {
+          "series_code": "ZN6",
+          "generation_name": "86 1st Generation",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "summary": "Original lightweight rear-drive sports coupe featuring Subaru's FA20 flat-four with Toyota D-4S direct and port injectio"
+        },
+        {
+          "series_code": "ZN8",
+          "generation_name": "GR86 2nd Generation",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door Coupe"
+          ],
+          "summary": "Gazoo Racing developed second-generation coupe with larger 2.4L FA24 boxer engine delivering 174kW and 250Nm, curing the"
+        }
+      ]
+    }
+  ]
+}

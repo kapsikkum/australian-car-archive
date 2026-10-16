@@ -1,0 +1,214 @@
+{
+  "make_slug": "kia",
+  "model_slug": "stinger",
+  "name": "Stinger",
+  "vehicle_type": "Sports Fastback Liftback",
+  "segment": "Large Sports Sedan",
+  "years_sold_au": {
+    "start": 2017,
+    "end": "2023"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Kia Stinger arrived in Australia in late 2017 just as Holden and Ford ceased local manufacturing, instantly becoming the spiritual successor to the rear-wheel-drive Falcon and Commodore. Powered by a 272kW twin-turbo V6, it was adopted by Australian police forces as a high-speed pursuit interceptor.",
+  "australian_market_notes": "Engineered under Albert Biermann and tuned extensively by Kia Australia's suspension team on regional Australian roads, the Stinger GT won praise for incredible highway overtaking thrust and rear-drive balance. The Queensland Police Service (QPS) and Northern Territory Police selected the 3.3L twin-turbo V6 Stinger as their primary highway patrol vehicles.",
+  "manuals": [
+    {
+      "title": "Kia Stinger Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2017,
+      "language": "en",
+      "source_url": "local://catalog/makes/kia/models/stinger/model.json",
+      "local_path": "media/manuals/kia/stinger/kia_stinger_au_technical_manual.pdf",
+      "file_size_bytes": 3259,
+      "sha256": "57f01f37304dfe25c8fa483fb49e46dc5b0dbff414626d75da108fc5cea85bb9",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Kia Stinger in Taiwan",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kia_Stinger_001.jpg/1280px-Kia_Stinger_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Jengtingchen)",
+      "local_path": "media/pictures/kia/stinger/kia_stinger_hero_1_Kia_Stinger_001.jpg",
+      "file_size_bytes": 407956,
+      "sha256": "4006b8e1fc74b99d77bffa2979dfd823cc128aaa031436900318bfe21a867d9a"
+    },
+    {
+      "category": "exterior",
+      "caption": "Kia Stinger in Taiwan",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kia_Stinger_002.jpg/1280px-Kia_Stinger_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Jengtingchen)",
+      "local_path": "media/pictures/kia/stinger/kia_stinger_hero_2_Kia_Stinger_002.jpg",
+      "file_size_bytes": 326418,
+      "sha256": "1912f5a49170f8f5d0a14c207bc47fa09e0e9dac9670d867df57f8813aaf80c2"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "CK",
+      "generation_name": "Stinger 1st Generation",
+      "years": {
+        "start": 2017,
+        "end": "2023"
+      },
+      "body_styles": [
+        "5-door Liftback Fastback"
+      ],
+      "platform": "Hyundai-Kia M2",
+      "ancap_rating": "5 Stars",
+      "summary": "Rear-wheel-drive grand tourer featuring the 272kW 3.3L Twin-Turbo Lambda II V6, mechanical limited-slip differential, Brembo brakes, and Australian police highway patrol duty.",
+      "engines": [
+        {
+          "engine_code": "G4KL",
+          "name": "Kia Theta II 2.0L Turbo",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Twin-Scroll Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 182.0,
+          "power_rpm": "6200",
+          "torque_nm": 353.0,
+          "torque_rpm": "1400-4000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve Dual CVVT Direct Injection",
+          "notes": "Fitted to 200S and GT-Line models."
+        },
+        {
+          "engine_code": "G6DP",
+          "name": "Kia Lambda II 3.3L Twin-Turbo V6",
+          "displacement_cc": 3342,
+          "displacement_litres": 3.3,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Twin-Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 272.0,
+          "power_rpm": "6000",
+          "torque_nm": 510.0,
+          "torque_rpm": "1300-4500",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve Dual CVVT Direct Injection",
+          "notes": "272kW and 510Nm (upgraded to 274kW with factory bi-modal variable exhaust in 2021); 0-100 km/h in 4.9 seconds."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "330S",
+          "years": {
+            "start": 2017,
+            "end": "2023"
+          },
+          "body_styles": [
+            "5-door Fastback"
+          ],
+          "drivetrain": "Rear-Wheel Drive (RWD) with LSD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 48990,
+          "msrp_aud_max": 53500,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1780,
+          "standard_features": [
+            "3.3L Twin-Turbo V6 (272kW)",
+            "Brembo 4-piston front / 2-piston rear performance brakes",
+            "Mechanical Limited Slip Differential (LSD)",
+            "18-inch alloy wheels",
+            "Autonomous Emergency Braking (AEB)",
+            "7-inch touchscreen audio"
+          ],
+          "notes": "Budget muscle car; foundation vehicle for Australian police fleets."
+        },
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2017,
+            "end": "2023"
+          },
+          "body_styles": [
+            "5-door Fastback"
+          ],
+          "drivetrain": "Rear-Wheel Drive (RWD) with LSD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 59990,
+          "msrp_aud_max": 64990,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1834,
+          "standard_features": [
+            "Electronically Controlled Suspension (ECS)",
+            "Brembo brakes",
+            "Mechanical LSD",
+            "Nappa leather heated and ventilated sports seats",
+            "15-speaker harman/kardon audio",
+            "Head-up display",
+            "19-inch alloy wheels with Michelin Pilot Sport 4 tyres",
+            "Factory active bi-modal variable exhaust"
+          ],
+          "notes": "The defining Korean sports sedan in Australia."
+        },
+        {
+          "badge_name": "Tribute Edition",
+          "years": {
+            "start": 2023,
+            "end": "2023"
+          },
+          "body_styles": [
+            "5-door Fastback"
+          ],
+          "drivetrain": "Rear-Wheel Drive (RWD) with LSD",
+          "transmissions": [
+            "8-speed automatic"
+          ],
+          "msrp_aud_min": 70390,
+          "msrp_aud_max": 70390,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1834,
+          "standard_features": [
+            "Moonscape matte grey paint option",
+            "Terracotta brown Nappa leather upholstery",
+            "Carbon-finish interior trim",
+            "Numbered door sill plates (#1-1000 worldwide)",
+            "Brembo black brake calipers"
+          ],
+          "notes": "Celebrated the farewell of the Stinger; final model run."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GT 3.3L Twin-Turbo V6",
+          "body_style": "5-door Fastback",
+          "engine_code": "G6DP",
+          "transmission": "8-speed automatic",
+          "drivetrain": "RWD with LSD",
+          "years_start": 2017,
+          "years_end": "2023",
+          "msrp_aud": 63290,
+          "power_kw": 274.0,
+          "torque_nm": 510.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1500,
+          "notes": "Stinger GT V6 with factory bi-modal exhaust."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "CK",
+          "category": "exterior",
+          "caption": "Kia Stinger (CK) Washington DC, USA",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kia_Stinger_%28CK%29_Washington_DC_Metro_Area%2C_USA.jpg/1280px-Kia_Stinger_%28CK%29_Washington_DC_Metro_Area%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 4.0 (OWS Photography)",
+          "local_path": "media/pictures/kia/stinger/kia_stinger_CK_1_Kia_Stinger_CK_Washington_DC_Metro_Area_USA.jpg",
+          "file_size_bytes": 279001,
+          "sha256": "2f86587542a09be305a8436cf237785d82e6677ec3d7e661d8b3b91f40b0f48c"
+        }
+      ]
+    }
+  ]
+}

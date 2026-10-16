@@ -1,0 +1,215 @@
+{
+  "make_slug": "byd",
+  "model_slug": "shark-6-atto-3",
+  "name": "Shark 6 / Atto 3 / Seal",
+  "vehicle_type": "Ute / SUV / Sedan",
+  "segment": "Electric & Plug-in Hybrid Pioneers",
+  "years_sold_au": {
+    "start": 2022,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The trio of game-changing vehicles that propelled BYD to electric and hybrid leadership in Australia: the Atto 3 compact SUV, the Seal sports sedan, and the groundbreaking Shark 6 plug-in hybrid dual-cab ute with 321kW.",
+  "australian_market_notes": "Distributed in Australia by EVDirect. The Atto 3 established BYD's brand recognition in 2022. In late 2024, the Shark 6 dual-cab ute made its global right-hand drive debut in Australia, following thousands of kilometres of rigorous local suspension tuning and torture testing across regional Australia.",
+  "manuals": [
+    {
+      "title": "Byd Shark 6 / Atto 3 / Seal Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2022,
+      "language": "en",
+      "source_url": "local://catalog/makes/byd/models/shark-6-atto-3/model.json",
+      "local_path": "media/manuals/byd/shark-6-atto-3/byd_shark-6-atto-3_au_technical_manual.pdf",
+      "file_size_bytes": 3755,
+      "sha256": "6c62268050f1069660427809996af724fcbff8fbcd7deff4de9a7dc775f05803",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "BYD Atto 3 in Stuttgart-Vaihingen",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/BYD_Atto_3_1X7A6494.jpg/1280px-BYD_Atto_3_1X7A6494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+      "local_path": "media/pictures/byd/shark-6-atto-3/byd_shark-6-atto-3_hero_BYD_Atto_3_1X7A6494.jpg.jpg",
+      "file_size_bytes": 273829,
+      "sha256": "a128790a16b95faf9f0f17804fa40a5ec9388c19783706968baaf1f114a1c2aa"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Atto-3",
+      "generation_name": "Atto 3 Electric SUV",
+      "years": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "BYD e-Platform 3.0",
+      "ancap_rating": "5 stars",
+      "summary": "Compact electric crossover with Blade Battery cell-to-pack technology, gym-inspired interior, guitar string door pockets, and rotating 12.8/15.6-inch touchscreen.",
+      "engines": [
+        {
+          "engine_code": "BYD-TZ200XSQ",
+          "name": "150kW Front Electric Motor",
+          "displacement_cc": 0,
+          "displacement_litres": 0.0,
+          "cylinders": 0,
+          "configuration": "Single Electric Motor",
+          "aspiration": "Electric",
+          "fuel_type": "Electric",
+          "power_kw": 150,
+          "power_rpm": "Electric",
+          "torque_nm": 310,
+          "torque_rpm": "0-4620",
+          "compression_ratio": "N/A",
+          "valvetrain": "N/A",
+          "notes": "Paired with 49.9kWh (Standard) or 60.5kWh (Extended) Blade Battery."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Extended Range",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "Single-speed reduction gear"
+          ],
+          "msrp_aud_min": 47490,
+          "msrp_aud_max": 51011,
+          "fuel_consumption_l_100km": 0.0,
+          "kerb_weight_kg": 1750,
+          "standard_features": [
+            "60.5kWh Blade Battery",
+            "15.6-inch rotating touchscreen",
+            "Panoramic sunroof",
+            "Wireless phone charger",
+            "Vehicle-to-Load (V2L) adapter",
+            "360-degree camera"
+          ],
+          "notes": "420km WLTP driving range."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Extended Range",
+          "body_style": "5-door SUV",
+          "engine_code": "BYD-TZ200XSQ",
+          "transmission": "Single-speed reduction gear",
+          "drivetrain": "FWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 47490,
+          "power_kw": 150,
+          "torque_nm": 310,
+          "fuel_l_100km": 0.0,
+          "towing_braked_kg": 750,
+          "notes": "60.5kWh LFP Blade battery."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "Atto-3",
+          "category": "exterior",
+          "caption": "BYD Atto 3 in Stuttgart-Vaihingen",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/BYD_Atto_3_1X7A6494.jpg/1280px-BYD_Atto_3_1X7A6494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander Migl)",
+          "local_path": "media/pictures/byd/shark-6-atto-3/byd_shark-6-atto-3_Atto-3_BYD_Atto_3_1X7A6494.jpg.jpg",
+          "file_size_bytes": 273829,
+          "sha256": "a128790a16b95faf9f0f17804fa40a5ec9388c19783706968baaf1f114a1c2aa"
+        }
+      ]
+    },
+    {
+      "series_code": "Shark-6",
+      "generation_name": "Shark 6 DMO Super Hybrid Ute",
+      "years": {
+        "start": 2024,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Dual-cab ute"
+      ],
+      "platform": "BYD DMO (Dual Mode Off-Road) Super Hybrid",
+      "ancap_rating": "5 stars (Targeted)",
+      "summary": "Australia's first mass-market plug-in hybrid dual-cab ute; ladder-frame with cell-to-chassis Blade Battery, 1.5L Turbo petrol + front/rear electric motors producing 321kW and 650Nm, independent rear coil suspension, and 2,500kg braked towing.",
+      "engines": [
+        {
+          "engine_code": "BYD476ZQC + Dual Motors",
+          "name": "1.5L Turbo + Dual Electric Motors (DMO)",
+          "displacement_cc": 1498,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4 + Dual Motors",
+          "aspiration": "Turbocharged + Dual Electric",
+          "fuel_type": "Plug-in Hybrid (Petrol / Electric)",
+          "power_kw": 321,
+          "power_rpm": "Combined",
+          "torque_nm": 650,
+          "torque_rpm": "Combined",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "DOHC 16-valve, Miller cycle",
+          "notes": "Front motor (170kW/310Nm), rear motor (150kW/340Nm), 1.5L turbo petrol generator/drive engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Premium AWD",
+          "years": {
+            "start": 2024,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual-cab ute"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "Dedicated Hybrid Transmission (E-CVT)"
+          ],
+          "msrp_aud_min": 57900,
+          "msrp_aud_max": 60900,
+          "fuel_consumption_l_100km": 2.0,
+          "kerb_weight_kg": 2710,
+          "standard_features": [
+            "29.58kWh Blade Battery pack",
+            "100km pure EV range",
+            "Over 800km total range",
+            "15.6-inch rotating screen",
+            "Head-up display",
+            "Heated and ventilated seats",
+            "V2L vehicle-to-load 6kW power outlets in tub"
+          ],
+          "notes": "0-100 km/h in 5.7 seconds; tested specifically on Australian corrugations."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Premium AWD",
+          "body_style": "Dual-cab ute",
+          "engine_code": "BYD476ZQC + Dual Motors",
+          "transmission": "E-CVT",
+          "drivetrain": "AWD",
+          "years_start": 2024,
+          "years_end": "Present",
+          "msrp_aud": 57900,
+          "power_kw": 321,
+          "torque_nm": 650,
+          "fuel_l_100km": 2.0,
+          "towing_braked_kg": 2500,
+          "notes": "321kW dual electric motor plug-in hybrid utility."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

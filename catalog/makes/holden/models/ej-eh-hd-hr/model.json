@@ -1,0 +1,689 @@
+{
+  "make_slug": "holden",
+  "model_slug": "ej-eh-hd-hr",
+  "name": "Holden EJ / EH / HD / HR",
+  "vehicle_type": "Sedan / Station Sedan / Utility / Panel Van",
+  "segment": "Large",
+  "years_sold_au": {
+    "start": 1962,
+    "end": 1968
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Dandenong, Victoria",
+    "Elizabeth, South Australia",
+    "Woodville, South Australia",
+    "Pagewood, New South Wales",
+    "Acacia Ridge, Queensland",
+    "Mosman Park, Western Australia"
+  ],
+  "overview": "The 1962-1968 era represents the golden age of 1960s Holden dominance. The July 1962 EJ introduced clean, modern European-inspired styling, the milestone 1,000,000th Holden produced, and the prestigious Premier luxury model with standard automatic, leather bucket seats, and metallic paint. In August 1963, the legendary EH debuted Holden's all-new, world-class 'Red Motor' inline-six—featuring a 7-bearing crankshaft, hydraulic lifters, and 149ci (2.4L) and 179ci (2.9L) capacities. The EH became Australia's fastest-selling car ever, selling over 250,000 units in 18 months and claiming podium fame at Mount Panorama with the EH S4 Bathurst homologation special. The 1965 HD brought wider passenger accommodations and the twin-carburettor X2 engine, while the April 1966 HR resolved styling with crisp modern lines, front disc brakes, wider track, and the 186S engine with twin-barrel Bendix-Stromberg WW carburettor.",
+  "australian_market_notes": "The introduction of the Red Motor in the EH transformed Holden's engineering standing worldwide, vastly outclassing Ford's Falcon sixes in thermal endurance and high-speed reliability. In 1966, the HR series pioneered critical Australian safety engineering with front lap-sash seatbelt mountings, padded dash, shatter-resistant mirror, and front disc brakes as an option (standard on Premier). Over 1,020,000 units were produced across the EJ, EH, HD, and HR models.",
+  "manuals": [
+    {
+      "title": "Holden Holden EJ / EH / HD / HR Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1962,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/ej-eh-hd-hr/model.json",
+      "local_path": "media/manuals/holden/ej-eh-hd-hr/holden_ej-eh-hd-hr_au_technical_manual.pdf",
+      "file_size_bytes": 8524,
+      "sha256": "811ed5d7c5957072b82616307d5c6b2daa237de556d2e1baf81c099d30990a3f",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Holden EH Sedan Canberra Car Show",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Holden_EH_Sedan_Canberra_Car_Show-01_%285660177494%29.jpg/1280px-Holden_EH_Sedan_Canberra_Car_Show-01_%285660177494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.0 (Sheba_Also 43,000 photos)",
+      "local_path": "media/pictures/holden/ej-eh-hd-hr/holden_ej-eh-hd-hr_hero_Holden_EH_Sedan_Canberra_Car_Show-01_5660177494_.jpg.jpg",
+      "file_size_bytes": 354666,
+      "sha256": "52c6e3a06879a0b25f5fe99a9479d21d0a5a43ec242e36f614a8e2b90fb25abf"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "EJ",
+      "generation_name": "EJ Series",
+      "years": {
+        "start": 1962,
+        "end": 1963
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H fourth generation unibody",
+      "ancap_rating": null,
+      "summary": "Lower, squarer modern styling, marked the 1,000,000th Holden built, and introduced the luxurious Premier nameplate. Final application of the Grey motor.",
+      "engines": [
+        {
+          "engine_code": "Grey-138-EJ",
+          "name": "Holden Grey 138ci (2.26L) OHV Inline-6",
+          "displacement_cc": 2262,
+          "displacement_litres": 2.26,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 56.0,
+          "power_rpm": "4200",
+          "torque_nm": 163.0,
+          "torque_rpm": "1400",
+          "compression_ratio": "7.25:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Final production version of the venerable Grey motor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "EJ Special",
+          "years": {
+            "start": 1962,
+            "end": 1963
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "3-speed Hydra-Matic automatic"
+          ],
+          "msrp_aud_min": 2100,
+          "msrp_aud_max": 2340,
+          "fuel_consumption_l_100km": 10.3,
+          "kerb_weight_kg": 1140,
+          "standard_features": [
+            "Two-tone acrylic lacquer finish",
+            "Duo-servo drum brakes",
+            "Front vent windows",
+            "Magic-Mirror exterior finish"
+          ],
+          "notes": "Mainstream model EJ-225."
+        },
+        {
+          "badge_name": "EJ Premier",
+          "years": {
+            "start": 1962,
+            "end": 1963
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed Hydra-Matic automatic"
+          ],
+          "msrp_aud_min": 2700,
+          "msrp_aud_max": 2850,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Standard Hydra-Matic transmission",
+            "Individual Howe leather front bucket seats",
+            "Center console and heater/demister",
+            "Whitewall tires and gold exterior badging"
+          ],
+          "notes": "The birth of the prestigious Holden Premier luxury badge."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "EJ Premier",
+          "body_style": "Sedan",
+          "engine_code": "Grey-138-EJ",
+          "transmission": "3-speed Hydra-Matic automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 2700,
+          "power_kw": 56.0,
+          "torque_nm": 163.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 850,
+          "notes": "Inaugural Holden Premier luxury flagship."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "EJ",
+          "category": "exterior",
+          "caption": "1963 Holden EJ Premier sedan, photographed in Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/1963_Holden_EJ_Premier_sedan_01.jpg/1280px-1963_Holden_EJ_Premier_sedan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Chris Keating from Melbourne, Victoria, Australia.)",
+          "local_path": "media/pictures/holden/ej-eh-hd-hr/holden_ej-eh-hd-hr_EJ_1963_Holden_EJ_Premier_sedan_01.jpg.jpg",
+          "file_size_bytes": 337292,
+          "sha256": "64dd394c6fba4a5db8b611ec280509b57099aa7828e94d312c2e9b118367f3cc"
+        }
+      ]
+    },
+    {
+      "series_code": "EH",
+      "generation_name": "EH Series",
+      "years": {
+        "start": 1963,
+        "end": 1965
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H fourth generation unibody",
+      "ancap_rating": null,
+      "summary": "Historic launch of the 7-bearing Red Motor (149ci & 179ci). Re-profiled roofline, square rear boot and tail lights. Fastest selling car in Australian history with 256,959 units sold.",
+      "engines": [
+        {
+          "engine_code": "Red-149",
+          "name": "Holden Red 149ci (2.4L) OHV Inline-6",
+          "displacement_cc": 2442,
+          "displacement_litres": 2.4,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 75.0,
+          "power_rpm": "4400",
+          "torque_nm": 197.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "7-bearing crankshaft, hydraulic valve lifters, 100 bhp output."
+        },
+        {
+          "engine_code": "Red-179",
+          "name": "Holden Red 179ci (2.9L) OHV Inline-6",
+          "displacement_cc": 2934,
+          "displacement_litres": 2.9,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 86.0,
+          "power_rpm": "4000",
+          "torque_nm": 237.0,
+          "torque_rpm": "1600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "115 bhp output with 175 lb-ft of torque; standard on Premier, optional on Special."
+        },
+        {
+          "engine_code": "Red-179-S4",
+          "name": "Holden Red 179ci S4 Competition Inline-6",
+          "displacement_cc": 2934,
+          "displacement_litres": 2.9,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 89.0,
+          "power_rpm": "4400",
+          "torque_nm": 245.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Homologation special for Armstrong 500 at Bathurst. Reinforced clutch, metal brake linings, larger fuel tank."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "EH Special",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "Hydra-Matic 3-speed automatic"
+          ],
+          "msrp_aud_min": 2150,
+          "msrp_aud_max": 2420,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1150,
+          "standard_features": [
+            "Red 149 standard (Red 179 optional)",
+            "Clean squared roof and boot styling",
+            "Bench front seating",
+            "Magic-Mirror acrylic exterior lacquer"
+          ],
+          "notes": "Heart of the Australian car market in the mid-1960s."
+        },
+        {
+          "badge_name": "EH Premier",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Hydra-Matic 3-speed automatic"
+          ],
+          "msrp_aud_min": 2780,
+          "msrp_aud_max": 2950,
+          "fuel_consumption_l_100km": 11.2,
+          "kerb_weight_kg": 1195,
+          "standard_features": [
+            "Standard 179 Red Motor",
+            "Hydra-Matic automatic transmission",
+            "Genuine leather bucket seats and console",
+            "Premier Station Sedan introduced for the first time"
+          ],
+          "notes": "Luxury flagship; first Premier wagon."
+        },
+        {
+          "badge_name": "EH Special S4",
+          "years": {
+            "start": 1963,
+            "end": 1963
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 2490,
+          "msrp_aud_max": 2550,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1160,
+          "standard_features": [
+            "Hand-selected 179 Red Motor",
+            "Sintered iron brake linings with vacuum power booster",
+            "Heavy-duty clutch and larger radiator",
+            "12-gallon competition fuel tank"
+          ],
+          "notes": "Legendary factory Bathurst homologation special; only 126 examples produced (Melbourne and Sydney)."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "EH Special",
+          "body_style": "Sedan",
+          "engine_code": "Red-149",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 2150,
+          "power_kw": 75.0,
+          "torque_nm": 197.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 950,
+          "notes": "Mainstream Australian benchmark."
+        },
+        {
+          "badge_name": "EH Premier",
+          "body_style": "Sedan",
+          "engine_code": "Red-179",
+          "transmission": "Hydra-Matic 3-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 2780,
+          "power_kw": 86.0,
+          "torque_nm": 237.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 1000,
+          "notes": "179 Red motor luxury saloon."
+        },
+        {
+          "badge_name": "EH Special S4",
+          "body_style": "Sedan",
+          "engine_code": "Red-179-S4",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 2490,
+          "power_kw": 89.0,
+          "torque_nm": 245.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 1000,
+          "notes": "Historic Mount Panorama Bathurst homologation weapon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "EH",
+          "category": "exterior",
+          "caption": "1963–1965 Holden EH Special sedan, photographed in Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1963-1965_Holden_EH_Special_sedan_01.jpg/1280px-1963-1965_Holden_EH_Special_sedan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Chris Keating from Melbourne, Victoria, Australia.)",
+          "local_path": "media/pictures/holden/ej-eh-hd-hr/holden_ej-eh-hd-hr_EH_1963-1965_Holden_EH_Special_sedan_01.jpg.jpg",
+          "file_size_bytes": 496888,
+          "sha256": "627f4596ec1b6bb2ca2e3fef5edaddf51dc591d66a5f3036096a626220054d8c"
+        }
+      ]
+    },
+    {
+      "series_code": "HD",
+      "generation_name": "HD Series",
+      "years": {
+        "start": 1965,
+        "end": 1966
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H fifth generation unibody",
+      "ancap_rating": null,
+      "summary": "Introduced wider body with curved side glass, kidney front fenders, front disc brakes option, Powerglide 2-speed automatic, and the twin-carburettor X2 high-performance engine.",
+      "engines": [
+        {
+          "engine_code": "Red-149-HD",
+          "name": "Holden Red 149ci (2.4L) OHV Inline-6",
+          "displacement_cc": 2442,
+          "displacement_litres": 2.4,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 75.0,
+          "power_rpm": "4400",
+          "torque_nm": 197.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Base engine on Standard and Special."
+        },
+        {
+          "engine_code": "Red-179-HD",
+          "name": "Holden Red 179ci (2.9L) OHV Inline-6",
+          "displacement_cc": 2934,
+          "displacement_litres": 2.9,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 86.0,
+          "power_rpm": "4000",
+          "torque_nm": 237.0,
+          "torque_rpm": "1600",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Standard on Premier, optional on Special."
+        },
+        {
+          "engine_code": "Red-179-X2",
+          "name": "Holden Red 179ci X2 Twin-Carb Inline-6",
+          "displacement_cc": 2934,
+          "displacement_litres": 2.9,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 104.0,
+          "power_rpm": "4600",
+          "torque_nm": 241.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Twin Bendix-Stromberg carburettors, high-flow dual exhaust manifolds, performance camshaft; 140 bhp."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "HD Premier",
+          "years": {
+            "start": 1965,
+            "end": 1966
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Powerglide 2-speed automatic"
+          ],
+          "msrp_aud_min": 2860,
+          "msrp_aud_max": 3100,
+          "fuel_consumption_l_100km": 11.4,
+          "kerb_weight_kg": 1210,
+          "standard_features": [
+            "179 Red motor standard",
+            "Powerglide 2-speed automatic",
+            "Front disc brakes option",
+            "Morfelde vinyl or leather bucket seats",
+            "Curved side door glass"
+          ],
+          "notes": "Spacious luxury saloon; 178,927 total HDs built."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HD Premier",
+          "body_style": "Sedan",
+          "engine_code": "Red-179-X2",
+          "transmission": "Powerglide 2-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 2980,
+          "power_kw": 104.0,
+          "torque_nm": 241.0,
+          "fuel_l_100km": 11.8,
+          "towing_braked_kg": 1050,
+          "notes": "Twin-carburettor X2 performance luxury."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HD",
+          "category": "exterior",
+          "caption": "1966 Holden Premier sedan. Spooked the occupants when going to picture the vehicle. In Fremantle, WA",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1966_Holden_Premier_sedan_front.jpg/1280px-1966_Holden_Premier_sedan_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (LuvsMG481)",
+          "local_path": "media/pictures/holden/ej-eh-hd-hr/holden_ej-eh-hd-hr_HD_1966_Holden_Premier_sedan_front.jpg.jpg",
+          "file_size_bytes": 187069,
+          "sha256": "addf76bb636f7841ea6beef8f9ec9698515736e7361f80e14ff043304d528333"
+        }
+      ]
+    },
+    {
+      "series_code": "HR",
+      "generation_name": "HR Series",
+      "years": {
+        "start": 1966,
+        "end": 1968
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H fifth generation unibody",
+      "ancap_rating": null,
+      "summary": "Crisp squared styling, wider track, ball-joint front suspension, standard front disc brakes on Premier, and introduced the high-output 186S engine with twin-barrel carburettor and 4-speed manual.",
+      "engines": [
+        {
+          "engine_code": "Red-161",
+          "name": "Holden Red 161ci (2.6L) OHV Inline-6",
+          "displacement_cc": 2638,
+          "displacement_litres": 2.6,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85.0,
+          "power_rpm": "4400",
+          "torque_nm": 213.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Replaced the 149; 114 bhp output."
+        },
+        {
+          "engine_code": "Red-186",
+          "name": "Holden Red 186ci (3.0L) OHV Inline-6",
+          "displacement_cc": 3048,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 94.0,
+          "power_rpm": "4400",
+          "torque_nm": 245.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Replaced the 179; 126 bhp output."
+        },
+        {
+          "engine_code": "Red-186S",
+          "name": "Holden Red 186S 3.0L High-Performance Inline-6",
+          "displacement_cc": 3048,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 108.0,
+          "power_rpm": "4600",
+          "torque_nm": 249.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Fitted with twin-barrel Bendix-Stromberg WW carburettor, performance camshaft, dual exhaust headers; 145 bhp."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "HR Special",
+          "years": {
+            "start": 1966,
+            "end": 1968
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column",
+            "4-speed manual floor",
+            "Powerglide 2-speed automatic"
+          ],
+          "msrp_aud_min": 2220,
+          "msrp_aud_max": 2560,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1170,
+          "standard_features": [
+            "Red 161 standard (Red 186 optional)",
+            "Wider track and revised ball-joint front suspension",
+            "Front lap-sash seatbelt mountings",
+            "Padded dashboard and sunvisors"
+          ],
+          "notes": "Core model HR-225; 252,352 HRs produced."
+        },
+        {
+          "badge_name": "HR Premier",
+          "years": {
+            "start": 1966,
+            "end": 1968
+          },
+          "body_styles": [
+            "Sedan",
+            "Station Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "Powerglide 2-speed automatic",
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 2890,
+          "msrp_aud_max": 3220,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1220,
+          "standard_features": [
+            "Red 186 engine standard",
+            "Power-assisted front disc brakes standard",
+            "Plush Morfelde vinyl or leather bucket seats",
+            "Woodgrain center console and glovebox trim",
+            "Twin horns and rear wheel spats"
+          ],
+          "notes": "Prestige family luxury cruiser."
+        },
+        {
+          "badge_name": "HR 186S",
+          "years": {
+            "start": 1967,
+            "end": 1968
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "Powerglide 2-speed automatic"
+          ],
+          "msrp_aud_min": 2680,
+          "msrp_aud_max": 2980,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1190,
+          "standard_features": [
+            "186S high-performance twin-barrel engine (145 bhp)",
+            "Opel-sourced 4-speed manual floor shift",
+            "Power front disc brakes",
+            "Dual exhaust headers"
+          ],
+          "notes": "Sports saloon precursor to the Monaro GTS."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "HR Premier",
+          "body_style": "Sedan",
+          "engine_code": "Red-186",
+          "transmission": "Powerglide 2-speed automatic",
+          "drivetrain": "RWD",
+          "msrp_aud": 2890,
+          "power_kw": 94.0,
+          "torque_nm": 245.0,
+          "fuel_l_100km": 11.5,
+          "towing_braked_kg": 1100,
+          "notes": "Classic Australian executive sedan."
+        },
+        {
+          "badge_name": "HR 186S",
+          "body_style": "Sedan",
+          "engine_code": "Red-186S",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 2680,
+          "power_kw": 108.0,
+          "torque_nm": 249.0,
+          "fuel_l_100km": 11.8,
+          "towing_braked_kg": 1100,
+          "notes": "Potent 186S 4-speed sports specification."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "HR",
+          "category": "exterior",
+          "caption": "1966–1968 Holden HR Premier sedan, photographed in Victoria, Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/1966-1968_Holden_HR_Premier_sedan_01.jpg/1280px-1966-1968_Holden_HR_Premier_sedan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Chris Keating from Melbourne, Victoria, Australia.)",
+          "local_path": "media/pictures/holden/ej-eh-hd-hr/holden_ej-eh-hd-hr_HR_1966-1968_Holden_HR_Premier_sedan_01.jpg.jpg",
+          "file_size_bytes": 348116,
+          "sha256": "9135b51acbbc33f0859a077c6cc42f3078fdf9c0006e36647f592d7893768e78"
+        }
+      ]
+    }
+  ]
+}

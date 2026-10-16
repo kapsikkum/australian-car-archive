@@ -1,0 +1,291 @@
+{
+  "make_slug": "ford",
+  "model_slug": "escort",
+  "name": "Ford Escort",
+  "vehicle_type": "2-door Coupe / 4-door Sedan / 2-door Panel Van",
+  "segment": "Small / Compact",
+  "years_sold_au": {
+    "start": 1970,
+    "end": 1981
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Homebush, New South Wales"
+  ],
+  "overview": "The Ford Escort was Ford Australia's frontline small car and grassroots rally champion throughout the 1970s. Manufactured at Ford's Homebush plant in Sydney, the Australian Mk1 (1970-1975) featured the classic 'dogbone' front grille, Kent Crossflow engines (1.1L, 1.3L, and 1.6L GT), and the legendary imported Twin Cam and RS1600. In 1975, the Australian Mk2 debuted with a squarer aerodynamic profile. Ford Australia equipped the Mk2 with the lively 1.6L Kent and the potent 2.0L OHC Pinto engine, culminating in the iconic Escort RS2000 featuring a polyurethane droop-snoot front nose, four-spoke alloy wheels, Scheel sports bucket seats, and rally-bred handling.",
+  "australian_market_notes": "Australian Escorts featured unique local content including Australian-made glass, batteries, interior trim, and heavy-duty front suspension struts tailored to corrugated rural backroads. The Escort RS2000 was an instant youth idol, while the Escort Sundowner panel van tapped into the 1970s surf van craze with bold bodyside sunset decals and rear bubble port-hole windows.",
+  "manuals": [
+    {
+      "title": "Ford Ford Escort Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1970,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/escort/model.json",
+      "local_path": "media/manuals/ford/escort/ford_escort_au_technical_manual.pdf",
+      "file_size_bytes": 4403,
+      "sha256": "88f19bf174682b7eaf65c6d1c6162658088c882656ba12070c4047de51065254",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Ford Escort & Mercury Lynx owners workshop manual",
+      "year": 1982,
+      "source_url": "https://archive.org/details/fordescortmercur0000warr",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/escort/ford_escort_manual_Ford_Escort_Mercury_Lynx_owners_workshop_manual.html",
+      "file_size_bytes": 218539,
+      "sha256": "b997c893d939b5875c788a82e7b94d6f2601e68e382b4334ecc9f345b1ff30dd"
+    },
+    {
+      "title": "Ford Escort LX Car Brochure (1984)",
+      "year": 1984,
+      "source_url": "https://archive.org/details/ford-escort-lx-car-brochure-1984",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/escort/ford_escort_manual_Ford_Escort_LX_Car_Brochure_1984.html",
+      "file_size_bytes": 211876,
+      "sha256": "bb5dd1aa4a195a4ac87157ea532bc1fd4dacc838d8e3ac4e3df078f48d327d38"
+    },
+    {
+      "title": "Ford Escort owners workshop manual",
+      "year": 1988,
+      "source_url": "https://archive.org/details/fordescortowners0000mead_i0d8",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/escort/ford_escort_manual_Ford_Escort_owners_workshop_manual.html",
+      "file_size_bytes": 216176,
+      "sha256": "e03f41fef50de1b53eab3afcee65e330f38a0634ea02b7ce320d8d3b1bfa5824"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "A 'boganized' Escort van here. I think it would look slightly better without the stripes.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/1979_Ford_Escort_Van_%2814579226350%29.jpg/1280px-1979_Ford_Escort_Van_%2814579226350%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/ford/escort/ford_escort_hero_1_1979_Ford_Escort_Van_14579226350_.jpg",
+      "file_size_bytes": 336104,
+      "sha256": "f991e593f5e7e80712d9bbbe52afdbb1460541716aaeea089f94641eb8f3a6df"
+    },
+    {
+      "category": "exterior",
+      "caption": "Ford Escort 100E",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ford_Escort_100E_%28Panda_car%29.jpg/1280px-Ford_Escort_100E_%28Panda_car%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (GTHO)",
+      "local_path": "media/pictures/ford/escort/ford_escort_hero_2_Ford_Escort_100E_Panda_car_.jpg",
+      "file_size_bytes": 361921,
+      "sha256": "45fd7cde7664c9108dbc22b93f0d754e3dabbdd1753ca03c441177307fc8b7a4"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Mk1",
+      "generation_name": "Mk1 Escort",
+      "years": {
+        "start": 1970,
+        "end": 1975
+      },
+      "body_styles": [
+        "2-door coupe",
+        "4-door sedan",
+        "2-door panel van"
+      ],
+      "platform": "Ford Escort Mk1 unibody",
+      "ancap_rating": null,
+      "summary": "Homebush, NSW manufacturing. Dogbone grille, round headlights, Kent Crossflow engines, and the rare Twin Cam homologation specials.",
+      "engines": [
+        {
+          "engine_code": "Kent-1.3L",
+          "name": "Ford Kent 1.3L Crossflow OHV Inline-4",
+          "displacement_cc": 1298,
+          "displacement_litres": 1.3,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 43.0,
+          "power_rpm": "5300",
+          "torque_nm": 95.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Mainstream high-economy four-cylinder."
+        },
+        {
+          "engine_code": "Kent-1.6L-GT",
+          "name": "Ford Kent 1.6L GT Crossflow OHV Inline-4",
+          "displacement_cc": 1599,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 64.0,
+          "power_rpm": "5400",
+          "torque_nm": 125.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "OHV 8V",
+          "notes": "Twin-choke Weber carburettor, extractors; powers Escort GT 1600."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Escort 1600 GT",
+          "years": {
+            "start": 1970,
+            "end": 1975
+          },
+          "body_styles": [
+            "2-door coupe",
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 2490,
+          "msrp_aud_max": 2790,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 875,
+          "standard_features": [
+            "GT sports instrumentation",
+            "Front disc brakes",
+            "Radial ply tyres",
+            "High-back bucket seats"
+          ],
+          "notes": "Rally-bred sports sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Escort 1600 GT",
+          "body_style": "2-door coupe",
+          "engine_code": "Kent-1.6L-GT",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 2550,
+          "power_kw": 64.0,
+          "torque_nm": 125.0,
+          "fuel_l_100km": 8.8,
+          "towing_braked_kg": 750,
+          "notes": "Classic Mk1 sports coupe."
+        }
+      ],
+      "pictures": []
+    },
+    {
+      "series_code": "Mk2",
+      "generation_name": "Mk2 Escort",
+      "years": {
+        "start": 1975,
+        "end": 1981
+      },
+      "body_styles": [
+        "2-door coupe",
+        "4-door sedan",
+        "2-door panel van"
+      ],
+      "platform": "Ford Escort Mk2 unibody",
+      "ancap_rating": null,
+      "summary": "Squared aerodynamic body, 2.0L Pinto OHC engine, Sundowner lifestyle panel van, and the iconic Australian Escort RS2000 with polyurethane droop-snoot nose.",
+      "engines": [
+        {
+          "engine_code": "Pinto-2.0L",
+          "name": "Ford Pinto 2.0L OHC Inline-4",
+          "displacement_cc": 1993,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 70.0,
+          "power_rpm": "5200",
+          "torque_nm": 152.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "SOHC 8V",
+          "notes": "Twin-choke Weber carburettor; standard on RS2000 and optional on GL/Ghia."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RS2000",
+          "years": {
+            "start": 1976,
+            "end": 1980
+          },
+          "body_styles": [
+            "2-door coupe",
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 5190,
+          "msrp_aud_max": 6290,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 950,
+          "standard_features": [
+            "2.0L OHC Pinto engine with twin-choke Weber",
+            "Polyurethane aerodynamic droop-snoot front nose with quad headlights",
+            "Four-spoke alloy sports wheels",
+            "Scheel high-bolstered sports bucket seats",
+            "Lowered heavy-duty sports suspension and front disc brakes"
+          ],
+          "notes": "Legendary Australian touring car and rally hotrod."
+        },
+        {
+          "badge_name": "Sundowner Van",
+          "years": {
+            "start": 1977,
+            "end": 1980
+          },
+          "body_styles": [
+            "Panel Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor"
+          ],
+          "msrp_aud_min": 4490,
+          "msrp_aud_max": 5150,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 980,
+          "standard_features": [
+            "Rear side bubble port-hole windows",
+            "Sunset bodyside stripe graphics",
+            "Carpeted rear cargo area",
+            "Sports road wheels"
+          ],
+          "notes": "Lifestyle surf panel van competitor to Holden Sandman."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "RS2000",
+          "body_style": "2-door coupe",
+          "engine_code": "Pinto-2.0L",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 5490,
+          "power_kw": 70.0,
+          "torque_nm": 152.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 900,
+          "notes": "Definitive droop-snoot Aussie RS2000 coupe."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Mk2",
+          "category": "exterior",
+          "caption": "ford escort mk2",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ford_escort_mk2_%2827823041829%29.jpg/1280px-Ford_escort_mk2_%2827823041829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Darren Garlick)",
+          "local_path": "media/pictures/ford/escort/ford_escort_Mk2_1_Ford_escort_mk2_27823041829_.jpg",
+          "file_size_bytes": 364089,
+          "sha256": "9b817d760115610f49347cd5e365796801bc09a301dc5b8b7141df9cd431614e"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "make_slug": "bolwell",
+  "name": "Bolwell",
+  "country_of_origin": "Australia",
+  "years_active_au": {
+    "start": 1962,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Bolwell Cars was founded in Melbourne, Victoria in 1962 by brothers Graeme and Campbell Bolwell. Bolwell is Australia's most enduring and respected bespoke sports car manufacturer. Beginning with fiberglass kit sports cars (Mk IV and Mk VII), Bolwell achieved international acclaim in 1970 with the Nagari (Mk VIII), a fully productionized road-legal supercar featuring a steel backbone chassis, fiberglass body, and Ford 302ci/351ci V8 power. In the 21st century, Bolwell leveraged advanced aerospace vacuum-infused carbon composites to produce the Nagari 300 and Nagari 500 mid-engine supercars.",
+  "australian_history": "Campbell Bolwell built his first special in 1962, founding Bolwell Cars in Melbourne. The Mk IV and gullwing Mk VII established Bolwell as masters of fiberglass styling and composites. In 1969, Graeme Bolwell returned from a stint working with Colin Chapman at Lotus in England, bringing advanced chassis engineering expertise back to Australia.\n\nIn 1970, Bolwell unveiled the Nagari (Mk VIII)—from an Aboriginal word meaning 'flowing'. Unlike kit predecessors, the Nagari was sold as a fully built factory production car from Bolwell's factory in Mordialloc, Victoria. Featuring a rigid Y-shaped steel backbone chassis, Austin 1800 front suspension uprights, and Ford Falcon mechanicals (including 302ci Windsor and 351ci Cleveland V8s), the Nagari weighed just 1,040 kg and hit 100 km/h in under 6 seconds, out-accelerating contemporary Ferraris and Porsches. Bolwell built 100 coupes and 27 convertibles before production ended in 1974 due to incoming ADR safety and emission compliance costs.\n\nBolwell diversified into commercial composites, supplying fiberglass trucks and train cabs. In 1979, they introduced the mid-engine Ikara kit car. In 2008, Campbell Bolwell revived the marque with the Nagari 300, a carbon-fibre monocoque supercar powered by a 220kW 3.5L quad-cam Toyota V6, later followed by the supercharged Nagari 500 with a 375kW Chevrolet LS3 V8.",
+  "models_catalog": [
+    {
+      "model_slug": "mk-iv",
+      "name": "Bolwell Mk IV",
+      "vehicle_type": "Sports Coupe / Roadster",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1962,
+        "end": 1964
+      },
+      "locally_built": true,
+      "overview": "The earliest commercial Bolwell sports car, offered as a fiberglass body-chassis unit accepting Ford Ten or Cortina running gear.",
+      "generations": [
+        {
+          "series_code": "Mk-IV",
+          "generation_name": "Bolwell Mk IV",
+          "years": {
+            "start": 1962,
+            "end": 1964
+          },
+          "body_styles": [
+            "Coupe",
+            "Roadster"
+          ],
+          "summary": "Lightweight tubular spaceframe with fiberglass shell; around 50 produced."
+        }
+      ]
+    },
+    {
+      "model_slug": "mk-vii",
+      "name": "Bolwell Mk VII",
+      "vehicle_type": "Coupe",
+      "segment": "Sports Coupe",
+      "years_sold_au": {
+        "start": 1967,
+        "end": 1971
+      },
+      "locally_built": true,
+      "overview": "Sleek fastback sports coupe based on Holden mechanicals (186 Red motor), setting the stage for the Nagari.",
+      "generations": [
+        {
+          "series_code": "Mk-VII",
+          "generation_name": "Bolwell Mk VII",
+          "years": {
+            "start": 1967,
+            "end": 1971
+          },
+          "body_styles": [
+            "2-door fastback coupe"
+          ],
+          "summary": "Holden 186/186S six-cylinder engine, HR front suspension; over 400 kits sold."
+        }
+      ]
+    },
+    {
+      "model_slug": "nagari-mk-viii",
+      "name": "Bolwell Nagari (Mk VIII)",
+      "vehicle_type": "Sports Coupe / Convertible",
+      "segment": "Supercar / V8 Sports",
+      "years_sold_au": {
+        "start": 1970,
+        "end": 1974
+      },
+      "locally_built": true,
+      "overview": "Australia's legendary factory-built V8 sports car. Steel backbone chassis, fiberglass body, and Ford 302/351 V8 power, achieving 0-100 km/h in 5.8 seconds.",
+      "generations": [
+        {
+          "series_code": "Mk-VIII",
+          "generation_name": "Nagari Mk VIII",
+          "years": {
+            "start": 1970,
+            "end": 1974
+          },
+          "body_styles": [
+            "2-door coupe",
+            "2-door convertible"
+          ],
+          "summary": "Ford 302/351ci V8 (179kW-224kW), 4-speed Toploader manual, 1,040 kg curb weight; 127 units built."
+        }
+      ]
+    },
+    {
+      "model_slug": "ikara",
+      "name": "Bolwell Ikara",
+      "vehicle_type": "Roadster",
+      "segment": "Sports Kit Car",
+      "years_sold_au": {
+        "start": 1979,
+        "end": 1982
+      },
+      "locally_built": true,
+      "overview": "Radical mid-engine open sports car utilizing a spaceframe chassis and Volkswagen Golf mechanicals.",
+      "generations": [
+        {
+          "series_code": "Ikara",
+          "generation_name": "Bolwell Ikara",
+          "years": {
+            "start": 1979,
+            "end": 1982
+          },
+          "body_styles": [
+            "2-door open roadster"
+          ],
+          "summary": "1.6L VW Golf engine mounted amidships, fiberglass composite panels, 12 units produced."
+        }
+      ]
+    },
+    {
+      "model_slug": "nagari-300-500",
+      "name": "Bolwell Nagari 300 / 500",
+      "vehicle_type": "Coupe",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 2008,
+        "end": "Present"
+      },
+      "locally_built": true,
+      "overview": "21st-century Australian carbon-composite supercar featuring mid-mounted 3.5L V6 or 375kW 6.2L Chevrolet LS3 V8.",
+      "generations": [
+        {
+          "series_code": "Nagari-Modern",
+          "generation_name": "Nagari 300 & Nagari 500",
+          "years": {
+            "start": 2008,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door coupe"
+          ],
+          "summary": "Carbon-kevlar monocoque, Toyota 3.5L V6 (220kW) or 375kW LS3 V8, 980 kg curb weight."
+        }
+      ]
+    }
+  ]
+}

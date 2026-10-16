@@ -1,0 +1,542 @@
+{
+  "make_slug": "mazda",
+  "model_slug": "626-mazda6",
+  "name": "626 / Mazda6",
+  "vehicle_type": "Sedan / Hatchback / Wagon",
+  "segment": "Medium Car",
+  "years_sold_au": {
+    "start": 1979,
+    "end": 2024
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mazda 626 and its successor the Mazda6 served as Australia's benchmark mid-size Japanese passenger car for 45 years. From the 1983 Wheels Car of the Year winning front-wheel drive 626 GC to the ferocious 190kW Mazda6 MPS turbocharged all-wheel-drive performance hero, it balanced executive styling with dynamic driver engagement.",
+  "australian_market_notes": "First imported as the rear-drive 626 CB in 1979, the model soared to acclaim with the 1983 GC series, which took Wheels Car of the Year. In 2002, the nameplate reinvented itself as the sleek Mazda6 (GG), winning universal accolades. In 2005, Mazda unleashed the Mazda6 MPS with a 2.3L turbo engine and active-torque AWD to rival Subaru's Liberty GT. Production concluded in 2024 with the 20th Anniversary Edition.",
+  "manuals": [
+    {
+      "title": "Mazda 626 / Mazda6 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1979,
+      "language": "en",
+      "source_url": "local://catalog/makes/mazda/models/626-mazda6/model.json",
+      "local_path": "media/manuals/mazda/626-mazda6/mazda_626-mazda6_au_technical_manual.pdf",
+      "file_size_bytes": 6751,
+      "sha256": "bbcdfe16787f9a12511f19dabe12a4a29b478d88fdc47d164abacde14e510267",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Mazda 626 in Diest",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Mazda_626_%28GF%29_in_Diest.JPG/1280px-Mazda_626_%28GF%29_in_Diest.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Charles01)",
+      "local_path": "media/pictures/mazda/626-mazda6/mazda_626-mazda6_hero_1_Mazda_626_GF_in_Diest.JPG",
+      "file_size_bytes": 374445,
+      "sha256": "065794e979a11891afa91bd20c15fac78f63237b2a9c7a5854ae43fb3d17db10"
+    },
+    {
+      "category": "exterior",
+      "caption": "The 6 was launched in 2002, replacing the 626. The Liftback model is kinda rare here, unlike the sedan which is very common.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Mazda_6_2.5_Sport_Liftback_2009.jpg/1280px-Mazda_6_2.5_Sport_Liftback_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.0 (RL GNZLZ)",
+      "local_path": "media/pictures/mazda/626-mazda6/mazda_626-mazda6_hero_2_Mazda_6_2.5_Sport_Liftback_2009.jpg",
+      "file_size_bytes": 196483,
+      "sha256": "037eea8f85a7e97c5a209a6b1ca341a4883adcd26f3c417f8e6f8fbdccb551fd"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "CB/GC/GD/GE/GF",
+      "generation_name": "Mazda 626 (5 Generations)",
+      "years": {
+        "start": 1979,
+        "end": 2002
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Hatch",
+        "2-door Coupe",
+        "5-door Wagon"
+      ],
+      "platform": "Mazda CB / GC / GD / GE / GF",
+      "ancap_rating": "Untested",
+      "summary": "Classic 626 heritage. The 1983 GC won Wheels Car of the Year, followed by the turbo 2.2L GD, sleek V6-powered GE, and dependable GF series.",
+      "engines": [
+        {
+          "engine_code": "FE",
+          "name": "Mazda FE 2.0L OHC",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 74.0,
+          "power_rpm": "5500",
+          "torque_nm": 153.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.6:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "1983 Wheels COTY winning engine in GC series."
+        },
+        {
+          "engine_code": "F2T",
+          "name": "Mazda F2T 2.2L Turbo",
+          "displacement_cc": 2184,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 108.0,
+          "power_rpm": "4700",
+          "torque_nm": 258.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "7.8:1",
+          "valvetrain": "SOHC 12-valve",
+          "notes": "Fitted to the rare GD Turbo with 4-wheel steering."
+        },
+        {
+          "engine_code": "KL-DE",
+          "name": "Mazda KL-DE 2.5L 24V DOHC V6",
+          "displacement_cc": 2497,
+          "displacement_litres": 2.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 121.0,
+          "power_rpm": "5500",
+          "torque_nm": 217.0,
+          "torque_rpm": "4800",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Silky V6 in 1990s GE series."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Super Saloon / Ghia / Limited",
+          "years": {
+            "start": 1983,
+            "end": 2002
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatch",
+            "Coupe",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 11990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 8.8,
+          "kerb_weight_kg": 1180,
+          "standard_features": [
+            "Velour trim",
+            "Power windows",
+            "Air conditioning",
+            "Alloy wheels",
+            "Cruise control"
+          ],
+          "notes": "Wheels COTY winner in 1983."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "626 Super Saloon 2.0",
+          "body_style": "5-door Hatch",
+          "engine_code": "FE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1983,
+          "years_end": 1987,
+          "msrp_aud": 13990,
+          "power_kw": 74.0,
+          "torque_nm": 153.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 1000,
+          "notes": "1983 Wheels Car of the Year winner."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "GG/GY",
+      "generation_name": "Mazda6 1st Generation & MPS",
+      "years": {
+        "start": 2002,
+        "end": 2008
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Hatch",
+        "5-door Wagon"
+      ],
+      "platform": "Mazda GG",
+      "ancap_rating": "4 stars",
+      "summary": "Replaced 626 with dynamic 'Zoom-Zoom' styling, double-wishbone front suspension, and spawned the 190kW turbo AWD Mazda6 MPS performance hero.",
+      "engines": [
+        {
+          "engine_code": "L3-VE",
+          "name": "Mazda MZR L3-VE 2.3L",
+          "displacement_cc": 2261,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 122.0,
+          "power_rpm": "6500",
+          "torque_nm": 207.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.6:1",
+          "valvetrain": "DOHC 16-valve S-VT",
+          "notes": "Standard engine in Classic, Luxury, and Luxury Sports."
+        },
+        {
+          "engine_code": "L3-VDT",
+          "name": "Mazda MZR 2.3L DISI Turbo (MPS)",
+          "displacement_cc": 2261,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 190.0,
+          "power_rpm": "5500",
+          "torque_nm": 380.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16-valve Direct Injection",
+          "notes": "Direct injection spark ignition turbo with top-mount intercooler and bonnet power bulge."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Classic / Luxury / Luxury Sports",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatch",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "6-speed manual",
+            "4-speed auto",
+            "5-speed auto"
+          ],
+          "msrp_aud_min": 28490,
+          "msrp_aud_max": 42000,
+          "fuel_consumption_l_100km": 8.9,
+          "kerb_weight_kg": 1390,
+          "standard_features": [
+            "16-inch or 17-inch alloys",
+            "Climate control",
+            "Leather seats (Luxury)",
+            "Bose 7-speaker audio",
+            "Sports body kit (Sports)"
+          ],
+          "notes": "Massive Australian sales hit."
+        },
+        {
+          "badge_name": "MPS (Mazda Performance Series)",
+          "years": {
+            "start": 2005,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "Active Torque Split AWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 48600,
+          "msrp_aud_max": 54600,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1620,
+          "standard_features": [
+            "190kW DISI turbo engine",
+            "Active torque split AWD with rear LSD",
+            "18-inch 15-spoke alloys",
+            "Brembo-developed ventilated brakes",
+            "Leather sports seats",
+            "Bonnet scoop ducting"
+          ],
+          "notes": "Cult performance sedan rivaling Subaru Liberty GT; 0-100 km/h in 6.6s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Mazda6 MPS AWD",
+          "body_style": "4-door Sedan",
+          "engine_code": "L3-VDT",
+          "transmission": "6-speed manual",
+          "drivetrain": "AWD",
+          "years_start": 2005,
+          "years_end": 2007,
+          "msrp_aud": 48600,
+          "power_kw": 190.0,
+          "torque_nm": 380.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1400,
+          "notes": "190kW turbocharged AWD sports sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "GH",
+      "generation_name": "Mazda6 2nd Generation",
+      "years": {
+        "start": 2008,
+        "end": 2012
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Hatch",
+        "5-door Wagon"
+      ],
+      "platform": "Mazda GH",
+      "ancap_rating": "5 stars",
+      "summary": "Aerodynamic coupe-like silhouette, upgraded 2.5L engine, and high-torque 2.2L MZR-CD turbodiesel with 400Nm.",
+      "engines": [
+        {
+          "engine_code": "L5-VE",
+          "name": "Mazda MZR L5-VE 2.5L",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "6000",
+          "torque_nm": 226.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.7:1",
+          "valvetrain": "DOHC 16-valve S-VT",
+          "notes": "Torquey 2.5-litre four cylinder."
+        },
+        {
+          "engine_code": "R2AA",
+          "name": "Mazda MZR-CD 2.2L Turbo Diesel",
+          "displacement_cc": 2184,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 136.0,
+          "power_rpm": "3500",
+          "torque_nm": 400.0,
+          "torque_rpm": "1800-3000",
+          "compression_ratio": "16.3:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "400Nm of torque returning 5.9L/100km."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Classic / Luxury / Sports Luxury",
+          "years": {
+            "start": 2008,
+            "end": 2012
+          },
+          "body_styles": [
+            "Sedan",
+            "Hatch",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 29740,
+          "msrp_aud_max": 43500,
+          "fuel_consumption_l_100km": 8.7,
+          "kerb_weight_kg": 1450,
+          "standard_features": [
+            "17 or 18-inch alloys",
+            "6 airbags",
+            "Dynamic stability control",
+            "Dual-zone climate control",
+            "Bi-xenon headlights (Sports)"
+          ],
+          "notes": "5-star ANCAP safety across range."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Mazda6 Diesel Sports Hatch",
+          "body_style": "5-door Hatch",
+          "engine_code": "R2AA",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2008,
+          "years_end": 2012,
+          "msrp_aud": 39690,
+          "power_kw": 136.0,
+          "torque_nm": 400.0,
+          "fuel_l_100km": 5.9,
+          "towing_braked_kg": 1500,
+          "notes": "400Nm turbo diesel performance hatch."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "GH",
+          "category": "exterior",
+          "caption": "The 6 was launched in 2002, replacing the 626. The Liftback model is kinda rare here, unlike the sedan which is very common.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Mazda_6_2.5_Sport_Liftback_2009.jpg/1280px-Mazda_6_2.5_Sport_Liftback_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.0 (RL GNZLZ)",
+          "local_path": "media/pictures/mazda/626-mazda6/mazda_626-mazda6_GH_1_Mazda_6_2.5_Sport_Liftback_2009.jpg",
+          "file_size_bytes": 196483,
+          "sha256": "037eea8f85a7e97c5a209a6b1ca341a4883adcd26f3c417f8e6f8fbdccb551fd"
+        }
+      ]
+    },
+    {
+      "series_code": "GJ/GL",
+      "generation_name": "Mazda6 3rd Generation",
+      "years": {
+        "start": 2012,
+        "end": 2024
+      },
+      "body_styles": [
+        "4-door Sedan",
+        "5-door Wagon"
+      ],
+      "platform": "Mazda Skyactiv-Chassis",
+      "ancap_rating": "5 stars",
+      "summary": "12-year tour-de-force featuring Kodo design, SKYACTIV engines, i-ELOOP brake energy regeneration, 170kW 2.5T turbo, and 20th Anniversary Edition.",
+      "engines": [
+        {
+          "engine_code": "PY-VPR",
+          "name": "Mazda SKYACTIV-G 2.5L",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 140.0,
+          "power_rpm": "6000",
+          "torque_nm": 252.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "High compression petrol engine."
+        },
+        {
+          "engine_code": "PY-VPTS-6",
+          "name": "Mazda SKYACTIV-G 2.5T Turbo",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 170.0,
+          "power_rpm": "5000",
+          "torque_nm": 420.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve Dual S-VT",
+          "notes": "420Nm turbo engine added in 2018."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sport / Touring",
+          "years": {
+            "start": 2012,
+            "end": 2024
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 33490,
+          "msrp_aud_max": 41500,
+          "fuel_consumption_l_100km": 7.0,
+          "kerb_weight_kg": 1520,
+          "standard_features": [
+            "17-inch alloys",
+            "MZD Connect touchscreen",
+            "Blind spot monitoring",
+            "Autonomous emergency braking",
+            "LED headlamps"
+          ],
+          "notes": "Refined executive family cruiser."
+        },
+        {
+          "badge_name": "GT SP / Atenza / 20th Anniversary",
+          "years": {
+            "start": 2012,
+            "end": 2024
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 45490,
+          "msrp_aud_max": 54635,
+          "fuel_consumption_l_100km": 7.6,
+          "kerb_weight_kg": 1610,
+          "standard_features": [
+            "19-inch alloys",
+            "Nappa leather upholstery",
+            "11-speaker Bose audio",
+            "Sunroof",
+            "Ventilated front seats",
+            "Head-up display"
+          ],
+          "notes": "Celebrated 20th Anniversary Edition in Artisan Red closed out production in 2024."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Mazda6 Atenza 2.5T Sedan",
+          "body_style": "4-door Sedan",
+          "engine_code": "PY-VPTS-6",
+          "transmission": "6-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2018,
+          "years_end": 2024,
+          "msrp_aud": 51890,
+          "power_kw": 170.0,
+          "torque_nm": 420.0,
+          "fuel_l_100km": 7.6,
+          "towing_braked_kg": 1600,
+          "notes": "170kW / 420Nm luxury executive sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

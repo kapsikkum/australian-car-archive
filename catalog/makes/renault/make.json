@@ -1,0 +1,164 @@
+{
+  "make_slug": "renault",
+  "name": "Renault",
+  "country_of_origin": "France",
+  "years_active_au": {
+    "start": 1950,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "French innovator that operated an extensive manufacturing plant at Heidelberg, Victoria from 1959 to 1981, and achieved modern acclaim through Renault Sport hot hatches and commercial vans.",
+  "australian_history": "Renault has deep Australian manufacturing roots. In 1959, Renault took over assembly operations from Clyde Industries at Heidelberg, Victoria, establishing Renault Australia Pty Ltd in 1966. The Heidelberg plant built the Dauphine, R8, R10, R12, and R16, as well as contract-assembling Peugeot models. The Australian-built Renault 12 was uniquely evolved into the Australian-exclusive Renault Virage in 1978 with quad round headlights. In 1981, due to rationalization under the Button Car Plan, Renault sold the Heidelberg facility to LNC Industries. Modern Renault distribution returned via Ateco Automotive in 2021, driven by the Trafic and Master commercial vans, Koleos and Arkana SUVs, and celebrated Renault Sport models (Clio R.S. and Megane R.S.).",
+  "models_catalog": [
+    {
+      "model_slug": "12-virage",
+      "name": "12 / Virage",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Small / Medium Car",
+      "years_sold_au": {
+        "start": 1970,
+        "end": "1980"
+      },
+      "locally_built": true,
+      "overview": "Assembled at Heidelberg VIC; acclaimed for ride comfort and ruggedness, culminating in the unique Australian-styled Virage.",
+      "generations": [
+        {
+          "series_code": "R1170-Virage",
+          "generation_name": "Renault 12 & Virage",
+          "years": {
+            "start": 1970,
+            "end": 1980
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "summary": "1.3L and 1.4L engines; 1970 Wheels Car of the Year; updated to Australian quad-headlight Virage in 1978."
+        }
+      ]
+    },
+    {
+      "model_slug": "megane",
+      "name": "Megane",
+      "vehicle_type": "Hatchback / Sedan / Wagon",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1999,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "French small car spanning distinctive bustle-back designs to legendary Nürburgring record-setting Megane R.S. hot hatches.",
+      "generations": [
+        {
+          "series_code": "Megane-II",
+          "generation_name": "Megane II",
+          "years": {
+            "start": 2003,
+            "end": 2009
+          },
+          "body_styles": [
+            "3-door hatch",
+            "5-door hatch",
+            "Sedan",
+            "Coupe-Cabriolet CC"
+          ],
+          "summary": "Famous 'shaking that ass' avant-garde styling, 2.0L Turbo Megane R.S. 225 and R26."
+        },
+        {
+          "series_code": "Megane-III-IV",
+          "generation_name": "Megane III & IV",
+          "years": {
+            "start": 2010,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe",
+            "Hatch",
+            "Wagon",
+            "Sedan"
+          ],
+          "summary": "Megane R.S. 250/265/275 Trophy; Megane IV with 4Control 4-wheel steering and 221kW Trophy."
+        }
+      ]
+    },
+    {
+      "model_slug": "trafic",
+      "name": "Trafic",
+      "vehicle_type": "Van",
+      "segment": "Medium Commercial Van",
+      "years_sold_au": {
+        "start": 2004,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "A stalwart of Australian trade and courier fleets, lauded for car-like cabin comfort, dCi diesel reliability, and long wheelbase options.",
+      "generations": [
+        {
+          "series_code": "X83-X82",
+          "generation_name": "Trafic 2nd & 3rd Gen",
+          "years": {
+            "start": 2004,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Short-wheelbase van",
+            "Long-wheelbase van",
+            "Crew van"
+          ],
+          "summary": "1.9 dCi and 2.0 dCi engines, progressing to twin-turbo 1.6 dCi and 2.0 dCi with EDC automatic."
+        }
+      ]
+    },
+    {
+      "model_slug": "clio-megane-rs",
+      "name": "Clio RS & Megane RS (Renault Sport)",
+      "vehicle_type": "Hot Hatchback",
+      "segment": "Light / Small Performance Car",
+      "years_sold_au": {
+        "start": 2001,
+        "end": 2023
+      },
+      "locally_built": false,
+      "overview": "The front-wheel-drive Nurburgring lap record conquerors. Developed by the wizards of Renault Sport at Dieppe, the Clio RS and Megane RS established an unbeatable pedigree in Australia for pure driving dynamics, PerfoHub independent steering axis suspension, mechanical limited-slip differentials, and Brembo stopping power.",
+      "generations": [
+        {
+          "series_code": "Clio RS Gen 2 & 3",
+          "generation_name": "Clio Renault Sport (RS 172 / 182 / 197 / 200)",
+          "years": {
+            "start": 2001,
+            "end": 2013
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "summary": "Naturally aspirated screaming 2.0L F4R engine revving past 7,000rpm. Progressed from the raw 124kW Clio 172 and 182 Cup to the wide-body Clio 197 and 200 with front PerfoHub double-axis struts, Brembo brakes, and functional rear aerodynamic diffuser."
+        },
+        {
+          "series_code": "Megane RS Gen 3",
+          "generation_name": "Megane RS 250, 265 & 275 Trophy (Megane III)",
+          "years": {
+            "start": 2010,
+            "end": 2017
+          },
+          "body_styles": [
+            "3-door coupe"
+          ],
+          "summary": "Widely acknowledged as the greatest front-wheel drive track car of its decade. Armed with PerfoHub suspension eliminating torque steer, mechanical mechanical limited-slip differential, Brembo brakes, 2.0L turbo (184kW to 201kW), and record-smashing 275 Trophy-R."
+        },
+        {
+          "series_code": "Megane RS Gen 4",
+          "generation_name": "Megane RS 280 & RS 300 Trophy (Megane IV)",
+          "years": {
+            "start": 2018,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "5-door practicality equipped with class-exclusive 4Control four-wheel steering, hydraulic compression bump stops, 1.8L Alpine A110-derived turbo engine, and RS 300 Trophy delivering 221kW and 420Nm."
+        }
+      ]
+    }
+  ]
+}

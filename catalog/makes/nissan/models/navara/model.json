@@ -1,0 +1,585 @@
+{
+  "make_slug": "nissan",
+  "model_slug": "navara",
+  "name": "Navara",
+  "vehicle_type": "Ute / Cab Chassis",
+  "segment": "Light Commercial",
+  "years_sold_au": {
+    "start": 1986,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Nissan Navara is one of Australia's premier dual-cab and commercial utes. Spanning four generations, from the durable D21 and indestructible D22 workhorses to the powerhouse 550Nm V6 turbodiesel D40 and coil-sprung D23 with locally engineered Premcar Warrior editions, the Navara has served on Australian building sites, farms, and off-road expeditions for nearly four decades.",
+  "australian_market_notes": "First sold in Australia in 1986 replacing the Datsun 720, the Navara popularized dual-cab 4x4 recreation in Australia. The D22 generation established a legendary reputation for mechanical toughness in the mines and bush, running in parallel with the larger, luxurious D40. In 2011, the D40 ST-X 550 introduced a crushing 550Nm 3.0L V6 turbodiesel, resetting the performance ute benchmark. Today, the D23 NP300 features the PRO-4X Warrior, re-engineered in Melbourne by Premcar specifically for extreme Australian outback conditions.",
+  "manuals": [
+    {
+      "title": "Nissan Navara Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1986,
+      "language": "en",
+      "source_url": "local://catalog/makes/nissan/models/navara/model.json",
+      "local_path": "media/manuals/nissan/navara/nissan_navara_au_technical_manual.pdf",
+      "file_size_bytes": 6940,
+      "sha256": "672dfb9dfbd54a82dba9e119989691680b18cfd15f4c7ffd17292a1746464e04",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Nissan-Navara-King-Cab-Brochure",
+      "year": 2020,
+      "source_url": "https://archive.org/details/generic-Nissan-Navara-King-Cab-Brochure",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/navara/nissan_navara_manual_Nissan-Navara-King-Cab-Brochure.html",
+      "file_size_bytes": 215309,
+      "sha256": "a077598ae651597e8de6a3a3044c58ba04300e24c9a6ec993a581da9a655f733"
+    },
+    {
+      "title": "Installation manual Model: Nissan Navara Skid plate for: radiator",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6913393",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/navara/nissan_navara_manual_Installation_manual_Model_Nissan_Navara_Skid_plate_for_radiator.html",
+      "file_size_bytes": 216449,
+      "sha256": "b852d7a4e23d761e99ddd1aa45a46942af596748e01e1b6223f28a7fc9a06d02"
+    },
+    {
+      "title": "Installation manual Model: NISSAN Navara",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6913277",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/nissan/navara/nissan_navara_manual_Installation_manual_Model_NISSAN_Navara.html",
+      "file_size_bytes": 215986,
+      "sha256": "533fcca66127c9e53cef5885a09ca6ccea71bb09d9d697e9ce47fcfac6849e52"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Nissan Navara pickup truck at Helsinki Käpylä 12.5.2020.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/20200512_Nissan_Navara_01.jpg/1280px-20200512_Nissan_Navara_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (Kahvilokki)",
+      "local_path": "media/pictures/nissan/navara/nissan_navara_hero_1_20200512_Nissan_Navara_01.jpg",
+      "file_size_bytes": 325225,
+      "sha256": "161faa7ab7954c94c5266e1f88a87e373681c6ebf19bfa3fbccc3abb2c83501d"
+    },
+    {
+      "category": "exterior",
+      "caption": "Nissan Navara pickup truck at Helsinki Käpylä 12.5.2020.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/20200512_Nissan_Navara_02.jpg/1280px-20200512_Nissan_Navara_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (Kahvilokki)",
+      "local_path": "media/pictures/nissan/navara/nissan_navara_hero_2_20200512_Nissan_Navara_02.jpg",
+      "file_size_bytes": 316584,
+      "sha256": "0a587e7331afd36a8127501bf46ed52a9c322827e2340bd579ecadbfec43fbcd"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "D21",
+      "generation_name": "Navara 1st Generation",
+      "years": {
+        "start": 1986,
+        "end": 1997
+      },
+      "body_styles": [
+        "Single Cab",
+        "King Cab",
+        "Dual Cab"
+      ],
+      "platform": "Nissan D21",
+      "ancap_rating": "Untested",
+      "summary": "First generation to carry the Navara name in Australia. Offered rugged separate-chassis durability, torsion-bar front suspension, and bulletproof Z24 and TD27 engines.",
+      "engines": [
+        {
+          "engine_code": "Z24",
+          "name": "Nissan Z24 2.4L OHC",
+          "displacement_cc": 2389,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 74.0,
+          "power_rpm": "4800",
+          "torque_nm": 177.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "8.3:1",
+          "valvetrain": "SOHC 8-valve (twin-spark)",
+          "notes": "Twin spark plug design per cylinder."
+        },
+        {
+          "engine_code": "TD27",
+          "name": "Nissan TD27 2.7L Diesel",
+          "displacement_cc": 2663,
+          "displacement_litres": 2.7,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 64.0,
+          "power_rpm": "4300",
+          "torque_nm": 175.0,
+          "torque_rpm": "2200",
+          "compression_ratio": "21.8:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Gear-driven camshaft diesel renowned for near-indestructible lifespan."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "DX / Standard",
+          "years": {
+            "start": 1986,
+            "end": 1997
+          },
+          "body_styles": [
+            "Single Cab",
+            "King Cab",
+            "Dual Cab"
+          ],
+          "drivetrain": "4x2 or 4x4",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 12990,
+          "msrp_aud_max": 24990,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1420,
+          "standard_features": [
+            "Vinyl bench seat",
+            "Part-time 4WD with manual locking hubs",
+            "Rear step bumper",
+            "15-inch steel wheels"
+          ],
+          "notes": "True 1-tonne commercial workhorse."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Navara Dual Cab 4x4 Diesel",
+          "body_style": "Dual Cab",
+          "engine_code": "TD27",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1988,
+          "years_end": 1997,
+          "msrp_aud": 24990,
+          "power_kw": 64.0,
+          "torque_nm": 175.0,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1500,
+          "notes": "Early recreational 4x4 dual cab."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "D21",
+          "category": "exterior",
+          "caption": "Nissan Navara D21 Ti V6 Dual Cab",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/1994_Nissan_Navara_%28D21%29_Ti_V6_4-door_utility_%2819066681633%29.jpg/1280px-1994_Nissan_Navara_%28D21%29_Ti_V6_4-door_utility_%2819066681633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/nissan/navara/nissan_navara_D21_1_1994_Nissan_Navara_D21_Ti_V6_4-door_utility_19066681633_.jpg",
+          "file_size_bytes": 303883,
+          "sha256": "e31212fe8f0c40608dc0bb353d506cc088f60da6d079a7064835046113b151ce"
+        }
+      ]
+    },
+    {
+      "series_code": "D22",
+      "generation_name": "Navara 2nd Generation (ST-R)",
+      "years": {
+        "start": 1997,
+        "end": 2015
+      },
+      "body_styles": [
+        "Single Cab",
+        "King Cab",
+        "Dual Cab"
+      ],
+      "platform": "Nissan D22",
+      "ancap_rating": "3 stars",
+      "summary": "18-year production run in Australia. Iconic ST-R 4x4 with 3.0L ZD30 and later 2.5L YD25 common-rail turbodiesel, renowned for unbreakable mechanical ruggedness.",
+      "engines": [
+        {
+          "engine_code": "ZD30DDT",
+          "name": "Nissan ZD30DDT 3.0L Turbo Diesel",
+          "displacement_cc": 2953,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 110.0,
+          "power_rpm": "3400",
+          "torque_nm": 314.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "17.9:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Direct injection turbo diesel fitted to D22 ST-R from 2001 to 2006."
+        },
+        {
+          "engine_code": "YD25DDTi-D22",
+          "name": "Nissan YD25DDTi 2.5L Common Rail Turbo Diesel",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 98.0,
+          "power_rpm": "3600",
+          "torque_nm": 304.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "16.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Euro 4 common-rail diesel fitted from 2008 to 2015."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "DX",
+          "years": {
+            "start": 1997,
+            "end": 2015
+          },
+          "body_styles": [
+            "Single Cab",
+            "Dual Cab"
+          ],
+          "drivetrain": "4x2 or 4x4",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 28990,
+          "fuel_consumption_l_100km": 9.1,
+          "kerb_weight_kg": 1620,
+          "standard_features": [
+            "Vinyl interior",
+            "Manual locking hubs (early)",
+            "Power steering",
+            "Air conditioning option"
+          ],
+          "notes": "Agricultural and trade favourite."
+        },
+        {
+          "badge_name": "ST-R 4x4",
+          "years": {
+            "start": 2001,
+            "end": 2015
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "Part-Time 4WD with low range",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 39990,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1780,
+          "standard_features": [
+            "16-inch alloy wheels",
+            "Wide body fender flares",
+            "Aluminium side steps",
+            "Power windows",
+            "Cloth trim",
+            "Limited-slip rear differential"
+          ],
+          "notes": "Australia's value 4WD dual-cab king throughout the 2000s."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Navara ST-R 3.0 Turbo Diesel 4x4",
+          "body_style": "Dual Cab",
+          "engine_code": "ZD30DDT",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 2001,
+          "years_end": 2006,
+          "msrp_aud": 38990,
+          "power_kw": 110.0,
+          "torque_nm": 314.0,
+          "fuel_l_100km": 9.6,
+          "towing_braked_kg": 3000,
+          "notes": "Classic Australian work-and-play dual cab."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "D22",
+          "category": "exterior",
+          "caption": "2004 Nissan Navara Diesel 4X4 2.5 Front Taken in Warwick",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2004_Nissan_Navara_Diesel_4X4_2.5_Front.jpg/1280px-2004_Nissan_Navara_Diesel_4X4_2.5_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Vauxford)",
+          "local_path": "media/pictures/nissan/navara/nissan_navara_D22_1_2004_Nissan_Navara_Diesel_4X4_2.5_Front.jpg",
+          "file_size_bytes": 211668,
+          "sha256": "da17ab004b0218f19c34511779026a46ae106d26532443dc80fbc458de0bbfc7"
+        }
+      ]
+    },
+    {
+      "series_code": "D40",
+      "generation_name": "Navara 3rd Generation (ST-X & ST-X 550)",
+      "years": {
+        "start": 2005,
+        "end": "2015"
+      },
+      "body_styles": [
+        "King Cab",
+        "Dual Cab"
+      ],
+      "platform": "Nissan F-Alpha platform",
+      "ancap_rating": "4 stars (facelift)",
+      "summary": "Built on the full-size F-Alpha chassis. Sized up cabin space, 140kW 2.5L diesel, and the mighty ST-X 550 featuring a 3.0L V6 turbodiesel with 170kW and a monstrous 550Nm.",
+      "engines": [
+        {
+          "engine_code": "YD25DDTi-High",
+          "name": "Nissan YD25DDTi 2.5L High-Output Turbo Diesel",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Variable Nozzle Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 140.0,
+          "power_rpm": "4000",
+          "torque_nm": 450.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "15.0:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Upgraded in 2010 to 140kW and 450Nm of torque."
+        },
+        {
+          "engine_code": "V9X",
+          "name": "Nissan/Renault V9X 3.0L V6 Turbo Diesel",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 170.0,
+          "power_rpm": "3750",
+          "torque_nm": 550.0,
+          "torque_rpm": "1750",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 24-valve",
+          "notes": "Compacted graphite iron (CGI) block with 550Nm of torque paired with 7-speed automatic."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "RX / ST",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "King Cab",
+            "Dual Cab"
+          ],
+          "drivetrain": "4x2 or 4x4",
+          "transmissions": [
+            "6-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 46990,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1960,
+          "standard_features": [
+            "Utili-track channel tie-down cargo system",
+            "Dual front airbags",
+            "ABS with EBD",
+            "Cruise control",
+            "Air conditioning"
+          ],
+          "notes": "Spacious family and towing ute."
+        },
+        {
+          "badge_name": "ST-X 550",
+          "years": {
+            "start": 2011,
+            "end": 2015
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "Part-Time 4WD",
+          "transmissions": [
+            "7-speed automatic"
+          ],
+          "msrp_aud_min": 60990,
+          "msrp_aud_max": 62990,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 2110,
+          "standard_features": [
+            "170kW/550Nm V6 turbodiesel",
+            "7-speed auto",
+            "Leather-appointed heated seats",
+            "Hard tonneau cover",
+            "Bose audio option",
+            "Smoked chrome grille",
+            "Tub liner"
+          ],
+          "notes": "Australia's undisputed torque king of the dual-cab market."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Navara ST-X 550 V6 Diesel",
+          "body_style": "Dual Cab",
+          "engine_code": "V9X",
+          "transmission": "7-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2011,
+          "years_end": 2015,
+          "msrp_aud": 60990,
+          "power_kw": 170.0,
+          "torque_nm": 550.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 3000,
+          "notes": "550Nm powerhouse capable of 0-100 km/h in 8.8 seconds."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "D40",
+          "category": "exterior",
+          "caption": "2010 Nissan Navara (D40) ST-X Cab Chassis photographed in Adelaide, South Australia",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2010_Nissan_Navara_%28D40%29_ST-X_Cab_Chassis.jpg/1280px-2010_Nissan_Navara_%28D40%29_ST-X_Cab_Chassis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 4.0 (HoldenFan1104)",
+          "local_path": "media/pictures/nissan/navara/nissan_navara_D40_1_2010_Nissan_Navara_D40_ST-X_Cab_Chassis.jpg",
+          "file_size_bytes": 236473,
+          "sha256": "f21fb559b867f885228c973fefc28a983a804d65329e30c7af4d9725ee8fb0e1"
+        }
+      ]
+    },
+    {
+      "series_code": "D23",
+      "generation_name": "Navara 4th Gen & PRO-4X Warrior",
+      "years": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Single Cab",
+        "King Cab",
+        "Dual Cab"
+      ],
+      "platform": "Nissan D23",
+      "ancap_rating": "5 stars",
+      "summary": "Introduced sophisticated 5-link rear coil-spring suspension, twin-turbo diesel 2.3L engine, and the acclaimed Premcar-engineered PRO-4X Warrior off-road flagship.",
+      "engines": [
+        {
+          "engine_code": "YS23DDTT",
+          "name": "Nissan YS23DDTT 2.3L Twin-Turbo Diesel",
+          "displacement_cc": 2298,
+          "displacement_litres": 2.3,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Sequential Twin-Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 140.0,
+          "power_rpm": "3750",
+          "torque_nm": 450.0,
+          "torque_rpm": "1500-2500",
+          "compression_ratio": "15.4:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Small high-pressure turbo for instant response, large low-pressure turbo for top end."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ST / ST-X",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "4x2 or 4x4",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed automatic"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 58730,
+          "fuel_consumption_l_100km": 7.3,
+          "kerb_weight_kg": 2010,
+          "standard_features": [
+            "5-link coil rear suspension",
+            "8-inch touchscreen with Apple CarPlay",
+            "Nissan Intelligent Mobility safety suite",
+            "Tow bar standard (facelift)"
+          ],
+          "notes": "3,500kg braked towing capacity."
+        },
+        {
+          "badge_name": "PRO-4X Warrior by Premcar",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Dual Cab"
+          ],
+          "drivetrain": "Part-Time 4WD with rear diff lock",
+          "transmissions": [
+            "6-speed manual",
+            "7-speed automatic"
+          ],
+          "msrp_aud_min": 67490,
+          "msrp_aud_max": 71265,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 2256,
+          "standard_features": [
+            "Re-engineered locally in Epping VIC by Premcar",
+            "40mm suspension lift with bespoke Monroe dampers",
+            "Hooped steel bullbar with integrated light bar",
+            "3mm steel front bash plate",
+            "17-inch cast alloys with Cooper Discoverer AT3 all-terrain tyres",
+            "Fender flares"
+          ],
+          "notes": "Australian engineered off-road flagship with full factory warranty."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Navara PRO-4X Warrior Auto",
+          "body_style": "Dual Cab",
+          "engine_code": "YS23DDTT",
+          "transmission": "7-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 71265,
+          "power_kw": 140.0,
+          "torque_nm": 450.0,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 3500,
+          "notes": "Turnkey Australian-engineered extreme outback dual cab."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "D23",
+          "category": "exterior",
+          "caption": "NISSAN NAVARA D23",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/NISSAN_NAVARA_D23_China.jpg/1280px-NISSAN_NAVARA_D23_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/nissan/navara/nissan_navara_D23_1_NISSAN_NAVARA_D23_China.jpg",
+          "file_size_bytes": 369655,
+          "sha256": "934cddcec717b429fb8eddc80d04464d8d398765dfca99e62b223843dbd2601c"
+        }
+      ]
+    }
+  ]
+}

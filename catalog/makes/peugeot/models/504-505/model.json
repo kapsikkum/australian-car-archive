@@ -1,0 +1,284 @@
+{
+  "make_slug": "peugeot",
+  "model_slug": "504-505",
+  "name": "504 / 505",
+  "vehicle_type": "Sedan / Wagon / Ute",
+  "segment": "Large Family Car",
+  "years_sold_au": {
+    "start": 1969,
+    "end": "1993"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Martin & King / Motor Producers Ltd, Clayton VIC (1969-1977)",
+    "Renault Australia, Heidelberg VIC (1977-1986)"
+  ],
+  "overview": "The legendary French workhorses assembled in Melbourne for almost two decades. Revered across Australia for soaking up horrific outback corrugations with long-travel independent suspension, victorious in the 1970 Ampol Trial, and winning 1970 Wheels Car of the Year.",
+  "australian_market_notes": "The 504 was assembled at Clayton and later Heidelberg alongside Renaults. Australian versions featured reinforced suspension towers, heavy-duty dust sealing, and local trim. The 505 followed in 1980, assembled in Heidelberg until local manufacturing ceased in 1986, continuing as an import until 1993.",
+  "manuals": [
+    {
+      "title": "Peugeot 504 / 505 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1969,
+      "language": "en",
+      "source_url": "local://catalog/makes/peugeot/models/504-505/model.json",
+      "local_path": "media/manuals/peugeot/504-505/peugeot_504-505_au_technical_manual.pdf",
+      "file_size_bytes": 3900,
+      "sha256": "7df7712405b3be3b34c2a8abdba15670f28dd8faad8070f2cd8f1be894608df7",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Peugeot 504",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1986_Peugeot_504_Group_B_Evo.jpg/1280px-1986_Peugeot_504_Group_B_Evo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Calreyn88)",
+      "local_path": "media/pictures/peugeot/504-505/peugeot_504-505_hero_1_1986_Peugeot_504_Group_B_Evo.jpg",
+      "file_size_bytes": 447209,
+      "sha256": "49f3a1181ad7dee5a9e874ecd5db8edcef04799cb01ef398477d704d127a90c9"
+    },
+    {
+      "category": "exterior",
+      "caption": "Peugeot 504",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Peugeot_504_Convertible.jpg/1280px-Peugeot_504_Convertible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Calreyn88)",
+      "local_path": "media/pictures/peugeot/504-505/peugeot_504-505_hero_2_Peugeot_504_Convertible.jpg",
+      "file_size_bytes": 390275,
+      "sha256": "cd34fa9183854f75b4f5b6be806fdcdcc7f61c2381d3344d1120425b7cabeac2"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "504",
+      "generation_name": "Peugeot 504",
+      "years": {
+        "start": 1969,
+        "end": "1983"
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "Coupe utility (ute)"
+      ],
+      "platform": "Peugeot 504",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "1970 Wheels Car of the Year; four-wheel independent suspension, torque-tube drive, four-wheel disc brakes, and rugged rally durability.",
+      "engines": [
+        {
+          "engine_code": "XN1",
+          "name": "2.0L Carburettor Petrol",
+          "displacement_cc": 1971,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 72,
+          "power_rpm": "5200",
+          "torque_nm": 160,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 8-valve, wet cylinder liners",
+          "notes": "Slant-mounted all-alloy head engine."
+        },
+        {
+          "engine_code": "KF6",
+          "name": "2.0L Mechanical Injection (TI)",
+          "displacement_cc": 1971,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 78,
+          "power_rpm": "5600",
+          "torque_nm": 169,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.8:1",
+          "valvetrain": "OHV 8-valve, Kugelfischer injection",
+          "notes": "Fitted to the sports 504 TI sedan."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "504 GL",
+          "years": {
+            "start": 1969,
+            "end": 1983
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual",
+            "3-speed ZF automatic"
+          ],
+          "msrp_aud_min": 3890,
+          "msrp_aud_max": 9950,
+          "fuel_consumption_l_100km": 10.2,
+          "kerb_weight_kg": 1210,
+          "standard_features": [
+            "Independent rear suspension",
+            "Four-wheel disc brakes",
+            "Fully reclining front seats",
+            "Plush velour upholstery"
+          ],
+          "notes": "Locally assembled Australian market backbone."
+        },
+        {
+          "badge_name": "504 TI",
+          "years": {
+            "start": 1974,
+            "end": 1980
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 6490,
+          "msrp_aud_max": 9450,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1225,
+          "standard_features": [
+            "Kugelfischer mechanical fuel injection",
+            "Tachometer",
+            "Dunlop SP tyres",
+            "Front head restraints"
+          ],
+          "notes": "High-performance touring sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "504 GL",
+          "body_style": "4-door sedan",
+          "engine_code": "XN1",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1972,
+          "years_end": "1980",
+          "msrp_aud": 4995,
+          "power_kw": 72,
+          "torque_nm": 160,
+          "fuel_l_100km": 10.2,
+          "towing_braked_kg": 1200,
+          "notes": "Heidelberg assembled specification."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "504",
+          "category": "exterior",
+          "caption": "1978 Peugeot 504 Ti Automatic 2.0 Front Taken at the 2021 Festival Of The Unexceptional at Grimsthorpe Castle, Lincolnshire",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg/1280px-1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Vauxford)",
+          "local_path": "media/pictures/peugeot/504-505/peugeot_504-505_504_1_1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg",
+          "file_size_bytes": 281902,
+          "sha256": "7262efbdf9e7d700d316d7a97fd568249c1ec51b3943c0637fbb8cbea1fb9382"
+        }
+      ]
+    },
+    {
+      "series_code": "505",
+      "generation_name": "Peugeot 505",
+      "years": {
+        "start": 1980,
+        "end": "1993"
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Peugeot 505",
+      "ancap_rating": "Unrated (Pre-ANCAP)",
+      "summary": "The last rear-wheel drive Peugeot, assembled in Victoria until 1986. Pininfarina styling, 2.2L Douvrin all-alloy engine, power steering, and cavernous 8-seat Familiale.",
+      "engines": [
+        {
+          "engine_code": "ZDJK (Douvrin)",
+          "name": "2.2L OHC Petrol (STI/GTI)",
+          "displacement_cc": 2165,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85,
+          "power_rpm": "5250",
+          "torque_nm": 178,
+          "torque_rpm": "3500",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "SOHC 8-valve, Bosch L-Jetronic",
+          "notes": "All-alloy engine co-developed with Renault."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "505 GTI",
+          "years": {
+            "start": 1984,
+            "end": 1993
+          },
+          "body_styles": [
+            "4-door sedan",
+            "5-door wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed ZF automatic"
+          ],
+          "msrp_aud_min": 24900,
+          "msrp_aud_max": 38900,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1280,
+          "standard_features": [
+            "Alloy wheels",
+            "Power windows",
+            "Central locking",
+            "Air conditioning",
+            "Velour interior",
+            "Rear disc brakes"
+          ],
+          "notes": "Supreme long-distance touring comfort on rural Australian roads."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "505 GTI",
+          "body_style": "4-door sedan",
+          "engine_code": "ZDJK (Douvrin)",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1985,
+          "years_end": "1991",
+          "msrp_aud": 28990,
+          "power_kw": 85,
+          "torque_nm": 178,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 1300,
+          "notes": "Classic rear-wheel-drive French executive sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "505",
+          "category": "exterior",
+          "caption": "1978 Peugeot 504 Ti Automatic 2.0 Front Taken at the 2021 Festival Of The Unexceptional at Grimsthorpe Castle, Lincolnshire",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg/1280px-1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Vauxford)",
+          "local_path": "media/pictures/peugeot/504-505/peugeot_504-505_505_1_1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg",
+          "file_size_bytes": 281902,
+          "sha256": "7262efbdf9e7d700d316d7a97fd568249c1ec51b3943c0637fbb8cbea1fb9382"
+        }
+      ]
+    }
+  ]
+}

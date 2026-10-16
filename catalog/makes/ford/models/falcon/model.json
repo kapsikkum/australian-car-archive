@@ -1,0 +1,743 @@
+{
+  "make_slug": "ford",
+  "model_slug": "falcon",
+  "name": "Ford Falcon",
+  "vehicle_type": "Sedan / Wagon / Coupe",
+  "segment": "Large",
+  "years_sold_au": {
+    "start": 1960,
+    "end": 2016
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Broadmeadows, Victoria",
+    "Eagle Farm, Queensland",
+    "Homebush, New South Wales"
+  ],
+  "overview": "The Ford Falcon is one of the most storied names in Australian industrial and cultural history. Manufactured continuously at Broadmeadows, Victoria for 56 years (1960-2016) across seven distinct generations and over 3.5 million units, the Falcon fought an epic rivalry with the Holden Commodore. From the pioneering XK and the legendary XY GT-HO Phase III (the fastest 4-door production car in the world) to the Australian-designed XA hardtop, the bestselling XF, the indestructible Intech and Barra DOHC sixes, the high-revving Boss V8s, and the supercharged Sprint series, the Falcon embodied Australian engineering resilience and high performance.",
+  "australian_market_notes": "Originally derived from the North American compact Falcon in 1960, the XK was comprehensively modified for Australia following ball-joint challenges, culminating in the 1965 XP Durability Run (70,000 miles at 70 mph at You Yangs). The 1967 XR created the Australian V8 muscle car era with the Falcon GT. The 1972 XA was the first Falcon entirely designed and engineered in Australia. In 1980, the XD/XE introduced alloy cylinder heads and Watts-linkage coil rear suspension. In 2002, the BA Falcon brought the revolutionary 4.0L DOHC 24V 'Barra' inline-six and Control Blade independent rear suspension, winning Wheels COTY. In 2008, the FG became the first Australian-built car to score a maximum 5-star ANCAP safety rating. On 7 October 2016, a blue FG X XR6 sedan became the final vehicle produced by Ford Australia.",
+  "manuals": [
+    {
+      "title": "Ford Ford Falcon Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1960,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/falcon/model.json",
+      "local_path": "media/manuals/ford/falcon/ford_falcon_au_technical_manual.pdf",
+      "file_size_bytes": 9068,
+      "sha256": "80867380b5d3564c88476dd69c2c9084aed93522f48435948e2269f1bd5058c0",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1968 Ford Falcon Brochure. Australia. FXT2/68/5",
+      "year": null,
+      "source_url": "https://archive.org/details/1968-ford-falcon-brochure.-australia.-fxt-2-68-5",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/falcon/ford_falcon_manual_1968_Ford_Falcon_Brochure._Australia._FXT2_68_5.html",
+      "file_size_bytes": 235845,
+      "sha256": "bac5cfbf0f3e91eca552a2abdfd5da91d1c1fcc55e0d7cd4e9870d599b59fd2d"
+    },
+    {
+      "title": "1977 Ford Falcon XC Hardtop Brochure. Australia, October 1976.",
+      "year": null,
+      "source_url": "https://archive.org/details/1977-ford-falcon-xc-hardtop-brochure.-australia-october-1976.",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/falcon/ford_falcon_manual_1977_Ford_Falcon_XC_Hardtop_Brochure._Australia_October_1976..html",
+      "file_size_bytes": 230628,
+      "sha256": "0fd71dcf4c1aabf648b356a66d314e71b07082c3b510181f343e48cc866b87c7"
+    },
+    {
+      "title": "1969 Ford Falcon High Roof Van Brochure. Australia. V 7.69.2",
+      "year": null,
+      "source_url": "https://archive.org/details/1969-ford-falcon-high-roof-van-brochure.-australia.-v-7.69.2",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/falcon/ford_falcon_manual_1969_Ford_Falcon_High_Roof_Van_Brochure._Australia._V_7.69.2.html",
+      "file_size_bytes": 229163,
+      "sha256": "c2ca16020b227c1ebb6e205677593fece43e8b9db61af1d3b19abacd76d0784e"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1971 Ford XY Falcon standard sedan. Formerly used by the New South Wales Police as an unmarked pursuit car, this is a base model Falcon fitted with the 250 2V performance version of the six cylinder engine, as well as a top loader four spee",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/1971_Ford_XY_Falcon_-_NSW_Police_%285125376097%29.jpg/1280px-1971_Ford_XY_Falcon_-_NSW_Police_%285125376097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (sv1ambo)",
+      "local_path": "media/pictures/ford/falcon/ford_falcon_hero_1_1971_Ford_XY_Falcon_-_NSW_Police_5125376097_.jpg",
+      "file_size_bytes": 280760,
+      "sha256": "a8a6e0661ba81e01fdd38aef07935802357f6828d9b233ad4213b6529d1cd0c6"
+    },
+    {
+      "category": "exterior",
+      "caption": "1971 Ford XY Falcon standard sedan. Formerly used by the New South Wales Police as an unmarked pursuit car, this is a base model Falcon fitted with the 250 2V performance version of the six cylinder engine, as well as a top loader four spee",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/1971_Ford_XY_Falcon_-_NSW_Police_%285125380277%29.jpg/1280px-1971_Ford_XY_Falcon_-_NSW_Police_%285125380277%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (sv1ambo)",
+      "local_path": "media/pictures/ford/falcon/ford_falcon_hero_2_1971_Ford_XY_Falcon_-_NSW_Police_5125380277_.jpg",
+      "file_size_bytes": 223269,
+      "sha256": "7410c91f09efcb667a44973a880c47e064b06aaa360a371ea0b572010378f418"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "XR-XY",
+      "generation_name": "Second Generation (XR, XT, XW, XY)",
+      "years": {
+        "start": 1966,
+        "end": 1972
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon"
+      ],
+      "platform": "Ford full-size unibody",
+      "ancap_rating": null,
+      "summary": "Mustang-bred styling; birth of the Australian muscle car with the XR Falcon GT (289 Windsor V8); Allan Moffat's back-to-back Bathurst victories in the 351 Cleveland-powered XY GT-HO Phase III.",
+      "engines": [
+        {
+          "engine_code": "Windsor-289-V8",
+          "name": "Ford Windsor 289ci (4.7L) V8 (XR GT)",
+          "displacement_cc": 4728,
+          "displacement_litres": 4.7,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Super)",
+          "power_kw": 168.0,
+          "power_rpm": "4800",
+          "torque_nm": 414.0,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.8:1",
+          "valvetrain": "OHV 16V",
+          "notes": "Autolite 4-barrel carburettor; first Australian Falcon GT."
+        },
+        {
+          "engine_code": "Cleveland-351-Phase-III",
+          "name": "Ford 351ci (5.8L) Cleveland V8 (XY GT-HO Phase III)",
+          "displacement_cc": 5752,
+          "displacement_litres": 5.8,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (100 Octane)",
+          "power_kw": 283.0,
+          "power_rpm": "5400",
+          "torque_nm": 515.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "11.0:1",
+          "valvetrain": "OHV 16V Solid Lifter High-Lift Cam",
+          "notes": "Holley 780cfm 4-barrel carburettor, 'shaker' air intake; Bathurst 1971 winner; fastest 4-door production car in the world."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Falcon GT",
+          "years": {
+            "start": 1967,
+            "end": 1972
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed Toploader manual",
+            "3-speed Cruisomatic auto"
+          ],
+          "msrp_aud_min": 3890,
+          "msrp_aud_max": 4950,
+          "fuel_consumption_l_100km": 17.5,
+          "kerb_weight_kg": 1520,
+          "standard_features": [
+            "351ci V8 (XW/XY)",
+            "Shaker bonnet scoop",
+            "Full instrumentation including 8,000rpm tachometer",
+            "Front power disc brakes",
+            "Twin exhausts"
+          ],
+          "notes": "The defining muscle car badge of Australia."
+        },
+        {
+          "badge_name": "GT-HO Phase III",
+          "years": {
+            "start": 1971,
+            "end": 1972
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed close-ratio Toploader manual"
+          ],
+          "msrp_aud_min": 5250,
+          "msrp_aud_max": 5800,
+          "fuel_consumption_l_100km": 19.0,
+          "kerb_weight_kg": 1524,
+          "standard_features": [
+            "High-output 351 Cleveland V8",
+            "Detroit Locker 9-inch rear axle",
+            "Heavy-duty front stabilizer",
+            "Rear boot spoiler",
+            "Shaker scoop"
+          ],
+          "notes": "300 units built; 0-100 km/h in 6.4s; top speed 228 km/h; Australia's million-dollar muscle car."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GT-HO Phase III",
+          "body_style": "4-door sedan",
+          "engine_code": "Cleveland-351-Phase-III",
+          "transmission": "4-speed close-ratio Toploader manual",
+          "drivetrain": "RWD",
+          "msrp_aud": 5250,
+          "power_kw": 283.0,
+          "torque_nm": 515.0,
+          "fuel_l_100km": 19.0,
+          "towing_braked_kg": 1500,
+          "notes": "The holy grail of Australian automotive history."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "XR-XY",
+          "category": "exterior",
+          "caption": "The Ford Falcon was Ford America's compact car from 1960-70. The Falcon was also built in Australia for a lot longer period, from 1960-2016, a derivative of the American Falcon until 1971, then from 1972, a completely Australian designed an",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1967_Ford_Falcon_Sports_Coupe_%2824998545529%29.jpg/1280px-1967_Ford_Falcon_Sports_Coupe_%2824998545529%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Sicnag)",
+          "local_path": "media/pictures/ford/falcon/ford_falcon_XR-XY_1_1967_Ford_Falcon_Sports_Coupe_24998545529_.jpg",
+          "file_size_bytes": 349062,
+          "sha256": "e8dfd4ccdc730c88e3818c21522c28d64d749cc35645d60923cbe84b132b8bc9"
+        }
+      ]
+    },
+    {
+      "series_code": "XA-XC",
+      "generation_name": "Third Generation (XA, XB, XC)",
+      "years": {
+        "start": 1972,
+        "end": 1979
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door hardtop coupe"
+      ],
+      "platform": "Ford Australia all-new unibody",
+      "ancap_rating": null,
+      "summary": "First all-Australian designed Falcon. Stunning Coke-bottle styling; Hardtop Coupe; Mad Max Interceptor (XB GT); famous 1977 Bathurst 1-2 Moffat/Bond finish in XC Coupes; XC Cobra limited edition.",
+      "engines": [
+        {
+          "engine_code": "Crossflow-250",
+          "name": "Ford 4.1L (250ci) Crossflow Inline-6",
+          "displacement_cc": 4089,
+          "displacement_litres": 4.1,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 92.0,
+          "power_rpm": "4000",
+          "torque_nm": 298.0,
+          "torque_rpm": "1800",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 12V Crossflow head",
+          "notes": "Introduced in 1976 XC with crossflow cylinder head."
+        },
+        {
+          "engine_code": "Cleveland-351-4V",
+          "name": "Ford 351ci (5.8L) Cleveland V8",
+          "displacement_cc": 5752,
+          "displacement_litres": 5.8,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 224.0,
+          "power_rpm": "5400",
+          "torque_nm": 515.0,
+          "torque_rpm": "3400",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "OHV 16V",
+          "notes": "4-barrel Holley / Motorcraft carburettor."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Falcon 500",
+          "years": {
+            "start": 1972,
+            "end": 1979
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon",
+            "Hardtop"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual",
+            "Cruisomatic 3-speed auto"
+          ],
+          "msrp_aud_min": 3290,
+          "msrp_aud_max": 4450,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1385,
+          "standard_features": [
+            "Flow-through ventilation",
+            "Front disc brakes",
+            "Full steel bumpers"
+          ],
+          "notes": "Mainstream family seller."
+        },
+        {
+          "badge_name": "XC Cobra",
+          "years": {
+            "start": 1978,
+            "end": 1978
+          },
+          "body_styles": [
+            "2-door hardtop coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual (Borg-Warner)",
+            "3-speed auto"
+          ],
+          "msrp_aud_min": 8705,
+          "msrp_aud_max": 10500,
+          "fuel_consumption_l_100km": 16.5,
+          "kerb_weight_kg": 1540,
+          "standard_features": [
+            "White with blue dual racing stripes",
+            "302 or 351 Cleveland V8",
+            "Globe Bathurst alloy wheels",
+            "Rear deck spoiler",
+            "Option 97 homologation pack"
+          ],
+          "notes": "400 numbered coupes built to celebrate the 1977 Bathurst 1-2 victory."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XC Cobra",
+          "body_style": "2-door hardtop coupe",
+          "engine_code": "Cleveland-351-4V",
+          "transmission": "4-speed manual (Borg-Warner)",
+          "drivetrain": "RWD",
+          "msrp_aud": 8950,
+          "power_kw": 162.0,
+          "torque_nm": 429.0,
+          "fuel_l_100km": 16.5,
+          "towing_braked_kg": 1600,
+          "notes": "Iconic Aussie muscle car."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "XA-XC",
+          "category": "exterior",
+          "caption": "A nice XC to round out the XA/XB/XC trio.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/1978_Ford_Falcon_%28XC%29_%2834759357474%29.jpg/1280px-1978_Ford_Falcon_%28XC%29_%2834759357474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+          "local_path": "media/pictures/ford/falcon/ford_falcon_XA-XC_1_1978_Ford_Falcon_XC_34759357474_.jpg",
+          "file_size_bytes": 335135,
+          "sha256": "f65ded1f10e8b8c03bfbe3d200c4dc47bad812381bcd10e9a9adc2ecddc4a5df"
+        }
+      ]
+    },
+    {
+      "series_code": "BA-BF",
+      "generation_name": "Sixth Generation - BA & BF Series",
+      "years": {
+        "start": 2002,
+        "end": 2008
+      },
+      "body_styles": [
+        "4-door sedan",
+        "5-door wagon",
+        "2-door utility"
+      ],
+      "platform": "Ford EA169 architecture",
+      "ancap_rating": "4 Stars",
+      "summary": "Massive $500 million engineering overhaul that won the 2002 Wheels Car of the Year. Introduced the legendary 4.0L DOHC 24V Barra inline-six, the devastating Barra 240T/245T Turbo, Boss 260/290 quad-cam V8s, Control Blade independent rear suspension, and the peerless ZF 6-speed automatic in BF.",
+      "engines": [
+        {
+          "engine_code": "Barra-182",
+          "name": "Barra 182 4.0L DOHC 24V Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 182.0,
+          "power_rpm": "5000",
+          "torque_nm": 380.0,
+          "torque_rpm": "3250",
+          "compression_ratio": "9.7:1",
+          "valvetrain": "DOHC 24V Dual Independent Variable Cam Timing (VCT)",
+          "notes": "Bulletproof Australian-designed six; upgraded to Barra 190 (190kW/383Nm) in BF."
+        },
+        {
+          "engine_code": "Barra-240T",
+          "name": "Barra 240T 4.0L DOHC 24V Turbo Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 240.0,
+          "power_rpm": "5250",
+          "torque_nm": 450.0,
+          "torque_rpm": "2000-4500",
+          "compression_ratio": "8.7:1",
+          "valvetrain": "DOHC 24V DIVCT with Garrett GT3582R Turbocharger",
+          "notes": "Legendary Australian turbo motor; massive low-down torque; upgraded to 245kW in BF."
+        },
+        {
+          "engine_code": "Boss-260-V8",
+          "name": "Boss 260 5.4L DOHC 32V Modular V8",
+          "displacement_cc": 5408,
+          "displacement_litres": 5.4,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Premium Unleaded)",
+          "power_kw": 260.0,
+          "power_rpm": "5250",
+          "torque_nm": 500.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 32V Quad-Cam",
+          "notes": "Cast-iron block with Mustang Cobra R quad-cam cylinder heads."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XT",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual (Tremec T5)",
+            "4-speed auto",
+            "ZF 6-speed auto (BF)"
+          ],
+          "msrp_aud_min": 33900,
+          "msrp_aud_max": 38900,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 1694,
+          "standard_features": [
+            "Barra 182/190 engine",
+            "Control Blade IRS (sedan)",
+            "Interior Command Centre (ICC)",
+            "ABS with EBD",
+            "Dual airbags"
+          ],
+          "notes": "Fleet and family staple."
+        },
+        {
+          "badge_name": "XR6 Turbo",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed/6-speed manual (Tremec T56)",
+            "4-speed auto / ZF 6-speed auto"
+          ],
+          "msrp_aud_min": 44640,
+          "msrp_aud_max": 51200,
+          "fuel_consumption_l_100km": 11.9,
+          "kerb_weight_kg": 1710,
+          "standard_features": [
+            "Barra 240T/245T Turbo",
+            "Sports suspension",
+            "17-inch alloys",
+            "LSD",
+            "Twin exhaust",
+            "Sports seats"
+          ],
+          "notes": "0-100 km/h in 5.9s; performance sensation."
+        },
+        {
+          "badge_name": "XR8",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed/6-speed manual (T56)",
+            "4-speed auto / ZF 6-speed auto"
+          ],
+          "msrp_aud_min": 46990,
+          "msrp_aud_max": 53500,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 1785,
+          "standard_features": [
+            "Boss 260 5.4L 32V V8",
+            "Signature power-bulge bonnet",
+            "17-inch/18-inch alloys",
+            "Heavy-duty brakes",
+            "Sports exhaust"
+          ],
+          "notes": "Deep muscular V8 rumble."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XR6 Turbo",
+          "body_style": "Sedan",
+          "engine_code": "Barra-240T",
+          "transmission": "ZF 6-speed auto (BF)",
+          "drivetrain": "RWD",
+          "msrp_aud": 46490,
+          "power_kw": 245.0,
+          "torque_nm": 480.0,
+          "fuel_l_100km": 11.7,
+          "towing_braked_kg": 2300,
+          "notes": "The benchmark Australian performance sports sedan."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "BA-BF",
+          "category": "exterior",
+          "caption": "2008 Ford BF II Falcon SR sedan, photographed in Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2008_Ford_Falcon_%28BF_II%29_SR_sedan.jpg/1280px-2008_Ford_Falcon_%28BF_II%29_SR_sedan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Bidgee)",
+          "local_path": "media/pictures/ford/falcon/ford_falcon_BA-BF_1_2008_Ford_Falcon_BF_II_SR_sedan.jpg",
+          "file_size_bytes": 268747,
+          "sha256": "2be548d298488e319da51f2ec4b2a612108789054c43d1b9cb4cd76e27655a35"
+        }
+      ]
+    },
+    {
+      "series_code": "FG-FGX",
+      "generation_name": "Seventh Generation - FG & FG X Series",
+      "years": {
+        "start": 2008,
+        "end": 2016
+      },
+      "body_styles": [
+        "4-door sedan",
+        "2-door utility"
+      ],
+      "platform": "Ford Orion platform",
+      "ancap_rating": "5 Stars",
+      "summary": "First Australian-built car to achieve a 5-star ANCAP rating. Barra 195, Barra 270T/310T Turbo, EcoBoost 2.0L Turbo, Boss 290, and final Sprint 6 (325kW) and Sprint 8 (345kW/400kW overboost). Final Australian Falcon built 7 October 2016.",
+      "engines": [
+        {
+          "engine_code": "Barra-195",
+          "name": "Barra 195 4.0L DOHC 24V Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol (Unleaded)",
+          "power_kw": 195.0,
+          "power_rpm": "6000",
+          "torque_nm": 391.0,
+          "torque_rpm": "3250",
+          "compression_ratio": "10.3:1",
+          "valvetrain": "DOHC 24V Dual Independent VCT",
+          "notes": "Composite variable intake manifold, 9.9 L/100km."
+        },
+        {
+          "engine_code": "Barra-270T",
+          "name": "Barra 270T 4.0L DOHC 24V Turbo Inline-6",
+          "displacement_cc": 3984,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (Premium 95/98)",
+          "power_kw": 270.0,
+          "power_rpm": "5250",
+          "torque_nm": 533.0,
+          "torque_rpm": "1950-4750",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "DOHC 24V Garrett GT3576R Water-cooled Turbocharger",
+          "notes": "Massive 533Nm flat torque curve; 0-100 km/h in 5.1s."
+        },
+        {
+          "engine_code": "EcoBoost-2.0T",
+          "name": "Ford EcoBoost 2.0L Turbo Inline-4",
+          "displacement_cc": 1999,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol (95 RON)",
+          "power_kw": 179.0,
+          "power_rpm": "5500",
+          "torque_nm": 353.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16V Ti-VCT Direct Injection",
+          "notes": "Lightened front axle by 54kg, sharpening steering response; 8.1 L/100km."
+        },
+        {
+          "engine_code": "Miami-Supercharged-5.0",
+          "name": "Miami 5.0L Supercharged 32V V8 (Sprint 8)",
+          "displacement_cc": 4951,
+          "displacement_litres": 5.0,
+          "cylinders": 8,
+          "configuration": "V",
+          "aspiration": "Supercharged",
+          "fuel_type": "Petrol (98 RON)",
+          "power_kw": 345.0,
+          "power_rpm": "5750",
+          "torque_nm": 575.0,
+          "torque_rpm": "2220-6250",
+          "compression_ratio": "9.25:1",
+          "valvetrain": "DOHC 32V with Harrop HTV 1900 Supercharger",
+          "notes": "Delivers 400kW and 650Nm on transient overboost; 0-100 km/h in 4.5s; 750 units built."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XR6",
+          "years": {
+            "start": 2008,
+            "end": 2016
+          },
+          "body_styles": [
+            "Sedan",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual",
+            "ZF 6-speed automatic"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 43500,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 1704,
+          "standard_features": [
+            "Barra 195 engine",
+            "Sports suspension",
+            "18-inch alloys",
+            "Sports seats",
+            "8-inch touchscreen (FG X)"
+          ],
+          "notes": "The most popular sports sedan in Australia."
+        },
+        {
+          "badge_name": "XR6 Turbo",
+          "years": {
+            "start": 2008,
+            "end": 2016
+          },
+          "body_styles": [
+            "Sedan",
+            "Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (TR-6060)",
+            "ZF 6-speed automatic (6HP26)"
+          ],
+          "msrp_aud_min": 45490,
+          "msrp_aud_max": 50500,
+          "fuel_consumption_l_100km": 11.7,
+          "kerb_weight_kg": 1762,
+          "standard_features": [
+            "Barra 270T 270kW/533Nm",
+            "Upgraded front brakes",
+            "Limited slip differential",
+            "18-inch/19-inch alloys",
+            "Launch control"
+          ],
+          "notes": "Cult performance icon."
+        },
+        {
+          "badge_name": "XR6 Sprint / XR8 Sprint",
+          "years": {
+            "start": 2016,
+            "end": 2016
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "6-speed manual (XR8)",
+            "ZF 6-speed auto"
+          ],
+          "msrp_aud_min": 54990,
+          "msrp_aud_max": 62190,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 1818,
+          "standard_features": [
+            "Sprint 6 (325kW/370kW overboost) or Sprint 8 (345kW/400kW overboost)",
+            "Brembo 6-piston front brakes",
+            "Pirelli P-Zero tyres",
+            "Sprint numbered build plaque",
+            "Carbon-look accents"
+          ],
+          "notes": "Final limited edition masterpiece; 500 Sprint 6 and 750 Sprint 8 produced."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XR6 Turbo",
+          "body_style": "Sedan",
+          "engine_code": "Barra-270T",
+          "transmission": "ZF 6-speed automatic (6HP26)",
+          "drivetrain": "RWD",
+          "msrp_aud": 46590,
+          "power_kw": 270.0,
+          "torque_nm": 533.0,
+          "fuel_l_100km": 11.7,
+          "towing_braked_kg": 2300,
+          "notes": "0-100 km/h in 5.1s; devastating highway punch."
+        },
+        {
+          "badge_name": "XR8 Sprint",
+          "body_style": "Sedan",
+          "engine_code": "Miami-Supercharged-5.0",
+          "transmission": "ZF 6-speed auto",
+          "drivetrain": "RWD",
+          "msrp_aud": 62190,
+          "power_kw": 345.0,
+          "torque_nm": 575.0,
+          "fuel_l_100km": 14.0,
+          "towing_braked_kg": 2300,
+          "notes": "400kW overboost; ultimate factory Falcon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FG-FGX",
+          "category": "exterior",
+          "caption": "2015 Ford Falcon (FG X) G6E Turbo sedan. Photographed in West Leederville, Western Australia Australia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2015_Ford_Falcon_%28FG_X%29_G6E_Turbo_sedan_%282016-01-29%29_01.jpg/1280px-2015_Ford_Falcon_%28FG_X%29_G6E_Turbo_sedan_%282016-01-29%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (EurovisionNim)",
+          "local_path": "media/pictures/ford/falcon/ford_falcon_FG-FGX_1_2015_Ford_Falcon_FG_X_G6E_Turbo_sedan_2016-01-29_01.jpg",
+          "file_size_bytes": 292680,
+          "sha256": "e1358b1e9ed75896f1d06f4a81b8272f81a5147887fd1f0251ac985e3a8d3c8f"
+        }
+      ]
+    }
+  ]
+}

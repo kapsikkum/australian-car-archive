@@ -1,0 +1,305 @@
+{
+  "make_slug": "holden",
+  "model_slug": "fj",
+  "name": "Holden FJ",
+  "vehicle_type": "Sedan / Coupe Utility / Panel Van",
+  "segment": "Mid-size / Large",
+  "years_sold_au": {
+    "start": 1953,
+    "end": 1956
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Fishermans Bend, Victoria",
+    "Woodville, South Australia",
+    "Pagewood, New South Wales",
+    "The Valley (Fortitude Valley), Queensland",
+    "Mosman Park, Western Australia",
+    "Birkenhead, South Australia"
+  ],
+  "overview": "Launched in October 1953, the Holden FJ is Australia's most recognized cultural automotive icon of the 1950s. Featuring an assertive horizontal chrome tooth grille, redesigned torpedo rear styling, and the introduction of the luxurious 'Special' sedan badge with two-tone leather options, the FJ captured 50% of Australian new car registrations. In December 1953, the iconic FJ Panel Van was introduced, creating the quintessential Aussie tradesman vehicle. The FJ was also Holden's first exported model, shipped to New Zealand in 1954. Total production reached 169,969 units.",
+  "australian_market_notes": "The FJ broadened the Holden range to three sedan trim levels (Standard, Business, and Special) alongside the Coupe Utility and Panel Van. Mechanical updates included modified rear axle ratios, refined front suspension wishbones, and detail upgrades to the reliable 132.5ci Grey motor. The FJ was so ubiquitous on Australian suburban and rural roads that it became an indelible part of post-war Australian identity, celebrated in art, film, and national folklore.",
+  "manuals": [
+    {
+      "title": "Holden Holden FJ Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1953,
+      "language": "en",
+      "source_url": "local://catalog/makes/holden/models/fj/model.json",
+      "local_path": "media/manuals/holden/fj/holden_fj_au_technical_manual.pdf",
+      "file_size_bytes": 4141,
+      "sha256": "816a421a86e3851d981bb0eedd51dc214c22d45f482d0279c29c99cbc8ff1bab",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1954 Holden FJ Ute & Van Brochure. Australia, 2 1954",
+      "year": null,
+      "source_url": "https://archive.org/details/1954-holden-fj-ute-van-brochure.-australia-2-1954",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/fj/holden_fj_manual_1954_Holden_FJ_Ute_Van_Brochure._Australia_2_1954.html",
+      "file_size_bytes": 230447,
+      "sha256": "2182dd9ae06e021869b1c53248709d2df4d50bfc05e5ab35008f4eab09ad27f5"
+    },
+    {
+      "title": "1955 Holden FJ Ute & Van Brochure. Australia. 50 M. D. W. P. 4 55.",
+      "year": null,
+      "source_url": "https://archive.org/details/1955-holden-fj-ute-van-brochure.-australia.-50-m.-d.-w.-p.-4-55.",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/holden/fj/holden_fj_manual_1955_Holden_FJ_Ute_Van_Brochure._Australia._50_M._D._W._P._4_55..html",
+      "file_size_bytes": 234597,
+      "sha256": "3437b64a01ecb514a2d00854c6d663fdabee1d211967528abf779a9b25a8c22f"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "This image is a scan of a 35mm print taken at the Holden Day at Clarendon Showground in 2001",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Holden_FJ_Special_%2817286450052%29.jpg/1280px-Holden_FJ_Special_%2817286450052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/holden/fj/holden_fj_hero_1_Holden_FJ_Special_17286450052_.jpg",
+      "file_size_bytes": 265191,
+      "sha256": "b70578299a280c3b5c721291934b1e1545445fc7cd4a87c25b11943f43faf411"
+    },
+    {
+      "category": "exterior",
+      "caption": "A rusty Holden FJ Special on a car trailer.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Holden_FJ_Special_sedan.jpg/1280px-Holden_FJ_Special_sedan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 2.5 au (Bidgee)",
+      "local_path": "media/pictures/holden/fj/holden_fj_hero_2_Holden_FJ_Special_sedan.jpg",
+      "file_size_bytes": 401018,
+      "sha256": "7fa240db4be3d0667f98751a99210043a903908711c91492d7e67248eaf8af63"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "FJ",
+      "generation_name": "Holden FJ Series",
+      "years": {
+        "start": 1953,
+        "end": 1956
+      },
+      "body_styles": [
+        "4-door sedan",
+        "2-door coupe utility",
+        "2-door panel van"
+      ],
+      "platform": "GM-H FJ integral body-frame",
+      "ancap_rating": null,
+      "summary": "Definitive 1950s Australian icon. Introduced bold chrome grille, FJ Special flagship trim, two-tone paint options, and the first Holden factory Panel Van.",
+      "engines": [
+        {
+          "engine_code": "Grey-132-FJ",
+          "name": "Holden Grey 132.5ci (2.16L) OHV Inline-6",
+          "displacement_cc": 2160,
+          "displacement_litres": 2.16,
+          "cylinders": 6,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 45.0,
+          "power_rpm": "3800",
+          "torque_nm": 136.0,
+          "torque_rpm": "2000",
+          "compression_ratio": "6.5:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Single Stromberg carburettor, 6-volt electrical system, 3-speed manual column shift with synchromesh on 2nd and 3rd gears."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "FJ Standard",
+          "years": {
+            "start": 1953,
+            "end": 1956
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1600,
+          "msrp_aud_max": 1690,
+          "fuel_consumption_l_100km": 9.4,
+          "kerb_weight_kg": 1020,
+          "standard_features": [
+            "Single-color painted exterior",
+            "Painted hubcaps",
+            "Rubber floor mats",
+            "Dual horns",
+            "Column gear change"
+          ],
+          "notes": "Entry-level sedan, model FJ-215."
+        },
+        {
+          "badge_name": "FJ Business",
+          "years": {
+            "start": 1953,
+            "end": 1956
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1650,
+          "msrp_aud_max": 1740,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1030,
+          "standard_features": [
+            "Heavy-duty interior vinyl",
+            "Reinforced seat springing",
+            "Passenger side sunvisor",
+            "Door pull handles"
+          ],
+          "notes": "Model FJ-217 tailored for fleet and taxi operators."
+        },
+        {
+          "badge_name": "FJ Special",
+          "years": {
+            "start": 1953,
+            "end": 1956
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1750,
+          "msrp_aud_max": 1890,
+          "fuel_consumption_l_100km": 9.4,
+          "kerb_weight_kg": 1035,
+          "standard_features": [
+            "Chrome side window surrounds",
+            "Stainless steel side body moldings",
+            "Two-tone leather upholstery options",
+            "Rear passenger armrests",
+            "Cigarette lighter and chrome horn ring"
+          ],
+          "notes": "Flagship luxury trim, model FJ-225; best-selling variant."
+        },
+        {
+          "badge_name": "FJ Utility",
+          "years": {
+            "start": 1953,
+            "end": 1956
+          },
+          "body_styles": [
+            "Coupe Utility"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1480,
+          "msrp_aud_max": 1590,
+          "fuel_consumption_l_100km": 9.6,
+          "kerb_weight_kg": 1005,
+          "standard_features": [
+            "500 kg payload capacity",
+            "Hardwood load bed slats",
+            "Tie-down rope hooks",
+            "Heavy-duty semi-elliptic rear springs"
+          ],
+          "notes": "Model FJ-2106 commercial utility."
+        },
+        {
+          "badge_name": "FJ Panel Van",
+          "years": {
+            "start": 1953,
+            "end": 1956
+          },
+          "body_styles": [
+            "Panel Van"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "3-speed manual column"
+          ],
+          "msrp_aud_min": 1520,
+          "msrp_aud_max": 1640,
+          "fuel_consumption_l_100km": 9.8,
+          "kerb_weight_kg": 1040,
+          "standard_features": [
+            "Enclosed all-steel cargo body",
+            "Dual rear barn doors",
+            "500 kg cargo rating",
+            "Heavy-duty floor timber slats"
+          ],
+          "notes": "Model FJ-2104, introduced in December 1953."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "FJ Special",
+          "body_style": "Sedan",
+          "engine_code": "Grey-132-FJ",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1750,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.4,
+          "towing_braked_kg": 750,
+          "notes": "Most popular Holden passenger car of the 1950s."
+        },
+        {
+          "badge_name": "FJ Standard",
+          "body_style": "Sedan",
+          "engine_code": "Grey-132-FJ",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1600,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.4,
+          "towing_braked_kg": 750,
+          "notes": "Base specification family transport."
+        },
+        {
+          "badge_name": "FJ Utility",
+          "body_style": "Coupe Utility",
+          "engine_code": "Grey-132-FJ",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1480,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.6,
+          "towing_braked_kg": 750,
+          "notes": "Iconic Australian farmer and tradesman workhorse."
+        },
+        {
+          "badge_name": "FJ Panel Van",
+          "body_style": "Panel Van",
+          "engine_code": "Grey-132-FJ",
+          "transmission": "3-speed manual column",
+          "drivetrain": "RWD",
+          "msrp_aud": 1520,
+          "power_kw": 45.0,
+          "torque_nm": 136.0,
+          "fuel_l_100km": 9.8,
+          "towing_braked_kg": 750,
+          "notes": "The birth of the Australian commercial panel van lineage."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "FJ",
+          "category": "exterior",
+          "caption": "Holden FJ King George Square Brisbane",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Holden_FJ_King_George_Square_Brisbane_P1310515a.jpg/1280px-Holden_FJ_King_George_Square_Brisbane_P1310515a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (John Robert McPherson)",
+          "local_path": "media/pictures/holden/fj/holden_fj_FJ_1_Holden_FJ_King_George_Square_Brisbane_P1310515a.jpg",
+          "file_size_bytes": 393769,
+          "sha256": "da52ef2537c3a3d922618006a0d220846a3189d23739e0deeafde78ac82f5b86"
+        }
+      ]
+    }
+  ]
+}

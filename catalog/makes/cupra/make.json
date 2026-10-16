@@ -1,0 +1,67 @@
+{
+  "make_slug": "cupra",
+  "name": "Cupra",
+  "country_of_origin": "Spain",
+  "years_active_au": {
+    "start": 2022,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "SEAT's performance-oriented, design-led Spanish brand, launching Australia as its very first market expansion outside Europe in 2022.",
+  "australian_history": "In mid-2022, Volkswagen Group launched Cupra in Australia, marking the brand's first global expansion beyond the European continent. Operating an agency direct-to-consumer sales model with stylish Cupra City Garages in Sydney, Melbourne, Brisbane, and Perth, the brand targeted progressive, design-focused buyers. The initial line-up comprised the bespoke Formentor crossover, Leon hot hatchback, and Ateca SUV, available in potent VZx configurations with 228kW 2.0 TSI engines and all-wheel drive. Cupra followed with the all-electric Born hatchback in 2023 and introduced plug-in hybrid VZe models.",
+  "models_catalog": [
+    {
+      "model_slug": "formentor",
+      "name": "Formentor",
+      "vehicle_type": "Crossover SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Cupra's bespoke crossover coupe, combining striking copper accents with 228kW all-wheel drive performance.",
+      "generations": [
+        {
+          "series_code": "KM7",
+          "generation_name": "Formentor",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door crossover"
+          ],
+          "summary": "Offered in V, VZ, VZe PHEV, and 228kW/400Nm VZx AWD with Brembo brake option."
+        }
+      ]
+    },
+    {
+      "model_slug": "born",
+      "name": "Born",
+      "vehicle_type": "Hatchback",
+      "segment": "Electric Small Car",
+      "years_sold_au": {
+        "start": 2023,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Cupra's first all-electric hot hatch in Australia, featuring rear-wheel drive and up to 170kW e-Boost performance.",
+      "generations": [
+        {
+          "series_code": "K11",
+          "generation_name": "Born",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door hatchback"
+          ],
+          "summary": "MEB platform, 77kWh usable battery, 511km range, rear-motor RWD with e-Boost."
+        }
+      ]
+    }
+  ]
+}

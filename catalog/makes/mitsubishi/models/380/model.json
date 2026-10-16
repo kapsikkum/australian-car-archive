@@ -1,0 +1,386 @@
+{
+  "make_slug": "mitsubishi",
+  "model_slug": "380",
+  "name": "380",
+  "vehicle_type": "Large Sedan",
+  "segment": "Large Car",
+  "years_sold_au": {
+    "start": 2005,
+    "end": 2008
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Tonsley Park, South Australia (Mitsubishi Motors Australia Limited)"
+  ],
+  "overview": "The Mitsubishi 380 was the final passenger car designed, engineered, and manufactured by Mitsubishi Motors Australia at its Tonsley Park plant in Adelaide. Backed by a $600-million investment and over 2.4 million kilometres of Australian testing, the 380 was powered by a punchy 3.8-litre 6G75 V6 with 175kW and 343Nm, praised by critics for its exceptionally stiff body structure and European-grade chassis dynamics.",
+  "australian_market_notes": "Launched in October 2005 to replace the Magna and Verada, the 380 went toe-to-toe with the Holden Commodore and Ford Falcon. While acclaimed by Wheels and Motor for chassis rigidity and refined ride quality, intense fleet competition and soaring fuel prices hampered sales volumes. Series II and III introduced revised equipment and competitive pricing. The final Mitsubishi 380 rolled off the Tonsley Park production line on 27 March 2008, bringing to an end 43 years of vehicle assembly at the Adelaide factory.",
+  "manuals": [
+    {
+      "title": "Mitsubishi 380 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2005,
+      "language": "en",
+      "source_url": "local://catalog/makes/mitsubishi/models/380/model.json",
+      "local_path": "media/manuals/mitsubishi/380/mitsubishi_380_au_technical_manual.pdf",
+      "file_size_bytes": 5757,
+      "sha256": "baebe4c2cf121a8888e57ea71c57f6626fb91961752954d7010a0241f221c194",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Mitsubishi 380 VRX",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mitsubishi_380_VRX_%2815136025723%29.jpg/1280px-Mitsubishi_380_VRX_%2815136025723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/mitsubishi/380/mitsubishi_380_hero_1_Mitsubishi_380_VRX_15136025723_.jpg",
+      "file_size_bytes": 287847,
+      "sha256": "517f452e06081af54118c928ef208e5bdfee898e616f006bba4834becfafcaff"
+    },
+    {
+      "category": "exterior",
+      "caption": "Mitsubishi 380 VRX",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mitsubishi_380_VRX_%2815523340070%29.jpg/1280px-Mitsubishi_380_VRX_%2815523340070%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/mitsubishi/380/mitsubishi_380_hero_2_Mitsubishi_380_VRX_15523340070_.jpg",
+      "file_size_bytes": 528903,
+      "sha256": "20f0e6e915f3c79d2e573b64c7af01ce1987789db78f593ca00436a9c2196cae"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "DB Series I",
+      "generation_name": "380 Series I",
+      "years": {
+        "start": 2005,
+        "end": 2006
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Mitsubishi PS41",
+      "ancap_rating": "4 stars",
+      "summary": "The culmination of a $600M investment at Tonsley Park. Powered exclusively by the 3.8L 6G75 SOHC 24-valve V6 producing 175kW and 343Nm, with 5-speed manual or 5-speed INVECS-II Sports Mode automatic.",
+      "engines": [
+        {
+          "engine_code": "6G75",
+          "name": "Mitsubishi 6G75 3.8L SOHC 24V V6",
+          "displacement_cc": 3828,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 175.0,
+          "power_rpm": "5250",
+          "torque_nm": 343.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "SOHC 24-valve",
+          "notes": "South Australian assembled 3.8L V6 with broad torque spread (over 300Nm from 1,500rpm)."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "380 (Base) / LS / LX",
+          "years": {
+            "start": 2005,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed INVECS-II automatic"
+          ],
+          "msrp_aud_min": 34490,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1625,
+          "standard_features": [
+            "Four airbags",
+            "ABS with EBD",
+            "Climate control",
+            "Trip computer",
+            "Cruise control",
+            "Power driver seat"
+          ],
+          "notes": "Adelaide-built large sedan."
+        },
+        {
+          "badge_name": "VRX",
+          "years": {
+            "start": 2005,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed INVECS-II automatic"
+          ],
+          "msrp_aud_min": 39990,
+          "msrp_aud_max": 41990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1660,
+          "standard_features": [
+            "Sports suspension tuning",
+            "17-inch 6-spoke alloy wheels",
+            "Sports body kit with rear boot spoiler",
+            "Sports mesh front grille",
+            "Sports cloth bucket seats"
+          ],
+          "notes": "Rival to Falcon XR6 and Commodore SV6."
+        },
+        {
+          "badge_name": "GT",
+          "years": {
+            "start": 2005,
+            "end": 2006
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed INVECS-II automatic"
+          ],
+          "msrp_aud_min": 47990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1690,
+          "standard_features": [
+            "Plush leather upholstery",
+            "Sunroof",
+            "Electrochromic rear-view mirror",
+            "17-inch luxury alloys",
+            "8-speaker premium audio with 6-disc in-dash CD"
+          ],
+          "notes": "Luxury flagship replacing the Verada."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "380 VRX Sports Auto",
+          "body_style": "4-door Sedan",
+          "engine_code": "6G75",
+          "transmission": "5-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2005,
+          "years_end": 2006,
+          "msrp_aud": 41990,
+          "power_kw": 175.0,
+          "torque_nm": 343.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 1600,
+          "notes": "Tonsley Park built sports sedan; 0-100 km/h in 7.6 seconds."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "DB Series I",
+          "category": "exterior",
+          "caption": "2006 Mitsubishi 380 DB Series I",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2006_Mitsubishi_380_DB_Series_I.jpg/1280px-2006_Mitsubishi_380_DB_Series_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (TdU4kluT59Rju)",
+          "local_path": "media/pictures/mitsubishi/380/mitsubishi_380_DB_Series_I_1_2006_Mitsubishi_380_DB_Series_I.jpg",
+          "file_size_bytes": 211532,
+          "sha256": "cc4e2153478ba9af8815bbb940257fe699401d71f9f984f113731e71dee73211"
+        }
+      ]
+    },
+    {
+      "series_code": "DB Series II",
+      "generation_name": "380 Series II",
+      "years": {
+        "start": 2006,
+        "end": 2007
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Mitsubishi PS41",
+      "ancap_rating": "4 stars",
+      "summary": "Major price repositioning to boost showroom traction, introduction of the popular mid-spec 380 SX, Euro III emissions compliance, and factory dual-fuel LPG availability.",
+      "engines": [
+        {
+          "engine_code": "6G75-S2",
+          "name": "Mitsubishi 6G75 3.8L V6 (Euro III)",
+          "displacement_cc": 3828,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 175.0,
+          "power_rpm": "5250",
+          "torque_nm": 343.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "SOHC 24-valve",
+          "notes": "Euro III compliant calibration."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SX",
+          "years": {
+            "start": 2006,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 34990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Sports front bumper insert",
+            "Traction control standard",
+            "Cruise control",
+            "Four airbags"
+          ],
+          "notes": "Added to offer VRX looks at an attractive price."
+        },
+        {
+          "badge_name": "VRX",
+          "years": {
+            "start": 2006,
+            "end": 2007
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 36990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1660,
+          "standard_features": [
+            "Sports suspension",
+            "17-inch sports alloys",
+            "Lip spoiler",
+            "Sports seats",
+            "Silver dash accents"
+          ],
+          "notes": "Aggressive $3,000 price reduction."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "380 SX Auto",
+          "body_style": "4-door Sedan",
+          "engine_code": "6G75-S2",
+          "transmission": "5-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2006,
+          "years_end": 2007,
+          "msrp_aud": 34990,
+          "power_kw": 175.0,
+          "torque_nm": 343.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 1600,
+          "notes": "South Australian built large sedan."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "DB Series III",
+      "generation_name": "380 Series III (Final Adelaide Production)",
+      "years": {
+        "start": 2007,
+        "end": 2008
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Mitsubishi PS41",
+      "ancap_rating": "4 stars",
+      "summary": "Final model year of Australian Mitsubishi manufacturing. Featured standard alloy wheels and traction control across all models, subtle exterior styling revisions, and the limited Platinum Edition.",
+      "engines": [
+        {
+          "engine_code": "6G75-S3",
+          "name": "Mitsubishi 6G75 3.8L V6",
+          "displacement_cc": 3828,
+          "displacement_litres": 3.8,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 175.0,
+          "power_rpm": "5250",
+          "torque_nm": 343.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "SOHC 24-valve",
+          "notes": "Final engine manufactured at the Lonsdale engine plant in Adelaide."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ES / SX / VRX / Platinum",
+          "years": {
+            "start": 2007,
+            "end": 2008
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "5-speed automatic"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1645,
+          "standard_features": [
+            "Standard 16 or 17-inch alloys",
+            "Traction control standard across range",
+            "Revised front air dam",
+            "Leather seats (Platinum)",
+            "Sunroof (Platinum)"
+          ],
+          "notes": "Final production vehicle produced on 27 March 2008."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "380 Series III VRX",
+          "body_style": "4-door Sedan",
+          "engine_code": "6G75-S3",
+          "transmission": "5-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2007,
+          "years_end": 2008,
+          "msrp_aud": 36990,
+          "power_kw": 175.0,
+          "torque_nm": 343.0,
+          "fuel_l_100km": 10.8,
+          "towing_braked_kg": 1600,
+          "notes": "The last Mitsubishi car ever manufactured in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

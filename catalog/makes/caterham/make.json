@@ -1,0 +1,41 @@
+{
+  "make_slug": "caterham",
+  "name": "Caterham",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1985,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The pure evolution of Colin Chapman's Lotus Seven, delivering peerless power-to-weight track performance and road legality in Australia.",
+  "australian_history": "Caterham acquired the rights to the Lotus Seven in 1973 and has been imported into Australia as turn-key and enthusiast road cars since the mid-1980s. Caterham Cars Australia supplies models engineered for ADR compliance, from the Suzuki-turbocharged Seven 160/170 to the manic Ford Duratec-powered Seven 485 and 620R. They remain the gold standard for club motorsport and tarmac rally hillclimbs.",
+  "models_catalog": [
+    {
+      "model_slug": "seven",
+      "name": "Seven",
+      "vehicle_type": "Roadster",
+      "segment": "Track / Sports Car",
+      "years_sold_au": {
+        "start": 1985,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Lightweight open-wheel roadster weighing just 500-600kg, offering unmatched cornering G-forces and mechanical feedback.",
+      "generations": [
+        {
+          "series_code": "Seven-Series",
+          "generation_name": "Caterham Seven",
+          "years": {
+            "start": 1985,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door open roadster"
+          ],
+          "summary": "Tubular steel spaceframe, De Dion rear axle, Rover K-series, and Ford Sigma/Duratec engines up to 177kW in Seven 485."
+        }
+      ]
+    }
+  ]
+}

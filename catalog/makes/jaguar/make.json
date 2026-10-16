@@ -1,0 +1,185 @@
+{
+  "make_slug": "jaguar",
+  "name": "Jaguar",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1946,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": true,
+  "overview": "Grace, pace, and space in Australia, distinguished by 1950s local assembly at Enfield NSW, a stunning 1985 Bathurst 1000 victory with the TWR XJ-S, and modern luxury saloons and SUVs.",
+  "australian_history": "Jaguar cars have enthralled Australians since the XK120 sports car and Mark VII saloon of the early post-war era. Pressed Metal Corporation in Enfield, Sydney assembled Jaguar Mark VII and Mark IX saloons under CKD license in the 1950s. Jaguar's greatest Australian sporting triumph occurred at Mount Panorama on 6 October 1985, when the Tom Walkinshaw Racing (TWR) Jaguar XJ-S V12 driven by John Goss and Armin Hahne won the James Hardie 1000 outright. Sir William Lyons' saloon masterpieces—the Mark 2 and XJ6/XJ12—became fixtures of Australian professional and political society. Modern Jaguar introduced the aluminium XJ, F-Type sports car, F-Pace performance SUV, and all-electric I-Pace.",
+  "models_catalog": [
+    {
+      "model_slug": "xj",
+      "name": "XJ Series",
+      "vehicle_type": "Sedan",
+      "segment": "Upper Luxury Car",
+      "years_sold_au": {
+        "start": 1969,
+        "end": "2019"
+      },
+      "locally_built": false,
+      "overview": "Sir William Lyons' magnum opus, offering cat-like ride compliance, independent rear suspension, and silky XK six and V12 engines.",
+      "generations": [
+        {
+          "series_code": "Series-I-III",
+          "generation_name": "XJ Series I, II & III",
+          "years": {
+            "start": 1969,
+            "end": 1992
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "XJ6 4.2L XK inline-six, XJ12 5.3L V12, and Pininfarina-restyled Series III."
+        },
+        {
+          "series_code": "XJ40-X300-X308",
+          "generation_name": "XJ40, X300 & X308",
+          "years": {
+            "start": 1987,
+            "end": 2003
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "AJ6/AJ16 engines, supercharged XJR6, and retro-modern X308 with 4.0L AJ-V8 supercharged XJR."
+        },
+        {
+          "series_code": "X350-X351",
+          "generation_name": "XJ Aluminium Generations",
+          "years": {
+            "start": 2003,
+            "end": 2019
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Long Wheelbase"
+          ],
+          "summary": "Lightweight bonded aluminium monocoque, Ian Callum design on X351 with 5.0L Supercharged V8 (up to 423kW XJR575)."
+        }
+      ]
+    },
+    {
+      "model_slug": "xj-s",
+      "name": "XJ-S / XJS",
+      "vehicle_type": "Coupe / Convertible",
+      "segment": "Grand Tourer",
+      "years_sold_au": {
+        "start": 1976,
+        "end": "1996"
+      },
+      "locally_built": false,
+      "overview": "V12 grand tourer that achieved Australian immortality winning the 1985 Bathurst 1000 with Goss and Hahne.",
+      "generations": [
+        {
+          "series_code": "XJ-S-Classic",
+          "generation_name": "XJ-S 5.3 V12 & 4.0",
+          "years": {
+            "start": 1976,
+            "end": 1996
+          },
+          "body_styles": [
+            "2-door coupe",
+            "Convertible",
+            "Targa cabriolet"
+          ],
+          "summary": "HE High Efficiency V12, 3.6L/4.0L AJ6 six-cylinder, and 6.0L V12 facelift."
+        }
+      ]
+    },
+    {
+      "model_slug": "f-type",
+      "name": "F-Type",
+      "vehicle_type": "Coupe / Convertible",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 2013,
+        "end": "2024"
+      },
+      "locally_built": false,
+      "overview": "Spiritual successor to the E-Type, featuring lightweight aluminium architecture and roaring supercharged V6 and V8 engines.",
+      "generations": [
+        {
+          "series_code": "X152",
+          "generation_name": "F-Type",
+          "years": {
+            "start": 2013,
+            "end": 2024
+          },
+          "body_styles": [
+            "2-door coupe",
+            "2-door convertible"
+          ],
+          "summary": "3.0L Supercharged V6, 2.0L Turbo, and 423kW 5.0L Supercharged V8 SVR with active exhaust."
+        }
+      ]
+    },
+    {
+      "model_slug": "xj-xjs",
+      "name": "XJ & XJ-S",
+      "vehicle_type": "Large Luxury Sedan / Grand Tourer Coupe",
+      "segment": "Upper Large Luxury Car",
+      "years_sold_au": {
+        "start": 1969,
+        "end": "2019"
+      },
+      "locally_built": false,
+      "overview": "The apex of British automotive grandeur and motorsport glory. Sir William Lyons' XJ6 was declared the finest riding saloon in the world upon its Australian release, while the V12 XJ12 and XJ-S grand tourer achieved immortality when Tom Walkinshaw Racing's Jaguar XJS V12 conquered Mount Panorama to win the 1985 Bathurst 1000. Evolved through supercharged XJR flagships to the bonded-aluminium X350 and avant-garde X351.",
+      "generations": [
+        {
+          "series_code": "Series I-III",
+          "generation_name": "Jaguar XJ6 & XJ12 (Series I, II, III)",
+          "years": {
+            "start": 1969,
+            "end": 1992
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Sir William Lyons' masterpiece. Revered for its sublime ride and handling balance, independent rear suspension isolated in rubber subframe, 4.2L XK straight-six, and the legendary 5.3L V12 (1972 world's first mass-produced 12-cylinder 4-door sedan)."
+        },
+        {
+          "series_code": "XJ-S / XJS",
+          "generation_name": "Jaguar XJ-S & XJS V12 (Bathurst 1000 Winner)",
+          "years": {
+            "start": 1976,
+            "end": 1996
+          },
+          "body_styles": [
+            "2-door coupe",
+            "2-door cabriolet"
+          ],
+          "summary": "Iconic British grand tourer with flying buttress aerodynamic pillars, 5.3L / 6.0L HE V12, and 4.0L AJ6 inline-six. Etched into Australian motorsport history when Tom Walkinshaw Racing's Jaguar XJ-S V12 driven by John Goss and Armin Hahne scored outright victory in the 1985 Bathurst 1000."
+        },
+        {
+          "series_code": "X300/X308 XJR",
+          "generation_name": "Jaguar XJR Supercharged (X300 & X308)",
+          "years": {
+            "start": 1994,
+            "end": "2003"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Introduced factory supercharging to Jaguar. The X300 XJR (1994-1997) featured the 240kW 4.0L Eaton-supercharged AJ16 straight-six, while the X308 XJR (1998-2003) unleashed the 276kW (370hp) AJ-V8 supercharged engine."
+        },
+        {
+          "series_code": "X350/X351",
+          "generation_name": "Jaguar XJ Aluminum Era (X350 & X351)",
+          "years": {
+            "start": 2003,
+            "end": "2019"
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Long Wheelbase (LWB)"
+          ],
+          "summary": "Riveted and bonded aerospace aluminium monocoque reducing weight by 200kg. Progressed to the dramatic Ian Callum-designed X351, culminating in the ferocious XJR575 with 423kW (575hp) 5.0L supercharged V8."
+        }
+      ]
+    }
+  ]
+}

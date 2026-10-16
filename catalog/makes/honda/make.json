@@ -1,0 +1,400 @@
+{
+  "make_slug": "honda",
+  "name": "Honda",
+  "country_of_origin": "Japan",
+  "years_active_au": {
+    "start": 1969,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Celebrated for Formula 1-derived VTEC engine engineering, high-revving sports icons like the NSX, S2000, and Type R, and family benchmarks like CR-V and Civic.",
+  "australian_history": "Honda's automotive presence in Australia began in 1969 when Honda Australia Pty Ltd was established in Melbourne by Colin Campbell. Early imports included the air-cooled Honda Scamp (N360/N600) and the technically advanced 1300 Coupe.\n\nThe pivotal breakthrough arrived in 1973 with the first-generation Civic. Featuring a transverse engine, independent suspension, and the low-emission CVCC clean-burn engine, the Civic was perfectly timed for the 1973 oil crisis and won acclaim for space efficiency. In 1977, the larger Accord arrived, winning the 1977 Wheels Car of the Year award. The sleek Prelude coupe followed in 1979, becoming an aspirational status symbol for young Australian urban professionals.\n\nIn 1991, Honda shook the global exotic car hierarchy with the NSX (New Sportscar eXperimental). Featuring an all-aluminium monocoque, VTEC mid-engine V6, and chassis dynamics honed at Suzuka by Formula 1 champion Ayrton Senna, the NSX challenged Ferrari in Australian showroom prestige. In 1997, Honda launched the CR-V, sparking the Australian lifestyle compact SUV revolution. The 1999 S2000 roadster pushed naturally aspirated engine engineering to 9,000 rpm with 177kW from 2.0 litres.\n\nIn 2003, the European-specification Accord Euro (CL9) won the Wheels Car of the Year award, celebrated for its razor-sharp double-wishbone chassis and slick 6-speed manual gearbox. The Jazz city car introduced clever 'Magic Seats', while Type R variants of the Integra and Civic became Australian track-day royalty. In 2021, Honda Australia transitioned from a franchised dealer model to a national agency model with unified, non-negotiable pricing. Today, Honda's Australian range focuses on Civic (including the FL5 Type R), ZR-V, CR-V, and Accord e:HEV hybrid technology.",
+  "models_catalog": [
+    {
+      "model_slug": "civic",
+      "name": "Civic",
+      "vehicle_type": "Hatchback / Sedan",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1973,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Honda's enduring global icon, sold in Australia across eleven generations and home to the revered Civic Type R.",
+      "generations": [
+        {
+          "series_code": "1st Gen",
+          "generation_name": "Civic 1st Gen",
+          "years": {
+            "start": 1973,
+            "end": 1979
+          },
+          "body_styles": [
+            "2-door Hatch",
+            "4-door Sedan",
+            "Wagon"
+          ],
+          "summary": "1.2L EB1 and 1.5L CVCC engines, independent strut suspension, 1970s economy champion."
+        },
+        {
+          "series_code": "2nd/3rd Gen",
+          "generation_name": "Civic 2nd & 3rd Gen",
+          "years": {
+            "start": 1979,
+            "end": 1987
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Shuttle Wagon"
+          ],
+          "summary": "1.3L, 1.5L EW engines; 3rd-gen introduced flush aero styling and tall-roof Shuttle wagon."
+        },
+        {
+          "series_code": "4th Gen (ED/EF)",
+          "generation_name": "Civic 4th Gen",
+          "years": {
+            "start": 1987,
+            "end": 1991
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Double-wishbone suspension front and rear, 1.5L D15 and 1.6L D16 DOHC engines."
+        },
+        {
+          "series_code": "5th Gen (EG)",
+          "generation_name": "Civic 5th Gen",
+          "years": {
+            "start": 1991,
+            "end": 1995
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "Iconic split-tailgate hatch, 1.5L and 1.6L VTEC (VTi 96kW); GL, Breeze, VTi."
+        },
+        {
+          "series_code": "6th Gen (EK)",
+          "generation_name": "Civic 6th Gen",
+          "years": {
+            "start": 1995,
+            "end": 2000
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Coupe"
+          ],
+          "summary": "1.6L D16 and 1.6L B16A2 DOHC VTEC 118kW (VTI-R); CXi, GLi, VTi, VTi-R."
+        },
+        {
+          "series_code": "7th Gen (EU/ES)",
+          "generation_name": "Civic 7th Gen",
+          "years": {
+            "start": 2000,
+            "end": 2005
+          },
+          "body_styles": [
+            "5-door Hatch",
+            "4-door Sedan"
+          ],
+          "summary": "Dashboard-mounted gearshift, MacPherson front suspension, 1.7L D17 engine."
+        },
+        {
+          "series_code": "8th Gen (FD/FN2)",
+          "generation_name": "Civic 8th Gen",
+          "years": {
+            "start": 2006,
+            "end": 2011
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "3-door Hatch (Type R)"
+          ],
+          "summary": "Two-tier digital instrument dash, 1.8L and 2.0L; UK-built FN2 Type R 2.0L K20Z4 148kW."
+        },
+        {
+          "series_code": "9th Gen (FB/FK)",
+          "generation_name": "Civic 9th Gen",
+          "years": {
+            "start": 2012,
+            "end": 2016
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.8L and 2.0L i-VTEC, VTi, VTi-L, VTi-S, Sport."
+        },
+        {
+          "series_code": "10th Gen (FC/FK)",
+          "generation_name": "Civic 10th Gen",
+          "years": {
+            "start": 2016,
+            "end": 2021
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "summary": "1.5L Turbo VTEC (127kW) and FK8 Type R with 2.0L Turbo K20C1 (228kW/400Nm)."
+        },
+        {
+          "series_code": "11th Gen (FL)",
+          "generation_name": "Civic 11th Gen",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "summary": "Premium cabin, e:HEV hybrid powertrain and world-class FL5 Civic Type R 2.0L Turbo 235kW."
+        }
+      ]
+    },
+    {
+      "model_slug": "accord-euro",
+      "name": "Accord Euro",
+      "vehicle_type": "Sedan",
+      "segment": "Mid-size Car",
+      "years_sold_au": {
+        "start": 2003,
+        "end": "2015"
+      },
+      "locally_built": false,
+      "overview": "European-engineered sports sedan celebrated for benchmark double-wishbone chassis and tactile 6-speed manual; Wheels COTY 2003.",
+      "generations": [
+        {
+          "series_code": "CL9",
+          "generation_name": "Accord Euro 1st Gen",
+          "years": {
+            "start": 2003,
+            "end": 2008
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "2.4L K24A3 i-VTEC engine 140kW, 6-speed manual or 5-speed auto, Wheels COTY 2003."
+        },
+        {
+          "series_code": "CU2",
+          "generation_name": "Accord Euro 2nd Gen",
+          "years": {
+            "start": 2008,
+            "end": 2015
+          },
+          "body_styles": [
+            "Sedan"
+          ],
+          "summary": "Wider track, 2.4L K24Z3 148kW, standard/Luxury/Luxury Navi grades; final European Accord."
+        }
+      ]
+    },
+    {
+      "model_slug": "cr-v",
+      "name": "CR-V",
+      "vehicle_type": "SUV",
+      "segment": "Medium SUV",
+      "years_sold_au": {
+        "start": 1997,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The vehicle that ignited Australia's lifestyle compact SUV revolution, complete with an in-floor picnic table in early models.",
+      "generations": [
+        {
+          "series_code": "RD1-RD3",
+          "generation_name": "CR-V 1st Gen",
+          "years": {
+            "start": 1997,
+            "end": 2001
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.0L B20B/B20Z engine, Real Time 4WD, flat cabin floor, folding picnic table in boot."
+        },
+        {
+          "series_code": "RD4-RD7",
+          "generation_name": "CR-V 2nd Gen",
+          "years": {
+            "start": 2001,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "2.4L K24A1 i-VTEC engine 118kW, increased cargo space, dash-mounted handbrake."
+        },
+        {
+          "series_code": "RE",
+          "generation_name": "CR-V 3rd Gen",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Lower center of gravity, tailgate opening upward instead of outward, 2.4L K24Z 125kW."
+        },
+        {
+          "series_code": "RM",
+          "generation_name": "CR-V 4th Gen",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Offered in 2WD and AWD, 2.0L and 2.4L petrol, plus 1.6L/2.2L i-DTEC diesel."
+        },
+        {
+          "series_code": "RW",
+          "generation_name": "CR-V 5th Gen",
+          "years": {
+            "start": 2017,
+            "end": 2023
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.5L VTEC Turbo (140kW), available 7 seats, Honda Sensing safety suite."
+        },
+        {
+          "series_code": "RS",
+          "generation_name": "CR-V 6th Gen",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "1.5L Turbo petrol and 2.0L two-motor e:HEV hybrid; VTi X, VTi L, e:HEV RS."
+        }
+      ]
+    },
+    {
+      "model_slug": "s2000",
+      "name": "S2000",
+      "vehicle_type": "Roadster Convertible",
+      "segment": "Sports Car",
+      "years_sold_au": {
+        "start": 1999,
+        "end": "2008"
+      },
+      "locally_built": false,
+      "overview": "Pure naturally aspirated roadster celebrating Honda's 50th anniversary, featuring the F20C engine revving to 9,000 rpm.",
+      "generations": [
+        {
+          "series_code": "AP1/AP2",
+          "generation_name": "S2000",
+          "years": {
+            "start": 1999,
+            "end": 2008
+          },
+          "body_styles": [
+            "Roadster Convertible"
+          ],
+          "summary": "2.0L F20C DOHC VTEC producing 177kW at 8,300rpm, 50:50 weight distribution, X-bone frame."
+        }
+      ]
+    },
+    {
+      "model_slug": "nsx",
+      "name": "NSX",
+      "vehicle_type": "Coupe",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 1991,
+        "end": "2020"
+      },
+      "locally_built": false,
+      "overview": "Mid-engine supercar that reset exotic car engineering standards with Ayrton Senna chassis development.",
+      "generations": [
+        {
+          "series_code": "NA1/NA2",
+          "generation_name": "NSX 1st Gen",
+          "years": {
+            "start": 1991,
+            "end": 2002
+          },
+          "body_styles": [
+            "Coupe",
+            "Targa"
+          ],
+          "summary": "All-aluminum monocoque, 3.0L C30A (201kW) then 3.2L C32B (206kW) VTEC V6, 6-speed manual."
+        },
+        {
+          "series_code": "NC1",
+          "generation_name": "NSX 2nd Gen",
+          "years": {
+            "start": 2016,
+            "end": 2020
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "summary": "3.5L Twin-Turbo V6 with three electric motors (Sport Hybrid SH-AWD) generating 427kW."
+        }
+      ]
+    },
+    {
+      "model_slug": "jazz",
+      "name": "Jazz",
+      "vehicle_type": "Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 2002,
+        "end": "2021"
+      },
+      "locally_built": false,
+      "overview": "Masterclass in interior packaging, renowned for its Magic Seats that allowed tall objects or flat camping beds inside a micro footprint.",
+      "generations": [
+        {
+          "series_code": "GD",
+          "generation_name": "Jazz 1st Gen",
+          "years": {
+            "start": 2002,
+            "end": 2008
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "Center-mounted fuel tank, Magic Seats, 1.3L i-DSI and 1.5L VTEC engines; GLi, VTi, VTi-S."
+        },
+        {
+          "series_code": "GE",
+          "generation_name": "Jazz 2nd Gen",
+          "years": {
+            "start": 2008,
+            "end": 2014
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "Expanded cabin, 1.3L and 1.5L i-VTEC, 5-speed auto/manual, introduced Jazz Hybrid in 2013."
+        },
+        {
+          "series_code": "GK",
+          "generation_name": "Jazz 3rd Gen",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "summary": "1.5L direct-injected L15B engine 88kW, CVT automatic, final Jazz model sold in Australia."
+        }
+      ]
+    }
+  ]
+}

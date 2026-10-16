@@ -1,0 +1,41 @@
+{
+  "make_slug": "hummer",
+  "name": "Hummer",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 2007,
+    "end": "2010"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "General Motors' military-styled 4x4 brand sold through GM Holden dealerships from 2007 to 2010 with the factory RHD Hummer H3.",
+  "australian_history": "In mid-2007, GM Holden launched the Hummer brand in Australia, selling the right-hand drive Hummer H3 built at GM's Struandale assembly plant in Port Elizabeth, South Africa. Sold through premium Holden dealer franchises, the H3 offered unmistakable military styling, full-time four-wheel drive with low-range transfer case, and 33-inch all-terrain tyres. It was available with a 3.7-litre Vortec inline-five engine and later the 5.3-litre V8 H3 Alpha. Over 2,000 H3s were sold in Australia before GM wound down the Hummer brand globally following its 2009-2010 restructuring.",
+  "models_catalog": [
+    {
+      "model_slug": "h3",
+      "name": "H3",
+      "vehicle_type": "SUV",
+      "segment": "Mid-size 4WD SUV",
+      "years_sold_au": {
+        "start": 2007,
+        "end": "2010"
+      },
+      "locally_built": false,
+      "overview": "Factory right-hand drive midsize 4WD with aggressive broad-shouldered styling, skid plates, and full-time 4WD.",
+      "generations": [
+        {
+          "series_code": "GMT345",
+          "generation_name": "Hummer H3",
+          "years": {
+            "start": 2007,
+            "end": "2010"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "3.7L Vortec inline-five (180kW) and 5.3L V8 Alpha (224kW / 434Nm), Adventure Pack with locking rear differential."
+        }
+      ]
+    }
+  ]
+}

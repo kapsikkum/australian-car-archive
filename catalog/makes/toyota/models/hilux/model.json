@@ -1,0 +1,668 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "hilux",
+  "name": "HiLux",
+  "vehicle_type": "Ute / Cab Chassis",
+  "segment": "Light Commercial",
+  "years_sold_au": {
+    "start": 1968,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Toyota HiLux is an Australian cultural icon and the country's best-selling vehicle outright from 2016 through 2022. Renowned for near-indestructible durability, it serves on construction sites, farms, mining operations, and outback tracks nationwide.",
+  "australian_market_notes": "First imported in 1968 by Thiess Toyota, the HiLux evolved from a basic 1.5-ton commercial hauler to Australia's favourite dual-cab family and adventure vehicle. The introduction of factory 4WD in 1979 and the solid-axle LN106 established its legendary reputation. The N80 generation introduced high-end Australian-developed flagship editions like Rogue, Rugged X, and the wide-track GR Sport.",
+  "manuals": [
+    {
+      "title": "Toyota HiLux Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1968,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/hilux/model.json",
+      "local_path": "media/manuals/toyota/hilux/toyota_hilux_au_technical_manual.pdf",
+      "file_size_bytes": 7390,
+      "sha256": "6ea6bc3275e299a9de2f5176032e9237cd5b1999aa91f612ed9bb6d92f5903c3",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "1989 Toyota Hilux Brochure. Thailand, 10 1988. AD 8810 M 4.",
+      "year": null,
+      "source_url": "https://archive.org/details/1989-toyota-hilux-brochure.-thailand-10-1988.-ad-8810-m-4.",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/hilux/toyota_hilux_manual_1989_Toyota_Hilux_Brochure._Thailand_10_1988._AD_8810_M_4..html",
+      "file_size_bytes": 231571,
+      "sha256": "f57496c888f9ef1690e350bef9d646c4a25fc1e8d2257b42974aa1f6cb4d0b0d"
+    },
+    {
+      "title": "1984 Toyota 4Runner Brochure. USA, 4-1984. (Toyota Hilux Surf N60).",
+      "year": null,
+      "source_url": "https://archive.org/details/1984-toyota-4-runner-brochure.-usa-4-1984",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/hilux/toyota_hilux_manual_1984_Toyota_4Runner_Brochure._USA_4-1984._Toyota_Hilux_Surf_N60_..html",
+      "file_size_bytes": 228122,
+      "sha256": "69d2af25378f4a8d20077e66721b0c808d28452435d3d778e94cc24b12c49134"
+    },
+    {
+      "title": "TOYOTA HILUX 2021 User Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/toyota-hilux-2021-user-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/hilux/toyota_hilux_manual_TOYOTA_HILUX_2021_User_Manual.html",
+      "file_size_bytes": 203320,
+      "sha256": "4176f135a8c109342ff34eb4828bd87a43695a8d22589077fba73c03cf5eb191"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "2026 Toyota Hilux Z",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2026_Toyota_Hilux_Z.jpg/1280px-2026_Toyota_Hilux_Z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (TTTNIS)",
+      "local_path": "media/pictures/toyota/hilux/toyota_hilux_hero_1_2026_Toyota_Hilux_Z.jpg",
+      "file_size_bytes": 213355,
+      "sha256": "abd1595853bfbdf8271cc686d3b833f55e8e5075a0d8c83d32eafb89ef117d00"
+    },
+    {
+      "category": "exterior",
+      "caption": "Cheshire Fire and Rescue Service Toyota Hilux in the parade at Alsager Carnival 2025",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Alsager_Carnival_-_fire_service_Toyota_Hilux_-_Jun_2025.jpg/1280px-Alsager_Carnival_-_fire_service_Toyota_Hilux_-_Jun_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Dominic Nelson)",
+      "local_path": "media/pictures/toyota/hilux/toyota_hilux_hero_2_Alsager_Carnival_-_fire_service_Toyota_Hilux_-_Jun_2025.jpg",
+      "file_size_bytes": 437861,
+      "sha256": "43df4987f630d164760b378c753de255ad47f84390eda0c45cab5a7862197c40"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "RN10",
+      "generation_name": "HiLux 1st Generation",
+      "years": {
+        "start": 1968,
+        "end": 1972
+      },
+      "body_styles": [
+        "Single Cab Ute"
+      ],
+      "platform": "Toyota N10",
+      "ancap_rating": "Untested",
+      "summary": "The original HiLux introduced to Australia by Thiess Toyota. Simple, durable commercial runabout with a separate chassis and rear leaf springs.",
+      "engines": [
+        {
+          "engine_code": "2R",
+          "name": "Toyota 2R 1.5L",
+          "displacement_cc": 1490,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 57.0,
+          "power_rpm": "5000",
+          "torque_nm": 116.0,
+          "torque_rpm": "2600",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Robust pushrod engine paired with 4-speed column manual."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Standard",
+          "years": {
+            "start": 1968,
+            "end": 1972
+          },
+          "body_styles": [
+            "Single Cab Ute"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 1850,
+          "msrp_aud_max": 2100,
+          "fuel_consumption_l_100km": 9.5,
+          "kerb_weight_kg": 1040,
+          "standard_features": [
+            "Vinyl bench seat",
+            "Heater/demister",
+            "Column gearshift",
+            "14-inch steel wheels"
+          ],
+          "notes": "1-ton payload rating."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Standard",
+          "body_style": "Single Cab Ute",
+          "engine_code": "2R",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1968,
+          "years_end": 1972,
+          "msrp_aud": 1890,
+          "power_kw": 57.0,
+          "torque_nm": 116.0,
+          "fuel_l_100km": 9.5,
+          "towing_braked_kg": 1000,
+          "notes": "Classic Australian workhorse."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "RN10",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 2-door pickup truck, Long Body Deluxe version. On display at 18th Just My Taste Meeting, Miyadai, Tarui, Fuwa, Gifu. 21st April 2024",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Toyota_RN10-D_Hilux_Long_Body_Deluxe_%28No.005%29_%2824042109511%29.jpg/1280px-Toyota_RN10-D_Hilux_Long_Body_Deluxe_%28No.005%29_%2824042109511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (先従隗始)",
+          "local_path": "media/pictures/toyota/hilux/toyota_hilux_RN10_1_Toyota_RN10-D_Hilux_Long_Body_Deluxe_No.005_24042109511_.jpg",
+          "file_size_bytes": 319214,
+          "sha256": "27983bab6849f651a4e2fc59515d47af8b9b3e8c8dd3a3de09f6c34378f8e2f6"
+        }
+      ]
+    },
+    {
+      "series_code": "RN30/LN40",
+      "generation_name": "HiLux 3rd Generation",
+      "years": {
+        "start": 1978,
+        "end": 1983
+      },
+      "body_styles": [
+        "Single Cab",
+        "Dual Cab",
+        "Cab Chassis"
+      ],
+      "platform": "Toyota N30/N40",
+      "ancap_rating": "Untested",
+      "summary": "Pivotal generation introducing factory 4WD in 1979 and the first diesel engine (LN40), establishing the HiLux 4x4 dynasty in Australia.",
+      "engines": [
+        {
+          "engine_code": "18R",
+          "name": "Toyota 18R 2.0L",
+          "displacement_cc": 1968,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 66.0,
+          "power_rpm": "4800",
+          "torque_nm": 145.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "8.5:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Bulletproof SOHC iron-block workhorse."
+        },
+        {
+          "engine_code": "L",
+          "name": "Toyota L 2.2L Diesel",
+          "displacement_cc": 2188,
+          "displacement_litres": 2.2,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 46.0,
+          "power_rpm": "4200",
+          "torque_nm": 126.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "22.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "First diesel engine offered in the Australian HiLux range."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "4WD",
+          "years": {
+            "start": 1979,
+            "end": 1983
+          },
+          "body_styles": [
+            "Single Cab",
+            "Dual Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "4-speed manual",
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 6800,
+          "msrp_aud_max": 8900,
+          "fuel_consumption_l_100km": 10.5,
+          "kerb_weight_kg": 1380,
+          "standard_features": [
+            "Dual-range transfer case",
+            "Solid front axle",
+            "Free-wheeling hubs",
+            "Heavy duty leaf springs"
+          ],
+          "notes": "Revolutionary 4WD ute that opened the bush to recreational and trade buyers."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "4WD",
+          "body_style": "Single Cab",
+          "engine_code": "18R",
+          "transmission": "4-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1979,
+          "years_end": 1983,
+          "msrp_aud": 6990,
+          "power_kw": 66.0,
+          "torque_nm": 145.0,
+          "fuel_l_100km": 11.0,
+          "towing_braked_kg": 1500,
+          "notes": "First factory 4WD HiLux in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "LN106/RN105",
+      "generation_name": "HiLux 5th Generation",
+      "years": {
+        "start": 1988,
+        "end": 1997
+      },
+      "body_styles": [
+        "Single Cab",
+        "Xtra Cab",
+        "Dual Cab"
+      ],
+      "platform": "Toyota N100",
+      "ancap_rating": "Untested",
+      "summary": "Regarded by 4WD enthusiasts as the high-water mark for ruggedness, featuring dual live solid beam axles, leaf springs, and the unkillable 2.8L 3L diesel.",
+      "engines": [
+        {
+          "engine_code": "3L",
+          "name": "Toyota 3L 2.8L Diesel",
+          "displacement_cc": 2779,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Diesel",
+          "power_kw": 60.0,
+          "power_rpm": "4000",
+          "torque_nm": 188.0,
+          "torque_rpm": "2400",
+          "compression_ratio": "22.2:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Renowned for legendary outback reliability and simple mechanical injection."
+        },
+        {
+          "engine_code": "22R",
+          "name": "Toyota 22R 2.4L Petrol",
+          "displacement_cc": 2366,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 75.0,
+          "power_rpm": "4800",
+          "torque_nm": 175.0,
+          "torque_rpm": "2800",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Carburetted and later EFI 22R-E petrol workhorse."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SR5",
+          "years": {
+            "start": 1988,
+            "end": 1997
+          },
+          "body_styles": [
+            "Dual Cab",
+            "Xtra Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 24500,
+          "msrp_aud_max": 34900,
+          "fuel_consumption_l_100km": 10.8,
+          "kerb_weight_kg": 1580,
+          "standard_features": [
+            "Sports instrumentation with tacho",
+            "Cloth bucket seats",
+            "Chrome bumpers and mirrors",
+            "Power steering",
+            "Two-tone paint"
+          ],
+          "notes": "Defined the premium recreational dual-cab 4WD category in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SR5",
+          "body_style": "Dual Cab",
+          "engine_code": "3L",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 1988,
+          "years_end": 1997,
+          "msrp_aud": 29800,
+          "power_kw": 60.0,
+          "torque_nm": 188.0,
+          "fuel_l_100km": 10.5,
+          "towing_braked_kg": 1800,
+          "notes": "LN106 solid axle dual cab legend."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "KUN26/GGN25",
+      "generation_name": "HiLux 7th Generation",
+      "years": {
+        "start": 2005,
+        "end": 2015
+      },
+      "body_styles": [
+        "Single Cab",
+        "Extra Cab",
+        "Double Cab"
+      ],
+      "platform": "Toyota IMV",
+      "ancap_rating": "4 to 5 Stars",
+      "summary": "Built on the IMV global ladder chassis with modern common-rail D-4D diesel and 4.0L V6 power, taking the HiLux to top sales podiums across Australia.",
+      "engines": [
+        {
+          "engine_code": "1KD-FTV",
+          "name": "Toyota 1KD-FTV 3.0L D-4D",
+          "displacement_cc": 2982,
+          "displacement_litres": 3.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 126.0,
+          "power_rpm": "3600",
+          "torque_nm": 343.0,
+          "torque_rpm": "1400-3400",
+          "compression_ratio": "17.9:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Common-rail turbo-diesel that powered thousands of Australian commercial and touring fleets."
+        },
+        {
+          "engine_code": "1GR-FE",
+          "name": "Toyota 1GR-FE 4.0L V6",
+          "displacement_cc": 3956,
+          "displacement_litres": 4.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 175.0,
+          "power_rpm": "5200",
+          "torque_nm": 376.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 24-valve VVT-i",
+          "notes": "Silky, powerful petrol V6 popular with trade and recreational buyers."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SR5",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "Double Cab",
+            "Extra Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto",
+            "5-speed auto"
+          ],
+          "msrp_aud_min": 42990,
+          "msrp_aud_max": 53990,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 1850,
+          "standard_features": [
+            "17-inch alloy wheels",
+            "Sports bar",
+            "Climate control",
+            "Touchscreen audio",
+            "Cruise control",
+            "Fog lights"
+          ],
+          "notes": "Australia's default lifestyle dual-cab benchmark."
+        },
+        {
+          "badge_name": "WorkMate",
+          "years": {
+            "start": 2005,
+            "end": 2015
+          },
+          "body_styles": [
+            "Single Cab",
+            "Double Cab"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 26990,
+          "fuel_consumption_l_100km": 9.2,
+          "kerb_weight_kg": 1420,
+          "standard_features": [
+            "Vinyl floor",
+            "Black bumpers",
+            "Steel wheels",
+            "Heavy duty dropside tray"
+          ],
+          "notes": "Everyday tradie runabout."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SR5",
+          "body_style": "Double Cab",
+          "engine_code": "1KD-FTV",
+          "transmission": "5-speed manual",
+          "drivetrain": "4WD",
+          "years_start": 2005,
+          "years_end": 2015,
+          "msrp_aud": 47990,
+          "power_kw": 126.0,
+          "torque_nm": 343.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 2500,
+          "notes": "Classic D-4D SR5 dual cab."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    },
+    {
+      "series_code": "N80",
+      "generation_name": "HiLux 8th Generation",
+      "years": {
+        "start": 2015,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Single Cab",
+        "Extra Cab",
+        "Double Cab"
+      ],
+      "platform": "Toyota IMV II",
+      "ancap_rating": "5 Stars",
+      "summary": "Australia's outright top-selling motor vehicle from 2016 through 2022, powered by the 2.8L 1GD-FTV diesel with local engineering enhancements like wide-track Rogue and GR Sport.",
+      "engines": [
+        {
+          "engine_code": "1GD-FTV",
+          "name": "Toyota 1GD-FTV 2.8L Turbo-Diesel",
+          "displacement_cc": 2755,
+          "displacement_litres": 2.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Diesel",
+          "power_kw": 150.0,
+          "power_rpm": "3400",
+          "torque_nm": 500.0,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "15.6:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Upgraded in 2020 to 150kW/500Nm, followed by 165kW/550Nm in GR Sport and 48V V-Active mild hybrid."
+        },
+        {
+          "engine_code": "2TR-FE",
+          "name": "Toyota 2TR-FE 2.7L Petrol",
+          "displacement_cc": 2694,
+          "displacement_litres": 2.7,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 122.0,
+          "power_rpm": "5200",
+          "torque_nm": 245.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.2:1",
+          "valvetrain": "DOHC 16-valve Dual VVT-i",
+          "notes": "WorkMate entry petrol 4-cylinder engine."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "SR5",
+          "years": {
+            "start": 2015,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Double Cab",
+            "Extra Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed manual",
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 54440,
+          "msrp_aud_max": 64990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 2050,
+          "standard_features": [
+            "LED headlights",
+            "18-inch alloy wheels",
+            "Toyota Safety Sense (AEB, Lane Trace, Adaptive Cruise)",
+            "Satellite navigation",
+            "Rear diff lock",
+            "Apple CarPlay/Android Auto"
+          ],
+          "notes": "The sales backbone of the Australian dual-cab ute segment."
+        },
+        {
+          "badge_name": "Rogue",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 61990,
+          "msrp_aud_max": 70200,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 2175,
+          "standard_features": [
+            "Wide track suspension (+140mm track width)",
+            "Rear disc brakes",
+            "Motorised roll-cover",
+            "Marine carpet tub liner",
+            "Leather-accented heated seats"
+          ],
+          "notes": "Engineered in Melbourne by Toyota Australia's engineering team."
+        },
+        {
+          "badge_name": "GR Sport",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Double Cab"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 73990,
+          "msrp_aud_max": 74990,
+          "fuel_consumption_l_100km": 8.1,
+          "kerb_weight_kg": 2270,
+          "standard_features": [
+            "165kW/550Nm high-output tune",
+            "Wide track chassis (+140mm front, +155mm rear)",
+            "KYB monotube shock absorbers",
+            "All-terrain tyres",
+            "Rock sliders",
+            "Paddle shifters",
+            "GR leather-suede bucket seats"
+          ],
+          "notes": "Dakar-inspired Australian flagship developed with Gazoo Racing."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SR5",
+          "body_style": "Double Cab",
+          "engine_code": "1GD-FTV",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2020,
+          "years_end": "Present",
+          "msrp_aud": 62490,
+          "power_kw": 150.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 3500,
+          "notes": "Australia's top-selling specification."
+        },
+        {
+          "badge_name": "GR Sport",
+          "body_style": "Double Cab",
+          "engine_code": "1GD-FTV",
+          "transmission": "6-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 74990,
+          "power_kw": 165.0,
+          "torque_nm": 550.0,
+          "fuel_l_100km": 8.1,
+          "towing_braked_kg": 3500,
+          "notes": "High-output wide-track flagship."
+        }
+      ],
+      "manuals": [],
+      "pictures": []
+    }
+  ]
+}

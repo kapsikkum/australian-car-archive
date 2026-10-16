@@ -1,0 +1,81 @@
+{
+  "make_slug": "lamborghini",
+  "name": "Lamborghini",
+  "country_of_origin": "Italy",
+  "years_active_au": {
+    "start": 1965,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Sant'Agata's raging bull supercars in Australia, captivating enthusiasts from the Miura and Countach through the V10 Gallardo and Huracán, and Urus super-SUV.",
+  "australian_history": "Lamborghini entered Australia through specialist agents in the 1960s with the 350GT and Miura. In the 1980s, the scissor-doored Countach captured bedroom posters across the nation. Under Audi/Volkswagen Group ownership, Lamborghini built factory-backed retail networks in Sydney, Melbourne, Brisbane, and Perth. The V10 Gallardo (over 14,000 produced globally) and Huracán democratized everyday supercar usability, while the Urus super-SUV propelled the marque to historic Australian sales records.",
+  "models_catalog": [
+    {
+      "model_slug": "gallardo-huracan",
+      "name": "Gallardo / Huracán",
+      "vehicle_type": "Coupe / Spyder",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 2004,
+        "end": "2024"
+      },
+      "locally_built": false,
+      "overview": "Naturally aspirated V10 mid-engine supercars, offering spine-tingling sound, all-wheel drive, and rear-wheel-drive dynamics.",
+      "generations": [
+        {
+          "series_code": "L140",
+          "generation_name": "Gallardo",
+          "years": {
+            "start": 2004,
+            "end": 2014
+          },
+          "body_styles": [
+            "Coupe",
+            "Spyder"
+          ],
+          "summary": "5.0L and 5.2L V10, gated 6-speed manual and e-gear, LP560-4, and lightweight Superleggera."
+        },
+        {
+          "series_code": "LB724",
+          "generation_name": "Huracán",
+          "years": {
+            "start": 2014,
+            "end": 2024
+          },
+          "body_styles": [
+            "Coupe",
+            "Spyder"
+          ],
+          "summary": "5.2L V10 (up to 470kW), 7-speed dual clutch, LP610-4, Performante with ALA aero, EVO, STO, and off-road Sterrato."
+        }
+      ]
+    },
+    {
+      "model_slug": "urus",
+      "name": "Urus",
+      "vehicle_type": "Super SUV",
+      "segment": "Luxury Performance SUV",
+      "years_sold_au": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The world's first Super Sport Utility Vehicle, powered by a 4.0-litre twin-turbo V8 producing up to 490kW.",
+      "generations": [
+        {
+          "series_code": "Urus-Modern",
+          "generation_name": "Lamborghini Urus",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Twin-turbo 4.0L V8, carbon-ceramic brakes, Urus S, and track-honed Urus Performante."
+        }
+      ]
+    }
+  ]
+}

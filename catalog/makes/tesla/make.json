@@ -1,0 +1,105 @@
+{
+  "make_slug": "tesla",
+  "name": "Tesla",
+  "country_of_origin": "United States",
+  "years_active_au": {
+    "start": 2014,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "The pioneer and market leader of electric vehicles in Australia, transforming the automotive landscape with the top-selling Model 3 and Model Y and an extensive nationwide Supercharger network.",
+  "australian_history": "Tesla officially entered the Australian market in December 2014, delivering its first Model S sedans at a gala event in Sydney. Model X followed in 2016. However, the true Australian EV tipping point occurred in August 2019 with the launch of the Model 3. Built in Shanghai for the Australian market, the Model 3 delivered sharp pricing, class-leading range, and high-performance dual-motor capability. In June 2022, Tesla launched the Model Y SUV in Australia, which immediately surged to become Australia's best-selling electric vehicle and frequently ranked among the top three best-selling vehicles outright in national monthly sales charts. Tesla's proprietary Supercharger network spans coast to coast across Australia, from Cairns to Perth and across regional highways, driving mass-market EV adoption.",
+  "models_catalog": [
+    {
+      "model_slug": "model-3",
+      "name": "Model 3",
+      "vehicle_type": "Sedan",
+      "segment": "Medium Electric Car",
+      "years_sold_au": {
+        "start": 2019,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Australia's landmark electric sports sedan, progressing from original Standard Range Plus to the refined Highland update and 460hp Performance.",
+      "generations": [
+        {
+          "series_code": "Model-3-Original",
+          "generation_name": "Model 3 (Pre-Highland)",
+          "years": {
+            "start": 2019,
+            "end": 2023
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "RWD (LFP battery), Long Range AWD (82kWh ternary NMC), and Performance (357kW, 0-100 in 3.3s, Track Mode)."
+        },
+        {
+          "series_code": "Model-3-Highland",
+          "generation_name": "Model 3 (Highland Facelift)",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Sleeker front/rear lighting, rear 8-inch screen, acoustic glass, ventilated seats, and 343kW Highland Performance."
+        }
+      ]
+    },
+    {
+      "model_slug": "model-y",
+      "name": "Model Y",
+      "vehicle_type": "SUV",
+      "segment": "Medium Electric SUV",
+      "years_sold_au": {
+        "start": 2022,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Australia's top-selling electric SUV, offering expansive panoramic glass roof, cavernous cargo room, and class-leading energy efficiency.",
+      "generations": [
+        {
+          "series_code": "Model-Y-Gen1",
+          "generation_name": "Model Y",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "summary": "Single-motor RWD (60kWh LFP, 455km WLTP), Long Range AWD (75kWh, 533km), and Performance AWD (357kW, 21-inch Uberturbines, 0-100 in 3.7s)."
+        }
+      ]
+    },
+    {
+      "model_slug": "model-s",
+      "name": "Model S",
+      "vehicle_type": "Liftback Sedan",
+      "segment": "Large Luxury Electric Car",
+      "years_sold_au": {
+        "start": 2014,
+        "end": "2020"
+      },
+      "locally_built": false,
+      "overview": "Tesla's flagship sedan that introduced Australia to ludicrous electric acceleration and over-the-air software updates.",
+      "generations": [
+        {
+          "series_code": "Model-S-Gen1",
+          "generation_name": "Model S",
+          "years": {
+            "start": 2014,
+            "end": "2020"
+          },
+          "body_styles": [
+            "5-door liftback"
+          ],
+          "summary": "60, 75D, 85, 90D, 100D, and P100D with Ludicrous Mode delivering 0-100 km/h in 2.6 seconds."
+        }
+      ]
+    }
+  ]
+}

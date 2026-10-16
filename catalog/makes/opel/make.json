@@ -1,0 +1,97 @@
+{
+  "make_slug": "opel",
+  "name": "Opel",
+  "country_of_origin": "Germany",
+  "years_active_au": {
+    "start": 2012,
+    "end": 2013
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": false,
+  "overview": "General Motors' German brand had an extensive presence in Australia rebadged as Holdens (Astra, Barina, Vectra, Calibra, Insignia), but operated briefly as an independent marque from 2012 to 2013.",
+  "australian_history": "While Opel vehicles were sold in Australia for decades under the Holden brand—forming the foundation of the Holden Barina (Corsa B/C), Astra (TR, TS, AH), Vectra (JR, JS, ZC), Calibra, and Zafira—General Motors decided in 2011 to launch Opel as a standalone retail brand in Australia. In August 2012, Opel Australia opened with 17 dedicated dealerships, offering the Corsa, Astra, and Insignia, including high-performance OPC models. However, severe price competition, high import costs, and unfavourable currency exchange rates undermined the business case. On 2 August 2013, just one year after launch and after selling only 1,530 vehicles, GM abruptly shuttered Opel Australia.",
+  "models_catalog": [
+    {
+      "model_slug": "astra",
+      "name": "Astra",
+      "vehicle_type": "Hatchback / Wagon / Coupe",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 2012,
+        "end": 2013
+      },
+      "locally_built": false,
+      "overview": "Sold in 5-door hatchback, Sports Tourer wagon, 3-door GTC coupe, and fire-breathing 206kW Astra OPC hot hatch.",
+      "generations": [
+        {
+          "series_code": "Astra-J",
+          "generation_name": "Astra J",
+          "years": {
+            "start": 2012,
+            "end": 2013
+          },
+          "body_styles": [
+            "5-door hatchback",
+            "Sports Tourer wagon",
+            "3-door GTC"
+          ],
+          "summary": "Powered by 1.4L Turbo, 1.6L Turbo, 2.0 CDTI, and 206kW/400Nm 2.0L Turbo OPC."
+        }
+      ]
+    },
+    {
+      "model_slug": "corsa",
+      "name": "Corsa",
+      "vehicle_type": "Hatchback",
+      "segment": "Light Car",
+      "years_sold_au": {
+        "start": 2012,
+        "end": 2013
+      },
+      "locally_built": false,
+      "overview": "German light car offered in 3-door, 5-door, and 141kW Corsa OPC pocket rocket.",
+      "generations": [
+        {
+          "series_code": "Corsa-D",
+          "generation_name": "Corsa D",
+          "years": {
+            "start": 2012,
+            "end": 2013
+          },
+          "body_styles": [
+            "3-door hatchback",
+            "5-door hatchback"
+          ],
+          "summary": "1.4L naturally aspirated engine and 1.6L Turbo OPC with Recaro shell seats."
+        }
+      ]
+    },
+    {
+      "model_slug": "insignia",
+      "name": "Insignia",
+      "vehicle_type": "Sedan / Wagon",
+      "segment": "Medium Car",
+      "years_sold_au": {
+        "start": 2012,
+        "end": 2013
+      },
+      "locally_built": false,
+      "overview": "Mid-size German sedan and Sports Tourer wagon, crowned by the 2.8L twin-scroll turbo V6 AWD Insignia OPC.",
+      "generations": [
+        {
+          "series_code": "Insignia-A",
+          "generation_name": "Insignia A",
+          "years": {
+            "start": 2012,
+            "end": 2013
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Sports Tourer wagon"
+          ],
+          "summary": "Offered in 2.0 Turbo petrol, 2.0 CDTI diesel, and 239kW Insignia OPC with adaptive 4x4."
+        }
+      ]
+    }
+  ]
+}

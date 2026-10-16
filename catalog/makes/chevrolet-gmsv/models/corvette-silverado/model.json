@@ -1,0 +1,405 @@
+{
+  "make_slug": "chevrolet-gmsv",
+  "model_slug": "corvette-silverado",
+  "name": "Corvette & Silverado",
+  "vehicle_type": "Mid-Engine Supercar / Full-Size Pickup Truck",
+  "segment": "High Performance Supercar / Full-Size Pickup",
+  "years_sold_au": {
+    "start": 2020,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Clayton, Victoria (Walkinshaw Automotive Group RHD Remanufacturing, 2020-Present)"
+  ],
+  "overview": "The modern pillars of General Motors in Australia under GM Specialty Vehicles (GMSV). The eighth-generation C8 Corvette arrived as the world's first factory right-hand drive Corvette directly from the Bowling Green assembly line, offering mid-engine supercar performance and the spine-tingling 500kW flat-plane crank Z06. Alongside it, the Chevrolet Silverado 1500 and 2500HD are remanufactured to RHD in Melbourne by Walkinshaw Automotive Group, delivering up to 1,322Nm of Duramax V8 torque and heavy towing capability.",
+  "australian_market_notes": "Established following the retirement of Holden in 2020. The C8 Corvette created feverish Australian demand with multi-year waiting lists. Concurrently, Walkinshaw Automotive Group remanufactures hundreds of Silverado 1500 and 2500HD pickups monthly at its dedicated Clayton facility in Melbourne.",
+  "manuals": [
+    {
+      "title": "Chevrolet Gmsv Corvette & Silverado Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2020,
+      "language": "en",
+      "source_url": "local://catalog/makes/chevrolet-gmsv/models/corvette-silverado/model.json",
+      "local_path": "media/manuals/chevrolet-gmsv/corvette-silverado/chevrolet-gmsv_corvette-silverado_au_technical_manual.pdf",
+      "file_size_bytes": 6488,
+      "sha256": "8e08bd72ac0575c2ff4dade239eb3bc1f474494fd4b5a5c9f65d957334850063",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "C8 Corvette",
+      "generation_name": "Chevrolet Corvette C8 (Stingray & Z06)",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "2-door coupe (removable targa roof)",
+        "2-door retractable hardtop convertible"
+      ],
+      "platform": "GM Y2XX",
+      "ancap_rating": "Unrated (Supercar)",
+      "summary": "First factory right-hand drive Corvette in history. Mid-engine aluminium structure, Stingray (6.2L LT2 naturally aspirated V8 369kW 637Nm, 8-speed Tremec DCT), and the ferocious Z06 powered by the 5.5L LT6 flat-plane crank naturally aspirated V8 producing 500kW at 8,400rpm.",
+      "engines": [
+        {
+          "engine_code": "LT2",
+          "name": "6.2L Small Block V8 (Stingray)",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 369,
+          "power_rpm": "6450",
+          "torque_nm": 637,
+          "torque_rpm": "5150",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "OHV 16-valve with Variable Valve Timing",
+          "notes": "Dry sump lubrication with 3 scavenge pumps; standard sports exhaust on AU models."
+        },
+        {
+          "engine_code": "LT6",
+          "name": "5.5L Flat-Plane Crank DOHC V8 (Z06)",
+          "displacement_cc": 5463,
+          "displacement_litres": 5.5,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 500,
+          "power_rpm": "8400",
+          "torque_nm": 623,
+          "torque_rpm": "6300",
+          "compression_ratio": "12.5:1",
+          "valvetrain": "DOHC 32-valve with finger-follower valvetrain",
+          "notes": "Most powerful naturally aspirated production V8 ever made; 8600rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "C8 Stingray 2LT / 3LT",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door coupe (removable targa roof)",
+            "2-door retractable hardtop convertible"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "8-speed Tremec dual-clutch"
+          ],
+          "msrp_aud_min": 144990,
+          "msrp_aud_max": 190000,
+          "fuel_consumption_l_100km": 12.3,
+          "kerb_weight_kg": 1530,
+          "standard_features": [
+            "Z51 Performance Package (electronic LSD, Brembo brakes, performance exhaust)",
+            "Magnetic Selective Ride Control",
+            "GT2 bucket seats in Nappa leather",
+            "Front lift with memory",
+            "Bose 14-speaker sound"
+          ],
+          "notes": "0-100km/h in 3.0s. Factory right-hand drive supercar bargain."
+        },
+        {
+          "badge_name": "C8 Z06",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "2-door coupe (removable targa roof)",
+            "2-door retractable hardtop convertible"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "8-speed Tremec dual-clutch"
+          ],
+          "msrp_aud_min": 336000,
+          "msrp_aud_max": 395000,
+          "fuel_consumption_l_100km": 15.1,
+          "kerb_weight_kg": 1560,
+          "standard_features": [
+            "5.5L LT6 flat-plane V8 (670hp)",
+            "94mm wider bodywork",
+            "20-inch front / 21-inch rear forged wheels with 345-width rear Michelin Cup 2 tyres",
+            "Carbon ceramic Brembo brakes",
+            "Carbon fibre aero package"
+          ],
+          "notes": "0-100km/h in 2.6s. Pure naturally aspirated 8600rpm thunder."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "C8 Stingray 2LT / 3LT",
+          "body_style": "2-door coupe (removable targa roof)",
+          "engine_code": "LT2",
+          "transmission": "8-speed Tremec dual-clutch",
+          "drivetrain": "RWD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 160000,
+          "power_kw": 369,
+          "torque_nm": 637,
+          "fuel_l_100km": 12.3,
+          "towing_braked_kg": 0,
+          "notes": "Factory right-hand drive mid-engine Corvette Stingray."
+        },
+        {
+          "badge_name": "C8 Z06",
+          "body_style": "2-door coupe (removable targa roof)",
+          "engine_code": "LT6",
+          "transmission": "8-speed Tremec dual-clutch",
+          "drivetrain": "RWD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 336000,
+          "power_kw": 500,
+          "torque_nm": 623,
+          "fuel_l_100km": 15.1,
+          "towing_braked_kg": 0,
+          "notes": "500kW 8600rpm flat-plane crank supercar."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "C8 Corvette",
+          "category": "exterior",
+          "caption": "A 2023 Chevrolet Corvette C8 taken at London Concours 2024.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2023_Chevrolet_Corvette_C8_Stingray_LC24.jpg/1280px-2023_Chevrolet_Corvette_C8_Stingray_LC24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (MrWalkr)",
+          "local_path": "media/pictures/chevrolet-gmsv/corvette-silverado/chevrolet-gmsv_corvette-silverado_C8_Corvette_1_2023_Chevrolet_Corvette_C8_Stingray_LC24.jpg",
+          "file_size_bytes": 270204,
+          "sha256": "b76abefe5c0bb8ad2c54b5b87cb846b6915d3ffef31b1cf94d60f80119891aad"
+        }
+      ]
+    },
+    {
+      "series_code": "Silverado 1500",
+      "generation_name": "Chevrolet Silverado 1500 (LTZ & ZR2)",
+      "years": {
+        "start": 2020,
+        "end": "Present"
+      },
+      "body_styles": [
+        "4-door Crew Cab Pickup"
+      ],
+      "platform": "GM T1XX",
+      "ancap_rating": "Unrated (Remanufactured)",
+      "summary": "Full-size American pickup remanufactured from LHD to RHD in Melbourne by Walkinshaw Automotive Group. Powered by the 6.2L EcoTec3 V8 (313kW/624Nm) with 10-speed auto, 4,500kg braked towing, luxury LTZ Premium, and hardcore off-road ZR2 with Multimatic DSSV spool-valve dampers.",
+      "engines": [
+        {
+          "engine_code": "L87",
+          "name": "6.2L EcoTec3 V8",
+          "displacement_cc": 6162,
+          "displacement_litres": 6.2,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 313,
+          "power_rpm": "5600",
+          "torque_nm": 624,
+          "torque_rpm": "4100",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "OHV 16-valve with Dynamic Fuel Management (DFM)",
+          "notes": "Aluminium block and heads; can shut down up to 7 cylinders for fuel economy."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Silverado 1500 LTZ Premium",
+          "years": {
+            "start": 2020,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Crew Cab Pickup"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 106990,
+          "msrp_aud_max": 130500,
+          "fuel_consumption_l_100km": 12.8,
+          "kerb_weight_kg": 2540,
+          "standard_features": [
+            "13.4-inch touchscreen display",
+            "12.3-inch digital instrument cluster",
+            "Bose premium audio",
+            "4,500kg towing package with integrated brake controller",
+            "Heated and ventilated leather seats"
+          ],
+          "notes": "Remanufactured in Clayton by Walkinshaw for GMSV."
+        },
+        {
+          "badge_name": "Silverado 1500 ZR2",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Crew Cab Pickup"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "10-speed automatic"
+          ],
+          "msrp_aud_min": 124000,
+          "msrp_aud_max": 138000,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 2575,
+          "standard_features": [
+            "Multimatic DSSV spool-valve dampers",
+            "Front and rear electronic locking differentials",
+            "High-approach steel front bumper",
+            "33-inch Goodyear Wrangler Territory MT tyres",
+            "Black hood insert and ZR2 grille badge"
+          ],
+          "notes": "Hardcore off-road full-size truck."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Silverado 1500 LTZ Premium",
+          "body_style": "4-door Crew Cab Pickup",
+          "engine_code": "L87",
+          "transmission": "10-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2020,
+          "years_end": "Present",
+          "msrp_aud": 121000,
+          "power_kw": 313,
+          "torque_nm": 624,
+          "fuel_l_100km": 12.8,
+          "towing_braked_kg": 4500,
+          "notes": "4500kg towing capacity Walkinshaw remanufactured V8 truck."
+        },
+        {
+          "badge_name": "Silverado 1500 ZR2",
+          "body_style": "4-door Crew Cab Pickup",
+          "engine_code": "L87",
+          "transmission": "10-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 133000,
+          "power_kw": 313,
+          "torque_nm": 624,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 4200,
+          "notes": "Multimatic DSSV damper equipped off-road truck."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Silverado 1500",
+          "category": "exterior",
+          "caption": "22 Chevrolet Silverado 1500 ZR2 - Shot at Earnhardt Buick GMC in Mesa AZ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/22_Chevrolet_Silverado_1500_ZR2.jpg/1280px-22_Chevrolet_Silverado_1500_ZR2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (HJUdall)",
+          "local_path": "media/pictures/chevrolet-gmsv/corvette-silverado/chevrolet-gmsv_corvette-silverado_Silverado_1500_1_22_Chevrolet_Silverado_1500_ZR2.jpg",
+          "file_size_bytes": 484475,
+          "sha256": "1e8602b43e051efdadfe713c72b356fca8d45ed427d4184a34ac27bb9b72599b"
+        }
+      ]
+    },
+    {
+      "series_code": "Silverado 2500HD",
+      "generation_name": "Chevrolet Silverado 2500HD Duramax",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "4-door Crew Cab Heavy Duty Pickup"
+      ],
+      "platform": "GM T1XX Heavy Duty",
+      "ancap_rating": "Unrated (Commercial Heavy Duty)",
+      "summary": "Commercial heavy-duty pickup remanufactured by Walkinshaw in Clayton. Powered by the 6.6L Duramax Turbo-Diesel V8 generating 350kW and a colossal 1,322Nm of torque, paired with an Allison 10-speed automatic transmission. Can tow up to 9,000kg with fifth-wheel / gooseneck attachment.",
+      "engines": [
+        {
+          "engine_code": "L5P",
+          "name": "6.6L Duramax Turbo-Diesel V8",
+          "displacement_cc": 6619,
+          "displacement_litres": 6.6,
+          "cylinders": 8,
+          "configuration": "V8",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 350,
+          "power_rpm": "2800",
+          "torque_nm": 1322,
+          "torque_rpm": "1600-2800",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "OHV 32-valve",
+          "notes": "Variable-geometry turbocharger with integrated exhaust brake; Allison 10-speed."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Silverado 2500HD LTZ Premium",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "4-door Crew Cab Heavy Duty Pickup"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "Allison 10-speed automatic"
+          ],
+          "msrp_aud_min": 144990,
+          "msrp_aud_max": 163000,
+          "fuel_consumption_l_100km": 14.5,
+          "kerb_weight_kg": 3750,
+          "standard_features": [
+            "Duramax 6.6L Turbo-Diesel V8 (1322Nm)",
+            "Allison 10-speed automatic",
+            "StabiliTrak with trailer sway control",
+            "Up to 15 camera views including transparent trailer mode",
+            "Electric power tailgate"
+          ],
+          "notes": "Heavy tow king for massive horse floats and machinery trailers."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Silverado 2500HD LTZ Premium",
+          "body_style": "4-door Crew Cab Heavy Duty Pickup",
+          "engine_code": "L5P",
+          "transmission": "Allison 10-speed automatic",
+          "drivetrain": "4WD",
+          "years_start": 2021,
+          "years_end": "Present",
+          "msrp_aud": 155000,
+          "power_kw": 350,
+          "torque_nm": 1322,
+          "fuel_l_100km": 14.5,
+          "towing_braked_kg": 4500,
+          "notes": "1322Nm Duramax V8 with Allison 10-speed transmission (up to 9000kg 5th wheel)."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Silverado 2500HD",
+          "category": "exterior",
+          "caption": "21 Chevrolet Silverado 2500HD LTZ - Shot at Earnhardt Buick GMC in Mesa AZ",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/21_Chevrolet_Silverado_2500HD_LTZ.jpg/1280px-21_Chevrolet_Silverado_2500HD_LTZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (HJUdall)",
+          "local_path": "media/pictures/chevrolet-gmsv/corvette-silverado/chevrolet-gmsv_corvette-silverado_Silverado_2500HD_1_21_Chevrolet_Silverado_2500HD_LTZ.jpg",
+          "file_size_bytes": 434233,
+          "sha256": "028a29d929dd98e5baf4e62c0ce028c909df1a9fab6a274eecb83af7a8fbc54c"
+        }
+      ]
+    }
+  ]
+}

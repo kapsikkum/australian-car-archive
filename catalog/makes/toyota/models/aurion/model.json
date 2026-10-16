@@ -1,0 +1,396 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "aurion",
+  "name": "Aurion",
+  "vehicle_type": "Large Sedan",
+  "segment": "Large Car",
+  "years_sold_au": {
+    "start": 2006,
+    "end": 2017
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Altona, Victoria (Toyota Motor Corporation Australia)"
+  ],
+  "overview": "The Toyota Aurion was an Australian-manufactured large front-wheel-drive sedan engineered to compete directly against the Holden Commodore and Ford Falcon. Powered exclusively by the 200kW 3.5-litre 2GR-FE V6 and built at Altona, Victoria, it also sired the legendary Eaton TVS supercharged 241kW TRD Aurion.",
+  "australian_market_notes": "Conceived specifically for the Australian market and regional export, the Aurion was launched in October 2006. With bespoke front and rear styling distinct from the four-cylinder Camry, the Aurion captured fleet, police highway patrol, and family sales. The TRD Aurion 3500S and 3500SL, developed by Toyota Racing Development Australia and Prodrive at Clayton VIC, became the world's most powerful front-wheel drive production sedan at release. Production ended on 3 October 2017 with the closure of Altona manufacturing.",
+  "manuals": [
+    {
+      "title": "Toyota Aurion Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2006,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/aurion/model.json",
+      "local_path": "media/manuals/toyota/aurion/toyota_aurion_au_technical_manual.pdf",
+      "file_size_bytes": 4758,
+      "sha256": "2be0107ea940ed8afb393d7e7d311e1d8aa5f76db5e867354c209092a836e633",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Toyota Aurion Car Brochure (2011)",
+      "year": 2011,
+      "source_url": "https://archive.org/details/toyota-aurion-car-brochure-2011",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/aurion/toyota_aurion_manual_Toyota_Aurion_Car_Brochure_2011.html",
+      "file_size_bytes": 216811,
+      "sha256": "b6dc44ebba304f236a45558c4de765b48934f72bea60cb6e37865166baf9ba2c"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "I assume it's a 2011 Toyota Camry. I haven't checked out the VIN yet. I heard that this car was used by the Australian Police and it’s called an Aurion.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/A_Toyota_Camry.jpg/1280px-A_Toyota_Camry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC0 (BloodbornMe)",
+      "local_path": "media/pictures/toyota/aurion/toyota_aurion_hero_1_A_Toyota_Camry.jpg",
+      "file_size_bytes": 735440,
+      "sha256": "1e5b36160bd1a224fe44b1e56ca3901bcd763cf4d9b9c01b2b6e81e42bed4b63"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "XV40",
+      "generation_name": "Aurion 1st Generation",
+      "years": {
+        "start": 2006,
+        "end": 2012
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "4 stars (upgraded to 5 stars from 2009)",
+      "summary": "First-generation Australian-built large V6 sedan. Featured the 200kW 2GR-FE V6, standard 6-speed automatic, and the 241kW Eaton TVS supercharged TRD Aurion 3500S/3500SL.",
+      "engines": [
+        {
+          "engine_code": "2GR-FE",
+          "name": "Toyota 2GR-FE 3.5L Dual VVT-i V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 200.0,
+          "power_rpm": "6200",
+          "torque_nm": 336.0,
+          "torque_rpm": "4700",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-i",
+          "notes": "Altona-assembled V6 running smoothly on regular 91 RON unleaded fuel."
+        },
+        {
+          "engine_code": "2GR-FZE",
+          "name": "Toyota/TRD 2GR-FZE 3.5L Supercharged V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Supercharged (Eaton TVS Twin Vortices Series)",
+          "fuel_type": "Premium Unleaded Petrol",
+          "power_kw": 241.0,
+          "power_rpm": "6400",
+          "torque_nm": 400.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-i",
+          "notes": "First production car in the world to feature the Eaton TVS supercharger; 0-100 km/h in 6.1s."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "AT-X",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 34990,
+          "msrp_aud_max": 35990,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 1590,
+          "standard_features": [
+            "6 airbags",
+            "VSC stability control",
+            "Power driver seat",
+            "Cruise control",
+            "16-inch steel wheels with covers"
+          ],
+          "notes": "Fleet and private value leader."
+        },
+        {
+          "badge_name": "Sportivo SX6 / ZR6",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 38990,
+          "msrp_aud_max": 42990,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 1615,
+          "standard_features": [
+            "Sports body kit and rear spoiler",
+            "17-inch alloy wheels",
+            "Sports suspension tune",
+            "Leather-accented sports seats (ZR6)"
+          ],
+          "notes": "Rivaled Commodore SV6 and Falcon XR6."
+        },
+        {
+          "badge_name": "Presara",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 49990,
+          "msrp_aud_max": 49990,
+          "fuel_consumption_l_100km": 9.9,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "Leather upholstery",
+            "Satellite navigation",
+            "Smart key entry",
+            "Rear sunshade",
+            "Moonroof",
+            "HID headlamps"
+          ],
+          "notes": "Luxury flagship grade."
+        },
+        {
+          "badge_name": "TRD Aurion 3500S / 3500SL",
+          "years": {
+            "start": 2007,
+            "end": 2009
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed sports automatic"
+          ],
+          "msrp_aud_min": 56990,
+          "msrp_aud_max": 61500,
+          "fuel_consumption_l_100km": 10.9,
+          "kerb_weight_kg": 1660,
+          "standard_features": [
+            "241kW supercharged V6",
+            "19-inch alloy wheels with Dunlop SP Sport Maxx tyres",
+            "Brembo-developed 325mm brakes",
+            "TRD sports seats",
+            "TRD aero package"
+          ],
+          "notes": "537 units produced by TRD Prodrive in Melbourne; Australian performance cult classic."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Aurion Sportivo ZR6",
+          "body_style": "4-door Sedan",
+          "engine_code": "2GR-FE",
+          "transmission": "6-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2006,
+          "years_end": 2012,
+          "msrp_aud": 42990,
+          "power_kw": 200.0,
+          "torque_nm": 336.0,
+          "fuel_l_100km": 9.9,
+          "towing_braked_kg": 1600,
+          "notes": "Australian built 200kW performance sedan."
+        },
+        {
+          "badge_name": "TRD Aurion 3500SL Supercharged",
+          "body_style": "4-door Sedan",
+          "engine_code": "2GR-FZE",
+          "transmission": "6-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2007,
+          "years_end": 2009,
+          "msrp_aud": 61500,
+          "power_kw": 241.0,
+          "torque_nm": 400.0,
+          "fuel_l_100km": 10.9,
+          "towing_braked_kg": 1200,
+          "notes": "241kW Eaton TVS supercharged halo model."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XV40",
+          "category": "exterior",
+          "caption": "2007 Toyota Aurion Prodigy, photographed in Canberra, Australian Capital Territory, Australia. Taken with Canon EOS-1Ds Mark II.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2007_Toyota_Aurion_Prodigy_06_%28edit_5%29.jpg/1280px-2007_Toyota_Aurion_Prodigy_06_%28edit_5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Original uploader was Capital photographer (Adam Spence) at en.wikipedia; edit by OSX.)",
+          "local_path": "media/pictures/toyota/aurion/toyota_aurion_XV40_1_2007_Toyota_Aurion_Prodigy_06_edit_5_.jpg",
+          "file_size_bytes": 200909,
+          "sha256": "4121e73df6f5a3660e6329400000572011ca16aa6e76ba9a98da45ec8503cc1c"
+        }
+      ]
+    },
+    {
+      "series_code": "XV50",
+      "generation_name": "Aurion 2nd Generation",
+      "years": {
+        "start": 2012,
+        "end": 2017
+      },
+      "body_styles": [
+        "4-door Sedan"
+      ],
+      "platform": "Toyota K platform",
+      "ancap_rating": "5 stars",
+      "summary": "Second and final generation built at Altona. Redesigned with higher-tensile steel, 5-star ANCAP safety, refined interior quality, and improved fuel efficiency of 9.3L/100km.",
+      "engines": [
+        {
+          "engine_code": "2GR-FE",
+          "name": "Toyota 2GR-FE 3.5L Dual VVT-i V6",
+          "displacement_cc": 3456,
+          "displacement_litres": 3.5,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 200.0,
+          "power_rpm": "6200",
+          "torque_nm": 336.0,
+          "torque_rpm": "4700",
+          "compression_ratio": "10.8:1",
+          "valvetrain": "DOHC 24-valve Dual VVT-i",
+          "notes": "Refined calibration delivering improved fuel economy."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "AT-X",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 36490,
+          "msrp_aud_max": 36490,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1555,
+          "standard_features": [
+            "7 airbags standard",
+            "Reversing camera",
+            "Touchscreen display",
+            "16-inch alloy wheels",
+            "Dual-zone climate control"
+          ],
+          "notes": "Altona built volume large car."
+        },
+        {
+          "badge_name": "Sportivo SX6 / ZR6",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 40990,
+          "msrp_aud_max": 47990,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1590,
+          "standard_features": [
+            "Paddle shifters",
+            "18-inch sports alloys",
+            "Body kit",
+            "Sports suspension tune",
+            "Leather sports seats (ZR6)"
+          ],
+          "notes": "Aussie-tuned sports suspension."
+        },
+        {
+          "badge_name": "Presara",
+          "years": {
+            "start": 2012,
+            "end": 2017
+          },
+          "body_styles": [
+            "4-door Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 49990,
+          "msrp_aud_max": 50440,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1625,
+          "standard_features": [
+            "JBL premium 10-speaker audio",
+            "Blind spot monitor",
+            "Lane departure alert",
+            "Sunroof",
+            "Rear electric sunshade"
+          ],
+          "notes": "Final Australian-built executive luxury sedan."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Aurion Sportivo ZR6",
+          "body_style": "4-door Sedan",
+          "engine_code": "2GR-FE",
+          "transmission": "6-speed automatic",
+          "drivetrain": "FWD",
+          "years_start": 2012,
+          "years_end": 2017,
+          "msrp_aud": 47990,
+          "power_kw": 200.0,
+          "torque_nm": 336.0,
+          "fuel_l_100km": 9.3,
+          "towing_braked_kg": 1600,
+          "notes": "Final Australian-built Toyota V6 sedan before Altona closed in October 2017."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "XV50",
+          "category": "exterior",
+          "caption": "2014 Toyota Aurion Sportivo ZR6 in Harris Park, NSW",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2014_Toyota_Aurion_Sportivo_ZR6_rear.jpg/1280px-2014_Toyota_Aurion_Sportivo_ZR6_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (LuvsMG481)",
+          "local_path": "media/pictures/toyota/aurion/toyota_aurion_XV50_1_2014_Toyota_Aurion_Sportivo_ZR6_rear.jpg",
+          "file_size_bytes": 260762,
+          "sha256": "a66837fb7c3818b8c4fb1aeeeef52fdafe7ad23cae0172f4469ff3efd17521b0"
+        }
+      ]
+    }
+  ]
+}

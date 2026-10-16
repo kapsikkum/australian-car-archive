@@ -1,0 +1,303 @@
+{
+  "make_slug": "proton",
+  "model_slug": "jumbuck-satria",
+  "name": "Jumbuck & Satria (including Satria GTi)",
+  "vehicle_type": "2-Door Coupe / Hatchback / Compact Car-Based Ute",
+  "segment": "Light Performance Hatch / Compact Commercial Ute",
+  "years_sold_au": {
+    "start": 1997,
+    "end": 2013
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The cult Malaysian heroes of Australian roads. The Proton Satria GTi became an instant hot hatch sensation in 1999, engineered with genuine Lotus suspension wizardry, Recaro bucket seats, riveted widebody arch flares, and a twin-cam Mitsubishi engine. Alongside it, the Proton Jumbuck carved out a unique niche from 2003 as Australia's most affordable brand-new ute, offering compact car economy with a half-tonne payload.",
+  "australian_market_notes": "First launched in Australia in 1997 with the Satria 3-door hatch. When Proton acquired Lotus Cars in 1996, the Lotus engineering team transformed the Satria into the GTi, which Australian automotive journalists lauded as a giant-slaying budget driver's car. In 2003, the Jumbuck ute arrived with an entry price of just $11,990 driveaway, quickly becoming a fixture with inner-city couriers, gardeners, and tradies.",
+  "manuals": [
+    {
+      "title": "Proton Jumbuck & Satria (including Satria GTi) Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1997,
+      "language": "en",
+      "source_url": "local://catalog/makes/proton/models/jumbuck-satria/model.json",
+      "local_path": "media/manuals/proton/jumbuck-satria/proton_jumbuck-satria_au_technical_manual.pdf",
+      "file_size_bytes": 5616,
+      "sha256": "0b43645fcaf9a0bbe6588d64f47e1db80065d61405d553b9211ab1ab68f535d1",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [],
+  "generations": [
+    {
+      "series_code": "Satria C99",
+      "generation_name": "Proton Satria & Satria GTi",
+      "years": {
+        "start": 1997,
+        "end": 2005
+      },
+      "body_styles": [
+        "3-door hatchback"
+      ],
+      "platform": "Mitsubishi Mirage (CC/CE derived)",
+      "ancap_rating": "3 stars",
+      "summary": "Built on the Mitsubishi Mirage platform. Standard Satria offered 1.5L and 1.6L engines, while the halo Satria GTi featured a Mitsubishi 4G93P 1.8L DOHC 16V engine (103kW), complete chassis tuning by Lotus Cars, Recaro seats, 16-inch six-spoke alloys, and bolt-on widebody flares.",
+      "engines": [
+        {
+          "engine_code": "4G93P",
+          "name": "1.8L DOHC 16V Petrol (Satria GTi)",
+          "displacement_cc": 1834,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 103,
+          "power_rpm": "6500",
+          "torque_nm": 164,
+          "torque_rpm": "5500",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "Mitsubishi all-iron block, multi-point electronic fuel injection; 7000rpm redline."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Satria GTi",
+          "years": {
+            "start": 1999,
+            "end": 2005
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 25990,
+          "msrp_aud_max": 27990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1115,
+          "standard_features": [
+            "Lotus-tuned suspension (stiffer springs, dampers, anti-roll bars)",
+            "Recaro fabric bucket seats",
+            "Momo leather steering wheel and gear knob",
+            "Riveted widebody wheel arch flares",
+            "16-inch six-spoke alloy wheels",
+            "Four-wheel disc brakes with ABS"
+          ],
+          "notes": "0-100km/h in 7.8s. Highly acclaimed Australian cult classic hot hatch."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Satria GTi",
+          "body_style": "3-door hatchback",
+          "engine_code": "4G93P",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1999,
+          "years_end": 2005,
+          "msrp_aud": 26990,
+          "power_kw": 103,
+          "torque_nm": 164,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 800,
+          "notes": "Lotus-tuned 1.8L DOHC performance hatchback."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Satria C99",
+          "category": "exterior",
+          "caption": "Proton Satria C99 GTi",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2000_Proton_Satria_%28C90%29_GTi_hatchback_%2826304271674%29.jpg/1280px-2000_Proton_Satria_%28C90%29_GTi_hatchback_%2826304271674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+          "local_path": "media/pictures/proton/jumbuck-satria/proton_jumbuck-satria_Satria_C99_1_2000_Proton_Satria_C90_GTi_hatchback_26304271674_.jpg",
+          "file_size_bytes": 340378,
+          "sha256": "b4bf322c06dc7cf2cea3c8ddc3711d81621c45e97124b2779a16734fc0939beb"
+        }
+      ]
+    },
+    {
+      "series_code": "Jumbuck C90",
+      "generation_name": "Proton Jumbuck Ute (GLi & GLSi)",
+      "years": {
+        "start": 2003,
+        "end": 2010
+      },
+      "body_styles": [
+        "2-door car-based utility"
+      ],
+      "platform": "Proton Wira / Persona (Mitsubishi Lancer derived)",
+      "ancap_rating": "1 star",
+      "summary": "Front-wheel drive car-based half-tonne utility developed on the Persona platform. Powered by the proven 1.5L Mitsubishi 4G15 SOHC engine, featuring a heavy-duty leaf-sprung rear beam axle for a 645kg payload, and priced under $15,000 brand new.",
+      "engines": [
+        {
+          "engine_code": "4G15",
+          "name": "1.5L SOHC 12V Petrol",
+          "displacement_cc": 1468,
+          "displacement_litres": 1.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 64,
+          "power_rpm": "6000",
+          "torque_nm": 120,
+          "torque_rpm": "3200",
+          "compression_ratio": "9.2:1",
+          "valvetrain": "SOHC 12-valve (3 valves per cylinder)",
+          "notes": "Electronic multipoint fuel injection; simple, durable Mitsubishi architecture."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Jumbuck GLi / GLSi",
+          "years": {
+            "start": 2003,
+            "end": 2010
+          },
+          "body_styles": [
+            "2-door car-based utility"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 11990,
+          "msrp_aud_max": 15490,
+          "fuel_consumption_l_100km": 7.1,
+          "kerb_weight_kg": 1020,
+          "standard_features": [
+            "645kg payload rating",
+            "Corrugated steel load bed with tie-down hooks",
+            "14-inch steel wheels / alloys (GLSi)",
+            "Power steering",
+            "Air conditioning option"
+          ],
+          "notes": "Australia's most affordable new utility; huge cult popularity with couriers and hobbyists."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Jumbuck GLi / GLSi",
+          "body_style": "2-door car-based utility",
+          "engine_code": "4G15",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2003,
+          "years_end": 2010,
+          "msrp_aud": 13990,
+          "power_kw": 64,
+          "torque_nm": 120,
+          "fuel_l_100km": 7.1,
+          "towing_braked_kg": 1000,
+          "notes": "Compact car-based half-tonne utility."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Jumbuck C90",
+          "category": "exterior",
+          "caption": "I'm really surprised Proton haven't come up with a replacement for the trusty Jumbuck, considering how popular it was here in Australia. I'm even more surprised why no other manufacturers imported their compact Utes, like the Fiat Strada, V",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2003-2010_Proton_Jumbuck_%28C90%29_GLi_utility_%2817280197806%29.jpg/1280px-2003-2010_Proton_Jumbuck_%28C90%29_GLi_utility_%2817280197806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+          "local_path": "media/pictures/proton/jumbuck-satria/proton_jumbuck-satria_Jumbuck_C90_1_2003-2010_Proton_Jumbuck_C90_GLi_utility_17280197806_.jpg",
+          "file_size_bytes": 261784,
+          "sha256": "b0d93b2ffe15d6fd26c682319a5801efebbc688159114c0a9ba26d4b18a9533c"
+        }
+      ]
+    },
+    {
+      "series_code": "Satria Neo",
+      "generation_name": "Proton Satria Neo & Neo Club-Racer",
+      "years": {
+        "start": 2007,
+        "end": 2013
+      },
+      "body_styles": [
+        "3-door hatchback"
+      ],
+      "platform": "Proton Neo platform",
+      "ancap_rating": "4 stars",
+      "summary": "Clean-sheet Proton chassis engineered with direct Lotus ride and handling development. Powered by the CamPro 1.6L 16V engine (and later CamPro CPS with variable cam profile, 93kW), flared bodywork, and central-exit exhaust.",
+      "engines": [
+        {
+          "engine_code": "CamPro CPS",
+          "name": "1.6L DOHC 16V CPS Petrol",
+          "displacement_cc": 1597,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 93,
+          "power_rpm": "6500",
+          "torque_nm": 150,
+          "torque_rpm": "4500",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve Cam Profile Switching (CPS)",
+          "notes": "Lotus engineered variable valve lift and timing system."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Satria Neo CPS / Club-Racer",
+          "years": {
+            "start": 2009,
+            "end": 2013
+          },
+          "body_styles": [
+            "3-door hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed automatic"
+          ],
+          "msrp_aud_min": 17990,
+          "msrp_aud_max": 20990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1190,
+          "standard_features": [
+            "Lotus ride and handling badge",
+            "16-inch turbine alloy wheels",
+            "Center-exit exhaust",
+            "Leather sport steering wheel",
+            "Aggressive front bumper and roof spoiler"
+          ],
+          "notes": "Affordable driver's chassis developed by Lotus."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Satria Neo CPS / Club-Racer",
+          "body_style": "3-door hatchback",
+          "engine_code": "CamPro CPS",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2009,
+          "years_end": 2013,
+          "msrp_aud": 18990,
+          "power_kw": 93,
+          "torque_nm": 150,
+          "fuel_l_100km": 7.4,
+          "towing_braked_kg": 1000,
+          "notes": "Lotus-tuned CamPro CPS hot hatch."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Satria Neo",
+          "category": "exterior",
+          "caption": "A Proton Satria Neo in Kuala Lumpur, Malaysia.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Proton_Satria_Neo%2C_Kuala_Lumpur.jpg/1280px-Proton_Satria_Neo%2C_Kuala_Lumpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.5 (User:Two hundred percent)",
+          "local_path": "media/pictures/proton/jumbuck-satria/proton_jumbuck-satria_Satria_Neo_1_Proton_Satria_Neo_Kuala_Lumpur.jpg",
+          "file_size_bytes": 182710,
+          "sha256": "d5c93fa7c44e5c1a73f691d83f292f56b876e037e6158a4389913af608b91b44"
+        }
+      ]
+    }
+  ]
+}

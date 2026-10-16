@@ -1,0 +1,42 @@
+{
+  "make_slug": "mclaren",
+  "name": "McLaren",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 2011,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Woking's Formula 1-derived supercar manufacturer, delivering carbon-fibre MonoCell architecture, dihedral doors, and twin-turbo performance to Australian roads.",
+  "australian_history": "McLaren Automotive officially entered Australia in 2011 with the launch of the MP4-12C, opening factory showrooms in Sydney and Melbourne, later expanding to Brisbane and the Gold Coast. Australian supercar enthusiasts embraced McLaren's race-bred carbon-fibre chassis, Proactive Chassis Control hydraulic suspension, and blistering twin-turbo V8 speed. Standout models include the 650S, 570S, the game-changing 720S/765LT, the hybrid Artura, and the hypercar Ultimate Series (P1, Senna, and Speedtail).",
+  "models_catalog": [
+    {
+      "model_slug": "720s-750s",
+      "name": "720S / 750S",
+      "vehicle_type": "Coupe / Spider",
+      "segment": "Supercar",
+      "years_sold_au": {
+        "start": 2017,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "Super Series benchmark featuring eye-socket aerodynamics, 4.0-litre twin-turbo V8, and active hydraulic suspension.",
+      "generations": [
+        {
+          "series_code": "720S-750S",
+          "generation_name": "720S & 750S",
+          "years": {
+            "start": 2017,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe",
+            "Spider"
+          ],
+          "summary": "MonoCage II carbon tub; 530kW (720S) to 552kW (750S), 0-100 km/h in 2.8 seconds, and track-honed 765LT."
+        }
+      ]
+    }
+  ]
+}

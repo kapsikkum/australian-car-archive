@@ -1,0 +1,305 @@
+{
+  "make_slug": "mazda",
+  "model_slug": "rx-7",
+  "name": "RX-7",
+  "vehicle_type": "Coupe",
+  "segment": "Sports Car",
+  "years_sold_au": {
+    "start": 1979,
+    "end": "2002"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mazda RX-7 is a rotary-powered sports car legend with deep Australian motorsport roots. From Allan Moffat's ATCC championship and Bathurst battles in the 1980s to Mazda Motorsport's Australian-exclusive RX-7 SP winning the Bathurst 12 Hour in 1995.",
+  "australian_market_notes": "First imported in 1979, the RX-7 proved the reliability and racing potential of Felix Wankel's rotary design. The Series 1-3 dominated touring cars. In 1995, Allan Horsley and Mazda Motorsport in Melbourne developed the street-legal RX-7 SP (Series 6), building 35 homologation specials with 204kW, an enormous rear wing, and a 120-litre carbon fuel tank to defeat Porsche and win Eastern Creek and Bathurst 12 Hour endurance races.",
+  "manuals": [
+    {
+      "title": "Mazda RX-7 Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1979,
+      "language": "en",
+      "source_url": "local://catalog/makes/mazda/models/rx-7/model.json",
+      "local_path": "media/manuals/mazda/rx-7/mazda_rx-7_au_technical_manual.pdf",
+      "file_size_bytes": 3954,
+      "sha256": "8de1e86cad5e7fdf1c6c5b05a3c736c477d8a8c49c65b56ff5b3c1adf257a820",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Mazda RX 7 Werkstatt- & Schulungshandbücher",
+      "year": null,
+      "source_url": "https://archive.org/details/rx-7-kundendienstschule-egi",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/rx-7/mazda_rx-7_manual_Mazda_RX_7_Werkstatt-_Schulungshandb_cher.html",
+      "file_size_bytes": 307292,
+      "sha256": "140abe25dc5392405d9f0a465bfadbc4129db9db35e238a5aa34d2add06e1bbb"
+    },
+    {
+      "title": "'94 Mazda RX-7 Factory Service Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6874614",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/rx-7/mazda_rx-7_manual__94_Mazda_RX-7_Factory_Service_Manual.html",
+      "file_size_bytes": 217028,
+      "sha256": "ccf5ce9c4830a0ed3e66a0c890d638bf07873336d9ccc0637cfafead6d12a106"
+    },
+    {
+      "title": "'94 Mazda RX-7 Factory Service Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-6874752",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mazda/rx-7/mazda_rx-7_manual__94_Mazda_RX-7_Factory_Service_Manual.html",
+      "file_size_bytes": 216776,
+      "sha256": "e194a91789ab29500931a490ee35a0ede6d40b77eccb1908966efdefc6ba71f9"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "Mazda RX7 Series 2",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/1981_Mazda_RX-7_%28FB_Series_2%29_coupe_%2816573759746%29.jpg/1280px-1981_Mazda_RX-7_%28FB_Series_2%29_coupe_%2816573759746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/mazda/rx-7/mazda_rx-7_hero_1_1981_Mazda_RX-7_FB_Series_2_coupe_16573759746_.jpg",
+      "file_size_bytes": 278400,
+      "sha256": "51710d5dbb61817e8924ce7f9e298496e168a6cc85cad6e30f251cc724332507"
+    },
+    {
+      "category": "exterior",
+      "caption": "This image is a scan of a print taken in 1993",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Mazda_RX-7_Bathurst_12_Hour_Race_Car_%2815719914113%29.jpg/1280px-Mazda_RX-7_Bathurst_12_Hour_Race_Car_%2815719914113%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Jeremy from Sydney, Australia)",
+      "local_path": "media/pictures/mazda/rx-7/mazda_rx-7_hero_2_Mazda_RX-7_Bathurst_12_Hour_Race_Car_15719914113_.jpg",
+      "file_size_bytes": 304758,
+      "sha256": "c2675dfafa35616358e8408330b301651bb836f59820b1b03e1d5d0a7583b23e"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "SA22C/FB",
+      "generation_name": "RX-7 Series 1-3",
+      "years": {
+        "start": 1979,
+        "end": "1985"
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Mazda SA22C",
+      "ancap_rating": "Untested",
+      "summary": "The pure, lightweight original rotary coupe. Powered by the 12A twin-rotor engine, it took Allan Moffat to the 1983 Australian Touring Car Championship.",
+      "engines": [
+        {
+          "engine_code": "12A",
+          "name": "Mazda 12A Twin-Rotor",
+          "displacement_cc": 1146,
+          "displacement_litres": 1.15,
+          "cylinders": 2,
+          "configuration": "Rotary (2-Rotor Wankel)",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 85.0,
+          "power_rpm": "6000",
+          "torque_nm": 152.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "Rotary ports (4-barrel carburettor)",
+          "notes": "Smooth revving twin-rotor Wankel engine revving to 7,000 rpm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Limited",
+          "years": {
+            "start": 1979,
+            "end": "1985"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "3-speed auto"
+          ],
+          "msrp_aud_min": 14850,
+          "msrp_aud_max": 24500,
+          "fuel_consumption_l_100km": 11.5,
+          "kerb_weight_kg": 1050,
+          "standard_features": [
+            "Pop-up headlights",
+            "4-wheel disc brakes on S3",
+            "Alloy wheels",
+            "Tachometer with rev buzzer",
+            "Air conditioning"
+          ],
+          "notes": "Allan Moffat ATCC racing foundation."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Series 2 Limited",
+          "body_style": "Coupe",
+          "engine_code": "12A",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1981,
+          "years_end": "1983",
+          "msrp_aud": 16990,
+          "power_kw": 85.0,
+          "torque_nm": 152.0,
+          "fuel_l_100km": 11.2,
+          "towing_braked_kg": 750,
+          "notes": "Classic SA22C rotary sports coupe."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "SA22C/FB",
+          "category": "exterior",
+          "caption": "c/n unknown. This is 3-door fastback coupe, Limited version. The winner of '79 Rallye Monte-Carlo group 2 class 4 (All 73th). On display at Toyota Automobile Museum, Yokomichi, Nagakute, Aichi. 20th February 2022",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mazda_E-SA22C_Savanna_RX-7_Limited_%28RX-7%29_%2822022010472%29.jpg/1280px-Mazda_E-SA22C_Savanna_RX-7_Limited_%28RX-7%29_%2822022010472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (先従隗始)",
+          "local_path": "media/pictures/mazda/rx-7/mazda_rx-7_SA22C_FB_1_Mazda_E-SA22C_Savanna_RX-7_Limited_RX-7_22022010472_.jpg",
+          "file_size_bytes": 224982,
+          "sha256": "495bd9ffd9ec121a993bc21909fd11610c90f61a7c6102a91ecfcd8f42135359"
+        }
+      ]
+    },
+    {
+      "series_code": "FD3S",
+      "generation_name": "RX-7 Series 6-8",
+      "years": {
+        "start": 1992,
+        "end": "2002"
+      },
+      "body_styles": [
+        "2-door Coupe"
+      ],
+      "platform": "Mazda FD",
+      "ancap_rating": "Untested",
+      "summary": "Design masterpiece featuring sequential twin-turbo 13B-REW power, all-aluminum double-wishbone suspension, and the legendary Australian-only 1995 RX-7 SP homologation special.",
+      "engines": [
+        {
+          "engine_code": "13B-REW",
+          "name": "Mazda 13B-REW Sequential Twin-Turbo",
+          "displacement_cc": 1308,
+          "displacement_litres": 1.3,
+          "cylinders": 2,
+          "configuration": "Rotary (2-Rotor Wankel)",
+          "aspiration": "Sequential Twin-Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 176.0,
+          "power_rpm": "6500",
+          "torque_nm": 294.0,
+          "torque_rpm": "5000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "Side exhaust/intake ports",
+          "notes": "Hitachi sequential twin-turbo system with primary and secondary staging."
+        },
+        {
+          "engine_code": "13B-REW-SP",
+          "name": "Mazda Motorsport 13B-REW SP Spec",
+          "displacement_cc": 1308,
+          "displacement_litres": 1.3,
+          "cylinders": 2,
+          "configuration": "Rotary (2-Rotor Wankel)",
+          "aspiration": "Sequential Twin-Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 204.0,
+          "power_rpm": "6500",
+          "torque_nm": 357.0,
+          "torque_rpm": "5000",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "Side exhaust/intake ports",
+          "notes": "Australian Motorsport SP specification: modified intercooler, ECU, exhaust, yielding 204kW."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Series 6 Coupe",
+          "years": {
+            "start": 1992,
+            "end": "1995"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 79990,
+          "msrp_aud_max": 89990,
+          "fuel_consumption_l_100km": 11.8,
+          "kerb_weight_kg": 1280,
+          "standard_features": [
+            "Sequential twin-turbochargers",
+            "Torsen limited slip differential",
+            "Leather sports seats",
+            "Double-wishbone suspension",
+            "16-inch alloy wheels"
+          ],
+          "notes": "Wheels Sports Car of the Year contender."
+        },
+        {
+          "badge_name": "SP (Special Performance)",
+          "years": {
+            "start": 1995,
+            "end": "1995"
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 101690,
+          "msrp_aud_max": 101690,
+          "fuel_consumption_l_100km": 13.5,
+          "kerb_weight_kg": 1218,
+          "standard_features": [
+            "Carbon-fibre front splitter and adjustable rear wing",
+            "Carbon-fibre 120-litre fuel tank",
+            "Twin-core intercooler",
+            "17-inch BBS magnesium-alloy wheels",
+            "Recaro Kevlar race seats",
+            "Australian-only build of ~35 units"
+          ],
+          "notes": "Australian homologation special engineered to win the Eastern Creek and Bathurst 12 Hour."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "SP",
+          "body_style": "Coupe",
+          "engine_code": "13B-REW-SP",
+          "transmission": "5-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1995,
+          "years_end": "1995",
+          "msrp_aud": 101690,
+          "power_kw": 204.0,
+          "torque_nm": 357.0,
+          "fuel_l_100km": 13.5,
+          "towing_braked_kg": 0,
+          "notes": "Holy grail Australian RX-7 SP."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "FD3S",
+          "category": "exterior",
+          "caption": "A red Mazda RX-7 FD3S photographed in Filinvest City, Muntinlupa, Metro Manila, PH.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mazda_RX-7_FD3S%2C_front_right%2C_05-05-2024.jpg/1280px-Mazda_RX-7_FD3S%2C_front_right%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ethan Llamas)",
+          "local_path": "media/pictures/mazda/rx-7/mazda_rx-7_FD3S_1_Mazda_RX-7_FD3S_front_right_05-05-2024.jpg",
+          "file_size_bytes": 230627,
+          "sha256": "ed25b5efd9af7bb92af69dbd97c15d1dd89fe8ece40c9bf78533a63eb1a8537b"
+        }
+      ]
+    }
+  ]
+}

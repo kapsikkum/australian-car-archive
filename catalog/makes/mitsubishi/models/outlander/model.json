@@ -1,0 +1,563 @@
+{
+  "make_slug": "mitsubishi",
+  "model_slug": "outlander",
+  "name": "Outlander",
+  "vehicle_type": "Medium SUV",
+  "segment": "Medium SUV",
+  "years_sold_au": {
+    "start": 2003,
+    "end": "Present"
+  },
+  "locally_built": false,
+  "assembly_plants_au": [],
+  "overview": "The Mitsubishi Outlander is one of Australia's most enduring family SUVs and a pioneer of plug-in hybrid electric vehicle (PHEV) technology. Known for offering 7-seat practicality in a medium SUV footprint, robust all-wheel drive systems derived from the Lancer Evolution, and exceptional value, the Outlander is a mainstay on Australian roads.",
+  "australian_market_notes": "First introduced in 2003 as the Airtrek-based ZE, the second-generation ZG introduced a split-folding tailgate and punchy 3.0L V6. In 2014, Mitsubishi pioneered the Australian mass-market plug-in hybrid landscape with the Outlander PHEV, providing EV commuting with long-range petrol backup. The fourth-generation ZM, built on the CMF-CD platform with Super All-Wheel Control (S-AWC), continues as one of Australia's top-selling SUVs.",
+  "manuals": [
+    {
+      "title": "Mitsubishi Outlander Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2003,
+      "language": "en",
+      "source_url": "local://catalog/makes/mitsubishi/models/outlander/model.json",
+      "local_path": "media/manuals/mitsubishi/outlander/mitsubishi_outlander_au_technical_manual.pdf",
+      "file_size_bytes": 6680,
+      "sha256": "00ca8d62c83b99ed320a339cba7b168d1e201564891f8f9e76e0e33c4c7e5c97",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Mitsubishi 2014 OUTLANDER Owner`s manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-7411674",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mitsubishi/outlander/mitsubishi_outlander_manual_Mitsubishi_2014_OUTLANDER_Owner_s_manual.html",
+      "file_size_bytes": 215924,
+      "sha256": "a96daae9136c21494f9c228d97008db96c888b9577e5545fddc35b403920ea6a"
+    },
+    {
+      "title": "Mitsubishi Outlander Car Brochure (2012)",
+      "year": 2011,
+      "source_url": "https://archive.org/details/mitsubishi-outlander-car-brochure-2012",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mitsubishi/outlander/mitsubishi_outlander_manual_Mitsubishi_Outlander_Car_Brochure_2012.html",
+      "file_size_bytes": 217648,
+      "sha256": "9b51561a8af9730801a3508e7381ca9c1972c81462720de14b1508257250cb7f"
+    },
+    {
+      "title": "Mitsubishi Outlander PHEV Car Brochure (2014)",
+      "year": 2014,
+      "source_url": "https://archive.org/details/mitsubishi-outlander-phev-car-brochure-2014",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/mitsubishi/outlander/mitsubishi_outlander_manual_Mitsubishi_Outlander_PHEV_Car_Brochure_2014.html",
+      "file_size_bytes": 218868,
+      "sha256": "88a8fcb1c8172f296661a2404158c4a8c963a2d69f3bd7f569c74292280ecd9f"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "It's hard to believe the current Lancer has been around since 2007 and is now the oldest small car design of any manufacturer on the Australian market, that's 8 years and counting!\nAt this stage, any replacement is around 2 years away, maki",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2015_Mitsubishi_Lancer_%28CJ_MY15%29_GSR_Sportback_hatchback_%2817191795949%29.jpg/1280px-2015_Mitsubishi_Lancer_%28CJ_MY15%29_GSR_Sportback_hatchback_%2817191795949%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (TuRbO_J from Adelaide, Australia)",
+      "local_path": "media/pictures/mitsubishi/outlander/mitsubishi_outlander_hero_1_2015_Mitsubishi_Lancer_CJ_MY15_GSR_Sportback_hatchback_17191795949_.jpg",
+      "file_size_bytes": 190665,
+      "sha256": "0161b61e1c85fa93d812a4e3ee6d7f736b40166a2dc8e707e282fcafcae1a1ad"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "ZE/ZF",
+      "generation_name": "Outlander 1st Generation",
+      "years": {
+        "start": 2003,
+        "end": 2006
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Mitsubishi CU",
+      "ancap_rating": "4 stars",
+      "summary": "Original Airtrek crossover styling with full-time AWD and 2.4L MIVEC engine, combining raised ride height with car-like unibody handling.",
+      "engines": [
+        {
+          "engine_code": "4G69",
+          "name": "Mitsubishi 4G69 2.4L MIVEC",
+          "displacement_cc": 2378,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 118.0,
+          "power_rpm": "5750",
+          "torque_nm": 220.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "SOHC 16-valve MIVEC",
+          "notes": "Smooth four-cylinder with variable valve lift."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LS / XLS",
+          "years": {
+            "start": 2003,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Full-Time AWD",
+          "transmissions": [
+            "4-speed INVECS-II automatic"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1540,
+          "standard_features": [
+            "Full-time AWD with viscous coupling",
+            "16-inch alloy wheels",
+            "Dual front airbags",
+            "ABS with EBD",
+            "Roof rails"
+          ],
+          "notes": "First generation crossover."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Outlander XLS AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "4G69",
+          "transmission": "4-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2003,
+          "years_end": 2006,
+          "msrp_aud": 37990,
+          "power_kw": 118.0,
+          "torque_nm": 220.0,
+          "fuel_l_100km": 10.4,
+          "towing_braked_kg": 1500,
+          "notes": "Original first-gen Australian specification."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZE/ZF",
+          "category": "exterior",
+          "caption": "MITSUBISHI OUTLANDER (CU,ZE,ZF) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/MITSUBISHI_OUTLANDER_%28CU%2CZE%2CZF%29_China.jpg/1280px-MITSUBISHI_OUTLANDER_%28CU%2CZE%2CZF%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mitsubishi/outlander/mitsubishi_outlander_ZE_ZF_1_MITSUBISHI_OUTLANDER_CU_ZE_ZF_China.jpg",
+          "file_size_bytes": 206401,
+          "sha256": "d5eca4eb08564198c4e4faba98f394d8fe6593a7c8b6ed690c5369546e87e1ef"
+        }
+      ]
+    },
+    {
+      "series_code": "ZG/ZH",
+      "generation_name": "Outlander 2nd Generation",
+      "years": {
+        "start": 2006,
+        "end": 2012
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Mitsubishi GS platform",
+      "ancap_rating": "5 stars (facelift)",
+      "summary": "Shared platform with Lancer. Introduced 7-seat capability, split 'flap-fold' 200kg-rated tailgate, and a powerful 3.0L MIVEC V6 with paddle-shift 6-speed auto.",
+      "engines": [
+        {
+          "engine_code": "4B12",
+          "name": "Mitsubishi 4B12 2.4L DOHC MIVEC",
+          "displacement_cc": 2359,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "6000",
+          "torque_nm": 226.0,
+          "torque_rpm": "4100",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve MIVEC",
+          "notes": "Aluminium engine block paired with CVT."
+        },
+        {
+          "engine_code": "6B31",
+          "name": "Mitsubishi 6B31 3.0L SOHC MIVEC V6",
+          "displacement_cc": 2998,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V6",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 169.0,
+          "power_rpm": "6250",
+          "torque_nm": 291.0,
+          "torque_rpm": "3750",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "SOHC 24-valve MIVEC",
+          "notes": "High performance V6 paired with 6-speed torque-converter automatic."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "LS",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "5-speed manual",
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 31990,
+          "msrp_aud_max": 37500,
+          "fuel_consumption_l_100km": 9.3,
+          "kerb_weight_kg": 1530,
+          "standard_features": [
+            "Flap-fold tailgate",
+            "Air conditioning",
+            "Cruise control",
+            "Stability control",
+            "Hill start assist"
+          ],
+          "notes": "5-seater entry trim."
+        },
+        {
+          "badge_name": "VR / VR-X V6",
+          "years": {
+            "start": 2006,
+            "end": 2012
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "All-Wheel Control (AWC)",
+          "transmissions": [
+            "6-speed automatic"
+          ],
+          "msrp_aud_min": 43990,
+          "msrp_aud_max": 51990,
+          "fuel_consumption_l_100km": 10.4,
+          "kerb_weight_kg": 1720,
+          "standard_features": [
+            "3.0L V6 169kW engine",
+            "7 seats (underfloor stowable 3rd row)",
+            "18-inch alloys",
+            "Paddle shifters",
+            "Rockford Fosgate 650W sound system with subwoofer",
+            "Sunroof"
+          ],
+          "notes": "Popular V6 family hauler."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Outlander VR-X 3.0 V6 AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "6B31",
+          "transmission": "6-speed automatic",
+          "drivetrain": "AWD",
+          "years_start": 2007,
+          "years_end": 2012,
+          "msrp_aud": 47990,
+          "power_kw": 169.0,
+          "torque_nm": 291.0,
+          "fuel_l_100km": 10.4,
+          "towing_braked_kg": 1600,
+          "notes": "7 seats with 3.0L V6 and Rockford Fosgate premium audio."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZG/ZH",
+          "category": "exterior",
+          "caption": "MITSUBISHI OUTLANDER(CW,ZG,ZH) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/MITSUBISHI_OUTLANDER%28CW%2CZG%2CZH%29_China.jpg/1280px-MITSUBISHI_OUTLANDER%28CW%2CZG%2CZH%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mitsubishi/outlander/mitsubishi_outlander_ZG_ZH_1_MITSUBISHI_OUTLANDER_CW_ZG_ZH_China.jpg",
+          "file_size_bytes": 279976,
+          "sha256": "6a08dc8767381adceabd0f9fa37595f9134fde7250bf230fe2b99a4c1633f3c3"
+        }
+      ]
+    },
+    {
+      "series_code": "ZJ/ZK/ZL",
+      "generation_name": "Outlander 3rd Generation & PHEV",
+      "years": {
+        "start": 2012,
+        "end": 2021
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Mitsubishi GS/GF platform",
+      "ancap_rating": "5 stars",
+      "summary": "Pioneered mass-market plug-in hybrid motoring in Australia in 2014. Combines 7 seats, lightweight body, 5-star safety, and twin electric motor PHEV AWD.",
+      "engines": [
+        {
+          "engine_code": "4J12",
+          "name": "Mitsubishi 4J12 2.4L MIVEC",
+          "displacement_cc": 2359,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 124.0,
+          "power_rpm": "6000",
+          "torque_nm": 220.0,
+          "torque_rpm": "4200",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "SOHC 16-valve MIVEC",
+          "notes": "Standard petrol engine in AWD models."
+        },
+        {
+          "engine_code": "4B11-PHEV",
+          "name": "Mitsubishi 4B11 2.0L + Twin Electric Motors (PHEV)",
+          "displacement_cc": 1998,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4 + Dual Electric Motors",
+          "aspiration": "Naturally Aspirated + EV",
+          "fuel_type": "Plug-in Hybrid Petrol",
+          "power_kw": 147.0,
+          "power_rpm": "4500",
+          "torque_nm": 332.0,
+          "torque_rpm": "4500",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 16-valve",
+          "notes": "12kWh lithium-ion battery delivering 52km of pure EV range and 1.9L/100km ADR rating."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ES / LS",
+          "years": {
+            "start": 2012,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "5-speed manual",
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 28990,
+          "msrp_aud_max": 38990,
+          "fuel_consumption_l_100km": 7.2,
+          "kerb_weight_kg": 1495,
+          "standard_features": [
+            "7 seats (from LS)",
+            "7 airbags",
+            "Touchscreen audio with Apple CarPlay",
+            "Dual-zone climate control",
+            "Rear camera"
+          ],
+          "notes": "High value family workhorse."
+        },
+        {
+          "badge_name": "PHEV (Plug-in Hybrid)",
+          "years": {
+            "start": 2014,
+            "end": 2021
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Super-All Wheel Control (S-AWC)",
+          "transmissions": [
+            "Single-speed reduction transaxle"
+          ],
+          "msrp_aud_min": 47490,
+          "msrp_aud_max": 56490,
+          "fuel_consumption_l_100km": 1.9,
+          "kerb_weight_kg": 1810,
+          "standard_features": [
+            "Twin 60kW electric motors (front and rear)",
+            "CHAdeMO DC rapid charging port",
+            "Regenerative braking paddles",
+            "EV drive modes"
+          ],
+          "notes": "Australia's top-selling plug-in hybrid SUV for seven consecutive years."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Outlander PHEV Exceed",
+          "body_style": "5-door SUV",
+          "engine_code": "4B11-PHEV",
+          "transmission": "Single-speed reduction",
+          "drivetrain": "AWD",
+          "years_start": 2014,
+          "years_end": 2021,
+          "msrp_aud": 56490,
+          "power_kw": 147.0,
+          "torque_nm": 332.0,
+          "fuel_l_100km": 1.9,
+          "towing_braked_kg": 1500,
+          "notes": "Trailblazing plug-in hybrid in Australia."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZJ/ZK/ZL",
+          "category": "exterior",
+          "caption": "MITSUBISHI OUTLANDER (GF,GG,ZJ,ZK,ZL) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/MITSUBISHI_OUTLANDER_%28GF%2CGG%2CZJ%2CZK%2CZL%29_China.jpg/1280px-MITSUBISHI_OUTLANDER_%28GF%2CGG%2CZJ%2CZK%2CZL%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mitsubishi/outlander/mitsubishi_outlander_ZJ_ZK_ZL_1_MITSUBISHI_OUTLANDER_GF_GG_ZJ_ZK_ZL_China.jpg",
+          "file_size_bytes": 200533,
+          "sha256": "fc075ae8ffd6ec4ac7c9b8a395cd779bce5f234526bfc9d8ca0b33efa13c25d0"
+        }
+      ]
+    },
+    {
+      "series_code": "ZM",
+      "generation_name": "Outlander 4th Generation & Next-Gen PHEV",
+      "years": {
+        "start": 2021,
+        "end": "Present"
+      },
+      "body_styles": [
+        "5-door SUV"
+      ],
+      "platform": "Renault-Nissan-Mitsubishi CMF-CD",
+      "ancap_rating": "5 stars",
+      "summary": "Built on the CMF-CD platform with bold Dynamic Shield styling, standard 7 seats, upgraded 20kWh PHEV with 84km EV range, and Super-All Wheel Control (S-AWC).",
+      "engines": [
+        {
+          "engine_code": "PR25DD",
+          "name": "Nissan/Mitsubishi PR25DD 2.5L Direct Injection",
+          "displacement_cc": 2488,
+          "displacement_litres": 2.5,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 135.0,
+          "power_rpm": "6000",
+          "torque_nm": 245.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "12.0:1",
+          "valvetrain": "DOHC 16-valve direct injection",
+          "notes": "Smooth direct injection engine paired with 8-step CVT."
+        },
+        {
+          "engine_code": "4B12-PHEV2",
+          "name": "Mitsubishi 4B12 2.4L + Twin High-Output Motors (PHEV)",
+          "displacement_cc": 2360,
+          "displacement_litres": 2.4,
+          "cylinders": 4,
+          "configuration": "Inline-4 + Dual Electric Motors",
+          "aspiration": "Naturally Aspirated + EV",
+          "fuel_type": "Plug-in Hybrid Petrol",
+          "power_kw": 185.0,
+          "power_rpm": "6000",
+          "torque_nm": 450.0,
+          "torque_rpm": "4000",
+          "compression_ratio": "11.7:1",
+          "valvetrain": "DOHC 16-valve MIVEC",
+          "notes": "Combined 185kW / 450Nm with 20kWh battery delivering 84km pure EV range."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "ES / LS",
+          "years": {
+            "start": 2021,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "FWD or AWD",
+          "transmissions": [
+            "CVT automatic"
+          ],
+          "msrp_aud_min": 37240,
+          "msrp_aud_max": 44490,
+          "fuel_consumption_l_100km": 7.7,
+          "kerb_weight_kg": 1640,
+          "standard_features": [
+            "7 seats (from LS)",
+            "18-inch alloys",
+            "Wireless Apple CarPlay",
+            "Emergency lane assist",
+            "Adaptive cruise control"
+          ],
+          "notes": "Core family transport."
+        },
+        {
+          "badge_name": "Exceed / Exceed Tourer PHEV",
+          "years": {
+            "start": 2022,
+            "end": "Present"
+          },
+          "body_styles": [
+            "5-door SUV"
+          ],
+          "drivetrain": "Super-All Wheel Control (S-AWC)",
+          "transmissions": [
+            "Single-speed automatic transaxle"
+          ],
+          "msrp_aud_min": 68490,
+          "msrp_aud_max": 73790,
+          "fuel_consumption_l_100km": 1.5,
+          "kerb_weight_kg": 2145,
+          "standard_features": [
+            "20-inch two-tone alloy wheels",
+            "Semi-aniline leather massage front seats",
+            "12.3-inch digital instrument cluster",
+            "Bose 10-speaker audio",
+            "V2L/V2H vehicle-to-load bidirectional charging"
+          ],
+          "notes": "Equipped with bidirectional vehicle-to-grid power export."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Outlander Exceed Tourer PHEV AWD",
+          "body_style": "5-door SUV",
+          "engine_code": "4B12-PHEV2",
+          "transmission": "Single-speed reduction",
+          "drivetrain": "AWD",
+          "years_start": 2022,
+          "years_end": "Present",
+          "msrp_aud": 73790,
+          "power_kw": 185.0,
+          "torque_nm": 450.0,
+          "fuel_l_100km": 1.5,
+          "towing_braked_kg": 1600,
+          "notes": "185kW / 450Nm dual electric motor PHEV with 84km EV range."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZM",
+          "category": "exterior",
+          "caption": "MITSUBISHI OUTLANDER (GM,GN,ZM) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/MITSUBISHI_OUTLANDER_%28GM%2CGN%2CZM%29_China.jpg/1280px-MITSUBISHI_OUTLANDER_%28GM%2CGN%2CZM%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/mitsubishi/outlander/mitsubishi_outlander_ZM_1_MITSUBISHI_OUTLANDER_GM_GN_ZM_China.jpg",
+          "file_size_bytes": 196511,
+          "sha256": "742c8f1b5d3618332a871bd524652b5e3c744eda10c2e20dcedd020293b237d3"
+        }
+      ]
+    }
+  ]
+}

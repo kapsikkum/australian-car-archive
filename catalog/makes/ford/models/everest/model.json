@@ -1,0 +1,245 @@
+{
+  "make_slug": "ford",
+  "model_slug": "everest",
+  "name": "Ford Everest",
+  "vehicle_type": "Body-on-Frame 7-Seat 4WD SUV",
+  "segment": "Large SUV / 4WD",
+  "years_sold_au": {
+    "start": 2015,
+    "end": 2026
+  },
+  "locally_built": false,
+  "assembly_plants_au": [
+    "Imported (Rayong, Thailand - Engineered at Campbellfield & You Yangs Proving Ground, Victoria)"
+  ],
+  "overview": "While built at AutoAlliance Thailand in Rayong, the Ford Everest was conceived, designed, engineered, and durability-tested in Australia by Ford's 2,000-strong global product development hub at Campbellfield and the You Yangs Proving Ground. Developed concurrently with the Ranger ute, the Everest transformed the T6 ladder-frame architecture into a refined 7-seat family wagon featuring coil-sprung Watt's linkage rear suspension, electronic terrain management, and 3.1-tonne towing. The 2015 UA series launched with the rugged 3.2L 5-cylinder Duratorq turbo-diesel and later 2.0L Bi-Turbo with 10-speed auto. The 2022+ UB Next-Gen Everest elevated the platform into an opulent, class-leading 4WD with standard 3.5-tonne towing and a flagship 3.0L V6 Turbo Diesel producing 184 kW and 600 Nm.",
+  "australian_market_notes": "The Everest effectively succeeded the Australian-built Ford Territory as Ford's family SUV champion, adding genuine outback off-road capability (800mm water wading) that the car-based Territory could never match. Australian suspension engineers spent thousands of hours tuning the Watt's linkage rear axle on Australian gravel, dirt, and corrugations to achieve an unprecedented blend of highway ride isolation and cornering grip.",
+  "manuals": [
+    {
+      "title": "Ford Ford Everest Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 2015,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/everest/model.json",
+      "local_path": "media/manuals/ford/everest/ford_everest_au_technical_manual.pdf",
+      "file_size_bytes": 4597,
+      "sha256": "97ddda5a89f0982992cfa4c563dd7825582d3a8a7421a4bf5929232e96942ca5",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "FORD EVEREST Owner`s Manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualzilla-id-5713998",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/everest/ford_everest_manual_FORD_EVEREST_Owner_s_Manual.html",
+      "file_size_bytes": 208838,
+      "sha256": "b135a1f73822923342d9fe25847ae040074f9ca2f26144fb31cfceebacfdea40"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "FORD EVEREST (U375,UA) China",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/FORD_EVEREST_%28U375%2CUA%29_China.jpg/1280px-FORD_EVEREST_%28U375%2CUA%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+      "local_path": "media/pictures/ford/everest/ford_everest_hero_1_FORD_EVEREST_U375_UA_China.jpg",
+      "file_size_bytes": 219347,
+      "sha256": "74f12090257977149524002fb965a2a5370382eb80c372e44da106176fadd04c"
+    },
+    {
+      "category": "exterior",
+      "caption": "FORD EVEREST (U375,UA) China",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/FORD_EVEREST_%28U375%2CUA%29_China_%282%29.jpg/1280px-FORD_EVEREST_%28U375%2CUA%29_China_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+      "local_path": "media/pictures/ford/everest/ford_everest_hero_2_FORD_EVEREST_U375_UA_China_2_.jpg",
+      "file_size_bytes": 376807,
+      "sha256": "6d180760a6137bb4b90bf450374e4fb95a0b0cc7720d362134de2c3f5dfe3566"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "UA",
+      "generation_name": "UA Everest",
+      "years": {
+        "start": 2015,
+        "end": 2022
+      },
+      "body_styles": [
+        "5-door 7-seat SUV"
+      ],
+      "platform": "Ford T6 platform (Australian developed)",
+      "ancap_rating": 5,
+      "summary": "First-generation Australian-engineered Everest. Ladder-frame chassis with coil-sprung Watt's linkage rear suspension, 3.2L 5-cyl diesel, and later 2.0L Bi-Turbo 10-speed.",
+      "engines": [
+        {
+          "engine_code": "Duratorq-3.2-TDCi",
+          "name": "Ford Duratorq 3.2L 5-Cylinder Turbo Diesel",
+          "displacement_cc": 3198,
+          "displacement_litres": 3.2,
+          "cylinders": 5,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 143.0,
+          "power_rpm": "3000",
+          "torque_nm": 470.0,
+          "torque_rpm": "1750",
+          "compression_ratio": "15.7:1",
+          "valvetrain": "DOHC 20V",
+          "notes": "Proven inline-five turbo diesel; paired with 6-speed 6R80 automatic."
+        },
+        {
+          "engine_code": "EcoBlue-2.0-BiTurbo",
+          "name": "Ford EcoBlue 2.0L Bi-Turbo Diesel Inline-4",
+          "displacement_cc": 1996,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Twin-Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 157.0,
+          "power_rpm": "3750",
+          "torque_nm": 500.0,
+          "torque_rpm": "1750",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Sequential twin-turbo with 10-speed 10R80 automatic transmission."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Titanium 4WD",
+          "years": {
+            "start": 2015,
+            "end": 2022
+          },
+          "body_styles": [
+            "7-seat SUV"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "6-speed automatic 6R80",
+            "10-speed automatic 10R80"
+          ],
+          "msrp_aud_min": 72990,
+          "msrp_aud_max": 76990,
+          "fuel_consumption_l_100km": 7.1,
+          "kerb_weight_kg": 2477,
+          "standard_features": [
+            "Terrain Management System with electronic locking rear differential",
+            "20-inch alloy wheels and panoramic glass roof",
+            "Leather 7-passenger seating with power-folding 3rd row",
+            "Adaptive cruise control, lane keep assist, and autonomous emergency braking",
+            "Semi-autonomous active park assist"
+          ],
+          "notes": "Flagship luxury family off-roader."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Titanium 4WD",
+          "body_style": "7-seat SUV",
+          "engine_code": "EcoBlue-2.0-BiTurbo",
+          "transmission": "10-speed automatic 10R80",
+          "drivetrain": "4WD",
+          "msrp_aud": 73990,
+          "power_kw": 157.0,
+          "torque_nm": 500.0,
+          "fuel_l_100km": 7.1,
+          "towing_braked_kg": 3100,
+          "notes": "500 Nm twin-turbo 10-speed 7-seat wagon."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "UA",
+          "category": "exterior",
+          "caption": "FORD EVEREST (U375,UA) China",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/FORD_EVEREST_%28U375%2CUA%29_China.jpg/1280px-FORD_EVEREST_%28U375%2CUA%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Dinkun Chen)",
+          "local_path": "media/pictures/ford/everest/ford_everest_UA_1_FORD_EVEREST_U375_UA_China.jpg",
+          "file_size_bytes": 219347,
+          "sha256": "74f12090257977149524002fb965a2a5370382eb80c372e44da106176fadd04c"
+        }
+      ]
+    },
+    {
+      "series_code": "UB-Next-Gen",
+      "generation_name": "UB Next-Gen Everest",
+      "years": {
+        "start": 2022,
+        "end": 2026
+      },
+      "body_styles": [
+        "5-door 7-seat SUV"
+      ],
+      "platform": "Ford T6.2 platform (Australian engineered)",
+      "ancap_rating": 5,
+      "summary": "Next-Gen Australian engineering benchmark. 50mm wider track, 3.5-tonne towing, 12-inch portrait touchscreen, and the formidable 3.0L V6 Turbo Diesel.",
+      "engines": [
+        {
+          "engine_code": "PowerStroke-3.0-V6",
+          "name": "Ford Power Stroke 3.0L V6 Turbo Diesel",
+          "displacement_cc": 2993,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Diesel",
+          "power_kw": 184.0,
+          "power_rpm": "3250",
+          "torque_nm": 600.0,
+          "torque_rpm": "1750",
+          "compression_ratio": "16.0:1",
+          "valvetrain": "DOHC 24V",
+          "notes": "Compacted graphite iron (CGI) block, variable geometry turbo; paired with 10-speed auto and full-time 4WD."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Platinum V6 4WD",
+          "years": {
+            "start": 2022,
+            "end": 2026
+          },
+          "body_styles": [
+            "7-seat SUV"
+          ],
+          "drivetrain": "4WD",
+          "transmissions": [
+            "10-speed automatic 10R80"
+          ],
+          "msrp_aud_min": 77690,
+          "msrp_aud_max": 81140,
+          "fuel_consumption_l_100km": 8.5,
+          "kerb_weight_kg": 2492,
+          "standard_features": [
+            "184 kW / 600 Nm 3.0L V6 Turbo Diesel",
+            "Full-time active all-wheel drive with low range",
+            "21-inch machine-face alloy wheels",
+            "Quilted premium leather seats with heating and ventilation",
+            "12.4-inch digital instrument cluster and 12-inch portrait SYNC 4A screen",
+            "Matrix LED headlights and 360-degree camera with trail view"
+          ],
+          "notes": "Prestige flagship competitor to Toyota LandCruiser Prado."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Platinum V6 4WD",
+          "body_style": "7-seat SUV",
+          "engine_code": "PowerStroke-3.0-V6",
+          "transmission": "10-speed automatic 10R80",
+          "drivetrain": "4WD",
+          "msrp_aud": 79490,
+          "power_kw": 184.0,
+          "torque_nm": 600.0,
+          "fuel_l_100km": 8.5,
+          "towing_braked_kg": 3500,
+          "notes": "184 kW 600 Nm V6 diesel 3.5-tonne tow vehicle."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

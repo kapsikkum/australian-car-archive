@@ -1,0 +1,648 @@
+{
+  "make_slug": "toyota",
+  "model_slug": "corolla",
+  "name": "Corolla",
+  "vehicle_type": "Hatchback / Sedan / Wagon",
+  "segment": "Small Car",
+  "years_sold_au": {
+    "start": 1967,
+    "end": "Present"
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Port Melbourne, Victoria",
+    "Duncans Road, Victoria",
+    "Altona, Victoria"
+  ],
+  "overview": "The Toyota Corolla is the world's most produced passenger car and an integral part of Australian life. Assembled locally in Victoria for over 30 years (1968-1999), it has provided dependable motoring for generations of Australians.",
+  "australian_market_notes": "Australia was the first country outside Japan to assemble the Corolla, commencing at AMI Port Melbourne in July 1968 with the KE10. Local manufacture spanned KE20, KE30, KE55, KE70, AE82, AE92, AE102, and AE112. Under the Button Plan, it was built in Altona and shared with Holden as the Nova. In modern times, the Corolla transitioned to hybrid dominance, culminating in the 221kW GR Corolla AWD hot hatch.",
+  "manuals": [
+    {
+      "title": "Toyota Corolla Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1967,
+      "language": "en",
+      "source_url": "local://catalog/makes/toyota/models/corolla/model.json",
+      "local_path": "media/manuals/toyota/corolla/toyota_corolla_au_technical_manual.pdf",
+      "file_size_bytes": 6847,
+      "sha256": "6338f9d12cfb9cdaa0192db366e3280dc05d7c4e939a91b929cbcdd9c99259cb",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Toyota Corolla 1997 Owner's Manual",
+      "year": 1997,
+      "source_url": "https://archive.org/details/toyota-corolla-1997-owners-manual",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/corolla/toyota_corolla_manual_Toyota_Corolla_1997_Owner_s_Manual.html",
+      "file_size_bytes": 457662,
+      "sha256": "b98ca5ef828efe13f3a311fd56cc5f311601491d33e2fab8e910217e46231ef9"
+    },
+    {
+      "title": "Toyota Corolla Car Brochure (2004)",
+      "year": 2004,
+      "source_url": "https://archive.org/details/toyota-corolla-car-brochure-2004",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/corolla/toyota_corolla_manual_Toyota_Corolla_Car_Brochure_2004.html",
+      "file_size_bytes": 204771,
+      "sha256": "18fe3a51fd608fb3e70f4cd572465dc30a1c3d60439737a3716f0fa4e3c96e7d"
+    },
+    {
+      "title": "Toyota Corolla MN 00505-QRG09-COR user manual",
+      "year": null,
+      "source_url": "https://archive.org/details/manualsbase-id-552124",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/toyota/corolla/toyota_corolla_manual_Toyota_Corolla_MN_00505-QRG09-COR_user_manual.html",
+      "file_size_bytes": 203266,
+      "sha256": "2c249b238d46ebe7fedcef75b38db7491b3bc3d1350ab8bf13adfc200a33ea05"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1982 Toyota Corolla (E70). To be honest, these weren't all that rare on the Gold Coast, but the ones I saw tended to be in very good condition, like this one.\nUnlike the last one I uploaded, this is a pre-facelift 1979-82 model.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/1982_Toyota_Corolla_%28KE70%29_SE_sedan_%288326161665%29.jpg/1280px-1982_Toyota_Corolla_%28KE70%29_SE_sedan_%288326161665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/toyota/corolla/toyota_corolla_hero_1_1982_Toyota_Corolla_KE70_SE_sedan_8326161665_.jpg",
+      "file_size_bytes": 298776,
+      "sha256": "80040b1b48de982365f10684d06af3a59bdd7a3244eaab46ff513e03e7d18dcd"
+    },
+    {
+      "category": "exterior",
+      "caption": "Corollas of this shape were surprisingly uncommon on the Gold Coast - I only saw one or two others in the week I was there. I wouldn't glance twice at one of these here in NZ however...\nCan anyone guess the car behind it??",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/1983-1985_Toyota_Corolla_%28KE70%29_CS_sedan_%288268403432%29.jpg/1280px-1983-1985_Toyota_Corolla_%28KE70%29_CS_sedan_%288268403432%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Riley from Christchurch, New Zealand)",
+      "local_path": "media/pictures/toyota/corolla/toyota_corolla_hero_2_1983-1985_Toyota_Corolla_KE70_CS_sedan_8268403432_.jpg",
+      "file_size_bytes": 457085,
+      "sha256": "e746002d65a8b30f78fad0ea1f942278f3392c51cc1471bc0e659e4a11af12af"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "KE10",
+      "generation_name": "Corolla 1st Generation",
+      "years": {
+        "start": 1967,
+        "end": 1970
+      },
+      "body_styles": [
+        "2-door Sedan",
+        "4-door Sedan",
+        "Station Wagon"
+      ],
+      "platform": "Toyota E10",
+      "ancap_rating": "Untested",
+      "summary": "First generation Corolla; CKD assembly began at Port Melbourne in July 1968, initiating over 30 years of local Corolla manufacture.",
+      "engines": [
+        {
+          "engine_code": "K",
+          "name": "Toyota K 1.1L",
+          "displacement_cc": 1077,
+          "displacement_litres": 1.1,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 44.0,
+          "power_rpm": "6000",
+          "torque_nm": 83.0,
+          "torque_rpm": "3800",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "OHV 8-valve",
+          "notes": "Pushrod 1.1-litre engine with 4-speed manual floor shift."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Deluxe",
+          "years": {
+            "start": 1968,
+            "end": 1970
+          },
+          "body_styles": [
+            "4-door Sedan",
+            "Station Wagon"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual"
+          ],
+          "msrp_aud_min": 1780,
+          "msrp_aud_max": 1950,
+          "fuel_consumption_l_100km": 7.5,
+          "kerb_weight_kg": 730,
+          "standard_features": [
+            "Heater/demister",
+            "Floor shift manual",
+            "Vinyl bucket seats",
+            "Full wheel covers"
+          ],
+          "notes": "First locally assembled Toyota Corolla in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Deluxe",
+          "body_style": "4-door Sedan",
+          "engine_code": "K",
+          "transmission": "4-speed manual",
+          "drivetrain": "RWD",
+          "years_start": 1968,
+          "years_end": 1970,
+          "msrp_aud": 1820,
+          "power_kw": 44.0,
+          "torque_nm": 83.0,
+          "fuel_l_100km": 7.5,
+          "towing_braked_kg": 500,
+          "notes": "Historic Australian AMI Port Melbourne build."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "KE10",
+          "category": "exterior",
+          "caption": "A photo of the Toyota Corolla, released in May 1967. Trip meters have been added to this model by improving it.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Toyota_Corolla_4door_Deluxe_%28KE10%29_%2767_%281%29.jpg/1280px-Toyota_Corolla_4door_Deluxe_%28KE10%29_%2767_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC0 (Oq10pass)",
+          "local_path": "media/pictures/toyota/corolla/toyota_corolla_KE10_1_Toyota_Corolla_4door_Deluxe_KE10_67_1_.jpg",
+          "file_size_bytes": 257447,
+          "sha256": "2f2df3f5f1aa0ae41fa32228d6dcd0378fe6c1e13cfd921856d9fce00236d193"
+        }
+      ]
+    },
+    {
+      "series_code": "AE82/AE86",
+      "generation_name": "Corolla 5th Generation",
+      "years": {
+        "start": 1985,
+        "end": 1989
+      },
+      "body_styles": [
+        "Hatchback",
+        "Sedan",
+        "Seca Liftback",
+        "Sprinter Coupe (AE86)"
+      ],
+      "platform": "Toyota E80",
+      "ancap_rating": "Untested",
+      "summary": "Pivotal generation featuring local production of the front-wheel-drive AE82 (with the legendary 4A-GE Twin Cam in Seca SX/GT) and the imported rear-wheel-drive AE86 Sprinter.",
+      "engines": [
+        {
+          "engine_code": "4A-GE",
+          "name": "Toyota 4A-GE 1.6L Twin Cam",
+          "displacement_cc": 1587,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 86.0,
+          "power_rpm": "6600",
+          "torque_nm": 137.0,
+          "torque_rpm": "5200",
+          "compression_ratio": "9.4:1",
+          "valvetrain": "DOHC 16-valve T-VIS",
+          "notes": "Revered twin-cam engine revving to 7,500 rpm with T-VIS variable intake."
+        },
+        {
+          "engine_code": "4A-C",
+          "name": "Toyota 4A-C 1.6L SOHC",
+          "displacement_cc": 1587,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 58.0,
+          "power_rpm": "5200",
+          "torque_nm": 125.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "9.0:1",
+          "valvetrain": "SOHC 8-valve",
+          "notes": "Mainstream carburetted 1.6L workhorse in AE82 and Australian AE86 Sprinter."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Twin Cam (Seca SX)",
+          "years": {
+            "start": 1986,
+            "end": 1989
+          },
+          "body_styles": [
+            "Seca Liftback",
+            "Hatchback"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 16990,
+          "msrp_aud_max": 19500,
+          "fuel_consumption_l_100km": 7.8,
+          "kerb_weight_kg": 950,
+          "standard_features": [
+            "4A-GE 16V engine",
+            "4-wheel disc brakes",
+            "Sports seats",
+            "Rear spoiler",
+            "Alloy wheels",
+            "Tacho"
+          ],
+          "notes": "Australian hot hatch legend assembled in Victoria."
+        },
+        {
+          "badge_name": "Sprinter",
+          "years": {
+            "start": 1983,
+            "end": 1985
+          },
+          "body_styles": [
+            "Coupe (AE86)"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 9990,
+          "msrp_aud_max": 11500,
+          "fuel_consumption_l_100km": 8.0,
+          "kerb_weight_kg": 920,
+          "standard_features": [
+            "Rear-wheel drive",
+            "4A-C engine",
+            "5-speed manual",
+            "Sports bucket seats"
+          ],
+          "notes": "Imported RWD AE86 liftback, an enduring cult classic."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Twin Cam (Seca SX)",
+          "body_style": "Seca Liftback",
+          "engine_code": "4A-GE",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 1986,
+          "years_end": 1989,
+          "msrp_aud": 17850,
+          "power_kw": 86.0,
+          "torque_nm": 137.0,
+          "fuel_l_100km": 7.8,
+          "towing_braked_kg": 900,
+          "notes": "AE82 Seca Twin Cam."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "AE82/AE86",
+          "category": "exterior",
+          "caption": "The 1983-87 fifth generation E-80 Corolla was now generally a front wheel drive car, available as a 4 door sedan, 3 and 5 door hatchback, the AE85 and AE86 Levin and Sprinter coupe and hatchback continued on the older rear-wheel drive platf",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1985_Toyota_Corolla_AE86_Sprinter.jpg/1280px-1985_Toyota_Corolla_AE86_Sprinter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY 2.0 (Cars Down Under)",
+          "local_path": "media/pictures/toyota/corolla/toyota_corolla_AE82_AE86_1_1985_Toyota_Corolla_AE86_Sprinter.jpg",
+          "file_size_bytes": 304263,
+          "sha256": "82ee1cd967f71ea86b3d8022ed67c97b313cac4c3aabc7c65efdf65194e06a7e"
+        }
+      ]
+    },
+    {
+      "series_code": "ZZE122",
+      "generation_name": "Corolla 9th Generation",
+      "years": {
+        "start": 2001,
+        "end": 2007
+      },
+      "body_styles": [
+        "5-door Hatch",
+        "4-door Sedan",
+        "Station Wagon"
+      ],
+      "platform": "Toyota E120",
+      "ancap_rating": "4 Stars",
+      "summary": "Imported from Japan and South Africa following the closure of local Corolla production, famous for the 141kW Sportivo with 2ZZ-GE VVTL-i engine.",
+      "engines": [
+        {
+          "engine_code": "1ZZ-FE",
+          "name": "Toyota 1ZZ-FE 1.8L VVT-i",
+          "displacement_cc": 1794,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 100.0,
+          "power_rpm": "6000",
+          "torque_nm": 171.0,
+          "torque_rpm": "4200",
+          "compression_ratio": "10.0:1",
+          "valvetrain": "DOHC 16-valve VVT-i",
+          "notes": "Standard engine across Ascent, Conquest, Levin, and Ultima."
+        },
+        {
+          "engine_code": "2ZZ-GE",
+          "name": "Toyota 2ZZ-GE 1.8L VVTL-i",
+          "displacement_cc": 1796,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 141.0,
+          "power_rpm": "7800",
+          "torque_nm": 180.0,
+          "torque_rpm": "6800",
+          "compression_ratio": "11.5:1",
+          "valvetrain": "DOHC 16-valve VVTL-i (Yamaha head)",
+          "notes": "High-revving Yamaha-designed head with variable valve timing and lift revving to 8,200 rpm."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sportivo",
+          "years": {
+            "start": 2003,
+            "end": 2006
+          },
+          "body_styles": [
+            "5-door Hatch"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "6-speed manual"
+          ],
+          "msrp_aud_min": 29990,
+          "msrp_aud_max": 32990,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 1215,
+          "standard_features": [
+            "2ZZ-GE 141kW engine",
+            "6-speed manual",
+            "Optitron instruments",
+            "Leather sports seats",
+            "Body kit and rear spoiler",
+            "16-inch alloys"
+          ],
+          "notes": "Hot-hatch sleeper hitting lift at 6,200 rpm."
+        },
+        {
+          "badge_name": "Ascent",
+          "years": {
+            "start": 2001,
+            "end": 2007
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan",
+            "Wagon"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual",
+            "4-speed auto"
+          ],
+          "msrp_aud_min": 19990,
+          "msrp_aud_max": 24990,
+          "fuel_consumption_l_100km": 7.4,
+          "kerb_weight_kg": 1130,
+          "standard_features": [
+            "Dual front airbags",
+            "Air conditioning",
+            "CD player",
+            "Remote central locking"
+          ],
+          "notes": "The default private and fleet small car in Australia."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sportivo",
+          "body_style": "5-door Hatch",
+          "engine_code": "2ZZ-GE",
+          "transmission": "6-speed manual",
+          "drivetrain": "FWD",
+          "years_start": 2003,
+          "years_end": 2006,
+          "msrp_aud": 29990,
+          "power_kw": 141.0,
+          "torque_nm": 180.0,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 1000,
+          "notes": "ZZE122 Sportivo high-revving pocket rocket."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "ZZE122",
+          "category": "exterior",
+          "caption": "Super White II Toyota Corolla ZZE122 FL2 1.8 XLi sedan. GCC market car.",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Toyota_Corolla_ZZE122_FL2_1.8_XLi_Super_White_II_02.jpg/1280px-Toyota_Corolla_ZZE122_FL2_1.8_XLi_Super_White_II_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Ethan Llamas)",
+          "local_path": "media/pictures/toyota/corolla/toyota_corolla_ZZE122_1_Toyota_Corolla_ZZE122_FL2_1.8_XLi_Super_White_II_02.jpg",
+          "file_size_bytes": 245661,
+          "sha256": "74acf01bd1d2ecacca1b0dc368e21b03748cde3cf921c4a45e22344218091bca"
+        }
+      ]
+    },
+    {
+      "series_code": "E210",
+      "generation_name": "Corolla 12th Generation",
+      "years": {
+        "start": 2018,
+        "end": "Present"
+      },
+      "body_styles": [
+        "Hatchback",
+        "Sedan"
+      ],
+      "platform": "Toyota TNGA-C",
+      "ancap_rating": "5 Stars",
+      "summary": "Built on the TNGA-C architecture with multi-link rear suspension, benchmark 4.0L/100km hybrid fuel economy, and the rally-bred GR Corolla AWD.",
+      "engines": [
+        {
+          "engine_code": "M20A-FKS",
+          "name": "Toyota Dynamic Force 2.0L",
+          "displacement_cc": 1987,
+          "displacement_litres": 2.0,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 125.0,
+          "power_rpm": "6600",
+          "torque_nm": 200.0,
+          "torque_rpm": "4400-4800",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve D-4S VVT-iE",
+          "notes": "High thermal efficiency 2.0L paired with direct-shift launch gear CVT."
+        },
+        {
+          "engine_code": "2ZR-FXE",
+          "name": "Toyota 1.8L Hybrid",
+          "displacement_cc": 1798,
+          "displacement_litres": 1.8,
+          "cylinders": 4,
+          "configuration": "Inline-4",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Hybrid Petrol/Electric",
+          "power_kw": 103.0,
+          "power_rpm": "5200",
+          "torque_nm": 142.0,
+          "torque_rpm": "3600",
+          "compression_ratio": "13.0:1",
+          "valvetrain": "DOHC 16-valve Atkinson cycle",
+          "notes": "Combined system power 103kW, delivering 4.0L/100km official consumption."
+        },
+        {
+          "engine_code": "G16E-GTS",
+          "name": "Toyota 1.6L Turbo 3-Cylinder (GR)",
+          "displacement_cc": 1618,
+          "displacement_litres": 1.6,
+          "cylinders": 3,
+          "configuration": "Inline-3",
+          "aspiration": "Turbocharged Intercooled",
+          "fuel_type": "Petrol",
+          "power_kw": 221.0,
+          "power_rpm": "6500",
+          "torque_nm": 370.0,
+          "torque_rpm": "3000-5550",
+          "compression_ratio": "10.5:1",
+          "valvetrain": "DOHC 12-valve Dual VVT-i",
+          "notes": "Powerhouse 3-cylinder turbo in the GR Corolla with GR-FOUR all-wheel drive."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Ascent Sport",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "10-speed CVT",
+            "e-CVT (Hybrid)"
+          ],
+          "msrp_aud_min": 24990,
+          "msrp_aud_max": 33500,
+          "fuel_consumption_l_100km": 4.0,
+          "kerb_weight_kg": 1340,
+          "standard_features": [
+            "Toyota Safety Sense (AEB with pedestrian/cyclist, adaptive cruise, lane trace)",
+            "8-inch touchscreen",
+            "Apple CarPlay/Android Auto",
+            "16-inch alloy wheels"
+          ],
+          "notes": "Australia's top-selling retail compact hatchback."
+        },
+        {
+          "badge_name": "ZR",
+          "years": {
+            "start": 2018,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Hatchback",
+            "Sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "e-CVT (Hybrid)",
+            "10-speed CVT"
+          ],
+          "msrp_aud_min": 32990,
+          "msrp_aud_max": 39990,
+          "fuel_consumption_l_100km": 4.0,
+          "kerb_weight_kg": 1400,
+          "standard_features": [
+            "18-inch alloys",
+            "Heated sports bucket seats in suede/leather",
+            "JBL 8-speaker audio",
+            "Head-up display",
+            "Wireless phone charging"
+          ],
+          "notes": "Flagship luxury specification."
+        },
+        {
+          "badge_name": "GR Corolla",
+          "years": {
+            "start": 2023,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Hatchback"
+          ],
+          "drivetrain": "AWD",
+          "transmissions": [
+            "6-speed intelligent manual (iMT)"
+          ],
+          "msrp_aud_min": 62300,
+          "msrp_aud_max": 77800,
+          "fuel_consumption_l_100km": 8.4,
+          "kerb_weight_kg": 1485,
+          "standard_features": [
+            "221kW G16E-GTS engine",
+            "GR-FOUR selectable AWD (60:40, 50:50, 30:70)",
+            "Front and rear Torsen LSDs",
+            "Triple exhaust outlets",
+            "Wider track (+60mm front, +85mm rear)",
+            "Alcon/GR brakes"
+          ],
+          "notes": "Rally-bred performance icon with manual transmission only."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Ascent Sport Hybrid",
+          "body_style": "Hatchback",
+          "engine_code": "2ZR-FXE",
+          "transmission": "e-CVT (Hybrid)",
+          "drivetrain": "FWD",
+          "years_start": 2018,
+          "years_end": "Present",
+          "msrp_aud": 29800,
+          "power_kw": 103.0,
+          "torque_nm": 142.0,
+          "fuel_l_100km": 4.0,
+          "towing_braked_kg": 450,
+          "notes": "Class-leading fuel economy."
+        },
+        {
+          "badge_name": "GR Corolla",
+          "body_style": "Hatchback",
+          "engine_code": "G16E-GTS",
+          "transmission": "6-speed intelligent manual (iMT)",
+          "drivetrain": "AWD",
+          "years_start": 2023,
+          "years_end": "Present",
+          "msrp_aud": 62300,
+          "power_kw": 221.0,
+          "torque_nm": 370.0,
+          "fuel_l_100km": 8.4,
+          "towing_braked_kg": 0,
+          "notes": "GR Corolla GTS GR-FOUR."
+        }
+      ],
+      "manuals": [],
+      "pictures": [
+        {
+          "series_code": "E210",
+          "category": "exterior",
+          "caption": "2023 Toyota Corolla Hybrid (E210) at Automobil Messe Bietigheim",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2023_Toyota_Corolla_Hybrid_%28E210%29_hatchback_IMG_9884.jpg/1280px-2023_Toyota_Corolla_Hybrid_%28E210%29_hatchback_IMG_9884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 4.0 (Alexander-93)",
+          "local_path": "media/pictures/toyota/corolla/toyota_corolla_E210_1_2023_Toyota_Corolla_Hybrid_E210_hatchback_IMG_9884.jpg",
+          "file_size_bytes": 313739,
+          "sha256": "476123239a7a827cc2ff6546c03bc6b307df0c07e0e16d4d5320ac105ea6fafd"
+        }
+      ]
+    }
+  ]
+}

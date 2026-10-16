@@ -1,0 +1,98 @@
+{
+  "make_slug": "austin-morris",
+  "name": "Austin / Morris (BMC Australia)",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1948,
+    "end": "1975"
+  },
+  "currently_sold_au": false,
+  "local_manufacturer": true,
+  "overview": "The British Motor Corporation's Australian manufacturing titan at Victoria Park / Zetland Sydney, producing millions of Morris Minors, Austin Cambridges, Austin 1800s, and unique Australian six-cylinder Kimberley and Tasman models.",
+  "australian_history": "BMC Australia established one of the largest automotive manufacturing operations in the Southern Hemisphere at Victoria Park, Zetland in Sydney. The site featured complete press shops, engine machining lines, and assembly tracks. BMC built the beloved Morris Minor, Austin A40, Cambridge, and Oxford. In the late 1960s, BMC Australia adapted Alec Issigonis' front-wheel drive Austin 1800 'Landcrab' into an Australian endurance champion—winning grueling outback trials and spawning the Australian-designed Austin 1800 Utility (ute). In 1970, Australian engineers developed the BMC X6 series: the Morris Kimberley and Tasman, powered by an Australian-designed 2.2-litre transverse overhead-cam six-cylinder engine (the E6). Financial headwinds under British Leyland led to the Zetland factory closure in 1974-75.",
+  "models_catalog": [
+    {
+      "model_slug": "morris-minor",
+      "name": "Morris Minor",
+      "vehicle_type": "Sedan / Ute / Tourer",
+      "segment": "Small Car",
+      "years_sold_au": {
+        "start": 1949,
+        "end": "1963"
+      },
+      "locally_built": true,
+      "overview": "Sir Alec Issigonis' masterpiece, assembled in Sydney in huge numbers with local body pressings and beloved by generations of Australians.",
+      "generations": [
+        {
+          "series_code": "Series-MM-II-1000",
+          "generation_name": "Morris Minor",
+          "years": {
+            "start": 1949,
+            "end": 1963
+          },
+          "body_styles": [
+            "2-door sedan",
+            "4-door sedan",
+            "Tourer convertible",
+            "Coupe utility",
+            "Panel van"
+          ],
+          "summary": "918cc side-valve to 803cc, 948cc, and 1098cc A-series overhead-valve engines; rack and pinion steering."
+        }
+      ]
+    },
+    {
+      "model_slug": "austin-1800",
+      "name": "Austin 1800 (Landcrab & Ute)",
+      "vehicle_type": "Sedan / Utility",
+      "segment": "Medium / Large Family Car",
+      "years_sold_au": {
+        "start": 1965,
+        "end": "1971"
+      },
+      "locally_built": true,
+      "overview": "Vast interior space and Hydrolastic suspension, adapted with heavy-duty Australian dust sealing and transformed into the Aussie Austin 1800 ute.",
+      "generations": [
+        {
+          "series_code": "Mk-I-II",
+          "generation_name": "Austin 1800 Mk I & II",
+          "years": {
+            "start": 1965,
+            "end": 1971
+          },
+          "body_styles": [
+            "4-door sedan",
+            "Coupe utility"
+          ],
+          "summary": "1.8L B-series four-cylinder; 1965 Wheels Car of the Year; uniquely Australian-designed coupe utility built at Zetland."
+        }
+      ]
+    },
+    {
+      "model_slug": "kimberley-tasman",
+      "name": "Morris Kimberley / Tasman (BMC X6)",
+      "vehicle_type": "Sedan",
+      "segment": "Large Family Car",
+      "years_sold_au": {
+        "start": 1970,
+        "end": "1973"
+      },
+      "locally_built": true,
+      "overview": "Australian-designed and built family car featuring the world's first transverse-mounted overhead-cam six-cylinder engine (2.2L E6).",
+      "generations": [
+        {
+          "series_code": "X6",
+          "generation_name": "BMC X6 Kimberley & Tasman",
+          "years": {
+            "start": 1970,
+            "end": 1973
+          },
+          "body_styles": [
+            "4-door sedan"
+          ],
+          "summary": "Tasman (single carb, 76kW) and Kimberley (twin SU carbs, 86kW), front-wheel drive, Hydrolastic suspension."
+        }
+      ]
+    }
+  ]
+}

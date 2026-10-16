@@ -1,0 +1,302 @@
+{
+  "make_slug": "ford",
+  "model_slug": "capri",
+  "name": "Ford Capri",
+  "vehicle_type": "2-door Sports Coupe / 2-door Roadster/Convertible (2+2)",
+  "segment": "Sports Car",
+  "years_sold_au": {
+    "start": 1969,
+    "end": 1994
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Homebush, New South Wales (Mk1 coupe, 1969-1972)",
+    "Broadmeadows / Campbellfield, Victoria (SA-SE convertible, 1989-1994)"
+  ],
+  "overview": "The Ford Capri represents two bold chapters of Australian automotive innovation. In May 1969, Ford Australia began assembling the sleek Mk1 Capri sports coupe at Homebush, NSW, offering the 1600cc Kent and the potent 3.0-litre 'Essex' V6 in the revered Capri GT 3000 (101 kW / 136 bhp), instantly creating an Australian street and track favorite. In 1989, Ford Australia embarked on Project SA30: designing and manufacturing a dedicated front-wheel-drive 2+2 roadster convertible in Campbellfield, Victoria. Styled by Ghia in Turin and utilizing Mazda 323 mechanicals, the Australian-built Capri (SA, SB, SC, SE) was exported in huge numbers to North America as the Mercury Capri. It produced the blistering turbocharged Capri XR2 and the rare Australian Tickford-tuned Capri Clubsprint Turbo.",
+  "australian_market_notes": "The Australian-built SA-SE convertible was a landmark manufacturing achievement for Ford Australia, generating vital export income ($1 billion+) with over 66,000 built. The limited-production Capri Clubsprint by Tickford Vehicle Engineering (TVE) featured aggressive front air dams, high-flow turbocharger boosting to 105 kW, Momo steering wheel, and bespoke Australian-tuned sports suspension.",
+  "manuals": [
+    {
+      "title": "Ford Ford Capri Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1969,
+      "language": "en",
+      "source_url": "local://catalog/makes/ford/models/capri/model.json",
+      "local_path": "media/manuals/ford/capri/ford_capri_au_technical_manual.pdf",
+      "file_size_bytes": 4766,
+      "sha256": "1a263dbff40033301d9179152dd4d38a0d9191874f46747f47f500581a47a88c",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    },
+    {
+      "title": "Ford Classic, Capri 1961-64 autobook ; workshop manual for Ford Classic 1961-63, Ford Capri 1961-64, Ford Capri GT 1963-64",
+      "year": 1971,
+      "source_url": "https://archive.org/details/fordclassiccapri0000unse",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/capri/ford_capri_manual_Ford_Classic_Capri_1961-64_autobook_workshop_manual_for_Ford_Classic_1961-63_Ford_Capri_1961-64_Ford_C.html",
+      "file_size_bytes": 218632,
+      "sha256": "f3bbb98edd33402535e9687fb871e700c20176523c2f3170c5a3e56ea2e302ee"
+    },
+    {
+      "title": "1969 Ford Capri - Fastback Revolution Mailer. UK. Fold-out.",
+      "year": null,
+      "source_url": "https://archive.org/details/1969-ford-capri-fastback-revolution-mailer.-uk.-fold-out",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/capri/ford_capri_manual_1969_Ford_Capri_-_Fastback_Revolution_Mailer._UK._Fold-out..html",
+      "file_size_bytes": 229970,
+      "sha256": "e1522767a676de27e5399a69e7e39270c3898dfca71f03d47487eee203d0541f"
+    },
+    {
+      "title": "1991 Ford Capri Brochure. Australia, September 1990. + Standard Equipment, Specifications.",
+      "year": null,
+      "source_url": "https://archive.org/details/1991-ford-capri-brochure.-australia-september-1990",
+      "manual_type": "archive_manual",
+      "local_path": "media/manuals/ford/capri/ford_capri_manual_1991_Ford_Capri_Brochure._Australia_September_1990._Standard_Equipment_Specifications..html",
+      "file_size_bytes": 236248,
+      "sha256": "96e109b74353a86523bdc2cb983f81b7a5025ab3c482b473caa577db86f18348"
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "1990 Ford Capri (SA) convertible\n\n\n\nVehicle registration enquiry results\n\nJurisdiction\nVictoria\n\nRegistration\nORV359\n\nChassis code\n6FPAAAUL01LY81640\n\nEngine code\nUL01LY81640\n\nCompliance date\n1990-02\n\nYear of manufacture\n1990",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/1990_Ford_Capri_%28SA%29_convertible_%2816252822500%29.jpg/1280px-1990_Ford_Capri_%28SA%29_convertible_%2816252822500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY 2.0 (Sicnag)",
+      "local_path": "media/pictures/ford/capri/ford_capri_hero_1_1990_Ford_Capri_SA_convertible_16252822500_.jpg",
+      "file_size_bytes": 248188,
+      "sha256": "ddcf3064f91b5079a46c239859483630dfb2edb365040dd300c03d4e2eedf1e8"
+    },
+    {
+      "category": "exterior",
+      "caption": "A 1993 Ford Capri, seen at UWA Car Park 3 in Crawley.",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/1993_Ford_Capri_1DEW167_%40_UWA_Car_Park_3%2CCrawley.jpg/1280px-1993_Ford_Capri_1DEW167_%40_UWA_Car_Park_3%2CCrawley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 4.0 (ZidaneHartono)",
+      "local_path": "media/pictures/ford/capri/ford_capri_hero_2_1993_Ford_Capri_1DEW167_UWA_Car_Park_3_Crawley.jpg",
+      "file_size_bytes": 257631,
+      "sha256": "59e882ebad2d6f026699df58e4249156e73c0217daf8203f8dce0699a442a304"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Mk1",
+      "generation_name": "Mk1 Capri Coupe",
+      "years": {
+        "start": 1969,
+        "end": 1972
+      },
+      "body_styles": [
+        "2-door fastback coupe"
+      ],
+      "platform": "Ford Capri unibody",
+      "ancap_rating": null,
+      "summary": "Assembled at Homebush, NSW. Fastback muscle styling, 1600 GT four-cylinder and the thunderous 3.0L Essex V6 GT 3000.",
+      "engines": [
+        {
+          "engine_code": "Essex-3.0-V6",
+          "name": "Ford Essex 3.0L OHV V6",
+          "displacement_cc": 2994,
+          "displacement_litres": 3.0,
+          "cylinders": 6,
+          "configuration": "V",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 101.0,
+          "power_rpm": "5000",
+          "torque_nm": 247.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "8.9:1",
+          "valvetrain": "OHV 12V",
+          "notes": "Twin-choke Weber 38-DGAS carburettor, cast iron 60-degree V6; 136 bhp."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "GT 3000 (V6)",
+          "years": {
+            "start": 1970,
+            "end": 1972
+          },
+          "body_styles": [
+            "Coupe"
+          ],
+          "drivetrain": "RWD",
+          "transmissions": [
+            "4-speed manual floor",
+            "3-speed Borg-Warner automatic"
+          ],
+          "msrp_aud_min": 3290,
+          "msrp_aud_max": 3650,
+          "fuel_consumption_l_100km": 12.2,
+          "kerb_weight_kg": 1060,
+          "standard_features": [
+            "3.0L Essex V6 engine",
+            "Matte black bonnet with dual pins",
+            "Rostyle sports steel wheels",
+            "Twin sports exhausts",
+            "Full sports instrumentation with tachometer and oil pressure"
+          ],
+          "notes": "Classic Australian V6 muscle coupe."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "GT 3000 (V6)",
+          "body_style": "Coupe",
+          "engine_code": "Essex-3.0-V6",
+          "transmission": "4-speed manual floor",
+          "drivetrain": "RWD",
+          "msrp_aud": 3290,
+          "power_kw": 101.0,
+          "torque_nm": 247.0,
+          "fuel_l_100km": 12.2,
+          "towing_braked_kg": 900,
+          "notes": "101 kW V6 4-speed manual fastback."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Mk1",
+          "category": "exterior",
+          "caption": "Ford Capri (Mk1)",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ford_Capri_%28Mk1%29_-_geograph.org.uk_-_7920738.jpg/1280px-Ford_Capri_%28Mk1%29_-_geograph.org.uk_-_7920738.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 2.0 (Anthony Parkes)",
+          "local_path": "media/pictures/ford/capri/ford_capri_Mk1_1_Ford_Capri_Mk1_-_geograph.org.uk_-_7920738.jpg",
+          "file_size_bytes": 430285,
+          "sha256": "9c514a72775fc9360ee85c570dc29dc29c36b70eaab0c1855204572aff23905e"
+        }
+      ]
+    },
+    {
+      "series_code": "SA-SE-Convertible",
+      "generation_name": "SA / SB / SC / SE Capri Convertible",
+      "years": {
+        "start": 1989,
+        "end": 1994
+      },
+      "body_styles": [
+        "2-door convertible (2+2)"
+      ],
+      "platform": "Ford SA30 platform (Mazda 323 derivative)",
+      "ancap_rating": null,
+      "summary": "Australian-designed and manufactured front-wheel-drive 2+2 convertible in Campbellfield, Victoria. Exported globally. Searing 1.6L Turbo XR2 and TVE Clubsprint.",
+      "engines": [
+        {
+          "engine_code": "Mazda-B6-1.6L",
+          "name": "Ford / Mazda B6 1.6L DOHC 16V Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol",
+          "power_kw": 77.0,
+          "power_rpm": "6000",
+          "torque_nm": 137.0,
+          "torque_rpm": "3500",
+          "compression_ratio": "9.5:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "Multi-point electronic fuel injection."
+        },
+        {
+          "engine_code": "Mazda-B6T-1.6L-Turbo",
+          "name": "Ford / Mazda B6T 1.6L DOHC 16V Turbo Inline-4",
+          "displacement_cc": 1598,
+          "displacement_litres": 1.6,
+          "cylinders": 4,
+          "configuration": "Inline",
+          "aspiration": "Turbocharged",
+          "fuel_type": "Petrol",
+          "power_kw": 100.0,
+          "power_rpm": "5500",
+          "torque_nm": 184.0,
+          "torque_rpm": "3000",
+          "compression_ratio": "7.9:1",
+          "valvetrain": "DOHC 16V",
+          "notes": "IHI RHB5 water-cooled turbocharger with air-to-air intercooler. Upgraded to 105 kW in Clubsprint."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "XR2 Turbo",
+          "years": {
+            "start": 1989,
+            "end": 1994
+          },
+          "body_styles": [
+            "Convertible"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 25990,
+          "msrp_aud_max": 29990,
+          "fuel_consumption_l_100km": 7.9,
+          "kerb_weight_kg": 1055,
+          "standard_features": [
+            "100 kW 1.6L Turbo engine",
+            "14-inch sports alloy wheels",
+            "Rear boot lid spoiler",
+            "Power windows and mirrors",
+            "Folding manual canvas soft-top with optional hardtop"
+          ],
+          "notes": "Australian-manufactured turbo convertible."
+        },
+        {
+          "badge_name": "Clubsprint Turbo",
+          "years": {
+            "start": 1992,
+            "end": 1994
+          },
+          "body_styles": [
+            "Convertible"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "5-speed manual"
+          ],
+          "msrp_aud_min": 34990,
+          "msrp_aud_max": 37990,
+          "fuel_consumption_l_100km": 8.2,
+          "kerb_weight_kg": 1080,
+          "standard_features": [
+            "Tickford Vehicle Engineering (TVE) performance package",
+            "105 kW upgraded turbo calibration",
+            "Quad round headlamp nose cone and unique round tail lights",
+            "16-inch TVE alloy wheels and Michelin tyres",
+            "Momo leather steering wheel and gear knob"
+          ],
+          "notes": "Rare collector model; built by Tickford in Campbellfield."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "XR2 Turbo",
+          "body_style": "Convertible",
+          "engine_code": "Mazda-B6T-1.6L-Turbo",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 25990,
+          "power_kw": 100.0,
+          "torque_nm": 184.0,
+          "fuel_l_100km": 7.9,
+          "towing_braked_kg": 750,
+          "notes": "Australian-built 1.6L Turbo convertible."
+        },
+        {
+          "badge_name": "Clubsprint Turbo",
+          "body_style": "Convertible",
+          "engine_code": "Mazda-B6T-1.6L-Turbo",
+          "transmission": "5-speed manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 34990,
+          "power_kw": 105.0,
+          "torque_nm": 190.0,
+          "fuel_l_100km": 8.2,
+          "towing_braked_kg": 750,
+          "notes": "Tickford-tuned Australian convertible."
+        }
+      ],
+      "pictures": []
+    }
+  ]
+}

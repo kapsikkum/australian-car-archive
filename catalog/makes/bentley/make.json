@@ -1,0 +1,55 @@
+{
+  "make_slug": "bentley",
+  "name": "Bentley",
+  "country_of_origin": "United Kingdom",
+  "years_active_au": {
+    "start": 1948,
+    "end": "Present"
+  },
+  "currently_sold_au": true,
+  "local_manufacturer": false,
+  "overview": "Crewe's master of peerless grand touring luxury and effortless torque, celebrated in Australia for W12 and V8 Continental GTs and Bentayga luxury SUVs.",
+  "australian_history": "Historically sold alongside Rolls-Royce in Australia through distributors such as York Motors in Sydney and Kellow-Falkiner in Melbourne, Bentley forged its own modern destiny following Volkswagen Group's acquisition in 1998. The arrival of the 2003 Continental GT—with its twin-turbo 6.0L W12, all-wheel drive, and 300+ km/h capability—revolutionised the Australian ultra-luxury market. Today, Bentley showrooms in capital cities cater to an elite clientele seeking bespoke Mulliner finishes, Flying Spur sedans, and Bentayga SUVs.",
+  "models_catalog": [
+    {
+      "model_slug": "continental-gt",
+      "name": "Continental GT",
+      "vehicle_type": "Coupe / Convertible",
+      "segment": "Ultra-Luxury Grand Tourer",
+      "years_sold_au": {
+        "start": 2004,
+        "end": "Present"
+      },
+      "locally_built": false,
+      "overview": "The definitive modern Bentley, combining hand-stitched leather, knurled metal, and thunderous twin-turbo W12 and V8 engines.",
+      "generations": [
+        {
+          "series_code": "Gen-1",
+          "generation_name": "Continental GT First Gen",
+          "years": {
+            "start": 2004,
+            "end": 2011
+          },
+          "body_styles": [
+            "Coupe",
+            "GTC convertible"
+          ],
+          "summary": "Twin-turbo 6.0L W12 (412kW/449kW Speed), permanent Torsen all-wheel drive, and air suspension."
+        },
+        {
+          "series_code": "Gen-2-3-4",
+          "generation_name": "Continental GT 2nd, 3rd & 4th Gen",
+          "years": {
+            "start": 2011,
+            "end": "Present"
+          },
+          "body_styles": [
+            "Coupe",
+            "GTC convertible"
+          ],
+          "summary": "4.0L twin-turbo V8, 485kW W12 Speed, 48V active roll control, and 575kW Ultra Performance V8 Hybrid."
+        }
+      ]
+    }
+  ]
+}

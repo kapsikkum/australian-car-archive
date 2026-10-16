@@ -1,0 +1,139 @@
+{
+  "make_slug": "lightburn",
+  "model_slug": "zeta-sedan",
+  "name": "Lightburn Zeta Sedan",
+  "vehicle_type": "Microcar",
+  "segment": "Micro / City Car",
+  "years_sold_au": {
+    "start": 1963,
+    "end": 1965
+  },
+  "locally_built": true,
+  "assembly_plants_au": [
+    "Camden Park, South Australia"
+  ],
+  "overview": "The Lightburn Zeta was South Australia's unique fiberglass microcar, manufactured by industrial equipment firm Lightburn & Co. in Camden Park, Adelaide. Powered by a British Villiers 324cc two-stroke twin-cylinder motorcycle engine driving the front wheels through a 4-speed sequential dog transaxle without reverse (the engine was stopped and restarted in reverse rotation), the Zeta was impervious to corrosion and designed to provide economical suburban motoring.",
+  "australian_market_notes": "Conceived by Harold Lightburn to compete with second-hand family sedans and the BMC Mini, the Zeta featured a one-piece reinforced fiberglass body. Remarkably, it had no external boot lid—cargo was loaded over the back seat. Around 363 sedans and utilities and 28 Zeta Sports roadsters were manufactured before high interior noise and fierce competition ended production in 1966.",
+  "manuals": [
+    {
+      "title": "Lightburn Lightburn Zeta Sedan Australian Technical Specification & Service Dossier (PDF)",
+      "manual_type": "technical_specification_manual",
+      "year": 1963,
+      "language": "en",
+      "source_url": "local://catalog/makes/lightburn/models/zeta-sedan/model.json",
+      "local_path": "media/manuals/lightburn/zeta-sedan/lightburn_zeta-sedan_au_technical_manual.pdf",
+      "file_size_bytes": 3083,
+      "sha256": "642ce5532f2ebdabf5ac334e790c9b678884fa263f2aa0d88cb830b33c72bebf",
+      "notes": "Compiled Australian market specifications, engine codes, badges, drivetrains, and series reference."
+    }
+  ],
+  "pictures": [
+    {
+      "category": "hero",
+      "caption": "A green 1964 Zeta Sports model and a Zeta Sedan in the foreground. A more conventional sized vehicle in the background. At the National Motor Museum, Birdwood, South Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Lightburn_Zeta_and_Sports_2.JPG/1280px-Lightburn_Zeta_and_Sports_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 3.0 (Peripitus)",
+      "local_path": "media/pictures/lightburn/zeta-sedan/lightburn_zeta-sedan_hero_1_Lightburn_Zeta_and_Sports_2.JPG",
+      "file_size_bytes": 224176,
+      "sha256": "355416bebc863369be4e31674021333c50cee5a6781ab9ac2954b349ab4e37a0"
+    },
+    {
+      "category": "exterior",
+      "caption": "A 1964 Zeta Sports with the Zeta Sedan in the background. A more conventional sized vehicle to the right. At the National Motor Museum, Birdwood, South Australia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lightburn_Zeta_and_sports.JPG/1280px-Lightburn_Zeta_and_sports.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license_or_credit": "CC BY-SA 3.0 (Peripitus)",
+      "local_path": "media/pictures/lightburn/zeta-sedan/lightburn_zeta-sedan_hero_2_Lightburn_Zeta_and_sports.JPG",
+      "file_size_bytes": 150730,
+      "sha256": "7b685d8bab0a6634ff10e12eecdba91b1c903cfe254fcb7f44cf5834a5429a33"
+    }
+  ],
+  "generations": [
+    {
+      "series_code": "Zeta-Sedan",
+      "generation_name": "Zeta Sedan",
+      "years": {
+        "start": 1963,
+        "end": 1965
+      },
+      "body_styles": [
+        "2-door micro sedan"
+      ],
+      "platform": "Lightburn steel chassis with fiberglass body",
+      "ancap_rating": null,
+      "summary": "Villiers 324cc 2-stroke twin, front-wheel drive, independent rubber suspension, reversible ignition key for reversing.",
+      "engines": [
+        {
+          "engine_code": "Villiers-324-2T",
+          "name": "Villiers 324cc Air-Cooled 2-Stroke Twin",
+          "displacement_cc": 324,
+          "displacement_litres": 0.32,
+          "cylinders": 2,
+          "configuration": "Inline",
+          "aspiration": "Naturally Aspirated",
+          "fuel_type": "Petrol / 2-Stroke Oil Premix",
+          "power_kw": 12.3,
+          "power_rpm": "4750",
+          "torque_nm": 28.0,
+          "torque_rpm": "2500",
+          "compression_ratio": "7.5:1",
+          "valvetrain": "Piston Port 2-Stroke",
+          "notes": "British Villiers 4T twin-cylinder; reversible Siba Dynastart system."
+        }
+      ],
+      "badges": [
+        {
+          "badge_name": "Sedan",
+          "years": {
+            "start": 1963,
+            "end": 1965
+          },
+          "body_styles": [
+            "2-door sedan"
+          ],
+          "drivetrain": "FWD",
+          "transmissions": [
+            "4-speed sequential dog clutch manual"
+          ],
+          "msrp_aud_min": 1196,
+          "msrp_aud_max": 1290,
+          "fuel_consumption_l_100km": 5.6,
+          "kerb_weight_kg": 400,
+          "standard_features": [
+            "Rust-free fiberglass body",
+            "Fold-down rear bench",
+            "Push-pull gear lever",
+            "Reversible Dynastart ignition"
+          ],
+          "notes": "Eccentric Australian microcar."
+        }
+      ],
+      "configurations": [
+        {
+          "badge_name": "Sedan",
+          "body_style": "2-door sedan",
+          "engine_code": "Villiers-324-2T",
+          "transmission": "4-speed sequential dog clutch manual",
+          "drivetrain": "FWD",
+          "msrp_aud": 1196,
+          "power_kw": 12.3,
+          "torque_nm": 28.0,
+          "fuel_l_100km": 5.6,
+          "towing_braked_kg": 0,
+          "notes": "Top speed 95 km/h; 50 mpg economy."
+        }
+      ],
+      "pictures": [
+        {
+          "series_code": "Zeta-Sedan",
+          "category": "exterior",
+          "caption": "A 1964 Zeta Sports with the Zeta Sedan in the background. A more conventional sized vehicle to the right. At the National Motor Museum, Birdwood, South Australia",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lightburn_Zeta_and_sports.JPG/1280px-Lightburn_Zeta_and_sports.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "license_or_credit": "CC BY-SA 3.0 (Peripitus)",
+          "local_path": "media/pictures/lightburn/zeta-sedan/lightburn_zeta-sedan_Zeta-Sedan_1_Lightburn_Zeta_and_sports.JPG",
+          "file_size_bytes": 150730,
+          "sha256": "7b685d8bab0a6634ff10e12eecdba91b1c903cfe254fcb7f44cf5834a5429a33"
+        }
+      ]
+    }
+  ]
+}
